@@ -1,0 +1,10 @@
+### One Step Checkout page Overview
+If you set enabling **Redirect to checkout automatically after adding product to cart** (see more in *session 3.1*), whenever Customers choose product and click Add to cart, it will be automatically navigated to Checkout page.
+
+![enabling function Redirect to checkout automatically after adding product to cart](https://github.com/Magestore/docs/blob/master/OSC2/Image/How-to-use/osc2-use-1.png?raw=true)
+
+Otherwise, Customers have to select the cart icon in the top-right corner and click on **Go to Checkout**. Then, it will redirect to the Checkout page. Here they can see the difference between the Step-by-Step default Checkout page of Magento and One Step Checkout page.
+
+![OSC2 page showing 5 check-out steps simultaneously](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-2.png)
+
+The Step-by-Step checkout page is a page with 5 separate steps including **Billing Address, Shipping Address, Shipping Method, Payment Method** and **Order Review**. Customers have to complete each step before going to the next one. On the One Step Checkout page, all steps appear simultaneously. **Customers can fill in/edit information of any steps any time.** This improvement can save Customers 2-3 minutes for checkout.
