@@ -1,0 +1,21 @@
+## Billing Address, Shipping Address
+If Customers have already logged in, they can skip the **Shipping Address** section as their information is automatically added. If Customers want to change shipping address, select **New Address** and change the information.
+
+![Customers can change or fill in new shipping address on OSC page](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-7.png)
+
+In case of not logging in, they will see fields to fill in: First name, Last name, Address...as you configured in backend.
+After providing a shipping address, if Customers want to create bill to another address, they can unselect the box **My billing and shipping address are the same** then fill information in the **Billing Address** section.
+
+![Customers can create bill to another address from shipping address](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-8.png)
+
+In both **Billing Address** and **Shipping Address** sections, when Customers type some first characters of their address, the system will show matching results suggested by Google.
+
+![Automatic Google's fill-in suggestion as Customers type their address](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-9.png)
+
+Customers just need to select a correct option and then, other fields such as **City, Country, Zip Code, State/Province** will be automatically filled out.
+
+![Other fields are automatically filled in when a Google's address suggestion is selected](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-10.png)
+
+When there is any change in **Shipping Address** and **Billing Address** sections, **Shipping Method, Payment Method** and **Order Review** will be updated right away without reloading the page. Why is this feature useful? Let us give an example. A Customer may consider between 2 shipping addresses. He can see right on the checkout page that for 1 address, shipping fee is cheaper and payment method can be Cash On Delivery, but with the other address, just money transfer and advanced payment are accepted.
+
+![Order Review is updated correspondingly](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-11.png)
