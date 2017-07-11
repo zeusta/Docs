@@ -1,0 +1,18 @@
+### Style Management
+This feature allows you to customize style for the Checkout page of each store view.
+You can change color of headings and the **Place Order Now** button to fit your store’s theme. There are 8 colors for you to select, including orange, green, black, blue, dark blue, pink, red and violet. If none of the default colors match your desire, you can select the Custom option and then customize your preferred one using the color picker table. With each store, you can select the color you want or use the default color.
+After selecting a color, you will see a preview of your checkout page with the color chosen.
+
+![store owners can choose and preview checkout page color style for each store view](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/16-config.png)
+
+![store owners can select among 8 default colors or customize with color picker](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/17-config.png)
+
+Similarly, you can choose a default color for the **Place Order Now** button or customize it.
+
+![store owners can change color of Place Order Now button](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/18-config.png)
+
+When you complete all settings, remember to click **Save Config**. Your checkout page in front-end will be displayed as your configurations:
+
+![changes are applied on frontend after store owners click Save Config button](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/19-config.png)
+
+Wow, when you come to this point, you have almost grasped all the main benefits of our One Step Checkout extension. Sometimes, just viewing is not enough to really understand and enjoy something. It could be greater if you have an ownership of it and make it work as you wish. So, why don’t you take action right away to feel its amazing effects on your sales?
