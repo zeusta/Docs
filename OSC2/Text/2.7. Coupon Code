@@ -6,6 +6,6 @@ With the default checkout of Magento, Customers only can apply coupon codes on t
 
 After Customers apply coupon code, the **Estimated Total** will be updated as below:
 
-![Estimated Total is updated accordingly when coupon code is used](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-16.png)
+![Estimated Total is updated accordingly on page when coupon code is used](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-16.png)
 
 If Customers do not want to use that coupon code anymore, they can click on the **Cancel** button.
