@@ -1,0 +1,5 @@
+### Gift Wrap Configuration
+![store owners can set gift wrap fee per order or per item](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/13-config.png)
+
+If you enable Gift Wrap, there will be a checkbox for Customers to tick if they want to wrap the products in cart.
+You can choose the gift wrap type to be *per item* or *per order*. Also, you can set the gift wrap fee for each item or order here. Once Customers choose your gift wrap service, the total gift wrap fee will be added to the Grand Total.
