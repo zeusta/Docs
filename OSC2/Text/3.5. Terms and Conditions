@@ -1,0 +1,9 @@
+### Terms and Conditions
+![store owners can config Terms and Conditions details](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/9-config.png)
+
+* **Show Terms and Conditions**: Choose whether to show the **Terms and Conditions** popup on the One Step Checkout page or not.
+* **Terms and Conditions Title**: Set a title for the **Terms and Conditions** popup.
+* **Terms and Conditions Content (HTML)**: Enter your **Terms and Conditions** by using HTML code.
+* **Enable custom size**: Choose whether to customize size of the **Terms and Conditions** popup or not.
+* **Width**: Set the width of the popup
+* **Height**: Set the height of the popup
