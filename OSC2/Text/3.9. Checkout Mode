@@ -1,0 +1,14 @@
+### Checkout Mode
+
+| No |Field         | If you choose...  | Result will be |
+| --|:-------------:| -----------------:| --------------:|
+| 1 | Show Login Link | Yes | The Login link is shown on the checkout page.  |
+| 2 | Enable Registration | Yes |Customers who don’t have an account can create account before placing order.|
+| 3 | Allow Guest Checkout   |  No | Customers cannot check out as guest. They need to register an account to place order. |
+| 4 | Login Message | - | The text displayed as the Login link is “*Click here to log in or create a new account*”.  |
+
+* Login Link in frontend:
+![store owners can choose to display Login and Create Account link on checkout page](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/14-config.png)
+
+* Registration in frontend:
+![allow customers to create an account on checkout page](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/15-config.png)
