@@ -1,0 +1,11 @@
+### Coupon Code
+
+With the default checkout of Magento, Customers only can apply coupon codes on the **Shopping Cart** page. With One Step Checkout extension of Magestore, you can let Customers enter their coupon code right below **Order Review** on the checkout page.
+
+![customers can enter coupon code on checkout page](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-15.png)
+
+After Customers apply coupon code, the **Estimated Total** will be updated as below:
+
+![Estimated Total is updated accordingly when coupon code is used](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-16.png)
+
+If Customers do not want to use that coupon code anymore, they can click on the **Cancel** button.
