@@ -1,0 +1,4 @@
+### Order Review
+The **Order Review** section shows all items ordering as well as product images. If Customers change their decision, they can edit quantity or remove products without going back to the Shopping Cart page. Any changes will be updated right at checkout.
+
+![customers can edit or remove product quantity on Order Review section](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-14.png)
