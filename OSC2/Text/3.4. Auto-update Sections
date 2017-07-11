@@ -1,0 +1,20 @@
+### Auto-update Sections
+In this tab, you can configure which sections will be automatically updated whenever Customers change their information.
+***Note:** The Checkout page is loaded fast or slowly depending on these configurations. To maximize your website’s loading speed, you should enable only triggering fields and updated sections that are necessary and disable the unneeded ones.
+
+| No        |Field            | If you choose...  | Result will be |
+| ------------- |:-------------:| -----:| ---:|
+| ***Sections updated when changing in Address***
+| 1     | Auto update Sections following changes in Address | Yes | Auto-update sections **Shipping Method, Payment Method** and/ or **Order Review** when Customers change information in **Billing/Shipping Address**.  |
+| 2     | Address fields triggered updating Sections |  Country, Postcode, State/region, City |Auto-update chosen sections when Customers change information in the *Country, Postcode, State/region, City* fields.  |
+| 3 | Reload Sections   |  When all required fields are field | Reload chosen sections when Customers change information in all required fields above. |
+| 4     | Update Shipping Method | Yes | Auto-update the **Shipping Method** section when Customers change information in triggering fields.  |
+| 5     | Update Payment Method |  Yes | Auto-update the **Payment Method** section when Customers change information in triggering fields.  |
+| 6 | Update Order Review   |  Yes | Auto-update the **Order Review** section when Customers change information in triggering fields. |
+|***Sections updated when changing in Shipping Method***
+| 7     | Update Payment Method | Yes | Auto-update the **Payment Method** section when Customers change information in **Shipping Method**.  |
+| 8     | Update Order Review |  Yes |Auto-update the **Order Review** section when Customers change information in **Shipping Method**.  |
+| ***Sections update when changing in Payment Method***
+| 9     | Update Order Review | Yes | Auto-update the **Order Review** section when Customers change information in **Payment Method**.  |
+
+![store owners can choose sections to be automatically updated when customers change information](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/8-config.png)
