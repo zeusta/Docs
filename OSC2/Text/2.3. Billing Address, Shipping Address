@@ -18,4 +18,4 @@ Customers just need to select a correct option and then, other fields such as **
 
 When there is any change in **Shipping Address** and **Billing Address** sections, **Shipping Method, Payment Method** and **Order Review** will be updated right away without reloading the page. Why is this feature useful? Let us give an example. A Customer may consider between 2 shipping addresses. He can see right on the checkout page that for 1 address, shipping fee is cheaper and payment method can be Cash On Delivery, but with the other address, just money transfer and advanced payment are accepted.
 
-![Order Review is updated correspondingly](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-11.png)
+![Customers can preview changes without reloading Order page](https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-use/osc2-use-11.png)
