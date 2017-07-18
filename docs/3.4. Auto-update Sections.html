@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Auto-update Sections</title>
+    <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.css"/>
+    <link type="text/css" rel="stylesheet" href="assets/css/bootstrap-responsive.css"/>
+    <link type="text/css" rel="stylesheet" href="assets/css/pilcrow.css"/>
+    <link type="text/css" rel="stylesheet" href="assets/css/hljs-github.min.css"/>
+    <link type="text/css" rel="stylesheet" href="assets/css/style.css"/>
+    <style>
+    body {
+      background: url('assets/img/textured_paper.png') repeat top left;
+      background-color: #f6f6f6;
+    }
+    </style>
+  </head>
+<body>
+
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span3"><ul class="nav nav-list">
+    <li class="sidebar-header-3"><a href="#auto-update-sections">Auto-update Sections</a></li>
+</ul>
+      </div>
+      <div class="span9 main"><h3 id="auto-update-sections"><a class="header-link" href="#auto-update-sections"></a>Auto-update Sections</h3>
+<p>In this tab, you can configure which sections will be automatically updated whenever Customers change their information.
+<strong>*Note:</strong> The Checkout page is loaded fast or slowly depending on these configurations. To maximize your website’s loading speed, you should enable only triggering fields and updated sections that are necessary and disable the unneeded ones.</p>
+<table>
+<thead>
+<tr>
+<th>No</th>
+<th style="text-align:center">Field</th>
+<th style="text-align:right">If you choose...</th>
+<th style="text-align:right">Result will be</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><em>Sections updated when changing in Address</em></strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td style="text-align:center">Auto update Sections following changes in Address</td>
+<td style="text-align:right">Yes</td>
+<td style="text-align:right">Auto-update sections <strong>Shipping Method, Payment Method</strong> and/ or <strong>Order Review</strong> when Customers change information in <strong>Billing/Shipping Address</strong>.</td>
+</tr>
+<tr>
+<td>2</td>
+<td style="text-align:center">Address fields triggered updating Sections</td>
+<td style="text-align:right">Country, Postcode, State/region, City</td>
+<td style="text-align:right">Auto-update chosen sections when Customers change information in the <em>Country, Postcode, State/region, City</em> fields.</td>
+</tr>
+<tr>
+<td>3</td>
+<td style="text-align:center">Reload Sections</td>
+<td style="text-align:right">When all required fields are field</td>
+<td style="text-align:right">Reload chosen sections when Customers change information in all required fields above.</td>
+</tr>
+<tr>
+<td>4</td>
+<td style="text-align:center">Update Shipping Method</td>
+<td style="text-align:right">Yes</td>
+<td style="text-align:right">Auto-update the <strong>Shipping Method</strong> section when Customers change information in triggering fields.</td>
+</tr>
+<tr>
+<td>5</td>
+<td style="text-align:center">Update Payment Method</td>
+<td style="text-align:right">Yes</td>
+<td style="text-align:right">Auto-update the <strong>Payment Method</strong> section when Customers change information in triggering fields.</td>
+</tr>
+<tr>
+<td>6</td>
+<td style="text-align:center">Update Order Review</td>
+<td style="text-align:right">Yes</td>
+<td style="text-align:right">Auto-update the <strong>Order Review</strong> section when Customers change information in triggering fields.</td>
+</tr>
+<tr>
+<td><strong><em>Sections updated when changing in Shipping Method</em></strong></td>
+</tr>
+<tr>
+<td>7</td>
+<td style="text-align:center">Update Payment Method</td>
+<td style="text-align:right">Yes</td>
+<td style="text-align:right">Auto-update the <strong>Payment Method</strong> section when Customers change information in <strong>Shipping Method</strong>.</td>
+</tr>
+<tr>
+<td>8</td>
+<td style="text-align:center">Update Order Review</td>
+<td style="text-align:right">Yes</td>
+<td style="text-align:right">Auto-update the <strong>Order Review</strong> section when Customers change information in <strong>Shipping Method</strong>.</td>
+</tr>
+<tr>
+<td><strong><em>Sections update when changing in Payment Method</em></strong></td>
+</tr>
+<tr>
+<td>9</td>
+<td style="text-align:center">Update Order Review</td>
+<td style="text-align:right">Yes</td>
+<td style="text-align:right">Auto-update the <strong>Order Review</strong> section when Customers change information in <strong>Payment Method</strong>.</td>
+</tr>
+</tbody>
+</table>
+<p class="img-container"><img src="https://raw.githubusercontent.com/Magestore/docs/master/OSC2/Image/How-to-config/8-config.png" alt="store owners can choose sections to be automatically updated when customers change information"></p>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+</body>
+</html>
