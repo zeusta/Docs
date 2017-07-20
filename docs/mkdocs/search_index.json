@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to Magestore Documents!\n\n\nTEST 1",
+            "text": "Welcome to Magestore Documents!",
             "title": "Home"
         },
         {
             "location": "/#welcome-to-magestore-documents",
-            "text": "TEST 1",
+            "text": "",
             "title": "Welcome to Magestore Documents!"
         },
         {
