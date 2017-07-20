@@ -14,4 +14,4 @@
  ![Sample Image 1](../images/2.jpg)
  ```
  
-![Sample Image 1](../inventory/images/2.jpg)
+![Sample Image 1](extensions/Onestep Checkout Magento 2/Image/How-to-use/osc2-use-1.png)
