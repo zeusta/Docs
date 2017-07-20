@@ -3,4 +3,4 @@
 
 Welcome to Magestore Documents!
 ===================
- TEST 4
+ TEST 5
