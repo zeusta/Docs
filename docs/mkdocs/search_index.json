@@ -2,18 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Hello\n\n\nWelcome to Magestore Docs Page",
+            "text": "Welcome to Magestore Documents!",
             "title": "Home"
         },
         {
-            "location": "/#hello",
+            "location": "/#welcome-to-magestore-documents",
             "text": "",
-            "title": "Hello"
-        },
-        {
-            "location": "/#welcome-to-magestore-docs-page",
-            "text": "",
-            "title": "Welcome to Magestore Docs Page"
+            "title": "Welcome to Magestore Documents!"
         },
         {
             "location": "/Onestep Checkout Magento 2/0. Cover page/",
