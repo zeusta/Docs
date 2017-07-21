@@ -3,4 +3,4 @@
 
 Welcome to Magestore Documents!
 ===================
- TEST 25
+ TEST 26
