@@ -8,15 +8,14 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs {
   display: block;
   overflow-x: auto;
-  padding: 0.5em;
-  color: #000;
+  color: #333;
   -webkit-text-size-adjust: none;
 }
 
 .hljs-comment,
 .diff .hljs-header,
 .hljs-javadoc {
-  color: #006400;
+  color: #998;
   font-style: italic;
 }
 
@@ -27,14 +26,14 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-subst,
 .hljs-request,
 .hljs-status {
-  color: #00008b;
+  color: #333;
   font-weight: bold;
 }
 
 .hljs-number,
 .hljs-hexcolor,
 .ruby .hljs-constant {
-  color: #800080;
+  color: #008080;
 }
 
 .hljs-string,
@@ -42,7 +41,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-phpdoc,
 .hljs-dartdoc,
 .tex .hljs-formula {
-  color: #8b0000;
+  color: #d14;
 }
 
 .hljs-title,
@@ -77,7 +76,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-variable,
 .lisp .hljs-body,
 .hljs-name {
-  color: #ff4500;
+  color: #008080;
 }
 
 .hljs-regexp {
@@ -95,7 +94,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 }
 
 .hljs-built_in {
-  color: #0000ff;
+  color: #0086b3;
 }
 
 .hljs-preprocessor,
