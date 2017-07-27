@@ -40,6 +40,21 @@ $(document).ready(function(){
         });
     });
 
+    //show hide sidebar
+    $('#sideNav > ul.bs-sidenav:before').toggle(function(){
+        //$(this).hide();
+        $('#sideNav > ul.bs-sidenav').addClass('active');
+    }, function(){
+        //$(this).hide();
+        $('#sideNav > ul.bs-sidenav').remove('active');
+    });
+
+    //calculate height of sidebar to fit with window height
+    var sidenav = $('#sideNav .bs-sidenav');
+    if (sidenav.height() + sidenav.position().top > $(window).height()) {
+        sidenav.css({'height': ($(window).height() - sidenav.position().top) + 'px', 'overflow-y': 'scroll'});
+    }
+
     //back to Top
     if ($('#back-to-top').length) {
         var scrollTrigger = 100, // px
