@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to Magestore Documents!\n\n\nTEST 100",
+            "text": "Welcome to Magestore Documents!\n\n\nEdit file https://github.com/Magestore/Docs/blob/master/extensions/index.md\n\n\nTEST 101",
             "title": "Home"
         },
         {
             "location": "/#welcome-to-magestore-documents",
-            "text": "TEST 100",
+            "text": "Edit file https://github.com/Magestore/Docs/blob/master/extensions/index.md  TEST 101",
             "title": "Welcome to Magestore Documents!"
         },
         {
