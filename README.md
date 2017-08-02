@@ -1,5 +1,6 @@
-# Hướng dẫn
-## magestore.github.io
+
+#### <i class="icon-file"></i> Hướng dẫn
+magestore.github.io
 
 
 # Giới thiệu
