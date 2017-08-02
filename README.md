@@ -1,5 +1,5 @@
 
-#### <i class="icon-file"></i> Hướng dẫn
+# <i class="icon-file"></i> Hướng dẫn
 magestore.github.io
 
 
