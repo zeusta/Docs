@@ -2,13 +2,33 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to Magestore Documents!\n\n\nEdit file https://github.com/Magestore/Docs/blob/master/extensions/index.md\n\n\nTEST 101",
+            "text": "Welcome to MagestoreDocs!\n\n\nThis is the hub of every Magestore extension's document. To learn how to master an extension, from the basic to the advanced, explore our documentation and learning resource.  \n\n\n\n\nHow to navigate on MagestoreDocs\n\n\nThere comes some guidelines that help you utilize the MagestoreDocs in a short time. \n\n\n Search a document\n\n\nYou can access an extension's document using the search bar and the left navigation bar. Search by the extension name or click on tab Magento 1 Extensions (Magento 2 Extensions) on the navigation bar to choose the document you want to access. \n\n\n Read a document\n\n\nWhen you reach your target extension page, scroll down to view the whole guide. Or you can use the navigation bar to target a particular part of the document. Eg: To view how to configure Field Position of One Step Checkout Magento 2, you follow this path on navigation bar: \nMagento 2\n >> \nOne Step Checkout Magento 2\n >> \nHow to configure\n >> \nField Position Management\n.  \n\n\n Download a document\n\n\nYou can download the whole guide of an extension. Simply click on button \nDownload Extension Guide\n on the top right corner of the extension's page.",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-magestore-documents",
-            "text": "Edit file https://github.com/Magestore/Docs/blob/master/extensions/index.md  TEST 101",
-            "title": "Welcome to Magestore Documents!"
+            "location": "/#welcome-to-magestoredocs",
+            "text": "This is the hub of every Magestore extension's document. To learn how to master an extension, from the basic to the advanced, explore our documentation and learning resource.",
+            "title": "Welcome to MagestoreDocs!"
+        },
+        {
+            "location": "/#how-to-navigate-on-magestoredocs",
+            "text": "There comes some guidelines that help you utilize the MagestoreDocs in a short time.",
+            "title": "How to navigate on MagestoreDocs"
+        },
+        {
+            "location": "/#search-a-document",
+            "text": "You can access an extension's document using the search bar and the left navigation bar. Search by the extension name or click on tab Magento 1 Extensions (Magento 2 Extensions) on the navigation bar to choose the document you want to access.",
+            "title": " Search a document"
+        },
+        {
+            "location": "/#read-a-document",
+            "text": "When you reach your target extension page, scroll down to view the whole guide. Or you can use the navigation bar to target a particular part of the document. Eg: To view how to configure Field Position of One Step Checkout Magento 2, you follow this path on navigation bar:  Magento 2  >>  One Step Checkout Magento 2  >>  How to configure  >>  Field Position Management .",
+            "title": " Read a document"
+        },
+        {
+            "location": "/#download-a-document",
+            "text": "You can download the whole guide of an extension. Simply click on button  Download Extension Guide  on the top right corner of the extension's page.",
+            "title": " Download a document"
         },
         {
             "location": "/Onestep Checkout/Magento 2/",
