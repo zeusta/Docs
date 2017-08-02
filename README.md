@@ -1,5 +1,13 @@
 # magestore.github.io
 
+# Giới thiệu
+1. Cấu trúc thư mục trong này bao gồm
+   - docs (là thư mục mà docs-tool sau khi đã generate ra html)
+   - extensions (là thư mục doc để docs-tool sử dụng để generate html, bao gồm các file giới dạng md - markdown)
+   - guide là thư mục chứa những file tài liệu Guide chi tiết
+2. Chỉ được phép chỉnh sửa các tài liệu trong thư mục extension, sau khoảng thời gian 1 phút docs-tool sẽ tự động biên dịch lại và kết quả chứa trong thư mục docs. Để viết được doc theo format Markdown thì có thể dùng tool https://stackedit.io/editor.
+
+
 # For editor
 
 ## How to insert image
