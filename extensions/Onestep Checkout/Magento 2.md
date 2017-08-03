@@ -1,4 +1,5 @@
-# **ONE STEP CHECKOUT - MAGENTO 2**
+**ONE STEP CHECKOUT - MAGENTO 2**
+=================================
 
 **Version 2.0.3**
 
