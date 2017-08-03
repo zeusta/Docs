@@ -5,8 +5,8 @@
 
 ## Giới thiệu
 1. **Cấu trúc thư mục trong này bao gồm**
-   - docs (là thư mục mà docs-tool sau khi đã generate ra html - **không được ghi file vào thư mục này**) 
-   - extensions (là thư mục doc để docs-tool sử dụng để generate html, bao gồm các file giới dạng md - markdown)
+   - **docs** (là thư mục mà docs-tool sau khi đã generate ra html - **không được ghi file vào thư mục này**) 
+   - **extensions** (là thư mục doc để docs-tool sử dụng để generate html, bao gồm các file giới dạng md - markdown)
       + Trong thư mục này chưa file index.md là file tương ứng với trang home
       + Để tạo menu ở header thì mỗi thư mục sẽ là một menu cha, thư mục hoặc file bên trong thư mục cha sẽ là menu con
    - guide là thư mục chứa những file tài liệu Guide chi tiết
