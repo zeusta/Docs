@@ -46,62 +46,159 @@
 
 <body class="homepage" >
     
+        <header class="site-header">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+        
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        
+
+        <div class="navbar-brand">
+            <a class="navbar-logo" href="https://www.magestore.com/"><img src="./img/magestore-logo.png" alt="Magestore"></a>
+            <span><a href=".">MagestoreDocs</a></span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="col-sm-12 col-md-12 mobile-search-btn">
+                <span>
+                    <i class="fa fa-search"></i>
+                    <!--<i class="fa fa-search-close">x</i>-->
+                </span>
+            </div>
+
+            
+            <ul class="navbar-nav navbar-left">
+                
+                
+
+                <li class="nav-item active">
+                    <a class="nav-link" href=".">Home</a>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Onestep Checkout</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="">
+        <a href="Onestep Checkout/Magento 2/">Magento 2</a>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Inventory</a>
+                    <ul class="">
+                    
+                    
+    
+    <li>
+        <a href="#">Backend</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="inventory/backend/config/">Config</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li>
+        <a href="#">Manage stock</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="inventory/manage-stock/stock-lising/">Stock lising</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+
+            </ul>
+            
+
+            <div class="col-sm-11 col-md-11 search-box">
+                <div class="nav-item item-search">
+                    <form class="form-inline w-100" id="form-search" role="form">
+                        <input class="w-100" type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        <i class="mobile-search-close-btn">x</i>
+                    </form>
+                    <div id="mkdocs-search-results"><p>No results found</p></div>
+                </div>
+            </div>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <span class="search-btn">
+                        <i class="fa fa-search"></i><!--<span>Search</span>-->
+                        <i class="fa fa-search-close">x</i>
+                    </span>
+                </li>
+
+                
+                <!--<li>
+                    <li class="disabled">
+                        <a rel="next" >
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="Onestep Checkout/Magento 2/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>-->
+                    
+                    
+                    <!--<li>
+                        <a href="https://github.com/Magestore/Docs">
+                            
+                                <i class="fa fa-github"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                </li>-->
+                
+
+
+            </ul>
+
+        </div>
+    </nav>
+</header>
+    
     <div class="container-fluid main-content">
         <div class="row">
             
-            <div class="col col-md-3">
-                
-                <div class="bs-sidebar nav-menu" id="sideNav">
-    <div class="sidenav-toggle"></div>
-    <ul class="nav bs-sidenav">
-        
-        <li class="toc-level-0">
-            <div data-toggle="collapse" data-target="#collapse-level-1-1">
-                <a href="#welcome-to-magestoredocs">Welcome to MagestoreDocs!</a>
-            </div>
             
-            <ul id="collapse-level-1-1" class="collapse show">
-                
-                <li class="toc-level-1" class="collapse">
-                    <div data-toggle="collapse" data-target="#collapse-level-2-1">
-                        <a href="#how-to-navigate-on-magestoredocs">How to navigate on MagestoreDocs</a>
-                    </div>
-                    
-                    <ul id="collapse-level-2-1" class="collapse">
-                        
-                        <li class="toc-level-2">
-                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
-                                <a href="#search-a-document"> Search a document</a>
-                            </div>
-                            
-                        </li>
-                        
-                        <li class="toc-level-2">
-                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
-                                <a href="#read-a-document"> Read a document</a>
-                            </div>
-                            
-                        </li>
-                        
-                        <li class="toc-level-2">
-                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
-                                <a href="#download-a-document"> Download a document</a>
-                            </div>
-                            
-                        </li>
-                        
-                    </ul>
-                    
-                </li>
-                
-            </ul>
-            
-        </li>
-        
-    </ul>
-</div>
-            </div>
-            <div class="col col-md-9" role="main">
+             <div class="col col-md-12" role="main">
                 
 
 <h1 id="welcome-to-magestoredocs">Welcome to MagestoreDocs!</h1>
@@ -117,6 +214,7 @@
 <p>You can download the whole guide of an extension. Simply click on button <kbd>Download Extension Guide</kbd> on the top right corner of the extension's page.</p>
                 
             </div>
+            
             
         </div>
     </div>
@@ -187,5 +285,5 @@
 
 <!--
 MkDocs version : 0.16.3
-Build Date UTC : 2017-08-16 08:29:09
+Build Date UTC : 2017-08-16 08:30:12
 -->
