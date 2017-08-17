@@ -1,3 +1,6 @@
+<div class="container">
+<div class="container">
+<div class="row">
 Welcome to MagestoreDocs!
 ===================
 
@@ -24,6 +27,8 @@ When you reach your target extension page, scroll down to view the whole guide. 
 
 You can download the whole guide of an extension. Simply click on button <kbd>Download Extension Guide</kbd> on the top right corner of the extension's page.
 
-
+</div>
+</div>
+</div>
 
 
