@@ -81,6 +81,7 @@ Then Customers can zoom in/ out the map to have a clearer view. Information of a
 ### Store Detailed Page
 Customers will be navigated to the **Store Detailed** page if they click on the store name they want.
 ![enter image description here](https://lh3.googleusercontent.com/-NG9X5VfZhX0/WZvQr84L8fI/AAAAAAAAAEQ/KLnDtEzC4_EJ5Jzkp79cBBC3ssCpPLy6gCLcBGAs/s0/A%25CC%2589nh+10.png "Ảnh 10.png")
+
 On this page, Customers can see store address, opening time, special days, holidays and store images. Besides, Customers not only can view comments about the store but also can give their own comments to discuss with others on Facebook.
 Similar to the **Store Listing** page, Customers can get directions to a store by entering their location and clicking on **Get Directions** to see instructions:
 
