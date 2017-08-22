@@ -55,9 +55,11 @@ Similar to the **Store Listing** page, Customers can get directions to a store b
 You have seen how Store Locator works in front-end for customers. The following part will guide you through how to configure and manage the extension in back-end.
 
 ***New release**: One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was **that required future product updates are only available for** **_requests made with an API key_**. 
+
 This means active domains created before June 22, 2016, continue to be able to access the Google Maps JavaScript API, Static Maps API, and Street View Image API without an API key. They are not affected by keyless access being unavailable for new domains. However, Google Maps APIs Standard Plan advises all developers to use a key in order to guarantee their quality of service. Applications that continue to make keyless requests may experience some periodic service degradation if other keyless applications' usage spikes and draws down the global unchanged quota.  
 
 In order to get API key, follow these steps as follows: 
+
 **Step 1**: Visit APIs Console at https://console.developers.google.com/apis/library and log into your Google Account.  Then, click **Create project** button on top of the menu. 
 
 ![enter image description here](https://lh3.googleusercontent.com/-mhyzABKA3dw/WZvQ-eb82jI/AAAAAAAAAEw/GLZEB-PBRdUtrOXXxGoEZJhWX_3R_T8TgCLcBGAs/s0/A%25CC%2589nh+12.png "Ảnh 12.png")
