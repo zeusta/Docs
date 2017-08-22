@@ -5,8 +5,6 @@ Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unautho
 ## Introduction
 
 
-----------
-
 
 How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit extension, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with Magento Store Credit extension, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
 
@@ -14,8 +12,6 @@ How to engage your Customers more in one’s business is a regular question in s
 
 ## How to use 
 
-
-----------
 
 
 ### Buy Credit Product
@@ -156,7 +152,7 @@ After redeeming code, Customers can check their current balance and transaction 
 ![enter image description here](https://lh3.googleusercontent.com/-DUgB0Jv2Ht8/WZwF3bRL83I/AAAAAAAAAdY/hpQoDcdDvq81VbFe9PYt6hV9nGEqS_vkACLcBGAs/s0/image025.png "image025.png")
 
 
-###Checkout by Credit
+### Checkout by Credit
 
 Customers can use credit to checkout on both **Shopping Cart** and **Checkout page**.
 
@@ -272,7 +268,7 @@ This page can be divided into two main sections including **Life-time Reports** 
  
 	-***Customer Credit Statistics*** with the total credit, the total spent credit and the number of Customers with credit in your system.
  	
- -***Top 5 Customers with The Greatest Credit Balances*** with their names and current balances in your system.	
+        -***Top 5 Customers with The Greatest Credit Balances*** with their names and current balances in your system.	
  
  - **Period-of-time Report Charts:** This chart shows you the total spent credit and received credit of all Customers per day in your
    chosen time range such as **last 24 hours, last 7 days, current
@@ -312,7 +308,7 @@ Go to **Store Credit > Settings**
 ![enter image description here](https://lh3.googleusercontent.com/-hVMUZJYSwvU/WZw3h9vXBCI/AAAAAAAAAk8/kbCg3x9BnNEYv6j9rl_yGuYQlkk47R65gCLcBGAs/s0/image052.png "image052.png")
 
 |Title     | If you choose        | Result will be |
-|------------------------|-------------------|----------------------------|
+|----------------------------------|-------------------|----------------------------|
 |Enable|Yes|The module is enabled on your site.|
 |Allow sending credit|Yes| Your Customers can send credit to their friends. | 
 |Verify before sending credit|Yes| Your Customers are required to verify before sending credit to friends.| 
@@ -323,7 +319,7 @@ Go to **Store Credit > Settings**
  ![enter image description here](https://lh3.googleusercontent.com/-JmJGiGcWo4c/WZw5ZzhBQWI/AAAAAAAAAlU/JFx8hfEKg5QeLYb14dMYQ0H2Xb9Bnu1SgCLcBGAs/s0/image053.png "image053.png") 
 
 |Title     | If you choose        | Result will be |
-|--------------------------|---------------------|----------------------------|
+|-------------------------------------|---------------------|----------------------------|
 |Apply Customer Credit|After tax|Apply Customer credit discount to Customer’s order value after tax calculated|
 |Shipping Fee|No| Credit balance cannot be used to pay for Shipping Fee. | 
 	
