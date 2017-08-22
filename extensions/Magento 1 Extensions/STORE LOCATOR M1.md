@@ -3,7 +3,7 @@
 **Version 3.0**
 Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
-## Introduction ##
+## Introduction 
 ----------
 You have multiple physical stores and don’t know how to give your Customers chances to select their closest one? If so, no need to look any further as our Magento Store Locator extension is exactly the right solution for you. With various search fields and a friendly user interface, Customers can easily locate the most convenient store, such as the one within 5 kilometers of their homes for instance, and then get instant directions on Google map. In particular, Magento Store Locator extension can help promote your stores effectively by allowing Customers to view and give Facebook comments on the store.
 
@@ -11,7 +11,8 @@ You have multiple physical stores and don’t know how to give your Customers ch
 
 
 **OUTSTANDING FEATURES**
-###For Customer###
+
+###For Customer
 Search for stores easily with various criteria
 
  - View the list of all stores with custom pin icon on Google map
@@ -29,7 +30,8 @@ Access store info in 1 click
  - Know opening hours, days off & special working days
  - Explore store via many photos & Street View mode
  - View and give comments on Facebook
-###For admin###
+ 
+###For admin
  - Import stores & locations in mass from CSV files
  - Provide store details such as address, contact info, website, tags, images etc.
  - Promote stores with custom pin, banner, embedded form... (HTML & WYSIWYG supported)
@@ -38,7 +40,7 @@ Access store info in 1 click
  - Choose default search criteria for better experience of customers
  - Change color & map style to fit your theme
 
-###Other###
+###Other
  - Responsive Magento Store Locator extension (Hot)
  - Compatible to Google Map & Facebook API
  - Magento Store Locator extension is 100% Open source
@@ -46,7 +48,7 @@ Access store info in 1 click
  - Easy to install and configure
  - User-friendly interface
 
-##HOW TO USE##
+##HOW TO USE
 ----------
 This section shows you how Customers can make use of the Store Locator extension in frontend. The module creates a separate page listing all stores and detailed pages for each store. 
 To go to the **Store Listing** page, Customers can click on **Account** → **Store Locator**, then click the **Account** button on the top right corner.
@@ -77,7 +79,8 @@ Then Customers can zoom in/ out the map to have a clearer view. Information of a
  - Another helpful feature is the **Filter by Tags** bar at the bottom of the **Store Listing** page, which allows Customers to narrow down their choice of stores. When Customers click on any tag as preferred, the extension shows stores tagged with that label. This will certainly save much time for Customers from scrolling up and down on the list, especially when the list of stores is too long.
 
 ![enter image description here](https://lh3.googleusercontent.com/-coNDQpAgc-g/WZvQlctWTCI/AAAAAAAAAEI/i-9bybrjYJA8lN_fA7NgXsXgNqjLIzzbQCLcBGAs/s0/A%25CC%2589nh+9.png "Ảnh 9.png")
-###Store Detailed Page###
+
+###Store Detailed Page
 Customers will be navigated to the **Store Detailed** page if they click on the store name they want.
 ![enter image description here](https://lh3.googleusercontent.com/-NG9X5VfZhX0/WZvQr84L8fI/AAAAAAAAAEQ/KLnDtEzC4_EJ5Jzkp79cBBC3ssCpPLy6gCLcBGAs/s0/A%25CC%2589nh+10.png "Ảnh 10.png")
 On this page, Customers can see store address, opening time, special days, holidays and store images. Besides, Customers not only can view comments about the store but also can give their own comments to discuss with others on Facebook.
@@ -85,7 +88,7 @@ Similar to the **Store Listing** page, Customers can get directions to a store b
 
 ![enter image description here](https://lh3.googleusercontent.com/-R6jYKeSz5eQ/WZvQxuQvoeI/AAAAAAAAAEc/NO4cvIG5V8k1QWj_jML0dOzjLRTg_ph_ACLcBGAs/s0/A%25CC%2589nh+11.png "Ảnh 11.png")
 
-##HOW TO CONFIGURE##
+##HOW TO CONFIGURE
 ----------
 You have seen how Store Locator works in front-end for customers. The following part will guide you through how to configure and manage the extension in back-end.
 ***New release**: One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was **that required future product updates are only available for** **_requests made with an API key_**. 
@@ -120,14 +123,15 @@ After that you will see a box with a number of choices specifying which kind of 
 
 ![enter image description here](https://lh3.googleusercontent.com/-FJqV_XsA_ho/WZvRe-iLSZI/AAAAAAAAAFg/12dyX_qFR5gbM8wiP3jWz0Xw9o8WUlUxQCLcBGAs/s0/A%25CC%2589nh+18.png "Ảnh 18.png")
 
-###Manage store###
+###Manage store
 To set up stores with location, opening time and other information, go to **Store Locator → Manage Stores.**
 
 ![enter image description here](https://lh3.googleusercontent.com/-FsK-vI81NYk/WZvRkDTnqcI/AAAAAAAAAFo/7an9MD1yzz4oXpvjuuBgyI4cPPteDE8CgCLcBGAs/s0/A%25CC%2589nh+19.png "Ảnh 19.png")
 
 On this **Store Manager** page, you can view a list that shows information of all stores in your site such as n**ame, address, city, country, zip code and status.**
 You can use the mass action to delete or change status of stores. Besides, you can also export the list of stores to CSV or XML files.
-####Add store####
+
+####Add store
 To add a new store, click on the **Add Store** button. The new **Store Information** page includes 3 tabs: **General Information, Google Map and Time Schedule.** 
 
  - **General Information** tab:
@@ -175,7 +179,8 @@ Similarly, you can set opening hours for each remaining day of the week. To quic
 ![enter image description here](https://lh3.googleusercontent.com/-DimGrHu-yyo/WZvSL6WkmgI/AAAAAAAAAG0/fRtajKdnXYELwMZPZzwGJvaolAfPoR1KACLcBGAs/s0/A%25CC%2589nh+26.png "Ảnh 26.png")
 
 After entering all the necessary data, remember to click on the **Save** or **Save and Continue Edit** button to save your work.
-####Import Stores####
+
+####Import Stores
 Click on the Import **Store button** on the top right corner of the **Store Manager** page. You will be navigated to the **Import File** page.
 
  - **CSV file structure**
@@ -187,7 +192,7 @@ You can download the sample “stores.csv” file to view its structure. The col
 
 ![enter image description here](https://lh3.googleusercontent.com/-lwXgnHX6B9E/WZvSRWx1xcI/AAAAAAAAAHE/-IYD5b1RtgkPFgVeojmbJp4nPeO4zzuHQCLcBGAs/s0/A%25CC%2589nh+27.png "Ảnh 27.png")
 
-####Edit Store####
+####Edit Store
 In order to edit a store, you can click on the **Edit** link of any store row on the **Store Manager** grid. Besides existing fields as when you add a new store, you should pay attention to the **Google Map** tab. When a store is imported or created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map** tab allows you to edit store coordinates manually.
 
 ![enter image description here](https://lh3.googleusercontent.com/-NrRsaCWRwyo/WZvSWKhblxI/AAAAAAAAAHM/IPpbyfiVwj8njMnxKNFkTmV0L0sDjs_6gCLcBGAs/s0/A%25CC%2589nh+28.png "Ảnh 28.png")
@@ -198,7 +203,8 @@ If the pin on the map is not in the right place, you can drag and drop it to whe
 
 After editing, remember to click on the **Save** or **Save and Continue Edit** button to save your work.
 Note: When you edit the store address (street, city or state/province) in **General Information**, the store coordinates will be auto-updated after being saved. You also can click the **Renew Google Map** button to update the store’s new location.
-###Manage Holidays###
+
+###Manage Holidays
 To set days off for your stores, go to **Store Locator → Manage Holidays** on the menu in backend. You will be navigated to the **Holiday Manager** page listing all holidays created. Holidays within a specific period, which is set in **Settings**, will be shown in the **Store Information** tab on the **Store Detailed** page. 
 Click on **Add Holiday** to create a new one. 
 
@@ -211,7 +217,8 @@ On the **Add Holiday** page:
  - Fill in the **Comment** field if needed
 
 Remember to click on the **Save Item** button after entering required fields to save your work.
-###Manage Special Days###
+
+###Manage Special Days
 To set days with special working time for your stores, go to **Store Locator → Manage Special Days** on the menu in backend. You will be navigated to the **Special Day Manager** page listing all special days created. Days within a specific period, which is set in **Settings**, will be shown in the **Store Information** tab on the **Store Detailed** page.
 Click on the **Add Special Day** button to create a new one.
 
@@ -225,7 +232,8 @@ On the **Add Special Day** page:
 
 Remember to click on the **Save Item** button to save your work. 
  * **Note**: Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens on that date but with special opening hours as you configured.
-###Setting##
+
+###Setting
 To configure the Store Locator extension, go to **Store Locator → Settings** on the menu in backend. The configurations here are divided into 4 groups including **General, Google, Facebook** and **Store Search**.
  
  * **General:**
