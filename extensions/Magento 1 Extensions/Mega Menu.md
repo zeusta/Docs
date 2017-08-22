@@ -197,10 +197,13 @@ Go to **Back-end > Mega Menu > Settings**. This page has 5 sections, including: 
 ![enter image description here](https://lh3.googleusercontent.com/-0y5k5VZS0RM/WZvulQt21gI/AAAAAAAAAR0/vy9Dwt6G-08bPgEYT2nrPcig1Gum-ydxQCLcBGAs/s0/image035.png "image033.png")
 This section includes configurations for the top menu.
 - **Top Menu alignmen**t:  allow you to choose the way to display the top menu bar. There are three types for you to choose:
+
 -- **Left**: your top menu items will be arranged from the left of your site to the right.
 ![enter image description here](https://lh3.googleusercontent.com/-5-cvZ1xFlc8/WZvusWsjRyI/AAAAAAAAASA/AAs2IQfkE38Uc2YxbO296_MHdyK7dvBswCLcBGAs/s0/image036.png "image034.png")
+
 -- **Right**: your top menu items will be arranged from the right of your site to the left.
 ![enter image description here](https://lh3.googleusercontent.com/-Sr_KduvdrQc/WZvuy7kPjYI/AAAAAAAAASQ/R6wwmqLzTgY7T-R1pn1JTYmYKfUOCPMTwCLcBGAs/s0/image037.png "image035.png")
+
 -- **Justify**: menu items will be justified both to the right & left.
 ![enter image description here](https://lh3.googleusercontent.com/-dSOHBi3Dxz4/WZvu5F6je2I/AAAAAAAAASg/Nay-4jI6zJckOBHLSK6WjDUc3i4ITWWGACLcBGAs/s0/image038.png "image036.png")
 
