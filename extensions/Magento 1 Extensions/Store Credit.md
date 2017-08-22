@@ -16,6 +16,7 @@ How to engage your Customers more in one’s business is a regular question in s
 
 ### Buy Credit Product
 After Customers login to your website, they can access the **Store Credit** page in two ways.
+
 Firstly, clicking on the **My Account** link, they can choose **Buy Store Credit** in the dropdown list. 
 ![enter image description here](https://lh3.googleusercontent.com/-2X19jy_zPuA/WZv3HsAndxI/AAAAAAAAAWw/NmByKs1miIE7J-0ujQWBEeFdRVUUK5LpwCLcBGAs/s0/image002.png "image002.png")
 
@@ -73,17 +74,20 @@ The sender always gets email notifications as below:
 In order to access the **My Credit** page, Customers can click on the **My Credit** tab on the left navigation.
 #### Manage Credit Balance
 On the **My Credit** page, Customers can view information about their current credit balances and transaction history.
+
 In the section **Transaction History**, our module shows Customers all of their credit transactions with a lot of information including ***date, type, details, added/deducted value in transaction*** and ***credit balance.***
 
 ![enter image description here](https://lh3.googleusercontent.com/-DDrguUNmX_E/WZv_lLOLTNI/AAAAAAAAAaA/SGEDxjF2yD4Z4PMqGY_gyrchnqqfCAizACLcBGAs/s0/image013.png "image013.png")
 
 #### Send Credit to Friends
 First, Customers should click on the **Send Credit** tab on the left navigation to go to the **Send Credit to Friends** page.
+
 This page has 2 parts including **Send Credit To Friends** and **Credit Code List**.
 
 ![enter image description here](https://lh3.googleusercontent.com/-hK8OgR2TZN8/WZv_60M86UI/AAAAAAAAAaQ/6gQoAdocLAA1fBoULYeFSBjRP64dbIuZwCLcBGAs/s0/image014.png "image014.png")
 
 •	***Send Credit to Friends***: In this section, Customers can send credit to their friends.
+
 •	***Credit Code List***: This section shows all information about the credit codes that Customers sent to their friends including ***code, recipient email, amount, sent date*** and ***status of code***. Credit codes are not displayed in full for security purpose. When Customers click on, they will be shown clearly.
 
 Please note that our module allows you to configure whether to require your Customers to verify their credit sharing or not. We will consider the two cases separately.
@@ -96,7 +100,8 @@ In order to send credit to friends, Customers should enter the recipient’s ema
 
 ![enter image description here](https://lh3.googleusercontent.com/-axOV3ldZE3g/WZwBK_rdjZI/AAAAAAAAAa0/l2Wydly_ciUrMesLu5vsiiv-YrS4YwmKgCLcBGAs/s0/image015.png "image015.png")
 
-In this case, our module will show a notification for the Customer that his friend will receive the credit code via that email. The Customer can enter a message and click on the **Send** button. After that, his credit balance will be deducted immediately and an email will be auto-sent to the recipient’s email address:
+In this case, our module will show a notification for the Customer that his friend will receive the credit code via that email. The Customer can enter a message and click on the **Send** button. 
+After that, his credit balance will be deducted immediately and an email will be auto-sent to the recipient’s email address:
 
 ![enter image description here](https://lh3.googleusercontent.com/-T3EL51je1WE/WZwBW0WahWI/AAAAAAAAAa8/8hAxNDFZRGI7wZO_Lof0lzl8sOOwHO7yQCLcBGAs/s0/image016.png "image016.png")
 
@@ -138,7 +143,9 @@ At the same time, they will be navigated to the **Verify** page:
 ![enter image description here](https://lh3.googleusercontent.com/-ddsVWg-vuGY/WZwE27httoI/AAAAAAAAAc8/Zo7CRJtRWmQuObrG9EvhWw_08S_FJkypQCLcBGAs/s0/image023.png "image023.png")
 
 On this page, our module shows them a notification about the verification requirement. In the **Credit Code List**, that code is put under the “**Awaiting verification**” status with a **Verify** link. 
+
 To verify, Customers just enter the verification code they received in their emails and then click on the **Submit Code** button.
+
 After Customers finish verifying, our module will send credit to the recipient.
 
 #### Redeem Credit
