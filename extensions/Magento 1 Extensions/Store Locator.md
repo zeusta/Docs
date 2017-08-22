@@ -274,16 +274,12 @@ To integrate Google API in your site, fill your Google Map API key into this fie
 |3|Default Country| United States| The default country for searching and showing the list of stores is United States. |
 |4| Distance unit| Kilometers| The unit to measure radius is Kilometer.| 
 
-
  -  **Style Configuration:**
  
  ![enter image description here](https://lh3.googleusercontent.com/-ytx3snABcNk/WZvTw5V33WI/AAAAAAAAAJk/Jr28U-wan2EGX0hq0pRQTvevr1ASLC1HQCLcBGAs/s0/A%25CC%2589nh+36.png "Ảnh 36.png")
 
 In this part of configuration, you can choose to use map styles, change color of elements on Store Locator page such as **Active Search Tab – Background, Page Title – Background, Active Search Tab – Font, etc.** 
 Now, if you are here, in the last line of our guide, you have completely finished studying our Store Locator extension with all of its striking features! Hope you find this manual useful.
-
-
-
 
 
 
