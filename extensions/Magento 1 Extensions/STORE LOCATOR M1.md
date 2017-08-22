@@ -3,12 +3,12 @@
 **Version 3.0**
 Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
-## Introduction ##
+## Introduction 
 ----------
 You have multiple physical stores and don’t know how to give your Customers chances to select their closest one? If so, no need to look any further as our Magento Store Locator extension is exactly the right solution for you. With various search fields and a friendly user interface, Customers can easily locate the most convenient store, such as the one within 5 kilometers of their homes for instance, and then get instant directions on Google map. In particular, Magento Store Locator extension can help promote your stores effectively by allowing Customers to view and give Facebook comments on the store.
 (image1)
 **OUTSTANDING FEATURES**
-###For Customer###
+###For Customer
 Search for stores easily with various criteria
 
  - View the list of all stores with custom pin icon on Google map
