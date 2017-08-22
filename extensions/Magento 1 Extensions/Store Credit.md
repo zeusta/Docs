@@ -20,6 +20,7 @@ Firstly, clicking on the **My Account** link, they can choose **Buy Store Credit
 ![enter image description here](https://lh3.googleusercontent.com/-2X19jy_zPuA/WZv3HsAndxI/AAAAAAAAAWw/NmByKs1miIE7J-0ujQWBEeFdRVUUK5LpwCLcBGAs/s0/image002.png "image002.png")
 
 Secondly, they can click on the **My Credit** tab on the left navigation on the **My Account** page.
+
 In this second way, they will be navigated to the **My Credit** page on which they just need to click on the **Buy store credit** button:
 
 ![enter image description here](https://lh3.googleusercontent.com/-AMVIhQQ3urw/WZv4nq0QEiI/AAAAAAAAAXE/GwD_WgwkZRkA60UfwbiVHlP0TxiRDFOXACLcBGAs/s0/image003.png "image003.png")
@@ -45,7 +46,7 @@ As you can see, this page lists all credit products of your website. There are t
  
 ![enter image description here](https://lh3.googleusercontent.com/-o-ny-GAKqAQ/WZv8wKSyUlI/AAAAAAAAAYg/vezzqTeD-AIl4euKqcHpNR0kH98I2uSaACLcBGAs/s0/image008.png "image008.png")
 
-After selecting credit products they like, Customers can add them to cart and checkout normally.
+When the order is complete, our module will auto-add that credit amount to the Customer’s credit balance.
 
 Customers can also send Credits to their friends by ticking **Send credit to friend** checkbox and enter all the required fields:
 
