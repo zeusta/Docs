@@ -140,7 +140,7 @@ On this page, our module shows them a notification about the verification requir
 To verify, Customers just enter the verification code they received in their emails and then click on the **Submit Code** button.
 After Customers finish verifying, our module will send credit to the recipient.
 
-####Redeem Credit
+#### Redeem Credit
 
 In order to go to the **Redeem Credit** page, Customers can click on the **Redeem Credit** tab on the left navigation.
 
@@ -268,7 +268,8 @@ This page can be divided into two main sections including **Life-time Reports** 
  
 	-***Customer Credit Statistics*** with the total credit, the total spent credit and the number of Customers with credit in your system.
  	
-        -***Top 5 Customers with The Greatest Credit Balances*** with their names and current balances in your system.	
+ 	-***Top 5 Customers with The Greatest Credit Balances*** with their names and current balances in your system.	
+  
  
  - **Period-of-time Report Charts:** This chart shows you the total spent credit and received credit of all Customers per day in your
    chosen time range such as **last 24 hours, last 7 days, current
@@ -287,7 +288,8 @@ After submitting the order, the Customer’s credit balance will also auto updat
 
 ![enter image description here](https://lh3.googleusercontent.com/-ZPKjvhppwwM/WZw2PRoVCnI/AAAAAAAAAj8/tR_pcuqjoT8rUiovUEGXjmiBj5Dk1EbFwCLcBGAs/s0/image048.png "image048.png")
 
-###Refund Orders into Credit Balance
+### Refund Orders into Credit Balance
+
 When Customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, Customers can use the credit for future purchases and you do not have to lose money for the refund at the same time.
 After clicking on the **Credit Memo** button, our module shows a text field for you to enter the amount you want to refund into credit:
 
