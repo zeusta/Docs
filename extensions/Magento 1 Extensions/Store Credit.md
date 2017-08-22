@@ -3,13 +3,20 @@
 **Version 2.0**
 Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 ## Introduction
+
+
 ----------
+
+
 How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit extension, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with Magento Store Credit extension, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
 
 ![enter image description here](https://lh3.googleusercontent.com/-QATQxgRlnS8/WZv2o6398-I/AAAAAAAAAWo/TlN3xAcC-q8nbLcmMVKFL49suK_2Msj5wCLcBGAs/s0/image001.png "image001.png")
 
 ## How to use 
+
+
 ----------
+
 
 ### Buy Credit Product
 After Customers login to your website, they can access the **Store Credit** page in two ways.
@@ -137,7 +144,7 @@ On this page, our module shows them a notification about the verification requir
 To verify, Customers just enter the verification code they received in their emails and then click on the **Submit Code** button.
 After Customers finish verifying, our module will send credit to the recipient.
 
-#### Redeem Credit
+####Redeem Credit
 
 In order to go to the **Redeem Credit** page, Customers can click on the **Redeem Credit** tab on the left navigation.
 
@@ -147,6 +154,7 @@ On this page, Customers can redeem the credit code they received to their credit
 After redeeming code, Customers can check their current balance and transaction in the **Transaction History** section.
 
 ![enter image description here](https://lh3.googleusercontent.com/-DUgB0Jv2Ht8/WZwF3bRL83I/AAAAAAAAAdY/hpQoDcdDvq81VbFe9PYt6hV9nGEqS_vkACLcBGAs/s0/image025.png "image025.png")
+
 
 ###Checkout by Credit
 
@@ -261,11 +269,14 @@ This page can be divided into two main sections including **Life-time Reports** 
 
 
  - **Life-time Reports**: There are 2 types of reports.
- -***Customer Credit Statistics*** with the total credit, the total spent credit and the number of Customers with credit in your system.
+ 
+	-***Customer Credit Statistics*** with the total credit, the total spent credit and the number of Customers with credit in your system.
+ 	
  -***Top 5 Customers with The Greatest Credit Balances*** with their names and current balances in your system.	
+ 
  - **Period-of-time Report Charts:** This chart shows you the total spent credit and received credit of all Customers per day in your
    chosen time range such as **last 24 hours, last 7 days, current
-   month**, etc.
+   month,** etc.
 
 ### Using Credit to checkout in backend:
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
@@ -301,7 +312,7 @@ Go to **Store Credit > Settings**
 ![enter image description here](https://lh3.googleusercontent.com/-hVMUZJYSwvU/WZw3h9vXBCI/AAAAAAAAAk8/kbCg3x9BnNEYv6j9rl_yGuYQlkk47R65gCLcBGAs/s0/image052.png "image052.png")
 
 |Title     | If you choose        | Result will be |
-|---------------|-------------------|----------------------------|
+|------------------------|-------------------|----------------------------|
 |Enable|Yes|The module is enabled on your site.|
 |Allow sending credit|Yes| Your Customers can send credit to their friends. | 
 |Verify before sending credit|Yes| Your Customers are required to verify before sending credit to friends.| 
@@ -312,7 +323,7 @@ Go to **Store Credit > Settings**
  ![enter image description here](https://lh3.googleusercontent.com/-JmJGiGcWo4c/WZw5ZzhBQWI/AAAAAAAAAlU/JFx8hfEKg5QeLYb14dMYQ0H2Xb9Bnu1SgCLcBGAs/s0/image053.png "image053.png") 
 
 |Title     | If you choose        | Result will be |
-|---------------|---------------------|----------------------------|
+|--------------------------|---------------------|----------------------------|
 |Apply Customer Credit|After tax|Apply Customer credit discount to Customer’s order value after tax calculated|
 |Shipping Fee|No| Credit balance cannot be used to pay for Shipping Fee. | 
 	
@@ -332,6 +343,540 @@ Go to **Store Credit > Settings**
 ![enter image description here](https://lh3.googleusercontent.com/-tM-DimO3yYE/WZw6Z9yrnNI/AAAAAAAAAl8/RV3aJqd4hPUXcfEh4_fDzNaD8s2iKrJdgCLcBGAs/s0/image056.png "image056.png")
 
 This is the end of Store Credit User Guide. We hope this manual is helpful for you to use the extension effectively. If you have any question, please contact us at support@magestore.com , we would be glad to assist you!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
