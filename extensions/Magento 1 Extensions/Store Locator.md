@@ -9,43 +9,6 @@ You have multiple physical stores and don’t know how to give your Customers ch
 
 ![enter image description here](https://lh3.googleusercontent.com/-WClABsNdOkc/WZvOnMBLQ2I/AAAAAAAAACo/Ns_WJsW68O87zOs3SSEUaZzAz8Yf49C9QCLcBGAs/s0/A%25CC%2589nh+1.png "Ảnh 1.png")
 
-
-**OUTSTANDING FEATURES**
-
-### For Customer
-Search for stores easily with various criteria
- - View the list of all stores with custom pin icon on Google map
- - Filter stores by tags
- - Search stores by distance
- - Search stores by country, state/ province, city & zip code
- - Get instant directions from a location to any store
- - Choose the preferable view between map, satellite
- - See store logo on store list page
-
-Access store info in 1 click
- - Access store's official website or social channels such as Facebook
- - View contact details of each store including address, phone, email
- - Know opening hours, days off & special working days
- - Explore store via many photos & Street View mode
- - View and give comments on Facebook
- 
-### For admin
- - Import stores & locations in mass from CSV files
- - Provide store details such as address, contact info, website, tags, images etc.
- - Promote stores with custom pin, banner, embedded form... (HTML & WYSIWYG supported)
- - Edit store's meta info for better SEO
- - Set store's open times & days off flexibly
- - Choose default search criteria for better experience of customers
- - Change color & map style to fit your theme
-
-### Other
- - Responsive Magento Store Locator extension (Hot)
- - Compatible to Google Map & Facebook API
- - Magento Store Locator extension is 100% Open source
- - License Certificate valid for 1 live Magento installation and unlimited test Magento installations (No license key required)
- - Easy to install and configure
- - User-friendly interface
-
 ## HOW TO USE
 ----------
 This section shows you how Customers can make use of the Store Locator extension in frontend. The module creates a separate page listing all stores and detailed pages for each store. 
