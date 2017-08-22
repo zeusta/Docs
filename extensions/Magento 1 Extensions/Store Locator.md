@@ -90,9 +90,11 @@ Similar to the **Store Listing** page, Customers can get directions to a store b
 ## HOW TO CONFIGURE
 ----------
 You have seen how Store Locator works in front-end for customers. The following part will guide you through how to configure and manage the extension in back-end.
+
 ***New release**: One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was **that required future product updates are only available for** **_requests made with an API key_**. 
 This means active domains created before June 22, 2016, continue to be able to access the Google Maps JavaScript API, Static Maps API, and Street View Image API without an API key. They are not affected by keyless access being unavailable for new domains. However, Google Maps APIs Standard Plan advises all developers to use a key in order to guarantee their quality of service. Applications that continue to make keyless requests may experience some periodic service degradation if other keyless applications' usage spikes and draws down the global unchanged quota.  
 In order to get API key, follow these steps as follows: 
+
 **Step 1**: Visit APIs Console at https://console.developers.google.com/apis/library and log into your Google Account.  Then, click **Create project** button on top of the menu. 
 
 ![enter image description here](https://lh3.googleusercontent.com/-mhyzABKA3dw/WZvQ-eb82jI/AAAAAAAAAEw/GLZEB-PBRdUtrOXXxGoEZJhWX_3R_T8TgCLcBGAs/s0/A%25CC%2589nh+12.png "Ảnh 12.png")
@@ -140,8 +142,11 @@ There are 4 fields in this tab including: **General Info, Location Info, Contact
 Besides important information such as Store name, Description, Status, here are some extra fields you should use to optimize user experience:
 
   ✓ **Store’s link**: enter a link to the store’s official website or social channel such as Facebook fan page.
+  
   ✓ **Store's Tag(s)**: enter any tags related to the store, such as product category, so that Customers can use them to filter stores and narrow down their option.
+  
   ✓ **Sort order**: Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of "List Store by" in Settings.
+  
   ✓ **Store Image(s)**: upload as many store images as you want. The base image will be shown in the store list. 
  
 ![enter image description here](https://lh3.googleusercontent.com/-cCSWSnEvAv0/WZvRv2VkHPI/AAAAAAAAAF8/n7tt0m5A1KcYuympwrHJHgIq2sU9Gs7oQCLcBGAs/s0/A%25CC%2589nh+21.png "Ảnh 21.png")
@@ -163,7 +168,9 @@ Besides important information such as Store name, Description, Status, here are 
 There are 4 fields in this tab including **Zoom Level, Store Latitude, Longitude** and **Store Icon**. 
 
  ✓ **Zoom Level**: It is used when previewing the store’s location on Google Map in backend and on the Store Listing page in frontend. The higher number you set, the higher zoom-in level is.
+ 
 ✓	**Store Latitude** and **Store Longitude**: You do not need to fill them out if you do not remember your store’s coordinates. After you save, the extension will automatically provide these figures corresponding to the store address you enter in the General Information tab.
+
 ✓	**Store Icon**: You can upload an icon to use as store’s marker on G-map instead of the default pin icon. 
 
  - **Timer Schedule** tab:
@@ -185,7 +192,9 @@ Click on the Import **Store button** on the top right corner of the **Store Mana
 You can download the sample “stores.csv” file to view its structure. The columns are attribute values of the store and each row corresponds to one store. The title row (first row) contains the attribute name. Please note that you cannot edit it (important!) because the system reads data from CSV files based on the name. If the attribute value of any stores is null, you don’t have to fill data into it.
  -  Import file
 ✓	Create a CSV file with information of your stores following the sample file structure
+
 ✓	Click on button **Browse** to select your CSV file
+
 ✓	Select **Import** to import the CSV file
 
 ![enter image description here](https://lh3.googleusercontent.com/-lwXgnHX6B9E/WZvSRWx1xcI/AAAAAAAAAHE/-IYD5b1RtgkPFgVeojmbJp4nPeO4zzuHQCLcBGAs/s0/A%25CC%2589nh+27.png "Ảnh 27.png")
@@ -256,7 +265,7 @@ To integrate Google API in your site, fill your Google Map API key into this fie
  
 ![enter image description here](https://lh3.googleusercontent.com/-R8iwsGMyEms/WZvTijKOmiI/AAAAAAAAAJA/a8M3j3qAKBoCzNUpjCWL6LVuzzFqNlZYACLcBGAs/s0/A%25CC%2589nh+34.png "Ảnh 34.png")
 
- |**No.**  | Fields          | Sample | Result|
+ |**No.**|Fields|Sample|Result|
  |-----|----------------|----------------|------------------------------------------------|
 |1|Allow Facebook comment|Yes|On Store Detailed page, Customers can see comments of other users about a store on Facebook and make their own comments.|
 |2|Language for Facebook comment|English|Customers can use English to comment on Store detailed pages.|
