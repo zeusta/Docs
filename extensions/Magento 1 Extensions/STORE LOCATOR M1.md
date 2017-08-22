@@ -52,7 +52,7 @@ This section shows you how Customers can make use of the Store Locator extension
 To go to the **Store Listing** page, Customers can click on **Account** → **Store Locator**, then click the **Account** button on the top right corner.
 
 ![enter image description here](https://lh3.googleusercontent.com/-941nulnEzpw/WZvO_i_En-I/AAAAAAAAAC4/visbX_BVMPwaSrSoS2z8qDP-PjC3D38xQCLcBGAs/s0/A%25CC%2589nh+2.png "Ảnh 2.png")
-###Store Listing Page###
+### Store Listing Page
 ![enter image description here](https://lh3.googleusercontent.com/-AVt2cWz8iyY/WZvPZmBXM8I/AAAAAAAAADA/xznma9jKw5c7UurL4NAMH79Nd6n80-E4wCLcBGAs/s0/A%25CC%2589nh+3.png "Ảnh 3.png")
 As can be seen, this page contains 2 main parts: **Search** and **Store List**.
 
