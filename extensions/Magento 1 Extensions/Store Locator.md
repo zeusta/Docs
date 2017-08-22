@@ -93,8 +93,8 @@ You have seen how Store Locator works in front-end for customers. The following 
 
 ***New release**: One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was **that required future product updates are only available for** **_requests made with an API key_**. 
 This means active domains created before June 22, 2016, continue to be able to access the Google Maps JavaScript API, Static Maps API, and Street View Image API without an API key. They are not affected by keyless access being unavailable for new domains. However, Google Maps APIs Standard Plan advises all developers to use a key in order to guarantee their quality of service. Applications that continue to make keyless requests may experience some periodic service degradation if other keyless applications' usage spikes and draws down the global unchanged quota.  
-In order to get API key, follow these steps as follows: 
 
+In order to get API key, follow these steps as follows: 
 **Step 1**: Visit APIs Console at https://console.developers.google.com/apis/library and log into your Google Account.  Then, click **Create project** button on top of the menu. 
 
 ![enter image description here](https://lh3.googleusercontent.com/-mhyzABKA3dw/WZvQ-eb82jI/AAAAAAAAAEw/GLZEB-PBRdUtrOXXxGoEZJhWX_3R_T8TgCLcBGAs/s0/A%25CC%2589nh+12.png "Ảnh 12.png")
@@ -245,14 +245,15 @@ To configure the Store Locator extension, go to **Store Locator → Settings** o
  
  * **General:**
 ![enter image description here](https://lh3.googleusercontent.com/-rN2uk32h7xc/WZvTQGhbYAI/AAAAAAAAAIo/v9Eg1ERqujYwZIRUvSo86dQdmyGNq3z-wCLcBGAs/s0/A%25CC%2589nh+32.png "Ảnh 32.png")
+
  |No.  | Fields          | Sample | Result|
  |-----|----------------|----------------|------------------------------------------------|
- |1|Enable|Yes|Store Locator extension is enabled on your site.| 
- |2|List Store by|Alphabetical order |Store full list and store search result list are sorted by alphabetical order. |
- |||Distance|If Customers search stores by distance, the result list is sorted from the nearest to the furthest ones. ***Note**: this configuration is not applied to **Search by Area** and the store full list since Customers do not enter a specific location. | 
- |||Default|Store list is sorted based on Sort Order of each store.|
- |3|Page Title|Store Locator|The title of Store Listing and Store detailed pages in frontend is “Locate Store”.|
- |4|Display holidays and special days in the next| 30| Stores’ holidays and special days within the next 30 days will be shown on Store Detailed pages.| 
+ |1| Enable| Yes| Store Locator extension is enabled on your site.| 
+ |2| List Store by| Alphabetical order | Store full list and store search result list are sorted by alphabetical order. |
+ || | Distance| If Customers search stores by distance, the result list is sorted from the nearest to the furthest ones. ***Note**: this configuration is not applied to **Search by Area** and the store full list since Customers do not enter a specific location. | 
+ || | Default| Store list is sorted based on Sort Order of each store.|
+ |3| Page Title| Store Locator| The title of Store Listing and Store detailed pages in frontend is “Locate Store”.|
+ |4| Display holidays and special days in the next| 30| Stores’ holidays and special days within the next 30 days will be shown on Store Detailed pages.| 
 
 
  - **Googles:** 
