@@ -7,8 +7,10 @@ Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unautho
 How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit extension, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with Magento Store Credit extension, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
 
 ![enter image description here](https://lh3.googleusercontent.com/-QATQxgRlnS8/WZv2o6398-I/AAAAAAAAAWo/TlN3xAcC-q8nbLcmMVKFL49suK_2Msj5wCLcBGAs/s0/image001.png "image001.png")
+
 ## How to use 
 ----------
+
 ### Buy Credit Product
 After Customers login to your website, they can access the **Store Credit** page in two ways.
 Firstly, clicking on the **My Account** link, they can choose **Buy Store Credit** in the dropdown list. 
@@ -21,29 +23,6 @@ In this second way, they will be navigated to the **My Credit** page on which th
 
 After that, the **Store Credit** page will be shown as follows:
 ![enter image description here](https://lh3.googleusercontent.com/-TbU4sytyxIE/WZv5fUxQWDI/AAAAAAAAAXU/7Z-UTcsQMg4bYf1p3GYtPCtav8tezvp-QCLcBGAs/s0/image004.png "image004.png")
-**STORE CREDIT - MAGENTO 1**
-==============
-**Version 2.0**
-Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-## Introduction
-----------
-How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit extension, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with Magento Store Credit extension, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
-
-![enter image description here](https://lh3.googleusercontent.com/-QATQxgRlnS8/WZv2o6398-I/AAAAAAAAAWo/TlN3xAcC-q8nbLcmMVKFL49suK_2Msj5wCLcBGAs/s0/image001.png "image001.png")
-## How to use 
-----------
-### Buy Credit Product
-After Customers login to your website, they can access the **Store Credit** page in two ways.
-Firstly, clicking on the **My Account** link, they can choose **Buy Store Credit** in the dropdown list. 
-![enter image description here](https://lh3.googleusercontent.com/-2X19jy_zPuA/WZv3HsAndxI/AAAAAAAAAWw/NmByKs1miIE7J-0ujQWBEeFdRVUUK5LpwCLcBGAs/s0/image002.png "image002.png")
-
-Secondly, they can click on the **My Credit** tab on the left navigation on the **My Account** page.
-In this second way, they will be navigated to the **My Credit** page on which they just need to click on the **Buy store credit** button:
-
-![enter image description here](https://lh3.googleusercontent.com/-AMVIhQQ3urw/WZv4nq0QEiI/AAAAAAAAAXE/GwD_WgwkZRkA60UfwbiVHlP0TxiRDFOXACLcBGAs/s0/image003.png "image003.png")
-
-After that, the **Store Credit** page will be shown as follows:
-![enter image description here](https://lh3.googleusercontent.com/-4vdQpJPoaaM/WZv58K5SOXI/AAAAAAAAAXc/wB-ySM0QpVsGgUay3mpxi5vQ-uNaimniACLcBGAs/s0/image004.png "image004.png")
 
 As you can see, this page lists all credit products of your website. There are three types of credit products for Customers to choose:
 
@@ -249,5 +228,253 @@ In this tab, by default, our module sets up the field **Manage Stock** as **No**
 Besides the **Credit Product Manager** page, you can also create a new credit product by clicking on the **Add Product** button on the **Manage Product** page:
 
 ![enter image description here](https://lh3.googleusercontent.com/-YtKpU6KGRfQ/WZwJc2wVmpI/AAAAAAAAAgs/UfVUblm0L3Qt1u-I5FR7hOvaNE_LA6SMgCLcBGAs/s0/image040.png "image040.png")
+
+Then you will be navigated to the **New Product** page. In the **Settings** tab, you need to select **Customer Credit** for the **Product Type** field before going on to configure the product as above.
+
+![enter image description here](https://lh3.googleusercontent.com/-4dMAV14bwlU/WZwxJZLN-QI/AAAAAAAAAiY/bD13nvVwZ5oGHoOnF_H4X6Y4rdi5bLJtACLcBGAs/s0/image041.png "image041.png")
+
+### Manage Credit Transactions and Report Charts
+#### Credit Transactions
+Go to **Store Credit > Credit Transactions > Credit Transactions**
+
+![enter image description here](https://lh3.googleusercontent.com/-nTmbDiUwKVw/WZwx9ohRIyI/AAAAAAAAAik/KPgLsQCrp-MiLKfmi64HlxkCYjeXLfEBACLcBGAs/s0/image042.png "image042.png")
+
+Then the **Credit Transactions** page will be shown: 
+
+![enter image description here](https://lh3.googleusercontent.com/-2oueeHb21KU/WZwyI-Bj5aI/AAAAAAAAAiw/3chd91G6P8M4LxbSaeRbR_G8l1s8GlqtgCLcBGAs/s0/image043.png "image043.png")
+
+This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction and **transaction time**.
+You can search any transaction by using filter boxes in each column.
+If you click on a Customer’s email, you will be navigated to the Customer Manager page.
+
+#### Credit Report Charts
+Go to **Store Credit > Credit Transactions > Credit Report Charts**
+
+![enter image description here](https://lh3.googleusercontent.com/-dJ2B8_8HEEg/WZw0_sJi1tI/AAAAAAAAAjM/Rb1JPeSrXlg9F4PefTlp_eGtlVPHKU8ZwCLcBGAs/s0/image044.png "image044.png")
+
+Then the **Report Charts** page will be shown as follows:
+
+![enter image description here](https://lh3.googleusercontent.com/-bV-YJWk3biA/WZw1Icytt4I/AAAAAAAAAjU/eylbRxclGkgdIkzJqM0uusXoITo1exJCACLcBGAs/s0/image045.png "image045.png")
+
+This page can be divided into two main sections including **Life-time Reports** and **Period-of-time Report Charts.**
+
+
+
+ - **Life-time Reports**: There are 2 types of reports.
+ -***Customer Credit Statistics*** with the total credit, the total spent credit and the number of Customers with credit in your system.
+ -***Top 5 Customers with The Greatest Credit Balances*** with their names and current balances in your system.	
+ - **Period-of-time Report Charts:** This chart shows you the total spent credit and received credit of all Customers per day in your
+   chosen time range such as **last 24 hours, last 7 days, current
+   month**, etc.
+
+### Using Credit to checkout in backend:
+On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
+
+![enter image description here](https://lh3.googleusercontent.com/-sewbGENX80g/WZw1--IZn6I/AAAAAAAAAjo/a5GXGUiQA7koscSwWwXFPbrGVQu2tXFngCLcBGAs/s0/image046.png "image046.png")
+
+You just need to enter a credit amount and click on the **Use Credit** button. Our module will auto-update and calculate the grand total of the order.
+
+![enter image description here](https://lh3.googleusercontent.com/-g25h9o-jBwU/WZw2HH5GsII/AAAAAAAAAj0/4bjYQDDuU5sv2sjq_V8Y3AAzPlkqSJ--ACLcBGAs/s0/image047.png "image047.png")
+
+After submitting the order, the Customer’s credit balance will also auto updated and you can check the transaction on the **Credit Transaction** page.
+
+![enter image description here](https://lh3.googleusercontent.com/-ZPKjvhppwwM/WZw2PRoVCnI/AAAAAAAAAj8/tR_pcuqjoT8rUiovUEGXjmiBj5Dk1EbFwCLcBGAs/s0/image048.png "image048.png")
+
+###Refund Orders into Credit Balance
+When Customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, Customers can use the credit for future purchases and you do not have to lose money for the refund at the same time.
+After clicking on the **Credit Memo** button, our module shows a text field for you to enter the amount you want to refund into credit:
+
+![enter image description here](https://lh3.googleusercontent.com/-W61IsBZkU5I/WZw2a1cTEJI/AAAAAAAAAkI/yqUoQ3Uv_VIANlB5ox1zK82e0BthB01wgCLcBGAs/s0/image049.png "image049.png")
+
+After that, when you click on the **Refund Offline** button, the amount you entered as well as the credit that the Customer used for paying for the order will be refunded to his current credit balance. 
+Once the refund is finished, you can check the transaction on the **Manage Transaction** page:
+
+![enter image description here](https://lh3.googleusercontent.com/-ddieI3l0G04/WZw2n8oO1UI/AAAAAAAAAkQ/QvulV1gGmTMwd7fgJVbzleIWQeGbZm4XwCLcBGAs/s0/image050.png "image050.png")
+
+### Settings
+Go to **Store Credit > Settings**
+
+![enter image description here](https://lh3.googleusercontent.com/-cfe4fHqXf4c/WZw2zi97ejI/AAAAAAAAAkc/M54MUu-aA3sBfCwSgmWk8cURcI4zH5OAACLcBGAs/s0/image051.png "image051.png")
+
+ - **General Configuration** Tab:
+
+![enter image description here](https://lh3.googleusercontent.com/-hVMUZJYSwvU/WZw3h9vXBCI/AAAAAAAAAk8/kbCg3x9BnNEYv6j9rl_yGuYQlkk47R65gCLcBGAs/s0/image052.png "image052.png")
+
+|Title     | If you choose        | Result will be |
+|---------------|-------------------|----------------------------|
+|Enable|Yes|The module is enabled on your site.|
+|Allow sending credit|Yes| Your Customers can send credit to their friends. | 
+|Verify before sending credit|Yes| Your Customers are required to verify before sending credit to friends.| 
+|Groups can use credit| General| Only General Customers can use credit.| 
+
+ - **Spend Credit On** Tab
+ 
+ ![enter image description here](https://lh3.googleusercontent.com/-JmJGiGcWo4c/WZw5ZzhBQWI/AAAAAAAAAlU/JFx8hfEKg5QeLYb14dMYQ0H2Xb9Bnu1SgCLcBGAs/s0/image053.png "image053.png") 
+
+|Title     | If you choose        | Result will be |
+|---------------|---------------------|----------------------------|
+|Apply Customer Credit|After tax|Apply Customer credit discount to Customer’s order value after tax calculated|
+|Shipping Fee|No| Credit balance cannot be used to pay for Shipping Fee. | 
+	
+
+ - **Email Configuration** Tab:
+
+![enter image description here](https://lh3.googleusercontent.com/-SHXCV5T_skg/WZw5_Jt9SUI/AAAAAAAAAlo/p6d_Cy-W6w4IBApkOjWwXS8KNvKxof17gCLcBGAs/s0/image054.png "image054.png")
+
+
+ - **Adjust time for Customers credit reports on total used and total received credit** Tab:
+
+![enter image description here](https://lh3.googleusercontent.com/-Y55UgnIhuE4/WZw6LkSqrwI/AAAAAAAAAl0/WoKT5xj-X88YGSssNEwr4SZKV8uGJoeYgCLcBGAs/s0/image055.png "image055.png")
+
+
+ - **Style Configuration** tab: on this tab, you will be able to change background and color of Title
+
+![enter image description here](https://lh3.googleusercontent.com/-tM-DimO3yYE/WZw6Z9yrnNI/AAAAAAAAAl8/RV3aJqd4hPUXcfEh4_fDzNaD8s2iKrJdgCLcBGAs/s0/image056.png "image056.png")
+
+This is the end of Store Credit User Guide. We hope this manual is helpful for you to use the extension effectively. If you have any question, please contact us at support@magestore.com , we would be glad to assist you!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
