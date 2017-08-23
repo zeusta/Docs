@@ -64,11 +64,11 @@ When the order is complete, if the recipient do not have an account in the syste
 
 If the recipient has an account in the system, our module will auto-add that credit amount to the Recipient’s credit balance.
 
-![enter image description here](https://lh3.googleusercontent.com/-AwV77inCmoc/WZv-bAABHuI/AAAAAAAAAZg/4WKXilQ7sx83pDFUCFcrJB50Quu9_6b2wCLcBGAs/s0/image011.png "image011.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image011.png?raw=true)
 
 The sender always gets email notifications as below:
 
-![enter image description here](https://lh3.googleusercontent.com/-HkUS0aPtesk/WZv-kKnmoKI/AAAAAAAAAZs/bhH_StljhcQtJ_qJpn9ZroennHFQdEMJACLcBGAs/s0/image012.png "image012.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image012.png?raw=true)
 
 ### Manage Credit on My Credit page
 In order to access the **My Credit** page, Customers can click on the **My Credit** tab on the left navigation.
@@ -77,14 +77,14 @@ On the **My Credit** page, Customers can view information about their current cr
 
 In the section **Transaction History**, our module shows Customers all of their credit transactions with a lot of information including ***date, type, details, added/deducted value in transaction*** and ***credit balance.***
 
-![enter image description here](https://lh3.googleusercontent.com/-DDrguUNmX_E/WZv_lLOLTNI/AAAAAAAAAaA/SGEDxjF2yD4Z4PMqGY_gyrchnqqfCAizACLcBGAs/s0/image013.png "image013.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image013.png?raw=true)
 
 #### Send Credit to Friends
 First, Customers should click on the **Send Credit** tab on the left navigation to go to the **Send Credit to Friends** page.
 
 This page has 2 parts including **Send Credit To Friends** and **Credit Code List**.
 
-![enter image description here](https://lh3.googleusercontent.com/-hK8OgR2TZN8/WZv_60M86UI/AAAAAAAAAaQ/6gQoAdocLAA1fBoULYeFSBjRP64dbIuZwCLcBGAs/s0/image014.png "image014.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image014.png?raw=true)
 
 •	***Send Credit to Friends***: In this section, Customers can send credit to their friends.
 
@@ -98,18 +98,18 @@ In order to send credit to friends, Customers should enter the recipient’s ema
  	
  - **If the recipient’s email has not been registered on the website:**
 
-![enter image description here](https://lh3.googleusercontent.com/-axOV3ldZE3g/WZwBK_rdjZI/AAAAAAAAAa0/l2Wydly_ciUrMesLu5vsiiv-YrS4YwmKgCLcBGAs/s0/image015.png "image015.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image015.png?raw=true)
 
 In this case, our module will show a notification for the Customer that his friend will receive the credit code via that email. The Customer can enter a message and click on the **Send** button. 
 After that, his credit balance will be deducted immediately and an email will be auto-sent to the recipient’s email address:
 
-![enter image description here](https://lh3.googleusercontent.com/-T3EL51je1WE/WZwBW0WahWI/AAAAAAAAAa8/8hAxNDFZRGI7wZO_Lof0lzl8sOOwHO7yQCLcBGAs/s0/image016.png "image016.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image016.png?raw=true)
 
 As you can see, this email informs the recipient about the credit amount, message and a credit code which can be used to redeem credit to his balance.
 
 At the same time, the sender can also see the sent credit code in the **Credit Code List** section as below:
 
-![enter image description here](https://lh3.googleusercontent.com/-eZeD0opdJHk/WZwBkVVtCCI/AAAAAAAAAbI/UKTorUrQh8k5WiVPg1uLf1SowJvr-rUBACLcBGAs/s0/image017.png "image017.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image017.png?raw=true)
 
 In this section, Customers can follow the status of the credit codes they sent. When a recipient has not redeemed a credit code, Customers are allowed to cancel it by clicking on the **Cancel** link in the **Action** column. After the cancellation, the recipient cannot redeem that credit code any more.
 
@@ -117,30 +117,30 @@ Otherwise, once the credit code has been redeemed, the status will be updated an
 
 Customers can check their current balances and transactions of sharing credit in the **Transaction History** section.
 
-![enter image description here](https://lh3.googleusercontent.com/-hmd3AoeUkXw/WZwB9VRRJcI/AAAAAAAAAbU/KPt9bMwFXR8q0XI-sL82iufTgiTUa-VVACLcBGAs/s0/image018.png "image018.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image018.png?raw=true)
 
  - **If the recipient’s email has been registered on the website:**
 
-![enter image description here](https://lh3.googleusercontent.com/-aPtach9UH5Y/WZwCjT008uI/AAAAAAAAAbw/HcwdL1fu3AIdSFEWSFN1OhU4QQbjM2wngCLcBGAs/s0/image019.png "image019.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image019.png?raw=true)
 
 If the recipient’s email address has been registered on your website, our module will send credit directly to his credit balance instead of sending credit code to his email.
 Customers can check their current balances and transactions in the **Transaction History** section.
 
-![enter image description here](https://lh3.googleusercontent.com/-SAudb2m3oMI/WZwDJQEYlRI/AAAAAAAAAcA/EIwhPT4PyjAPuOu4EFlzkaeWodkYwxgQwCLcBGAs/s0/image020.png "image020.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image020.png?raw=true)
 
 At the same time, recipients can get information about this transaction:
 
-![enter image description here](https://lh3.googleusercontent.com/-5OfETpcv1Jg/WZwDW2-2mjI/AAAAAAAAAcU/ZSt2oKjm50owAMDrBfWovhn8Kcv790ELACLcBGAs/s0/image021.png "image021.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image021.png?raw=true)
 
 **Case 2: Customers are required to verify their credit sharing.**
 
 If you configure that Customers have to verify before sharing credit, after clicking on the **Send** button, they will receive an email as below:
 
-![enter image description here](https://lh3.googleusercontent.com/-FC77T25VLfI/WZwEs4oIeQI/AAAAAAAAAc0/Lhrq6e_EmhsUKZfpX-rYvePrpIHvHjA5ACLcBGAs/s0/image022.png "image022.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image022.png?raw=true)
 
 At the same time, they will be navigated to the **Verify** page:
 
-![enter image description here](https://lh3.googleusercontent.com/-ddsVWg-vuGY/WZwE27httoI/AAAAAAAAAc8/Zo7CRJtRWmQuObrG9EvhWw_08S_FJkypQCLcBGAs/s0/image023.png "image023.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image023.png?raw=true)
 
 On this page, our module shows them a notification about the verification requirement. In the **Credit Code List**, that code is put under the “**Awaiting verification**” status with a **Verify** link. 
 
@@ -152,72 +152,72 @@ After Customers finish verifying, our module will send credit to the recipient.
 
 In order to go to the **Redeem Credit** page, Customers can click on the **Redeem Credit** tab on the left navigation.
 
-![enter image description here](https://lh3.googleusercontent.com/-PFZaoKqZWLQ/WZwFSqo3_JI/AAAAAAAAAdE/ZjdOOOAVdXYWVy7FtnQ8CLrOzNWJYxEYwCLcBGAs/s0/image024.png "image024.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image024.png?raw=true)
 
 On this page, Customers can redeem the credit code they received to their credit balance by entering the code in the text field before clicking on the **Redeem** button. Another way is just to click on the link in the email.
 After redeeming code, Customers can check their current balance and transaction in the **Transaction History** section.
 
-![enter image description here](https://lh3.googleusercontent.com/-DUgB0Jv2Ht8/WZwF3bRL83I/AAAAAAAAAdY/hpQoDcdDvq81VbFe9PYt6hV9nGEqS_vkACLcBGAs/s0/image025.png "image025.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image025.png?raw=true)
 
 
 ### Checkout by Credit
 
 Customers can use credit to checkout on both **Shopping Cart** and **Checkout page**.
 
-![enter image description here](https://lh3.googleusercontent.com/-gt7XNGb1t2Y/WZwGT0HGHjI/AAAAAAAAAdo/vXBnVy_jCVwnT_vdnRbe5ETexauZZIeCQCLcBGAs/s0/image026.png "image026.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image026.png?raw=true)
 
 On the **Shopping Cart** page, our module will add a **Customer Credit** block for Customers to use their credit balances to checkout.
 To use a credit amount, Customers can first enter that number in the field and then click on the **Apply** button. Our module will auto-update and calculate the grand total of order.
 Please note that Customers cannot use credit to buy credit products. If their carts have one or more credit products, our module will show a notification in the **Customer Credit** block as below:
 
-![enter image description here](https://lh3.googleusercontent.com/-SD0FKIcr__M/WZwGjQEhZyI/AAAAAAAAAd0/IUkoXCxAx0IIUY4fhWN5wx3RaPxDQASzwCLcBGAs/s0/image027.png "image027.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image027.png?raw=true)
 
 On the **Checkout page**, in the **Payment Information** tab, Customers can also use credit to check out by ticking on the checkbox and then enter a credit amount they want.
 
-![enter image description here](https://lh3.googleusercontent.com/-m9glUFh3PA0/WZwGv5t6tCI/AAAAAAAAAeE/So4R69RgtN4J45hY7MEbkmjYhFtEgYuSwCLcBGAs/s0/image028.png "image028.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image028.png?raw=true)
 
 When Customers click on the **Continue** button, our module will auto-update the Grand Total of the order.
 After order has been placed, Customers’ credit balances will be updated immediately. They can check the current balances and transactions in the **Transaction History** section.
 
-![enter image description here](https://lh3.googleusercontent.com/-kNxUDmQL9ow/WZwG8PmDGfI/AAAAAAAAAeM/T8WQDsGcOFg1g6s6DfjaFqU2me93itRfACLcBGAs/s0/image029.png "image029.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image029.png?raw=true)
 
 ## HOW TO CONFIGURE
 ### Manage Customers Using Credit
 Go to **Store Credit > Manage Customers Using Credit**
 
-![enter image description here](https://lh3.googleusercontent.com/-pMlfnPRMSis/WZwHMgaOUFI/AAAAAAAAAeY/8nuza8SIIOQqetlseo7A7KWJbthP7_OBgCLcBGAs/s0/image030.png "image030.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image030.png?raw=true)
 
 Then the **Customers Using Credit Manager** page will be displayed as below:
 
-![enter image description here](https://lh3.googleusercontent.com/-eXoDNxahXUk/WZwHWoUnwRI/AAAAAAAAAek/qAiKHG49OVUzADJlwTTUJGPv0f-R-wGnACLcBGAs/s0/image031.png "image031.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image031.png?raw=true)
 
 This page shows a list of all Customers using credit and their information such as name, email, credit balance, telephone, etc.
 In order to view more details about a Customer, you can click on the **Edit** link in the **Action** column.
 
 Then you will be navigated to the **Store Credit** tab on the **Customer Manage** page that shows you all of that Customer’s transaction history and credit balance:
 
-![enter image description here](https://lh3.googleusercontent.com/-SSSlXRCQsL4/WZwHtL4ELoI/AAAAAAAAAe0/z94zbzk7UegvnW9RAMTnbSeoCpCDx-HRwCLcBGAs/s0/image032.png "image032.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image032.png?raw=true)
 
 Besides, you can change the Customer’s credit balance by entering an integer (a positive or negative number) and a comment in text fields as below:
 
-![enter image description here](https://lh3.googleusercontent.com/-jCiQ_E3hLEg/WZwH2kpAvQI/AAAAAAAAAfE/vLXdi5PjJxMU-2lcJ5Xhc5zPIcovBlk6ACLcBGAs/s0/image033.png "image033.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image033.png?raw=true)
 
 Our module will auto send email to Customer to announce about this transaction if you tick on **Send email to customer** checkbox. The email will be sent to the customer as bellow: 
 
-![enter image description here](https://lh3.googleusercontent.com/--s_CnOxJODI/WZwH_tHxu6I/AAAAAAAAAfQ/vympq28aBYMpXi-j5_rv6gl1IJD9IpwqwCLcBGAs/s0/image034.png "image034.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image034.png?raw=true)
 
 After you save, our module will auto update the Customer’s credit balance, send an email to that Customer and create a transaction as follows:
 
-![enter image description here](https://lh3.googleusercontent.com/-RSEbtKJBLlk/WZwIH3rAnFI/AAAAAAAAAfc/rcrddniHqc0knuxw3kbhcdpqnLYGeA5uwCLcBGAs/s0/image035.png "image035.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image035.png?raw=true)
 
 ### Manage Credit Products
 Go to **Store Credit > Manage Credit Products**
 
-![enter image description here](https://lh3.googleusercontent.com/-USI34Oo1SJg/WZwIUbzwVAI/AAAAAAAAAfo/eq9yK3kretIkMoGn1CBmFE-zhBCCgI5uwCLcBGAs/s0/image036.png "image036.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image036.png?raw=true)
 
 Then the **Credit Product Manager** page will be shown:
 
-![enter image description here](https://lh3.googleusercontent.com/-dvGDSVElOyE/WZwIcs7ybyI/AAAAAAAAAfw/B7nULzmPifADPnpbuGRAJzTIPLdc1MpdwCLcBGAs/s0/image037.png "image037.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image037.png?raw=true)
 
 
 This page shows you all credit **products with a lot of information such as product ID, name, SKU, quantity, status,** etc.
@@ -227,33 +227,33 @@ You can add a credit product just in a similar way to adding a normal product. Y
 
  - **Prices** Tab:
  
-![enter image description here](https://lh3.googleusercontent.com/-Vv0zd0JzYuA/WZwI2uOqKaI/AAAAAAAAAgI/1yl9exrsSbUkZP157_GuFycVhBobBUZoACLcBGAs/s0/image038.png "image038.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image038.png?raw=true)
 
 In this tab, you can configure the price of the credit product. There are three kinds of credit products you can use including **fixed price**, **option price** and **range price.**
 
 
  - **Inventory** Tab:
 
-![enter image description here](https://lh3.googleusercontent.com/-tFBdMJBqYXo/WZwJH9McldI/AAAAAAAAAgc/6DWNATQ1Pl0msPQL9gUt7o5kQvhncSwuwCLcBGAs/s0/image039.png "image039.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image039.png?raw=true)
 
 In this tab, by default, our module sets up the field **Manage Stock** as **No**. It means that you do not need to manage the quantity of credit products.
 Besides the **Credit Product Manager** page, you can also create a new credit product by clicking on the **Add Product** button on the **Manage Product** page:
 
-![enter image description here](https://lh3.googleusercontent.com/-YtKpU6KGRfQ/WZwJc2wVmpI/AAAAAAAAAgs/UfVUblm0L3Qt1u-I5FR7hOvaNE_LA6SMgCLcBGAs/s0/image040.png "image040.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image040.png?raw=true)
 
 Then you will be navigated to the **New Product** page. In the **Settings** tab, you need to select **Customer Credit** for the **Product Type** field before going on to configure the product as above.
 
-![enter image description here](https://lh3.googleusercontent.com/-4dMAV14bwlU/WZwxJZLN-QI/AAAAAAAAAiY/bD13nvVwZ5oGHoOnF_H4X6Y4rdi5bLJtACLcBGAs/s0/image041.png "image041.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image041.png?raw=true)
 
 ### Manage Credit Transactions and Report Charts
 #### Credit Transactions
 Go to **Store Credit > Credit Transactions > Credit Transactions**
 
-![enter image description here](https://lh3.googleusercontent.com/-nTmbDiUwKVw/WZwx9ohRIyI/AAAAAAAAAik/KPgLsQCrp-MiLKfmi64HlxkCYjeXLfEBACLcBGAs/s0/image042.png "image042.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image042.png?raw=true)
 
 Then the **Credit Transactions** page will be shown: 
 
-![enter image description here](https://lh3.googleusercontent.com/-2oueeHb21KU/WZwyI-Bj5aI/AAAAAAAAAiw/3chd91G6P8M4LxbSaeRbR_G8l1s8GlqtgCLcBGAs/s0/image043.png "image043.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image043.png?raw=true)
 
 This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction and **transaction time**.
 You can search any transaction by using filter boxes in each column.
@@ -262,11 +262,11 @@ If you click on a Customer’s email, you will be navigated to the Customer Mana
 #### Credit Report Charts
 Go to **Store Credit > Credit Transactions > Credit Report Charts**
 
-![enter image description here](https://lh3.googleusercontent.com/-dJ2B8_8HEEg/WZw0_sJi1tI/AAAAAAAAAjM/Rb1JPeSrXlg9F4PefTlp_eGtlVPHKU8ZwCLcBGAs/s0/image044.png "image044.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image044.png?raw=true)
 
 Then the **Report Charts** page will be shown as follows:
 
-![enter image description here](https://lh3.googleusercontent.com/-bV-YJWk3biA/WZw1Icytt4I/AAAAAAAAAjU/eylbRxclGkgdIkzJqM0uusXoITo1exJCACLcBGAs/s0/image045.png "image045.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image045.png?raw=true)
 
 This page can be divided into two main sections including **Life-time Reports** and **Period-of-time Report Charts.**
 
@@ -286,36 +286,36 @@ This page can be divided into two main sections including **Life-time Reports** 
 ### Using Credit to checkout in backend:
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
 
-![enter image description here](https://lh3.googleusercontent.com/-sewbGENX80g/WZw1--IZn6I/AAAAAAAAAjo/a5GXGUiQA7koscSwWwXFPbrGVQu2tXFngCLcBGAs/s0/image046.png "image046.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image046.png?raw=true)
 
 You just need to enter a credit amount and click on the **Use Credit** button. Our module will auto-update and calculate the grand total of the order.
 
-![enter image description here](https://lh3.googleusercontent.com/-g25h9o-jBwU/WZw2HH5GsII/AAAAAAAAAj0/4bjYQDDuU5sv2sjq_V8Y3AAzPlkqSJ--ACLcBGAs/s0/image047.png "image047.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image047.png?raw=true)
 
 After submitting the order, the Customer’s credit balance will also auto updated and you can check the transaction on the **Credit Transaction** page.
 
-![enter image description here](https://lh3.googleusercontent.com/-ZPKjvhppwwM/WZw2PRoVCnI/AAAAAAAAAj8/tR_pcuqjoT8rUiovUEGXjmiBj5Dk1EbFwCLcBGAs/s0/image048.png "image048.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image048.png?raw=true)
 
 ### Refund Orders into Credit Balance
 
 When Customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, Customers can use the credit for future purchases and you do not have to lose money for the refund at the same time.
 After clicking on the **Credit Memo** button, our module shows a text field for you to enter the amount you want to refund into credit:
 
-![enter image description here](https://lh3.googleusercontent.com/-W61IsBZkU5I/WZw2a1cTEJI/AAAAAAAAAkI/yqUoQ3Uv_VIANlB5ox1zK82e0BthB01wgCLcBGAs/s0/image049.png "image049.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image049.png?raw=true)
 
 After that, when you click on the **Refund Offline** button, the amount you entered as well as the credit that the Customer used for paying for the order will be refunded to his current credit balance. 
 Once the refund is finished, you can check the transaction on the **Manage Transaction** page:
 
-![enter image description here](https://lh3.googleusercontent.com/-ddieI3l0G04/WZw2n8oO1UI/AAAAAAAAAkQ/QvulV1gGmTMwd7fgJVbzleIWQeGbZm4XwCLcBGAs/s0/image050.png "image050.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image050.png?raw=true)
 
 ### Settings
 Go to **Store Credit > Settings**
 
-![enter image description here](https://lh3.googleusercontent.com/-cfe4fHqXf4c/WZw2zi97ejI/AAAAAAAAAkc/M54MUu-aA3sBfCwSgmWk8cURcI4zH5OAACLcBGAs/s0/image051.png "image051.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image051.png?raw=true)
 
  - **General Configuration** Tab:
 
-![enter image description here](https://lh3.googleusercontent.com/-hVMUZJYSwvU/WZw3h9vXBCI/AAAAAAAAAk8/kbCg3x9BnNEYv6j9rl_yGuYQlkk47R65gCLcBGAs/s0/image052.png "image052.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image052.png?raw=true)
 
 |Title     | If you choose        | Result will be |
 |----------------------------------|-------------------|----------------------------|
@@ -326,7 +326,7 @@ Go to **Store Credit > Settings**
 
  - **Spend Credit On** Tab
  
- ![enter image description here](https://lh3.googleusercontent.com/-JmJGiGcWo4c/WZw5ZzhBQWI/AAAAAAAAAlU/JFx8hfEKg5QeLYb14dMYQ0H2Xb9Bnu1SgCLcBGAs/s0/image053.png "image053.png") 
+ ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image053.png?raw=true) 
 
 |Title     | If you choose        | Result will be |
 |-------------------------------------|---------------------|----------------------------|
@@ -336,17 +336,17 @@ Go to **Store Credit > Settings**
 
  - **Email Configuration** Tab:
 
-![enter image description here](https://lh3.googleusercontent.com/-SHXCV5T_skg/WZw5_Jt9SUI/AAAAAAAAAlo/p6d_Cy-W6w4IBApkOjWwXS8KNvKxof17gCLcBGAs/s0/image054.png "image054.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image054.png?raw=true)
 
 
  - **Adjust time for Customers credit reports on total used and total received credit** Tab:
 
-![enter image description here](https://lh3.googleusercontent.com/-Y55UgnIhuE4/WZw6LkSqrwI/AAAAAAAAAl0/WoKT5xj-X88YGSssNEwr4SZKV8uGJoeYgCLcBGAs/s0/image055.png "image055.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image055.png?raw=true)
 
 
  - **Style Configuration** tab: on this tab, you will be able to change background and color of Title
 
-![enter image description here](https://lh3.googleusercontent.com/-tM-DimO3yYE/WZw6Z9yrnNI/AAAAAAAAAl8/RV3aJqd4hPUXcfEh4_fDzNaD8s2iKrJdgCLcBGAs/s0/image056.png "image056.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image056.png?raw=true)
 
 This is the end of Store Credit User Guide. We hope this manual is helpful for you to use the extension effectively. If you have any question, please contact us at support@magestore.com , we would be glad to assist you!
 
