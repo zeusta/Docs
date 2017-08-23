@@ -29,9 +29,20 @@ Customers can also see the expiration date of the Gift Card on Gift Card image.
 
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image008.jpg)
 
-   
-    
-  **Recipient name**: the name of the recipient<br/>- **Recipient email address**: the email address of the recipient. The system will send an email which contains a Gift Card code to this address.<br/>- **Custom message**: the message is delivered along with the Gift Card code.<br/>- **Day to send**: Customers can set up the date and time zone that a Gift Card will be sent.<br/>- If Customers want a Gift Card to be sent through a post office, they need to tick **Send through post office** checkbox. Gift Card product will be shipped as normal products.<br/>- If Customers want to get the notification email when their friend receives Gift Card, they need to tick the **Get notification email when your friend receives Gift Card** checkbox.<br/>- To preview how the Gift Card actually looks like when recipients receive, Customers can click on the Gift Card thumbnail image or the **Preview Gift Card** button. A popup of Gift Card interface will be shown as below:
+   <><br/>
+           -**Recipient name**: the name of the recipient
+  <br/>
+     - **Recipient email address**: the email address of the recipient. The system will send an email which contains a Gift Card code to this address.
+   <br/>
+     - **Custom message**: the message is delivered along with the Gift Card code.
+     <br/>
+     - **Day to send**: Customers can set up the date and time zone that a Gift Card will be sent.
+     <br/>
+     - If Customers want a Gift Card to be sent through a post office, they need to tick **Send through post office** checkbox. Gift Card product will be shipped as normal products.
+     <br/>
+     - If Customers want to get the notification email when their friend receives Gift Card, they need to tick the **Get notification email when your friend receives Gift Card** checkbox.
+     <br/>
+     - To preview how the Gift Card actually looks like when recipients receive, Customers can click on the Gift Card thumbnail image or the **Preview Gift Card** button. A popup of Gift Card interface will be shown as below:
 
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image010.jpg)
      
@@ -176,10 +187,11 @@ The **Gift Card Template Manager** page will be displayed as below:
 
 As you can see, this page lists all available templates in the system. You can add/edit/delete a template and export the list of templates to .CSV/.XML files. If you want to change status /delete templates in mass, simply select  multiple rows, apply an action then click on **Submit** button.
 There are 3 default Gift Card templates with 3 different design styles for you to select:
-
-<>
+<br/>
     - **Default template 1**: picture aligns with the **left** of Gift Card
+<br/>
     - **Default template 2**: picture aligns with the **top** of Gift Card
+<br/>
     - **Default template 3**: picture aligns with the **center** of Gift Card
     
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image042.jpg)
@@ -213,10 +225,15 @@ You can click on **Preview** button at the top right corner to see how Gift Card
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image052.jpg)
 
 In this tab, you can create a list of images for Customers to select when buying Gift Card in frontend. Just click on **Add** button and choose image files to upload. 
+
 ***Note**: You should use images with the following recommended sizes for better display:
+
     -  Template style is “Top”: 600x190px.
+    
     - Template style is “Left”: 250x365px.
+    
     - Template style is “Center”: 600x365px.
+    
 Click **Preview** under each image to see how Gift Card will look like. When you finish, remember to click on **Save** or **Save and Continue Edit** to save your work. 
 ### 3.3. Create/Edit a Gift Card Products
 There are two ways to create a Gift Card product: on **Manage Gift Card Products** page and on **Manage Products** page.
@@ -228,9 +245,8 @@ Go to **Gift Card** menu→ **Manage Gift Card Products**
 
 Click on **Add Gift Card Product** button
 You should pay attention to the following tabs:
-
-
-    -  **General** tab:
+<br/>
+-  **General** tab:
     
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image056.jpg)
 Different from normal products, there is another required field, **Select Gift Card template**, allowing you to choose templates for **Gift Card product**. You can add more templates to this field in Manage Gift Card Templates (please refer to section **3.1** for more details).
@@ -238,10 +254,8 @@ Different from normal products, there is another required field, **Select Gift C
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image058.jpg)
 
 After filling in general information, you should pay attention to Advanced Settings to configure Price & Conditions for Gift Card Products
-
-
+<br/>
         -  **Avanced Pricing** tab:
-        
 In **Avanced Pricing** tab, Admin can configure prices and values of a Gift Card Product. 
 
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image060.jpg)
@@ -250,28 +264,26 @@ The extension provides 3 **types of Gift Card value**, including **fixed value, 
 
 
 The next step you need to do is selecting the type of **Gift Card price**, which could be 1 in 3 following options:
-    
-    
+<br/>
     + **Default**: Gift Card price is the same as Gift Card value by default.
-    
+<br/>
     + **Fixed number**: Gift Card price is a fixed number as you configure in the next field
-    
+<br/>
     + **Percent of Gift Card value**: Gift Card price is a percentage of Gift Card value asyou configure in the next field.
     
 If you choose the type of Gift Card price as **Fixed number** or **Percent of Gift Card value**, remember to fill in the next field **Price/ Percentage** to set the price for your Gift Card product.
 
 The following example will help you have better understanding about these
 configurations.
-
-
+<br/>
     + **Type of Gift Card value**: Dropdown values
-    
+<br/>
     +**Gift Card values**: 20,30,40
-    
+<br/>
     +**Type of Gift Card price**: Percent of Gift Card value
-    
+<br/>
     +**Percentage**: 90,90,90
-    
+
 So Customers only have to pay 90% of Gift Card value, which means $36 for a $40 Gift Card for instance.
 Remember to click on **Save** button to save your work. After saving, the Gift Card product which you have just created will be shown on **Manage Gift Products** page as below:
 
@@ -280,13 +292,13 @@ Remember to click on **Save** button to save your work. After saving, the Gift C
     - Go to **Products** menu → **Catalog**
     
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image064.jpg)
-
+<br/>
     - In **Add Product** button, click on dropdown menu to select Product Type to be Gift Card as the following screenshot:
     
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image066.jpg)
-
-
+<br/>
     - Click on **Gift Card** for Product Type you want to create and enter information as in **Manage Gift Card Products** page.
+<br/>
     -  After saving, Gift Card product which you have just created is shown on both **Manage Products** page and **Manage Gift Products** page as below:
     
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image068.jpg)
@@ -335,18 +347,17 @@ Our module enables you to manage gift codes with ease. Go to **Gift Card** menu 
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image082.jpg)
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image084.jpg)
 This page gives you a detailed list of all gift codes in your system, including gift codes created from Gift Card orders in front-end and gift codes created/ generated in back-end. Each gift code is provided with essential information, such as the Initial Value, the Current Balance and gift code‟s status, etc. To help save much time in managing, our module allows you to select multiple gift codes and apply the following action(s) in mass.
-
-<>
+<br/>
         - Export the list of gift codes to CSV/XML files
+<br/>
         - Change status/send email/delete/print gift codes. Please note that gift codes without recipient email address cannot be sent.
         
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image086.jpg)
 
 Besides, you can add new gift codes manually, import gift codes in bulk from CSV files and edit each gift code by clicking on **Edit** link at the end of each corresponding row.
 - If you want to create a new gift code manually, select **Add Gift Code** and finish the form as below:
-
-<>
-         -  **General Information** tab:
+<br/>
+    -  **General Information** tab:
          
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image088.jpg)
 
@@ -361,8 +372,6 @@ No.|Field|Sample|Description
 7| Expired on| 03/8/16 |The expiration date for the gift code is March 8th, 2016
 8 |Store View| All Store Views |Customers can use the gift code in all store views.
 9 |Last Comments|| Add Admin‟s notes if needed
-
-
 <>
      - **Message Information** tab:
      
