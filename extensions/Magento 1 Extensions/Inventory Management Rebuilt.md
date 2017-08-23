@@ -1,5 +1,4 @@
 **INVENTORY MANAGEMENT REBUILT - MAGENTO 1**
-
 ----------
 
 **Version 1.1.0**
