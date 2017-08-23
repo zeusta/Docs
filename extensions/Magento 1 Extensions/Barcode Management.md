@@ -14,6 +14,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 Barcode by definition is the small image of lines (bars) and spaces that is affixed to retail store items, identification cards, and postal mail to identify a particular product number, person, or location. The code uses a sequence of vertical bars and spaces to represent numbers and other symbols. Barcode is a reliable method for cutting costs and savingtime for business.
 Barcode management extension from Magestore provides your business with a handful solution to generate barcode, print barcode label and scan barcode, all in one.
+
 **Feature full-list**:
 - Barcode listing
 View barcode generated in barcode listing
