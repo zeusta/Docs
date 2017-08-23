@@ -9,7 +9,7 @@ Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauth
 
 Inventory cost is generally between 20% and 30% of the cost to purchase inventory (http://www.investopedia.com). For many SMEs, this is counted as the major expense whether having online stores or not. As the result, it is vital to have an effective inventory management strategy for saving costs & gaining profits.
 
-![enter image description here](image 1)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image001.png?raw=true)
 
 The rebuilt **Inventory Management** for Magento 1 has been released to replace the former one. No more complicated pricing plan, the rebuilt version includes mainly features of the **Professional edition** (in old Inventory Management) as well as **new additional features**.
 Together with Magento 1 upcoming extensions: Barcode Management, Purchase Management, Order Fulfillment, Dropship & Reports, **Inventory Management** rebuilt is the critical element in **Order Success combo**. Everything in stock is under control, plus, all operations such as add, adjust, transfer stocks are simplified to be completed within the shortest of time! 
@@ -70,7 +70,7 @@ This tab provides an overview of stocks in all warehouses. Here you can view sto
 The extension provides an in-depth control over your **composite products** (configurable, bundle and grouped products).  You can see 3 quantity types of each variation or component of the composite product in a specific warehouse. 
 For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. 
 
-![enter image description here](image 2)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image002.png?raw=true)
 
 Note that there are 3 types of quantity shown:
 
@@ -82,7 +82,7 @@ Note that **Qty in Warehouse(s) = Qty to Ship + Available Qty**
 
 You can select a warehouse in the drop-down list and the stock details in that particular warehouse will be displayed. 
 
-![enter image description here](image 3)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image003.png?raw=true)
 
 Update the total quantity and Shelf Location easily on the Inventory grid in only 3 steps:
 
@@ -90,16 +90,16 @@ Update the total quantity and Shelf Location easily on the Inventory grid in onl
  - **Step 2**: Input the new Qty in Warehouse(s) and/or Shelf Location;
  - **Step 3**: Click “Update Stock”.
 
-![enter image description here](image 4)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image004.png?raw=true)
 
 **Shelf Allocation** is a useful information to find the product in the physical stock quickly, especially in fulfilling customer’s order.
 In addition, you can edit available qty of products in each Warehouse & Global by accessing to **Catalog > Manage Products**
 
-![enter image description here](image 5)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image005.png?raw=true)
 
 Then, click on Products you want to edit available Qty, go to **Inventory > Qty** > Tick on **Force edit**
 
-![enter image description here](image 6)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image006.png?raw=true)
 
 #### 1.2. Non-warehouse Products
 
