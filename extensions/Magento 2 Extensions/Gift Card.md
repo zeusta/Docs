@@ -356,7 +356,7 @@ This page gives you a detailed list of all gift codes in your system, including 
 
 Besides, you can add new gift codes manually, import gift codes in bulk from CSV files and edit each gift code by clicking on **Edit** link at the end of each corresponding row.
 - If you want to create a new gift code manually, select **Add Gift Code** and finish the form as below:
-<br/>
+
     -  **General Information** tab:
          
 ![GC2](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/GC2%20Image/image088.jpg)
@@ -373,7 +373,7 @@ No.|Field|Sample|Description
 8 |Store View| All Store Views |Customers can use the gift code in all store views.
 9 |Last Comments|| Add Admin‟s notes if needed
 <>
-     - **Message Information** tab:
++ **Message Information** tab:
      
 If you intend to send the gift code to a specific person, a Customer for example, this tab allows you to add information about the Customer, the recipient and a custom message.
         
