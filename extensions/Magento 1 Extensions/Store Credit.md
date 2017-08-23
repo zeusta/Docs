@@ -8,7 +8,7 @@ Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unautho
 
 How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit extension, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with Magento Store Credit extension, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
 
-![enter image description here](https://lh3.googleusercontent.com/-QATQxgRlnS8/WZv2o6398-I/AAAAAAAAAWo/TlN3xAcC-q8nbLcmMVKFL49suK_2Msj5wCLcBGAs/s0/image001.png "image001.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image001.png?raw=true)
 
 ## How to use 
 
@@ -18,40 +18,40 @@ How to engage your Customers more in one’s business is a regular question in s
 After Customers login to your website, they can access the **Store Credit** page in two ways.
 
 Firstly, clicking on the **My Account** link, they can choose **Buy Store Credit** in the dropdown list. 
-![enter image description here](https://lh3.googleusercontent.com/-2X19jy_zPuA/WZv3HsAndxI/AAAAAAAAAWw/NmByKs1miIE7J-0ujQWBEeFdRVUUK5LpwCLcBGAs/s0/image002.png "image002.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image002.png?raw=true)
 
 Secondly, they can click on the **My Credit** tab on the left navigation on the **My Account** page.
 
 In this second way, they will be navigated to the **My Credit** page on which they just need to click on the **Buy store credit** button:
 
-![enter image description here](https://lh3.googleusercontent.com/-AMVIhQQ3urw/WZv4nq0QEiI/AAAAAAAAAXE/GwD_WgwkZRkA60UfwbiVHlP0TxiRDFOXACLcBGAs/s0/image003.png "image003.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image003.png?raw=true)
 
 After that, the **Store Credit** page will be shown as follows:
-![enter image description here](https://lh3.googleusercontent.com/-TbU4sytyxIE/WZv5fUxQWDI/AAAAAAAAAXU/7Z-UTcsQMg4bYf1p3GYtPCtav8tezvp-QCLcBGAs/s0/image004.png "image004.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image004.png?raw=true)
 
 As you can see, this page lists all credit products of your website. There are three types of credit products for Customers to choose:
 
  - ***Fixed Value***: These credit products have fixed value.
  
-![enter image description here](https://lh3.googleusercontent.com/-3aR9PAgZUuo/WZv7OLru81I/AAAAAAAAAXs/-q-gBFS42NgXGEBOlXW05-9oDFqWA7hFgCLcBGAs/s0/image005.png "image005.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image005.png?raw=true)
 
  - ***Option Value:*** With this type, Customers can select a value option in the drop-down list box.
  
-![enter image description here](https://lh3.googleusercontent.com/-3qiDXmng_1w/WZv8TvNaZEI/AAAAAAAAAYU/4k4yEmCi-i4EBGLVBWesd2WfYRj1XhS0QCLcBGAs/s0/image006.png "image006.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image006.png?raw=true)
 
  - ***Range Value***: With this type, Customers can choose a desired credit amount within the range configured by admin in backend.
  
-![enter image description here](https://lh3.googleusercontent.com/-adBsOmm3Weo/WZv9MVNVwKI/AAAAAAAAAYw/LmDjIPJdsi4DiBwFz1DJNrYk0qOA0ZYMgCLcBGAs/s0/image007.png "image007.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image007.png?raw=true)
 
  After selecting credit products they like, Customers can add them to cart and checkout normally.
  
-![enter image description here](https://lh3.googleusercontent.com/-o-ny-GAKqAQ/WZv8wKSyUlI/AAAAAAAAAYg/vezzqTeD-AIl4euKqcHpNR0kH98I2uSaACLcBGAs/s0/image008.png "image008.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image008.png?raw=true)
 
 When the order is complete, our module will auto-add that credit amount to the Customer’s credit balance.
 
 Customers can also send Credits to their friends by ticking **Send credit to friend** checkbox and enter all the required fields:
 
-![enter image description here](https://lh3.googleusercontent.com/-Lp3JzYpby-A/WZv9oBlZNHI/AAAAAAAAAZE/-e6_0GHGJA8rrDe5FK6bW0Mbbv3g65rEACLcBGAs/s0/image009.png "image009.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image009.png?raw=true)
 
  - **Recipient name**: the name of the recipient
  - **Recipient email address**: the email address of the recipient. The
@@ -60,7 +60,7 @@ Customers can also send Credits to their friends by ticking **Send credit to fri
 
 When the order is complete, if the recipient do not have an account in the system will receive an email as below:
 
-![enter image description here](https://lh3.googleusercontent.com/-4o_q9q9YwO0/WZv-QelEWZI/AAAAAAAAAZQ/_uBJ2Ky0eQYvvK8FjCI38UuGAhWGnqjvACLcBGAs/s0/image010.png "image010.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Credit%20M1/image010.png?raw=true)
 
 If the recipient has an account in the system, our module will auto-add that credit amount to the Recipient’s credit balance.
 
