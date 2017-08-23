@@ -106,7 +106,8 @@ You can configure paper width and height, label width and height, font size…an
 ### 2.5. Print barcode
 -------------
 
-In Barcode configuration, admin can selclect the barcode tempalte from the templactes before tor print.
+In Barcode configuration, admin can select the barcode template from the templates created before to print. 
+
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Barcode/image010.png?raw=true)
 
