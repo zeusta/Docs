@@ -105,7 +105,7 @@ Then, click on Products you want to edit available Qty, go to **Inventory > Qty*
 
 When a product is newly-created and has not been assigned to any warehouse yet, it will automatically be allocated in this Non-warehouse list. From here, you can select a product and add it into a specific warehouse.
 
-![enter image description here](image 7)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image007.png?raw=true)
 
 #### 1.3. Warehouses
 
@@ -113,66 +113,66 @@ The **Warehouses** page displays each warehouse’s details such as its ID, name
 The **Inventory Management** rebuilt allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers. 
 You can enable this function in **Settings.**
 
-![enter image description here](image 8)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image008.png?raw=true)
 
 You can assign multiple Magento store views to one Warehouse by clicking on “**Mapping Location – Warehouses**” button
 
-![enter image description here](image 9)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image009.png?raw=true)
 
 You can also create unlimited new warehouses by hitting the “**Add a New Warehouse**” button.
 
-![enter image description here](image 10)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image010.png?raw=true)
 
 In addition, by clicking on each warehouse, you can access 5 tabs as below:
 
  - **General Information**: records basic details of the warehouse such as Name, Code, Contact Email, Address, etc. If you enable the “**Link warehouse to Magento front store view**” setting above, this is where you can select the warehouse’s linked front store.
  
-![enter image description here](image 11)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image011.png?raw=true)
 
  - **Stock On Hand**: lists out all existing products in the warehouse. Clicking on each product will let you promptly revise its total Qty in the specific Warehouse and its Shelf Location. 
 
 On this section, if you click on any warehouses, there will have “**Export**” button along with CSV/Excel XML file.
 
-![enter image description here](image 12)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image012.png?raw=true)
 
 If you want to add a product into a warehouse, you should go to **Catalog > Manage Product** in your Magento core backend.
 
-![enter image description here](image 13)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image013.png?raw=true)
 
  - **Stock Movement**: provides stock changing record of the warehouse. Information includes added/ subtracted quantity, product SKU, movement type, movement date and reference number to access further details by a click.
  - **Warehouse Permission**: lets you assign and manage staff account permission. Here you can set staff permission by clicking at the “Assign Staffs” button at the right of the page. 
-![enter image description here](image 14)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image014.png?raw=true)
 An **Assign Staff** window will appear as in the screenshot below. Just select the staff and his/her role, click “**Add Selected Staff**” button and you are done!
-![enter image description here](image 15)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image015.png?raw=true)
 You can also select to edit/delete staff permission directly on the **Warehouse Permission** menu.
 Finally, do not forget to save your recent changes.
 
-![enter image description here](image 16)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image016.png?raw=true)
 
 **ADDITIONAL GUIDE: Manage User/ Staff Roles and Permissions**
 If you want to create and/or edit user roles and permissions in different sections in the Inventory Management, go to the “**Permission**” submenu under the “**System**” menu of the Magento core backend.
 
-![enter image description here](image 17)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image017.png?raw=true)
 
 The “**User**” tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.
 
-![enter image description here](image 18)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image018.png?raw=true)
 
 Admin can view, edit and remove staff permission by clicking on each user. Admin can also assign a warehouse to a user here.
 
-![enter image description here](image 19)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image019.png?raw=true)
 
 The “**Roles**” tab lets you see a  list  of  role  and  create  a  new  role  for  users. 
 
-![enter image description here](image 20)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image020.png?raw=true)
 
 In “**Role Info**” tab, you need to input the role name, verify the admin’s password. Then select the checkbox of the role’s permissions in the drop-down list, or select “**All**” in the “**Resource Access**” option to grant full permission to the role. When done, hit “**Save Role**” to finish.
 
-![enter image description here](image 21)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image021.png?raw=true)
 
  - **Dashboard** (NEW): demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
 
-![enter image description here](image 22)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image022.png?raw=true)
 
 Manage each warehouse’s sales status at a glance with visual charts. You can also print these charts or download with 4 different options of either PNG, JPEG, PDF or SVG vector by opening a menu next to each chart.
 
@@ -192,11 +192,11 @@ This extension is a powerful assistance to help you keep track of any changes in
 
 Sometimes your recorded product quantity does not match the actual physical number. Then, this function is exactly what you need to make changes quickly. To make a new stock adjustment, you need to select the warehouse which stores the product to be adjusted, fill in the reason for the adjustment and click “**Start to Adjust**” at the top right of the page.
 
-![enter image description here](image 23)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image023.png?raw=true)
 
 The next window allows you to select whatever product you want to adjust its quantity and type in the new figure. Alternatively, you can import product quantities via a CSV file with a provided sample. This means you can adjust quantities of several products at once.
 
-![enter image description here](image 24)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image024.png?raw=true)
 
 Then you have 3 options to enable your changes:
 
@@ -204,21 +204,21 @@ Then you have 3 options to enable your changes:
  - **Save and continue to edit**: temporarily save the adjustment in Pending status. You continue to stay on a page with your products to continue any further edits. 
  - **Adjust**: immediately activate the quantity changes. Once you hit this button, there is no way to undo it unless you carry out another stock adjustment. The adjustment is marked Completed on the History page.
 
-![enter image description here](image 25)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image025.png?raw=true)
 
 ##### 2.1.2. Stock Adjustment History 
 
 The Stock Adjustment History page shows details of each adjustment including date of the adjustment, staff who made the adjustment, warehouse name and status.
 
-![enter image description here](image 26)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image026.png?raw=true)
 
 All adjustments, whether in Pending or Completed status, are recorded on the Stock Adjustment History page. 
 
-![enter image description here](image 27)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image027.png?raw=true)
 
 Clicking on each adjustment will transfer you to a page where you can see more information of an adjustment including adjusted product ID, Name, SKU, old Qty and Adjusted Qty. For an adjustment with Pending status, this is the page where you have left the unfinished adjustment. Complete it by clicking “**Adjust**”. 
 
-![enter image description here](image 28)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image028.png?raw=true)
 
 #### 2.2. New Stocktaking and Stocktaking History
 
@@ -226,7 +226,7 @@ Clicking on each adjustment will transfer you to a page where you can see more i
 
 This tool will help you carry out a stocktaking successfully to prevent any mismatch between the recorded product quantities and the actual inventory in your physical warehouses. 
 
-![enter image description here](image 29)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image029.png?raw=true)
 
 This process consists of 5 easy-to-follow stages:
 
@@ -234,12 +234,12 @@ This process consists of 5 easy-to-follow stages:
 In this Stage, you select the warehouse you want to stock take, the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional.
 Next, you can choose the products to be stock taken by clicking the “**Prepare Product List**” button (Stage 2) at the top right of the page. Alternatively, you can skip it to go straight to Stage 3 by clicking the “**Start Stocktaking**” button.
 
-![enter image description here](image 30)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image030.png?raw=true)
 
  - Stage 2: **Prepare Products**
 You can select the products you want to stock take here or import products using a CSV file.
 
-![enter image description here](image 31)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image031.png?raw=true)
 
 **Save** to stay with your selected products for further edits, or click “**Start Stocktaking**” to proceed Stage 3.
 
@@ -248,17 +248,17 @@ You can select the products you want to stock take here or import products using
 Select and type in the product quantity that you have recently counted. 
 Click “**Complete Data Entry**” to proceed to Stage 4 and have a review of the changes, click “**Complete Stocktaking**” to finish the process or “**Save**” to continue editing.
 
-![enter image description here](image 32)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image032.png?raw=true)
 
  - Stage 4: **Complete Data Entry**
 This Stage allows you to have a final review of your recent quantity counts. Click either “**Re-entry Data**” or “**Complete Stocktaking**” to move to Stage 5. If you are not an admin, your counting results will be submitted to the admin/ manager for approval before the new quantity is officially updated and the process is marked Completed. 
 
-![enter image description here](image 33)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image033.png?raw=true)
 
  - Stage 5: **Complete Stocktaking**
 This page shows you all details of the stocktaking process including the product quantity before and after the stocktaking process. Make a **New Stock Adjustment** by hitting the “**Adjust Stock**” button or download a CSV copy of the grid using the “**Download Difference List**”.
 
-![enter image description here](image34)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image034.png?raw=true)
 
 ##### 2.2.2.	Stocktaking History
 
@@ -268,7 +268,7 @@ All Stocktaking details are listed here. Different status shows to which stage t
  - Status “Processing” means Stage 2: Prepare Products is done
  - Status “Verified” means Stage 3: Stock Counting is done
 
-![enter image description here](image 35)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image035.png?raw=true)
 
 Click on each stocktaking record to view all details of the process.
 
@@ -276,7 +276,7 @@ Click on each stocktaking record to view all details of the process.
 
 This menu records all movements of the stock in each warehouse. The table shows the number of products added/subtracted from the warehouse, product SKU, product movement type, warehouse name, reference number, movement date. Filtering a SKU will help you track the product’s movements and changed quantity in each warehouse in no time.
 
-![enter image description here](image 36)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image036.png?raw=true)
 
 Clicking on each movement item will open up its further details. 
 You also have options to export the stock movement data to CSV or Excel XML file.
@@ -288,11 +288,11 @@ You also have options to export the stock movement data to CSV or Excel XML file
 There’s no need an assistant to analyze and show you whether you should order additional items for a specific product in the next Order Purchasing or not. **Inventory Management rebuilt** allows you to get the prediction of supply needs until the certain time stamp.
 To process a prediction, choose the warehouse(s) you would like to analyze, select the time range to collect sales data and then pick the date that you want to see forecast results. Click to **Show Supply Needs** button to finally view the prediction.
 
-![enter image description here](image 37)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image037.png?raw=true)
 
 The forecast data will be shown in the table as below:
 
-![enter image description here](image 38)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image038.png?raw=true)
 
 Here, you can view the average quantity sold per day of the product during the chosen sales period. The prediction will show you **Available Date** which performs the forecast day of product’s running out of stock. The **Supply Needs** column demonstrates the quantity of product that expected to be sold until the time stamp you set.
 For instance, the product msj000 has been sold 6 items in total during the last 30 days. It is estimated that the remaining quantity will be enough to be sold until 9/7/2017. It also suggests you to add further 11 items if you want to meet the customers’ demand until 31/8/2017.
@@ -308,21 +308,21 @@ Admin can create unlimited rules to notify low stock status. One rule contains: 
 
  - **Rule Information**: includes general data such as Rule Name, Status, and Update Time. You can set up the period of time in which the Low Stock Notification is activated.
 
-![enter image description here](image 39)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image039.png?raw=true)
 
  - **Condition**: allows you to set up Product Conditions & Low Stock Condition. In the Product Conditions section, you can set the limitation for applying rules. For example, the Low Stock Rule is applied for category Decorative Accents or a specific product.
 As for Low Stock Condition, there are 2 rule types for you to select: Available Days and Available Quantity. With **Available Days** option, the system will estimate how many days the product is available for purchasing based on its sales history. 
 
-![enter image description here](image 40)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image040.png?raw=true)
 
 For instant, if you set sales period equals to 30 and the threshold day is 3, the notification will appear 3 days before the product is out of stock which are predicted following the sales history in 30 days up to now.
 With **Available Quantity** option, it only request for threshold quantity that you would like to receive low stock notification. If you set the threshold is 5, the system will notify you when the quantity of product(s) reach that number. 
 
-![enter image description here](image 41)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image041.png?raw=true)
 
  - **Action**: confirms who will receive the low stock notification by listing the email in Notification recipient list and the message which will appear.
  
-![enter image description here](image 42)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image042.png?raw=true)
 
 Remember to select **Save and Apply** to start running the Low Stock Rule
 
@@ -330,12 +330,12 @@ Remember to select **Save and Apply** to start running the Low Stock Rule
 
 The list displays all notification following the low stock rules. Notifications are noted with Created Date, Warning Message, Notification recipients. Click to **Action > View** to access the detail.
 
-![enter image description here](image 43)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image043.png?raw=true)
 
 Each notification allows you to track the low stock products’ information such as SKU, Name, and Current Qty.
 The Low Stock Notification will be sent to recipients’ email as well as be displayed on the Inventory Management panel.
 
-![enter image description here](image 44)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image044.png?raw=true)
 
 ### 4.	Stock Transfer & Stock Transfer History
 
@@ -354,27 +354,27 @@ To start sending stock, go to **Inventory > Transfer Stock > Send Stock.**
  - Fill in the **Reason(s) for sending stock** field. It is required for reviewing the transfer later.
 You can also change the **Transfer Code** as preferred.
 
-![enter image description here](image 45)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image045.png?raw=true)
 
  - Click on Prepare Product List
  - You can import the product list via CSV files following the sample format.
 
-![enter image description here](image 46)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image046.png?raw=true)
 
 Or, you can select products to send manually
 
-![enter image description here](image 47)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image047.png?raw=true)
 
  - Once finished, click on **Direct Transfer** to start the stock sending instantly. The transfer will be recorded as **completed** if you choose to Direct Transfer. The transfer will be recorded as **pending** if you only click to **Save**.
  - Or, you can keep track on the transfer process by clicking on **Start** **Sending**. The transfer will move to **processing** status if you start sending.
 Here, the admin staff in Destination Warehouse can check the quantity that they actual receive. For some reasons (the shipping is delayed, some products in broken, incorrect counting before sending…), the quantity that destination warehouse received is less than the quantity sent. In that case, the admin notes down the actual quantity and select Save Receiving.
 
-![enter image description here](image 48)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image048.png?raw=true)
 
 The admin can keep updating the receiving quantity until all quantity is sent completely. 
 Then, complete the transfer by select **Mark as Completed**. Please note whatever the status of the transfer is, they are all listed in **Stock Sending History.**
 
-![enter image description here](image 49)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image049.png?raw=true)
 
 ##### 4.1.2. Request Stock
 
@@ -385,29 +385,29 @@ To create new Stock Request, go to **Transfer Stock > Request Stock**
  - Choose a **Source Warehouse** and a **Destination Warehouse**. Source Warehouse is where you would like to send the request to.
  - Fill in the **Reason(s) for sending stock** field. It is required for reviewing the transfer later. You can also change the **Transfer Code** as preferred.
  
-![enter image description here](image 50)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image050.png?raw=true)
  - Click on Prepare Product List
  - You can import the product list via CSV files following the sample format. Or, you can select products for requesting manually.
 
-![enter image description here](image 51)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image051.png?raw=true)
 
  - Once finished, click on **Start Request** to start the stock requesting. The transfer will be recorded as **pending** if you only click to **Save**.
 
 Here, the admin staff in Source Warehouse can check the quantity that they send in the **Delivery History.**
 
-![enter image description here](image 52)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image052.png?raw=true)
 
 For some reasons (e.g. shortage of quantity…), the quantity that source warehouse send might be less than the quantity requested. In that case, the admin notes down the actual quantity for sending and select **Save Delivery.**
 
-![enter image description here](image 53)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image053.png?raw=true)
 
 The admin in Source Warehouse can keep updating the sending quantity until all quantity is sent completely.
 
-![enter image description here](image 54)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image054.png?raw=true)
 
 Meanwhile, the admin in Destination Warehouse can track the quantity that they receive in **Receiving History** tab. Then, complete the transfer by select **Mark as Completed.** 
 
-![enter image description here](image 55)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image055.png?raw=true)
 
 Please note whatever the status of the transfer is, they are all listed in **Stock Request History.**
 
@@ -418,7 +418,7 @@ Please note whatever the status of the transfer is, they are all listed in **Sto
 
 Both of these actions can be processed by 3 steps: select product list, insert quantity for transferring and click on Start Transferring.
 
-![enter image description here](image 56)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image056.png?raw=true)
 
 All transfer relating to external location are recorded in H**istory of Stock Transfer to External Location or History of Stock Transfer from External Location.**
 
@@ -426,14 +426,14 @@ All transfer relating to external location are recorded in H**istory of Stock Tr
 
 The record of stock transfer is separated into 4 lists corresponding to 4 operations of stock transfer as mentioned above. For example, **Stock Request History** will show you a list of all stock requests created in the system.
 
-![enter image description here](image 57)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image057.png?raw=true)
 
 ## Settings 
 
 Go to **Settings** tab, the configuration page contains several criteria as below:
 
 
-![enter image description here](image 58)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_IM%20Rebuilt/image058.png?raw=true)
 
 | Settings| Description| Example|
 |---------|--------------|--------------------|
