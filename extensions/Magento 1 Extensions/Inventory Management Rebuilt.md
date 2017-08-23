@@ -77,6 +77,7 @@ Note that there are 3 types of quantity shown:
  - **Qty in Warehouse(s)**: total amount of products in physical warehouses;
  - **Qty to ship**: the number of products which has been ordered and is ready to be shipped;
  - Available Qty: the amount of products left in the virtual catalog which is available to sell.
+ 
 Note that **Qty in Warehouse(s) = Qty to Ship + Available Qty**
 
 You can select a warehouse in the drop-down list and the stock details in that particular warehouse will be displayed. 
@@ -85,9 +86,9 @@ You can select a warehouse in the drop-down list and the stock details in that p
 
 Update the total quantity and Shelf Location easily on the Inventory grid in only 3 steps:
 
- - Step 1: Select the product(s);
- - Step 2: Input the new Qty in Warehouse(s) and/or Shelf Location;
- - Step 3: Click “Update Stock”.
+ - **Step 1**: Select the product(s);
+ - **Step 2**: Input the new Qty in Warehouse(s) and/or Shelf Location;
+ - **Step 3**: Click “Update Stock”.
 
 (image 3)
 
