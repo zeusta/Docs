@@ -104,66 +104,66 @@ It will be shown in frontend as below:
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image015.png?raw=true)
 - With **“Product listing”** types, you need to enter the column number you want to show, Products Box Title, after that you select products list in the **Products** field:
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image018.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image016.png?raw=true)
 
 And your menu will be shown in frontend as bellow:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image019.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image017.png?raw=true)
 - With **“Product Grid”** type, configuration for this type is similar to Product Listing type but on menu content this type will show products list you select with more information such as product image, product name and price:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image020.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image018.png?raw=true)
 - If you choose **“Content”** type, **Menu Content** field will be shown for you to enter the information you want to show in main content part.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image021.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image019.png?raw=true)
 
  - Featured Content section:
  
 In this section, you must to select width of featured content in menu content.
 For example: If menu content width is 100%, width of featured content is 60%, so width of main content will be 40%.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image022.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image020.png?raw=true)
 With Product type, it will be shown as bellow:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image023.png)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image021.png?raw=true)
 
 With **Category** type, it will be shown as bellow:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image024.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image022.png?raw=true)
 
 
 If you select **“Content”** type, it is similar to **Content** type of **Main Content** section. It will show you the **Featured Content** field to enter the information you want to show on your menu:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image025.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image023.png?raw=true)
 
  - **Add content for header, footer** 
  
 You can configure the information in Header & Footer Content section or make a quick configuration for content of menu item by clicking on each part of the sample layout (Header content, Main content, Footer content) and you will be immediately navigated to its configuration part to add content.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image026.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image024.png?raw=true)
 
 In the text editor form, you can add text and image.
 Fill out data you want to show and save your changes. You can see the Menu item is added to the list in Menu Manager Page as below:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image027.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image025.png?raw=true)
 
 The menu item which is successfully added will be displayed in front-end as follows:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image028.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image026.png?raw=true)
 
 #### Create new Left Menu Item
 Similar to **Create new Top Menu**, you also must to configure all required fields in **General Information** tab and **Content** tab. Please refer **2.1.1. Create new Top Menu** for details.
 * **Notes:** With left menu, the **Alignment Type** just has 2 options for you to select. They are **From top menu** (the menu content will appear from the top of menu bar down) and **From top item** (the menu content will appear from the top of menu item you are creating). And the width of left menu item is from the right of menu bar to the right of the page.
 On you website, the left menu will be shown as bellow:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image029.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image027.png?raw=true)
 
 #### Edit Menu Item:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image030.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image028.png?raw=true)
 
 If you want to edit any menu item, you just need to click on its row or link **Edit** in **Action** column. The **Edit Menu** page will be shown for you edit the field in General Information tab and Content tab:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image031.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image029.png?raw=true)
 
  After editing, please remember to save your work by clicking on **Save Menu** button or **Save And Continue Edit** button.
 
@@ -171,11 +171,11 @@ If you want to edit any menu item, you just need to click on its row or link **E
 
 **Refresh Cache** is an innovation in our Mega Menu extension. While many other Menu extensions interact with database directly, thus slowing your site, Magestore Mega menu uses generated HTML code of your menu, so it wouldn't affect your site performance. In case your site has any change in product or category, the system will show a notification for you to re-index the menu.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image032.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image030.png?raw=true)
 
 You can click on link **Reindex** in the notification or go to **Mega Menu > Menu Cache Management**. You will be navigated to Refresh cache page.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image033.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image031.png?raw=true)
 
 You just need to click on the **Refresh** button; the system will refresh cache automatically. 
 
@@ -184,7 +184,7 @@ You just need to click on the **Refresh** button; the system will refresh cache 
 Go to **Back-end > Mega Menu > Settings**. This page has 5 sections, including: **General Configuration, Top Menu Configuration, Left Menu Configuration, Mobile Version Configuration** and **Implement Code**.
 
  - General Configuration:
- ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image034.png?raw=true)
+ ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image032.png?raw=true)
 -	**Enable Mega Menu**: allow you to enable/ disable the extension.
 -	**Menu Effect**: allow you to configure the effect of menu. There are three types:
 
@@ -198,34 +198,34 @@ Go to **Back-end > Mega Menu > Settings**. This page has 5 sections, including: 
 
 
  - **Top Menu Configuration** 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image035.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image033.png?raw=true)
 This section includes configurations for the top menu.
 - **Top Menu alignmen**t:  allow you to choose the way to display the top menu bar. There are three types for you to choose:
 
 -**Left**: your top menu items will be arranged from the left of your site to the right.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image036.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image034.png?raw=true)
 
 -**Right**: your top menu items will be arranged from the right of your site to the left.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image037.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image035.png?raw=true)
 
 -**Justify**: menu items will be justified both to the right & left.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image038.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image036.png?raw=true)
 
 - **Size to change menu to Mobile version**: if the device size is lower than the number you enter into this field, the menu will be changed to Mobile version.
 -	**Menu Item height**: allow you to configure the height of the top menu bar.
 -	**The other configurations**: allow you to customize your menu items style to fit with your site, including: menu item size, menu background color, submenu background color, active menu item background color, menu item color, active menu text color, submenu box title color, submenu main text color, submenu link color and text label.
 
  - **Left Menu Configuration:**
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image039.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image037.png?raw=true)
 
 Similar to Top menu configuration, left menu enables you to customize the left menu items styles except Menu alignment filed and Menu item height field. Please refer to **Top Menu Configuration** part for details.
 
  - **Mobile Version Configuration:**
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image040.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image038.png?raw=true)
 
 In this section, you can customize you menu item style when the menu is changed into mobile version.
 This section allows you to flexibly configure mobile menu such as anchor background color, anchor color, mobile item font size, text label, mobile item text color, mobile item background color, active mobile item background color, submenu box title color, mobile submenu main text color, mobile submenu main link color. 
@@ -233,16 +233,16 @@ Besides, in **Mobile Effect** field, you can configure how to display the menu o
 
 On mobile, your menu bar will be shown as bellow:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image041.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image039.png?raw=true)
 
 When you click on your menu item, it will be displayed:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image042.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image040.png?raw=true)
 
  - **Implement Code:**
 We provide this part which is just recommended for developers. This part enables to show Mega Menu in different places.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image043.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_MegaMenuM1/image041.png?raw=true)
 
 Remember to click on the **Save Config** button to save your work. 
 We hope that you will find this user guide helpful during using Magestore Mega Menu extension. 
