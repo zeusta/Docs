@@ -40,6 +40,16 @@
     
         
     <url>
+     <loc>https://docs.magestore.com</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
      <loc>https://docs.magestore.com/Onestep Checkout/Magento 2/</loc>
      <lastmod>2017-08-23</lastmod>
      <changefreq>daily</changefreq>
