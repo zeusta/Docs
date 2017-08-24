@@ -20,108 +20,108 @@ This section will show you how Customers engage on the Checkout page when your w
 ### One Step Checkout page Overview
 If you set enabling **Redirect to checkout automatically after adding product to cart** (see more in *session 3.1*), whenever Customers choose product and click Add to cart, it will be automatically navigated to Checkout page.
 
-![customers can be redirect to checkout automatically after adding product to cart](./Image/How-to-use/osc2-use-1.png?raw=true)
+![customers can be redirect to checkout automatically after adding product to cart](./Onestep-Image/How-to-use/osc2-use-1.png?raw=true)
 
 Otherwise, Customers have to select the cart icon in the top-right corner and click on **Go to Checkout**. Then, it will redirect to the Checkout page. Here they can see the difference between the Step-by-Step default Checkout page of Magento and One Step Checkout page.
 
-![5 check-out steps are shown on one page](./Image/How-to-use/osc2-use-2.png)
+![5 check-out steps are shown on one page](./Onestep-Image/How-to-use/osc2-use-2.png)
 
 The Step-by-Step checkout page is a page with 5 separate steps including **Billing Address, Shipping Address, Shipping Method, Payment Method** and **Order Review**. Customers have to complete each step before going to the next one. On the One Step Checkout page, all steps appear simultaneously. **Customers can fill in/edit information of any steps any time.** This improvement can save Customers 2-3 minutes for checkout.
 
 ### Order Comment
 Customers also can add additional comments to their orders on the Checkout page, such as special instructions or the color of wrapping paper.
 
-![customers can add comment to order on checkout page](./Image/How-to-use/osc2-use-19.png)
+![customers can add comment to order on checkout page](./Onestep-Image/How-to-use/osc2-use-19.png)
 
 ### Sign up for Newsletter
 You can ask Customers to sign up for your newsletter during checkout by just enabling the checkbox **Sign Up for Our Newsletter**. You can even set it checked by default. This method is an easy way to help you gain many more subscribers to maintain relationship later.
 
-![customers can select Sign up to Newsletter on checkout page](./Image/How-to-use/osc2-use-20.png)
+![customers can select Sign up to Newsletter on checkout page](./Onestep-Image/How-to-use/osc2-use-20.png)
 
 ### Terms and Conditions
 To avoid any arising dispute after Customers place order, make sure they fully understood and agreed to your Terms and Conditions. You’d better require Customers to check the box “I read and agree to Terms and Conditions”. When Customers click on the **Terms and Conditions** link, a popup with detailed information will show.
 
-![customers can view Terms and Conditions in a popup](./Image/How-to-use/osc2-use-21.png)
+![customers can view Terms and Conditions in a popup](./Onestep-Image/How-to-use/osc2-use-21.png)
 
 After filling in required information, Customers click on the Place order now button to finish. They will see a confirmation page like this.
 
-![Customers see a confirmation after placing order](./Image/How-to-use/osc2-use-22.png)
+![Customers see a confirmation after placing order](./Onestep-Image/How-to-use/osc2-use-22.png)
 
 ### Login/Sign up if required
 
 Store-owners may want to require Customers to log in or sign up before placing an order. If Customers already have an account, they can click on **Click here to login or create a new account**. A popup will be displayed. They just need to enter their email address and password then click on the **Login** button.
 
-![customers can login with email](./Image/How-to-use/osc2-use-3.png)
+![customers can login with email](./Onestep-Image/How-to-use/osc2-use-3.png)
 
 If Customers forget their password, they can click on **Forgotten your password?** Then enter their email address and click on the **Send password** button. The module will send a new password to their email address.
 
-![Forgotten Your Password Popup](./Image/How-to-use/osc2-use-4.png)
+![Forgotten Your Password Popup](./Onestep-Image/How-to-use/osc2-use-4.png)
 
 If Customers don’t have an account in your site, they can create one right away by clicking **Create a new account**, filling in the required information, then click **Register**. The new account will be created before placing orders.
 
-![Customers can choose Create a New Account on Login Popup](./Image/How-to-use/osc2-use-5.png)
-![Customers can Create a New Account](./Image/How-to-use/osc2-use-6.png)
+![Customers can choose Create a New Account on Login Popup](./Onestep-Image/How-to-use/osc2-use-5.png)
+![Customers can Create a New Account](./Onestep-Image/How-to-use/osc2-use-6.png)
 
 This is super convenient, right? Signup and Checkout at the same time help you manage Customers and Orders more easily without swaying conversion rate.
 
 ## Billing Address, Shipping Address
 If Customers have already logged in, they can skip the **Shipping Address** section as their information is automatically added. If Customers want to change shipping address, select **New Address** and change the information.
 
-![Customers can change or fill in new shipping address](./Image/How-to-use/osc2-use-7.png)
+![Customers can change or fill in new shipping address](./Onestep-Image/How-to-use/osc2-use-7.png)
 
 In case of not logging in, they will see fields to fill in: First name, Last name, Address...as you configured in backend.
 After providing a shipping address, if Customers want to create bill to another address, they can unselect the box **My billing and shipping address are the same** then fill information in the **Billing Address** section.
 
-![Customers can create a separating billing address from shipping address](./Image/How-to-use/osc2-use-8.png)
+![Customers can create a separating billing address from shipping address](./Onestep-Image/How-to-use/osc2-use-8.png)
 
 In both **Billing Address** and **Shipping Address** sections, when Customers type some first characters of their address, the system will show matching results suggested by Google.
 
-![Automatic Google's fill-in suggestion as Customers type their address](./Image/How-to-use/osc2-use-9.png)
+![Automatic Google's fill-in suggestion as Customers type their address](./Onestep-Image/How-to-use/osc2-use-9.png)
 
 Customers just need to select a correct option and then, other fields such as **City, Country, Zip Code, State/Province** will be automatically filled out.
 
-![Other fields are automatically filled in when a Google's address suggestion is selected](./Image/How-to-use/osc2-use-10.png)
+![Other fields are automatically filled in when a Google's address suggestion is selected](./Onestep-Image/How-to-use/osc2-use-10.png)
 
 When there is any change in **Shipping Address** and **Billing Address** sections, **Shipping Method, Payment Method** and **Order Review** will be updated right away without reloading the page. Why is this feature useful? Let us give an example. A Customer may consider between 2 shipping addresses. He can see right on the checkout page that for 1 address, shipping fee is cheaper and payment method can be Cash On Delivery, but with the other address, just money transfer and advanced payment are accepted.
 
-![Customers can preview changes without reloading Order page](./Image/How-to-use/osc2-use-11.png)
+![Customers can preview changes without reloading Order page](./Onestep-Image/How-to-use/osc2-use-11.png)
 
 ### Shipping Method, Payment Method
 After Customers choose or change **Shipping Method** and **Payment Method** as preferred, the **Order Review** section will be updated correspondingly.
 
-![Order Review is updated correspondingly when customers make changes](./Image/How-to-use/osc2-use-12.png)
+![Order Review is updated correspondingly when customers make changes](./Onestep-Image/How-to-use/osc2-use-12.png)
 
 ### Time of Delivery
 To bring the most convenience to your Customers, you can enable the **Delivery time and date** in backend. Then at checkout they can select when will be most suitable for them to receive items ordered.
 
-![store owner can let customers choose Delivery time and date](./Image/How-to-use/osc2-use-13.png)
+![store owner can let customers choose Delivery time and date](./Onestep-Image/How-to-use/osc2-use-13.png)
 
 ### Order Review
 The **Order Review** section shows all items ordering as well as product images. If Customers change their decision, they can edit quantity or remove products without going back to the Shopping Cart page. Any changes will be updated right at checkout.
 
-![customers can edit or remove product quantity on Order Review section](./Image/How-to-use/osc2-use-14.png)
+![customers can edit or remove product quantity on Order Review section](./Onestep-Image/How-to-use/osc2-use-14.png)
 
 ### Coupon Code
 
 With the default checkout of Magento, Customers only can apply coupon codes on the **Shopping Cart** page. With One Step Checkout extension of Magestore, you can let Customers enter their coupon code right below **Order Review** on the checkout page.
 
-![customers can enter coupon code on checkout page](./Image/How-to-use/osc2-use-15.png)
+![customers can enter coupon code on checkout page](./Onestep-Image/How-to-use/osc2-use-15.png)
 
 After Customers apply coupon code, the **Estimated Total** will be updated as below:
 
-![Estimated Total is updated accordingly on page when coupon code is used](./Image/How-to-use/osc2-use-16.png)
+![Estimated Total is updated accordingly on page when coupon code is used](./Onestep-Image/How-to-use/osc2-use-16.png)
 
 If Customers do not want to use that coupon code anymore, they can click on the **Cancel** button.
 
 ### Gift Message
 Magestore’s One Step Checkout supports gift purchasing effectively. Customers can add a gift message along with their order. They just need to enter the sender name, recipient and message into text fields.
 
-![customers can enter gift message to the order](./Image/How-to-use/osc2-use-17.png)
+![customers can enter gift message to the order](./Onestep-Image/How-to-use/osc2-use-17.png)
 
 ### Gift Wrap
 You can provide gift-wrap service at checkout and configure its price. After Customers tick option **Gift Wrap**, a gift-wrap fee will be added, and **Estimated Total** will be updated.
 
-![Estimated Total is updated accordingly when customers choose to wrap gift](./Image/How-to-use/osc2-use-18.png)
+![Estimated Total is updated accordingly when customers choose to wrap gift](./Onestep-Image/How-to-use/osc2-use-18.png)
 
 ## How to configure
 You have viewed the features which Magestore One Step Checkout provides in frontend. This part will tell you how to enable all those features in backend.
@@ -159,17 +159,17 @@ This feature allows you to customize style for the Checkout page of each store v
 You can change color of headings and the **Place Order Now** button to fit your store’s theme. There are 8 colors for you to select, including orange, green, black, blue, dark blue, pink, red and violet. If none of the default colors match your desire, you can select the Custom option and then customize your preferred one using the color picker table. With each store, you can select the color you want or use the default color.
 After selecting a color, you will see a preview of your checkout page with the color chosen.
 
-![store owners can choose and preview checkout page color style for each store view](./Image/How-to-config/16-config.png)
+![store owners can choose and preview checkout page color style for each store view](./Onestep-Image/How-to-config/16-config.png)
 
-![store owners can select among 8 default colors or customize with color picker](./Image/How-to-config/17-config.png)
+![store owners can select among 8 default colors or customize with color picker](./Onestep-Image/How-to-config/17-config.png)
 
 Similarly, you can choose a default color for the **Place Order Now** button or customize it.
 
-![store owners can change color of Place Order Now button](./Image/How-to-config/18-config.png)
+![store owners can change color of Place Order Now button](./Onestep-Image/How-to-config/18-config.png)
 
 When you complete all settings, remember to click **Save Config**. Your checkout page in front-end will be displayed as your configurations:
 
-![changes are applied on frontend after store owners click Save Config button](./Image/How-to-config/19-config.png)
+![changes are applied on frontend after store owners click Save Config button](./Onestep-Image/How-to-config/19-config.png)
 
 Wow, when you come to this point, you have almost grasped all the main benefits of our One Step Checkout extension. Sometimes, just viewing is not enough to really understand and enjoy something. It could be greater if you have an ownership of it and make it work as you wish. So, why don’t you take action right away to feel its amazing effects on your sales?
 
@@ -178,17 +178,17 @@ This section lets you enable/disable and rearrange the positions of fields in **
 Note: ***First Name, Last Name*** and ***Email Address*** are required in Magento 2 system. If you disable these fields, Customers cannot place order even if they fill in all information.
 You can rearrange fields into 2 columns like **First Name** on the left and **Last Name** on the right and spare **Address** a full column by choosing *Address* + *Null*.
 
-![Store owner can enable/disable or rearrange fields in Billing and Shipping Address sections](./Image/How-to-config/1-config.png)
+![Store owner can enable/disable or rearrange fields in Billing and Shipping Address sections](./Onestep-Image/How-to-config/1-config.png)
 
 Besides, this section allows you to configure multiple stores so that the position of fields displayed on the One Step Checkout page will change according to each store’s settings.
 For example, if you want Default and Second store to be shown differently, choose **Main Store > Default/Second Store** in the **Current Configuration Scope** box in the top-left corner. Then, rearrange the position as you want.
 
-![Store owners can configure multiple stores differently](./Image/How-to-config/4-config.png)
-![Store owners choose Store View to config for a specific store](./Image/How-to-config/5-config.png)
+![Store owners can configure multiple stores differently](./Onestep-Image/How-to-config/4-config.png)
+![Store owners choose Store View to config for a specific store](./Onestep-Image/How-to-config/5-config.png)
 
 After you configure in backend, the Checkout page will be shown in frontend as below:
 * Default store:
-![Default store's frontend is updated according to backend changes](./Image/How-to-config/6-config.png)
+![Default store's frontend is updated according to backend changes](./Onestep-Image/How-to-config/6-config.png)
 
 * Second store:
 ![Second store's frontend is updated according to backend changes](./Image/How-to-config/7-config.png)
