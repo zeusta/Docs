@@ -103,8 +103,7 @@ In this step, there are 6 ways for you to prepare product list:
   o Warehouse: choose the warehouse containing the stock to be forecasted;
 
   o Sales Period: the system will examine the stock’s sales statistics in this period to make forecast. Options in the drop-down list include last 7 days, last 30 days, last 3 months and custom range (if you want another specific period);
-        
-     o Forecast Supply Need To: the system will predict if the stock on hand is enough for sales until this date.
+  o Forecast Supply Need To: the system will predict if the stock on hand is enough for sales until this date.
 
 - Step 2: Click Show Supply Needs and the Supply Need results will appear in the table. The table shows the current quantity in stock, its sales quantity per day, date when your stock on hand is still enough for sales and the supply need quantity.
 
