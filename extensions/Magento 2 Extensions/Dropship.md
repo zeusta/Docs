@@ -85,7 +85,8 @@ In this tab, supplier can edit their information such as Name, Contact Person, E
 4. Settings
 Go to Fulfillment→ Dropship Configuration
 <<img15>>
-| No.  | Field | Sample  | Description|
-| -----|:-----:| -----:|
-| 1 |Email notice dropship request for supplier|Submit request notice to suppliers|Supplier will get notifications email if there are new drop-ship requests|
-| 2 |Email cancel dropship request for supplier|Cancel request notcie to suppliers|Supplier will get notifications email if admin cancels drop-ship requests|
+
+No|Field|Sample|Description
+---|---|---|---
+|1| Email notice dropship request for supplier|Submit request notice to suppliers|Supplier will get notifications email if there are new drop-ship requests|
+2| Email cancel dropship request for supplier|Cancel request notcie to suppliers|Supplier will get notifications email if admin cancels drop-ship requests 
