@@ -2,7 +2,7 @@ ORDER FULFILLMENT - MAGENTO 2
 ======
 
 
-**Version 1.0.0 **
+**Version 1.0.0**
 
 
 *Confidential Information Notice
@@ -23,9 +23,13 @@ Have high volume of sales orders & worry about messy shipments? You should have 
 Order Fulfillment is one extension for Magento 2, which helps you easily keep track of order-fulfilling process in the backend. With default Order Fulfillment, tons of your orders can be managed easily. In addition, this Magento 2 extension is:
 
 •	Compatible with Magento CE 2.1.0 - 2.1.1 - 2.1.2
+
 •	Open source 100%
+
 •	License Certificate valid for 1 live Magento installation and unlimited test Magento installations (No license key required)
+
 •	Easy to install and configure
+
 •	User-friendly interface
 
 
@@ -46,9 +50,13 @@ Have high volume of sales orders & worry about messy shipments? Then Order Fulfi
 To have an overview of your order fulfillment process, you go to Fulfillment > Dashboard. On the Overview Dashboard, you can see 5 charts which offer you the summary of Order Fulfillment. They are:
 
 •	Orders by status report
+
 •	Orders by day report
+
 •	Orders by carriers report
+
 •	Picked requests by day report
+
 •	Packed requests by day report
 
 With this Magento 2 extension, you can custom time range, print or download each report in multiple forms: PNG image, JPEG image, PDF document and SVG vector image.
