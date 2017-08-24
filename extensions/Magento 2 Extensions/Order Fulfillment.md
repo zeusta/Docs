@@ -12,7 +12,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 **Tip:** To discover all functions more easily, turn on your **Bookmark bar** in PDF reader software (View → Navigation Panels → Bookmarks) to view the navigation of this manual.
 
-//img1//
+![Bookmark bar](./OF Images/of-img1.png?raw=true)
 
 
 ## Introduction
