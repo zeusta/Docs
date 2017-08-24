@@ -118,19 +118,23 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 ### 2.3. Use Gift Card/Credit to Place an Order
 -------------
 When Customers have Gift Card codes or Gift Card credit balances, they can use them to get discount when ordering a product. There are two ways to use Gift Card code/credit balance:
+
 - On **Shopping Cart** page:
+
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image040.png)
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
-  - **Use Gift Card credit to checkout**: Customers need to enter an amount of money
-they want to use. After applying, this amount will be deducted from their Gift Car credit balance immediately.
+  - **Use Gift Card credit to checkout**: Customers need to enter an amount of money they want to use. After applying, this amount will be deducted from their Gift Car credit balance immediately.
   - **Use Gift Card to checkout**: The system shows a box where Customers can enter gift codes. Besides, they can use gift codes they added to the list on **Gift Card/Credit Management** page.
 After Customers click on **Apply Gift Card** button, the Grand Total will be updated as below:
+
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image042.png)
+
 - On **Checkout** page:
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image044.png)
 
 Customers can choose to use Gift Card or Gift Card credit and enter the amount of money as on **Shopping Cart** page. Then click on **Add Gift Card** button to apply.
+
 **Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
 
 ## 3. How to configure
@@ -142,6 +146,7 @@ Customers can choose to use Gift Card or Gift Card credit and enter the amount o
 ### 3.1. Settings
 -------------
 To configure default configurations and settings of the extension, please log in to **backend**, and then choose **Gift Card** menu→ **Settings**. Administrators can change parameters as follows:
+
  - **General** tab :
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image046.png)
@@ -189,6 +194,7 @@ To configure default configurations and settings of the extension, please log in
 8 | Enable scheduling Gift card delivery | Yes | Allow Customers to set dates to send Gift Cards
 
  - **Shopping Cart Page &amp; Checkout page tabs:**
+
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image054.png)
 
 **No. | **Field** | **Sample** | **Description**
@@ -199,6 +205,7 @@ To configure default configurations and settings of the extension, please log in
 4 |Show Gift Card box in the Payment section | Yes | Show Gift Card box for customers to apply gift codes right on the Payment Method section at checkout
 
  - **Email Notification** tab: 
+
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image056.png)
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image058.png)
@@ -220,6 +227,7 @@ To configure default configurations and settings of the extension, please log in
 11 | Send-to- recipient email template when Gift Card is refunded |  | Choose the email template sent to recipient when Gift Card is refunded.
 12 |Auto-send reminder email before Gift Card expires | Yes | Enable auto reminder email sent to Customers before Gift card expires
 13 | Send-to- recipient email template when Gift Card is refunded | 5 | The number of days to send notification toCustomers before the expiration date of a Gift card
+
  - **Gift Card Printout** tab:
  
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image060.png)
@@ -233,8 +241,7 @@ To configure default configurations and settings of the extension, please log in
 
 ## 3.2. Manage Gift Card Templates (Updated)
 -------------
-After installing the module, you can start with Gift Card templates. This function helps you create unlimited templates for Gift Card with different titles, designs, images and notes. You
-can flexibly customize Gift Cards for different purposes, such as X-mas Gift Card or Birth Day Gift Card, offering Customers a wide range of choices.
+After installing the module, you can start with Gift Card templates. This function helps you create unlimited templates for Gift Card with different titles, designs, images and notes. You can flexibly customize Gift Cards for different purposes, such as X-mas Gift Card or Birth Day Gift Card, offering Customers a wide range of choices.
 To access **Gift Card Template Manager** page, go to Gift Card menu → **Manage Gift Card Templates.**
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image062.png)
@@ -243,8 +250,7 @@ The **Gift Card Template Manager** page will be displayed as below:
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image064.png)
 
-As you can see, this page lists all available templates in the system. You can add/edit/delete a template and export the list of templates to .CSV/.XML files. If you want to change status
-/delete templates in mass, simply select multiple rows, apply an action then click on Submitbutton.
+As you can see, this page lists all available templates in the system. You can add/edit/delete a template and export the list of templates to .CSV/.XML files. If you want to change status /delete templates in mass, simply select multiple rows, apply an action then click on Submitbutton.
 There are 5 default Gift Card templates with 4 different design styles for you to select:
   - **Left template**: picture aligns with the left of Gift Card
   - **Top template**:picture aligns with the top of Gift Card
@@ -323,12 +329,17 @@ There are two ways to create a Gift Card product: on **Manage Gift Card Products
 Go to Gift Card menu→ **Manage Gift Card Products**
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image084.png)
 Click on **Add Gift Card Product** button
+
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image086.png)
+
 Click on Continue button then enter information as a normal product. You should pay attention to the following tabs:
-  - General tab:
+
+- **General** tab:
 Different from normal products, there is another required field, **Select Gift Card template**, allowing you to choose templates for Gift Card product. You can add more templates to this field in **Manage Gift Card Templates** (please refer to section 3.1 for more details).
+
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image088.png)
-   - **Prices** tab:
+
+- **Prices** tab:
 In **Prices** tab, Admin can configure prices and values of a Gift Card Product.
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image090.png)
 The extension provides 3 **types of Gift Card value**, including **fixed value, range of values and dropdown values**. You can base on the type chosen to set Gift Card value(s) accordingly such as 50-100 (USD) for the **range of values** type.
@@ -343,12 +354,15 @@ The following example will help you have better understanding about these config
      - **Gift Card values**: 20,30,40
      - **Type of Gift Card price**: Percent of Gift Card value
      - **Percentage**: 90,90,90
-So Customers only have to pay 90% of Gift Card value, which means $36 for a $40 Gift Card
-for instance.
+So Customers only have to pay 90% of Gift Card value, which means $36 for a $40 Gift Card for instance.
+
 - **Conditions** tabs:
 The difference between a Gift Card product and a normal product is that a Gift Card product contains 2 more condition tabs, which are **Shopping Cart Conditions** and **Cart Item Conditions**.
+
   - The **Shopping Cart Conditions** tab enables you to set up the conditions applied to shopping cart when Customers use Gift Card, for example: Customers can only use their Gift Card for orders which have Subtotal equals or is greater than $200.
+ 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image092.png)
+
   - The **Cart Item Conditions** tab allows you to set up Gift Card usage conditions applied to each item in Customers’ shopping cart. For example, Customers can use their Gift Cards to pay for orders only if the Qty. in cart is equal or greater than 2.
   
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image094.png)
@@ -383,7 +397,7 @@ Go to **Gift Card** menu→ **Generate Gift Codes,** you will be navigated to **
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image106.png)
 
 To add a new template to generate gift codes, click on **Add Gift Code Pattern** button and configure information as below:
-  - **General Information** tab:
+ - **General Information** tab:
  
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image108.png)
 
@@ -437,6 +451,7 @@ Besides, you can add new gift codes manually, import gift codes in bulk from CSV
 - If you want to create a new gift code manually, select Add Gift Code and finish the form as below:
   - **General Information** tab:
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image124.png)
+
 **No. | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Gift Code Pattern | GIFT-[A.4]- [AN.6] | Configure the pattern to generate a gift code as the following example: <br/>[A.8] : 8 alpha characters <br/>[N.4] : 4 numeric characters <br/>[AN.6] : 6 alphanumeric characters <br/>If you enter GIFT-[A.4]- [AN.6] as the sample, the system will auto-create a gift code matching this pattern, GIFT-ADFA- 12NF0O for example.
@@ -450,8 +465,7 @@ Besides, you can add new gift codes manually, import gift codes in bulk from CSV
 9 | | Add Admin’s notes if needed
 
   - **Conditions** tabs:
-Similar to **Shopping Cart Conditions** tab and **Cart Item Condition**s tab when creating new Gift Cards, these two tabs on New Gift Code page allow you to set conditions applied to
-shopping carts and items in cart when Customers use this gift code to check out.
+Similar to **Shopping Cart Conditions** tab and **Cart Item Condition**s tab when creating new Gift Cards, these two tabs on New Gift Code page allow you to set conditions applied to shopping carts and items in cart when Customers use this gift code to check out.
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image126.png)
   - **Message Information** tab:
 If you intend to send the gift code to a specific person, a Customer for example, this tab allows you to add information about the Customer, the recipient and a custom message.
@@ -472,8 +486,7 @@ The Import Gift Code page will be shown as below for you to browse a CSV file. A
 ## 3.6. Manage Gift Code Sets
 -------------
 
-Gift code set is the new feature of Magestore Gift Card version 4.6.0. Gift code set is a list of code that store owners import into the system to sell. When you create gift card product, you
-can choose gift code set for that gift card product:
+Gift code set is the new feature of Magestore Gift Card version 4.6.0. Gift code set is a list of code that store owners import into the system to sell. When you create gift card product, you can choose gift code set for that gift card product:
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image134.png)
 
@@ -524,8 +537,7 @@ If Customers don’t have accounts on your site, this amount will be refunded in
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image148.png)
 
-**_Note_**: Once Gift Card is used (redeemed or used to buy other products), it cannot be
-refunded to cash.
+**_Note_**: Once Gift Card is used (redeemed or used to buy other products), it cannot be refunded to cash.
 
 ## 3.10. History
 -------------
