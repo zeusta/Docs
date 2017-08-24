@@ -10,7 +10,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 ## Table of terminologies
 
-No.|Terms|Explanation
+**No.**|**Terms**|**Explanation**
 --- | --- | ---
 1| Gift Code | Gift codes are not only generated from Gift Card products but can also be added by Admin:  <br/>- Gift codes of Gift Card products are generated in **Settings** <br/>- You can import/add gift codes in **Manage Gift Codes**, or auto generate random gift codes in **Generate Gift codes**
 2| Gift code pattern | Template to auto-generate random gift codes
@@ -153,7 +153,7 @@ To configure default configurations and settings of the extension, please log in
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image048.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 | | Enable Gift Card | Yes | Enable Gift Card module on your site
 | **Gift code** |
@@ -179,7 +179,7 @@ To configure default configurations and settings of the extension, please log in
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image052.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 **Gift Card value**|
 1 | Default Gift Card value | 25,75,100 | Set default Gift Card dropdown values as 25,75, and 100 in case admin didn’t specify when creating Gift Cards. <br/> **_Note_**: this configure is only applied to Gift Cards created in previous versions of the extension. Starting from version 4.0, each Gift Card product must have its own value(s) when being created.
@@ -197,7 +197,7 @@ To configure default configurations and settings of the extension, please log in
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image054.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Show Gift Card box on shopping cart page | Yes | Enable a Gift Card box for customers to apply gift codes right on the shopping cart page.
 2 | Information displayed on shopping cart page | Gift Card value Gift Card template Recipient name | Show selected information of Gift Card on shopping cart page
@@ -210,7 +210,7 @@ To configure default configurations and settings of the extension, please log in
 
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image058.png)
  
- **No. | **Field** | **Sample** | **Description**
+ **No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 **General**|
 1 | Enable email notification | Yes | Allow sending notification emails to Customers and recipients.
@@ -232,7 +232,7 @@ To configure default configurations and settings of the extension, please log in
  
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image060.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Logo for PDF Printouts | Default/logo_print.png | Store’s logo used when Gift Cards are printed or sent via email.
 2 |Show barcode on Gift Card | Yes | Show barcode on Gift Cards when they are printed or sent via email.
@@ -277,7 +277,7 @@ If you want to create new Gift Card templates, select **Add Gift Card Template**
     - For Top, Left or Right template:
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image076.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Template name | Gift Card for Xmas | Name of the Gift Card template
 2 | Status | Active | Enable this template to be chosen when creating Gift Card product
@@ -292,7 +292,7 @@ If you want to create new Gift Card templates, select **Add Gift Card Template**
  
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image078.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Template name | Simple | Name of the Gift Card template
 2 | Status | Active | Enable this template to be chosen when creating Gift Card product
@@ -401,7 +401,7 @@ To add a new template to generate gift codes, click on **Add Gift Code Pattern**
  
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image108.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Template name | SiGift Card for Woman’s Day | Name of the template to generate gift codes
 2 | Gift code pattern | Woman-[A.4]- [AN.6] | Configure the pattern to generate gift codes in mass as the following example: <br/>[A.8] : 8 alpha characters <br/>[N.4] : 4 numeric characters <br/>[AN.6] : 6 alphanumeric characters <br/>If you enter GIFT-[A.4]- [AN.6] as the sample, the system will auto-create a bunch of gift codes matching this pattern, GIFT-ADFA- 12NF0O for example.
@@ -452,7 +452,7 @@ Besides, you can add new gift codes manually, import gift codes in bulk from CSV
   - **General Information** tab:
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image124.png)
 
-**No. | **Field** | **Sample** | **Description**
+**No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Gift Code Pattern | GIFT-[A.4]- [AN.6] | Configure the pattern to generate a gift code as the following example: <br/>[A.8] : 8 alpha characters <br/>[N.4] : 4 numeric characters <br/>[AN.6] : 6 alphanumeric characters <br/>If you enter GIFT-[A.4]- [AN.6] as the sample, the system will auto-create a gift code matching this pattern, GIFT-ADFA- 12NF0O for example.
 2 | Gift Code Value | 10 | The fixed value for the gift code is $10.
@@ -467,6 +467,7 @@ Besides, you can add new gift codes manually, import gift codes in bulk from CSV
   - **Conditions** tabs:
 Similar to **Shopping Cart Conditions** tab and **Cart Item Condition**s tab when creating new Gift Cards, these two tabs on New Gift Code page allow you to set conditions applied to shopping carts and items in cart when Customers use this gift code to check out.
 ![Gift_Card](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image126.png)
+
   - **Message Information** tab:
 If you intend to send the gift code to a specific person, a Customer for example, this tab allows you to add information about the Customer, the recipient and a custom message.
 
