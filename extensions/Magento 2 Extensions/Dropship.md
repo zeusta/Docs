@@ -40,7 +40,7 @@ Dropship for Magento 2 is one extension from Order Success solution, which allow
 With Dropship extension, you will act as the retailer, passing the order information onto your supplier for shipping. As items on drop-ship are not passed through your hands, they don’t affect to the Qty. and inventory movements in your warehouses.
 
 
-## 1.Drop-ship Process
+## 1. Drop-ship Process
 
 Below is a step-by-step guide on how to handle a sales order that will be drop shipped to a customer. If you do not have enough in stock to complete the sales order, then a drop-ship request should be made and sent to the suppliers. The process contains only 3 simple steps:
 
@@ -92,7 +92,7 @@ Notification email when the storeowner cancel the dropship request:
 <<img7>>
 
 
-## 2.How Admin & Warehouse Managers Manage Drop Shipments
+## 2. How Admin & Warehouse Managers Manage Drop Shipments
 
 
 In the back-end, go to **Fulfillment > Dropship Request**. This tab lists all drop shipments from a supplier. 
@@ -104,7 +104,7 @@ To review or take actions related to drop shipments, click on the ***Edit*** lin
 <<img9>>
 
 
-## 3.How Suppliers Manage Drop Shipments
+## 3. How Suppliers Manage Drop Shipments
 
 
 To help suppliers follow all their drop shipments easier, the extension provides a separate page in the front-end, namely **Supplier Page**, where suppliers can log in and track all related information.
@@ -137,7 +137,7 @@ Suppliers should enter the Qty. that they can send directly to the customer in t
 
 
 
-### Supplier Information tab:
+### Supplier Information tab
 
 
 <<img14>>
@@ -145,7 +145,7 @@ Suppliers should enter the Qty. that they can send directly to the customer in t
 In this tab, supplier can edit their information such as Name, Contact Person, Email, Telephone, Address and Password. All changes will be updated in the **General Information** tab of the **Supplier Manager** page in backend or vice versa. Thus, you can easily contact suppliers whenever having drop-ship requests.
 
 
-## 4.Settings
+## 4. Settings
 
 
 Go to **Fulfillment > Dropship Configuration**
