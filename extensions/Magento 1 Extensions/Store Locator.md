@@ -7,48 +7,59 @@ Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unautho
 ----------
 You have multiple physical stores and don’t know how to give your Customers chances to select their closest one? If so, no need to look any further as our Magento Store Locator extension is exactly the right solution for you. With various search fields and a friendly user interface, Customers can easily locate the most convenient store, such as the one within 5 kilometers of their homes for instance, and then get instant directions on Google map. In particular, Magento Store Locator extension can help promote your stores effectively by allowing Customers to view and give Facebook comments on the store.
 
-![enter image description here](https://lh3.googleusercontent.com/-WClABsNdOkc/WZvOnMBLQ2I/AAAAAAAAACo/Ns_WJsW68O87zOs3SSEUaZzAz8Yf49C9QCLcBGAs/s0/A%25CC%2589nh+1.png "Ảnh 1.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%201.png?raw=true)
 
 ## HOW TO USE
 ----------
 This section shows you how Customers can make use of the Store Locator extension in frontend. The module creates a separate page listing all stores and detailed pages for each store. 
 To go to the **Store Listing** page, Customers can click on **Account** → **Store Locator**, then click the **Account** button on the top right corner.
 
-![enter image description here](https://lh3.googleusercontent.com/-941nulnEzpw/WZvO_i_En-I/AAAAAAAAAC4/visbX_BVMPwaSrSoS2z8qDP-PjC3D38xQCLcBGAs/s0/A%25CC%2589nh+2.png "Ảnh 2.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%202.png?raw=true)
+
 ### Store Listing Page
-![enter image description here](https://lh3.googleusercontent.com/-AVt2cWz8iyY/WZvPZmBXM8I/AAAAAAAAADA/xznma9jKw5c7UurL4NAMH79Nd6n80-E4wCLcBGAs/s0/A%25CC%2589nh+3.png "Ảnh 3.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%203.png?raw=true)
+
 As can be seen, this page contains 2 main parts: **Search** and **Store List**.
 
  - **Search**: In this section, Customers can search for stores either by distance from a specific location or by store location such as country, city, etc. After Customers fill in search criteria and click on the **Search** button, all matching results will be shown. Clicking button **Reset** will return Customers to the list of all stores.
 For example, if a Customer wants to search for stores within a 100-mile radius of his location, such as London, United Kingdom, he simply fills corresponding information into the **Search by Distance** fields. With Google Suggest integrated, when the Customer enters some first characters into **Your Location**, a list of matching locations is shown in the drop-down so he can conveniently pick a suitable one. 
+
 After Customers click on the **Search** button, the results are shown on both G-map and store list as below:
-![](https://lh3.googleusercontent.com/-mxdv1AEwNOE/WZvPkBQNMII/AAAAAAAAADM/Eg7T1XJOKJkln-EYnGaJcLrCeIWIF_hRQCLcBGAs/s0/A%25CC%2589nh+4.png "Ảnh 4.png")
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%204.png?raw=true)
+
 Customers can also get directions to each store by entering a specific location and clicking on the **Go** button. The detailed directions are as follows:
-![enter image description here](https://lh3.googleusercontent.com/-nIX1aDKXP4w/WZvPz8iVswI/AAAAAAAAADY/Hzwiw9PB7MoZFa70mi14xOiZadiGAWgyACLcBGAs/s0/A%25CC%2589nh+5.png "Ảnh 5.png")
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%205.png?raw=true)
+
 Moreover, customers can see the real street that the store locates in by clicking on **Street View** link:
 
-![enter image description here](https://lh3.googleusercontent.com/-c4ck7sWbprg/WZvP5_XwivI/AAAAAAAAADk/1k9qqTrsuYYw33_ILB7mcJmI4eANePQUQCLcBGAs/s0/A%25CC%2589nh+6.png "Ảnh 6.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%206.png?raw=true)
 
  - **Store List**: This part shows all stores of your site on both list and G-map. Each store is shown with name, address, **Street View, Direction** link and store image, etc. Customers can click on any store they want to know more in details, then they will be redirected to a **Store Detailed** page.
 In addition, store’s information can include a link if you provide it in backend. It can be the official website URL, store Facebook fan page URL, etc. so that Customers can view more information about the store. 
 
-   ![enter image description       here](https://lh3.googleusercontent.com/-iaepMPO9P4w/WZvQAf9g6dI/AAAAAAAAADs/BAFEcah9nmwOtv4H8Yg7ps5wo9y8qF4ZACLcBGAs/s0/A%25CC%2589nh+7.png "Ảnh 7.png")
+   ![enter image description       here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%207.png?raw=true)
 
 When Customers click on a store on the list, its location is marked on the map by a colored pin. For example, after a Customer selects the Cameratek Durban store, the extension will show its location on the map as below:
-![enter image description here](https://lh3.googleusercontent.com/-JbucYkxFOh8/WZvQHslFK1I/AAAAAAAAAD4/_4LAq9r3P6Q5ySL2rCLbFk4sdvPs5AOswCLcBGAs/s0/A%25CC%2589nh+8.png "Ảnh 8.png")
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%208.png?raw=true)
+
 Then Customers can zoom in/ out the map to have a clearer view. Information of a store can be displayed on the map as a tooltip. Customers can turn the tooltip off if they want.
+
  - Another helpful feature is the **Filter by Tags** bar at the bottom of the **Store Listing** page, which allows Customers to narrow down their choice of stores. When Customers click on any tag as preferred, the extension shows stores tagged with that label. This will certainly save much time for Customers from scrolling up and down on the list, especially when the list of stores is too long.
 
-![enter image description here](https://lh3.googleusercontent.com/-coNDQpAgc-g/WZvQlctWTCI/AAAAAAAAAEI/i-9bybrjYJA8lN_fA7NgXsXgNqjLIzzbQCLcBGAs/s0/A%25CC%2589nh+9.png "Ảnh 9.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%209.png?raw=true)
 
 ### Store Detailed Page
 Customers will be navigated to the **Store Detailed** page if they click on the store name they want.
-![enter image description here](https://lh3.googleusercontent.com/-NG9X5VfZhX0/WZvQr84L8fI/AAAAAAAAAEQ/KLnDtEzC4_EJ5Jzkp79cBBC3ssCpPLy6gCLcBGAs/s0/A%25CC%2589nh+10.png "Ảnh 10.png")
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2010.png?raw=true)
 
 On this page, Customers can see store address, opening time, special days, holidays and store images. Besides, Customers not only can view comments about the store but also can give their own comments to discuss with others on Facebook.
 Similar to the **Store Listing** page, Customers can get directions to a store by entering their location and clicking on **Get Directions** to see instructions:
 
-![enter image description here](https://lh3.googleusercontent.com/-R6jYKeSz5eQ/WZvQxuQvoeI/AAAAAAAAAEc/NO4cvIG5V8k1QWj_jML0dOzjLRTg_ph_ACLcBGAs/s0/A%25CC%2589nh+11.png "Ảnh 11.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2011.png?raw=true)
 
 ## HOW TO CONFIGURE
 ----------
@@ -62,36 +73,36 @@ In order to get API key, follow these steps as follows:
 
 **Step 1**: Visit APIs Console at https://console.developers.google.com/apis/library and log into your Google Account.  Then, click **Create project** button on top of the menu. 
 
-![enter image description here](https://lh3.googleusercontent.com/-mhyzABKA3dw/WZvQ-eb82jI/AAAAAAAAAEw/GLZEB-PBRdUtrOXXxGoEZJhWX_3R_T8TgCLcBGAs/s0/A%25CC%2589nh+12.png "Ảnh 12.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2012.png?raw=true)
 
 **Step 2**: Fill in the project name and click Create button
 
-![enter image description here](https://lh3.googleusercontent.com/-huvWTGPG9W0/WZvREpIdbRI/AAAAAAAAAE4/PtsNnJrqMVEFX4cGIKLe4OrIivQLwMTxgCLcBGAs/s0/A%25CC%2589nh+13.png "Ảnh 13.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2013.png?raw=true)
 
 **Step 3**: On the menu at the left side, you will see the **Credentials** Tab. Click this tab and after that, a box will appear with **"API key"** on it. It is where you should click in order to create API key for your browser apps.
 
-![enter image description here](https://lh3.googleusercontent.com/-S4PC-PmoSLo/WZvRJqMIoPI/AAAAAAAAAFA/quJqZpciZxsOys3kCAKkWTqNFWvaiVAKgCLcBGAs/s0/A%25CC%2589nh+14.png "Ảnh 14.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2014.png?raw=true)
 
 After that you will see a box with a number of choices specifying which kind of key you would like to create. **Choose Browser** key.
 
-![enter image description here](https://lh3.googleusercontent.com/-gOs2fXTz4g0/WZvRPB-WhUI/AAAAAAAAAFI/qVQHAMgRVtErnxvZXJtTps28FzUC03TQQCLcBGAs/s0/A%25CC%2589nh+15.png "Ảnh 15.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2015.png?raw=true)
 
 **Step 4**: Fill in your name and domain and then click create
 
-![enter image description here](https://lh3.googleusercontent.com/-krfMDDAxeNE/WZvRVL3LlkI/AAAAAAAAAFQ/6wCReYqQy6AlOmgR6_t_T6USCSgA-C7XQCLcBGAs/s0/A%25CC%2589nh+16.png "Ảnh 16.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2016.png?raw=true)
 
 **Step 5**: Get the key and paste it in your page
 
-![enter image description here](https://lh3.googleusercontent.com/-0twgI5LwBDE/WZvRaFsZrRI/AAAAAAAAAFY/cAsGGtQKFRgFdMoaIUuSYrZ8_Bo5EBQ9gCLcBGAs/s0/A%25CC%2589nh+17.png "Ảnh 17.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2017.png?raw=true)
 
 **Step 6**: Last but not least, in Library tab, let’s enable the APIs in red frame as below 
 
-![enter image description here](https://lh3.googleusercontent.com/-FJqV_XsA_ho/WZvRe-iLSZI/AAAAAAAAAFg/12dyX_qFR5gbM8wiP3jWz0Xw9o8WUlUxQCLcBGAs/s0/A%25CC%2589nh+18.png "Ảnh 18.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2018.png?raw=true)
 
 ### Manage store
 To set up stores with location, opening time and other information, go to **Store Locator → Manage Stores.**
 
-![enter image description here](https://lh3.googleusercontent.com/-FsK-vI81NYk/WZvRkDTnqcI/AAAAAAAAAFo/7an9MD1yzz4oXpvjuuBgyI4cPPteDE8CgCLcBGAs/s0/A%25CC%2589nh+19.png "Ảnh 19.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2019.png?raw=true)
 
 On this **Store Manager** page, you can view a list that shows information of all stores in your site such as n**ame, address, city, country, zip code and status.**
 You can use the mass action to delete or change status of stores. Besides, you can also export the list of stores to CSV or XML files.
@@ -103,7 +114,8 @@ To add a new store, click on the **Add Store** button. The new **Store Informati
 There are 4 fields in this tab including: **General Info, Location Info, Contact Info, Meta Info.**
 - **General Info**: in this tab you can provide a lot of detailed information about your store to help your Customer locate it easier. 
 
-![enter image description here](https://lh3.googleusercontent.com/-M66pG5ymGRE/WZvRp25UqUI/AAAAAAAAAF0/YWf-64rrCNEDzMAVbwi8cORPGm2hX5J1QCLcBGAs/s0/A%25CC%2589nh+20.png "Ảnh 20.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2020.png?raw=true)
+
 Besides important information such as Store name, Description, Status, here are some extra fields you should use to optimize user experience:
 
   ✓ **Store’s link**: enter a link to the store’s official website or social channel such as Facebook fan page.
@@ -114,21 +126,23 @@ Besides important information such as Store name, Description, Status, here are 
   
   ✓ **Store Image(s)**: upload as many store images as you want. The base image will be shown in the store list. 
  
-![enter image description here](https://lh3.googleusercontent.com/-cCSWSnEvAv0/WZvRv2VkHPI/AAAAAAAAAF8/n7tt0m5A1KcYuympwrHJHgIq2sU9Gs7oQCLcBGAs/s0/A%25CC%2589nh+21.png "Ảnh 21.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2021.png?raw=true)
  
 - **Location Info**: fill your store’s address in this field, remember to click on the **Save Store** or **Save And Continue Edit** button to save your work. After that, store’s location will be updated automatically on Google Map.
-![enter image description here](https://lh3.googleusercontent.com/-zO6FWBr2n50/WZvR2KSqUKI/AAAAAAAAAGE/EA3gYd5kyzoLjxFLCdh0357OexTT_oEXQCLcBGAs/s0/A%25CC%2589nh+22.png "Ảnh 22.png")
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2022.png?raw=true)
 
 - **Contact Info**: fill in with the following information about the store in order to allow Customers to contact with store owners or store assistants easier.
-![enter image description here](https://lh3.googleusercontent.com/-kugVrlVI9FU/WZvR7XJYr2I/AAAAAAAAAGM/HRfniNSQzaAL3DI23PQdh1tltJMu3nW7gCLcBGAs/s0/A%25CC%2589nh+23.png "Ảnh 23.png")
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2023.png?raw=true)
 
 - **Meta Info**: allows you to optimize search information in each store's detail page. 
 
-![enter image description here](https://lh3.googleusercontent.com/-5rG1EYX8GSE/WZvSBY1rufI/AAAAAAAAAGg/bTvYF3YPhYsPVfPRUX1hHxMsucVrCw_ZACLcBGAs/s0/A%25CC%2589nh+24.png "Ảnh 24.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2024.png?raw=true)
 
  - **Google Map** tab: 
 
-![enter image description here](https://lh3.googleusercontent.com/-bElu-UjxFIs/WZvSGcAvDQI/AAAAAAAAAGo/fBmdNGZaHgo5QXFLo3BXI9FdtDw0-gdagCLcBGAs/s0/A%25CC%2589nh+25.png "Ảnh 25.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2025.png?raw=true)
 
 There are 4 fields in this tab including **Zoom Level, Store Latitude, Longitude** and **Store Icon**. 
 
@@ -146,7 +160,7 @@ There are 4 fields in this tab including **Zoom Level, Store Latitude, Longitude
 - The extension also allows you to set break time for each store if you want. 
 Similarly, you can set opening hours for each remaining day of the week. To quickly set up, click on the **Apply to other days** button on the top right corner of the **Monday** section. Other days will have the same working time as Monday.
 
-![enter image description here](https://lh3.googleusercontent.com/-DimGrHu-yyo/WZvSL6WkmgI/AAAAAAAAAG0/fRtajKdnXYELwMZPZzwGJvaolAfPoR1KACLcBGAs/s0/A%25CC%2589nh+26.png "Ảnh 26.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2026.png?raw=true)
 
 After entering all the necessary data, remember to click on the **Save** or **Save and Continue Edit** button to save your work.
 
@@ -162,16 +176,16 @@ You can download the sample “stores.csv” file to view its structure. The col
 
 ✓	Select **Import** to import the CSV file
 
-![enter image description here](https://lh3.googleusercontent.com/-lwXgnHX6B9E/WZvSRWx1xcI/AAAAAAAAAHE/-IYD5b1RtgkPFgVeojmbJp4nPeO4zzuHQCLcBGAs/s0/A%25CC%2589nh+27.png "Ảnh 27.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2027.png?raw=true)
 
 #### Edit Store
 In order to edit a store, you can click on the **Edit** link of any store row on the **Store Manager** grid. Besides existing fields as when you add a new store, you should pay attention to the **Google Map** tab. When a store is imported or created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map** tab allows you to edit store coordinates manually.
 
-![enter image description here](https://lh3.googleusercontent.com/-NrRsaCWRwyo/WZvSWKhblxI/AAAAAAAAAHM/IPpbyfiVwj8njMnxKNFkTmV0L0sDjs_6gCLcBGAs/s0/A%25CC%2589nh+28.png "Ảnh 28.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2028.png?raw=true)
 
 If the pin on the map is not in the right place, you can drag and drop it to where you want to set a new location.
 
-![enter image description here](https://lh3.googleusercontent.com/-SE0jJyNdshc/WZvSbV7BykI/AAAAAAAAAHU/eP5rwu5PQ_cMUuCtHmRHJ4iu2lv_jMIQQCLcBGAs/s0/A%25CC%2589nh+29.png "Ảnh 29.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2029.png?raw=true)
 
 After editing, remember to click on the **Save** or **Save and Continue Edit** button to save your work.
 Note: When you edit the store address (street, city or state/province) in **General Information**, the store coordinates will be auto-updated after being saved. You also can click the **Renew Google Map** button to update the store’s new location.
@@ -180,7 +194,7 @@ Note: When you edit the store address (street, city or state/province) in **Gene
 To set days off for your stores, go to **Store Locator → Manage Holidays** on the menu in backend. You will be navigated to the **Holiday Manager** page listing all holidays created. Holidays within a specific period, which is set in **Settings**, will be shown in the **Store Information** tab on the **Store Detailed** page. 
 Click on **Add Holiday** to create a new one. 
 
-![enter image description here](https://lh3.googleusercontent.com/-clw7hyG2dSM/WZvSgRaGxsI/AAAAAAAAAHk/lv9FRB9mjq08_riMc7xTVihGW-Cx6QdYgCLcBGAs/s0/A%25CC%2589nh+30.png "Ảnh 30.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2030.png?raw=true)
 
 On the **Add Holiday** page:
 
@@ -194,7 +208,7 @@ Remember to click on the **Save Item** button after entering required fields to 
 To set days with special working time for your stores, go to **Store Locator → Manage Special Days** on the menu in backend. You will be navigated to the **Special Day Manager** page listing all special days created. Days within a specific period, which is set in **Settings**, will be shown in the **Store Information** tab on the **Store Detailed** page.
 Click on the **Add Special Day** button to create a new one.
 
-![enter image description here](https://lh3.googleusercontent.com/-d0UWM7HiGcc/WZvSozHWi1I/AAAAAAAAAH0/fgn-9YktqjwDya5QwdrakuYzSvO8xKe9ACLcBGAs/s0/A%25CC%2589nh+31.png "Ảnh 31.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2031.png?raw=true)
 
 On the **Add Special Day** page:
 
@@ -209,7 +223,7 @@ Remember to click on the **Save Item** button to save your work.
 To configure the Store Locator extension, go to **Store Locator → Settings** on the menu in backend. The configurations here are divided into 4 groups including **General, Google, Facebook** and **Store Search**.
  
  * **General:**
-![enter image description here](https://lh3.googleusercontent.com/-rN2uk32h7xc/WZvTQGhbYAI/AAAAAAAAAIo/v9Eg1ERqujYwZIRUvSo86dQdmyGNq3z-wCLcBGAs/s0/A%25CC%2589nh+32.png "Ảnh 32.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2032.png?raw=true)
 
  |No.  | Fields          | Sample | Result|
  |-----|----------------|----------------|------------------------------------------------|
@@ -223,13 +237,13 @@ To configure the Store Locator extension, go to **Store Locator → Settings** o
 
  - **Googles:** 
 
- ![enter image description here](https://lh3.googleusercontent.com/-W3G4g5r10eU/WZvTcAImSHI/AAAAAAAAAI0/n_v92QCCLYkjCKzi4X8gsleKbJZmo6ikQCLcBGAs/s0/A%25CC%2589nh+33.png "Ảnh 33.png")
+ ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2033.png?raw=true)
  
 To integrate Google API in your site, fill your Google Map API key into this field. You can get this key by following the guide link or going to **Store Locator → Guide** on the menu in backend.
 
  * **Facebook:** 
  
-![enter image description here](https://lh3.googleusercontent.com/-R8iwsGMyEms/WZvTijKOmiI/AAAAAAAAAJA/a8M3j3qAKBoCzNUpjCWL6LVuzzFqNlZYACLcBGAs/s0/A%25CC%2589nh+34.png "Ảnh 34.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2034.png?raw=true)
 
  |**No.**|Fields|Sample|Result|
  |-----|----------------|----------------|------------------------------------------------|
@@ -240,7 +254,7 @@ To integrate Google API in your site, fill your Google Map API key into this fie
 
  * **Store Search:**
  
-![enter image description here](https://lh3.googleusercontent.com/-QDzXtWwOoKU/WZvTqBzarJI/AAAAAAAAAJQ/VRcivV2MIKA3hIxbNK09SvsnRM3YVsvzQCLcBGAs/s0/A%25CC%2589nh+35.png "Ảnh 35.png")
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2035.png?raw=true)
 
 |No.  | Fields          | Sample | Result|
  |-----|----------------|----------------|------------------------------------------------|
@@ -251,7 +265,7 @@ To integrate Google API in your site, fill your Google Map API key into this fie
 
  -  **Style Configuration:**
  
- ![enter image description here](https://lh3.googleusercontent.com/-ytx3snABcNk/WZvTw5V33WI/AAAAAAAAAJk/Jr28U-wan2EGX0hq0pRQTvevr1ASLC1HQCLcBGAs/s0/A%25CC%2589nh+36.png "Ảnh 36.png")
+ ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Store%20Locator/Ảnh%2036.png?raw=true)
 
 In this part of configuration, you can choose to use map styles, change color of elements on Store Locator page such as **Active Search Tab – Background, Page Title – Background, Active Search Tab – Font, etc.** 
 Now, if you are here, in the last line of our guide, you have completely finished studying our Store Locator extension with all of its striking features! Hope you find this manual useful.
