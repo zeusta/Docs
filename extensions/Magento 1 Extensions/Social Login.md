@@ -326,11 +326,11 @@ Please fill in required information. Note that **the app logo must be of same he
 
 After that, tick “LinkedIn API terms of  Use” and submit your form. 
 
-![enter image description here](image 45)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image045.png?raw=true)
 
 **Step 2**: Get Client ID and Client Secret. You will see some other fields but there’s no need for you to fill in
 
-![enter image description here](image 46)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image046.png?raw=true)
 
 #### Yahoo Login Configuration
 
@@ -352,15 +352,16 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*) How do I get the Yahoo Application ID, Consumer Key and Consumer Secret?**
 **Step 1**: Go to page: https://developer.yahoo.com/apps/create/
 Then, create application by filling in all required information. 
-(image 47)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image047.png?raw=true)
 
 In the field API permissions, please tick “Profiles/Read Write Public and Private”
 
-![enter image description here](image 48)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image048.png?raw=true)
 
 **Step 2**: Get your Client ID and Client Secret:
 
-![enter image description here](image 49)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image049.png?raw=true)
 
 #### AOL Login Configuration
 
@@ -374,7 +375,7 @@ In the field API permissions, please tick “Profiles/Read Write Public and Priv
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using AOL account|
 |3|Sort Order| 6|The order of buttons displaying in the list|
 
-![enter image description here](image 50)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image050.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -390,7 +391,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes| Send password info to customer after logging in by using AOL account|
 |3|Sort Order|7|The order of buttons displaying in the list|
 
-![enter image description here](image 51)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image051.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -406,7 +407,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes| Send password info to customer after logging in by using MyOpenId account|
 |3|Sort Order|7|The order of buttons displaying in the list|
 
-![enter image description here](image 52)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image052.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -422,7 +423,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes\Send account info to customer after logging in by using Livejournal account|
 |3|Sort Order|7|The order of buttons displaying in the list|
 
-![enter image description here](image 53)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image053.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -438,7 +439,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using Clavid account|
 |3|Sort Order|10|The order of buttons displaying in the list|
 
-![enter image description here](image 54)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image054.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -454,7 +455,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using Orange account|
 |3|Sort Order|11|The order of buttons displaying in the list|
 
-![enter image description here](image 55)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image055.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -479,15 +480,15 @@ After filling data into the configuration fields, click on the **Save Config** b
 **Step 1**: Go to page: https://foursquare.com/developers/apps or this page: https://foursquare.com/developers/register and click “Create a new app
 You will be required to fill in your website’s information:
 
-![enter image description here](image 56)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image056.png?raw=true)
 
 You can skip other information as below:
 
-![enter image description here](image 57)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image057.png?raw=true)
 
 **Step 2**: Save and get app’s client and secret:
 
-![enter image description here](image 58)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image058.png?raw=true)
 
 #### Windows Live Login Configuration
 
@@ -509,17 +510,17 @@ After filling data into the configuration fields, click on the **Save Config** b
 https://account.live.com/developers/applications/create
 Then, fill in your App name
 
-![enter image description here](image 59)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image059.png?raw=true)
 
 **Step 2**: Get Rediect URLs from your backend and set it into “Rediect URLs” box
 
-![enter image description here](image 60)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image060.png?raw=true)
 
-![enter image description here](image 61)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image061.png?raw=true)
 
 **Step 3**: Get “Application Id” and “Application Secret” at header
 
-![enter image description here](iamge 62)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image062.png?raw=true)
 
 #### Persona Login Configuration
 
@@ -533,7 +534,7 @@ Then, fill in your App name
 |2|Send Password To Customer|Yes|Send password info to customer after logging in by using Persona Login|
 |3|Sort Order|15|The order of buttons displaying in the list|
 
-![enter image description here](image 63)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image063.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -549,7 +550,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using Stack Exchange Login|
 |3|Sort Order|15|The order of buttons displaying in the list|
 
-![enter image description here](image 64)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image064.png?raw=true)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -571,19 +572,19 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*) How do I get the Vk App ID and Secure Key?**
 **Step 1**: Go to page: http://vk.com/editapp?act=create and then fill in the required information as below:
 
-![enter image description here](image 65)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image065.png?raw=true)
 
 **Step 2:** You need to fill in your phone number and then get the confirmation code:
 
-![enter image description here](image 66)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image066.png?raw=true)
 
 **Step 3**: Click my app and start your setting:
 
-![enter image description here](image 67)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image067.png?raw=true)
 
 You can get your Application ID and Secure key on “Settings” tab:
 
-![enter image description here](image 68)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image068.png?raw=true)
 
 
 ### Show the Social Login buttons in the different positions
