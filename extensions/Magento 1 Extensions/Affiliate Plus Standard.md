@@ -742,6 +742,7 @@ If you use your default PayPal Merchant Email settings, you can follow below ste
 |8|	API Uses Proxy|	Yes|	You choose to use Proxy|
 
 •	Tab ***Bank Transfer Payment Method***:
+
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image093.jpg?raw=true)
 
 |No.|	Field|	Sample|	Description|
