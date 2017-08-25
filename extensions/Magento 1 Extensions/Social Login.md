@@ -14,83 +14,85 @@ The fact that a lot of information is required when creating a new account can d
 
  - Show the Social Login buttons in the Header
 
-(image 1)
+![enter image description here](image 1)
 
  - Show the Social Login buttons below Customer login form
 
-(image 2)
+![enter image description here](image 2)
 
 - Show the Social Login buttons below Customer registration for
 
-(image 3)
+![enter image description here](image 3)
 
 ### Customer can log in to web-shop by many social network accounts
 
 - Log in using Facebook account
 
-(image 4)
+![enter image description here](image 4)
 
 - Log in using Instagram account
 
-(image 5)
+![enter image description here](image 5)
 
 - Log in using Twitter account
 
-(image 6)
+![enter image description here](image 6)
+
 - Log in using Amazon account
 
-(image 7)
+![enter image description here](image 7)
 
 - Log in using Google account
 
-(image 8)
+![enter image description here](image 8)
 
 - Log in using Yahoo account
 
-(image 9)
+![enter image description here](image 9)
+
 - Log in using LinkedIn account
 
-(image 10)
+![enter image description here](image 10)
 
 - Log in using MyOpenId account
 
-(image 11)
+![enter image description here](image 11)
 
 - Log in using LiveJournal account
 
-(image 12)
+![enter image description here](image 12)
 
 - Log in using AOL account
 
-(image 13)
+![enter image description here](image 13)
 
 - Log in using WordPress account
 
-(image 14)
+![enter image description here](image 14)
 
 - Log in using Clavid account 
 
-(image 15)
+![enter image description here](image 15)
 
 - Log in using Orange account
 
-(image 16)
+![enter image description here](image 16)
 
 - Log in using FoursQuare account
 
-(image 17)
+![enter image description here](image 17)
 
 - Log in using Live account
 
-(image 18)
+![enter image description here](image 18)
 
 - Log in using StackExchange account
 
-(image 19)
+![enter image description here](image 19)
 
 - Log in using Vk account
 
-(image 20)
+![enter image description here](image 20)
 
 ## How to configure
 -----------------
@@ -131,19 +133,19 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*)** **How do I get the Facebook application ID and application secret?**
 **Step 1**: Go to page: https://developers.facebook.com/apps/?action=create and then choose “Add a New app”
 
-(image 21)
+![enter image description here](image 21)
 
 After that, you need to fill in your contact email and choose the category of app you are creating (Apps for Pages). Remember to click “Skip quick start”
 
-(image 22)
+![enter image description here](image 22)
 
 **Step 2**: After clicking creating App ID, you will be moved to a setting page in which you have to fill in your app domain, contact email and Site URL (please click “+Add Platform”) 
 
-(image 23)
+![enter image description here](image 23)
 
 In this step, please notice that although your app has been created, it can only get your account information. If you want to get information from other Facebook accounts, you have to publicize your app. This means you need to go to “App Review” tab and choose “Yes”
 
-(image 24)
+![enter image description here](image 24)
 
 **Step 3**: After finishing, let’s come back to “Settings” page or “Dashboard” page to get your App ID and App Secret
 
@@ -166,19 +168,19 @@ After filling data into the configuration fields, click on **Save Config** butto
 **(*)** **How do I get Instagram Client Id and Client Secret?**
 **Step 1**: Go to page: http://instagram.com/developer/clients/manage/ and click “Register a New Client”
 
-(image 25)
+![enter image description here](image 25)
 
 **Step 2**: Fill in required information. 
 
-(image 26)
+![enter image description here](image 26)
 
 Notice that when you are required to provide the valid redirect URLs, it is in the backend – Instagram tab that you can get this link. 
 
-(image 27)
+![enter image description here](image 27)
 
 **Step 3**: After finishing these 2 steps, you will see a notification appearing right after the title Manage Clients that you have registered successfully. You can get your app ID and client secret on the same page. 
 
-(image 28)
+![enter image description here](image 28)
 
 #### Twitter Login Configuration
 
@@ -201,15 +203,15 @@ It’s much easier to create an application with Twitter
 **Step 1**: Let’s go to page https://apps.twitter.com/app/new and fill in your app information. 
 In order to get callback URL that is required, please take it from your backend. 
 
-(image 29)
+![enter image description here](image 29)
 
 At the end of the setting page, you will see a box with the Twitter developer agreement on which you need to tick Yes. 
 
-(image 30)
+![enter image description here](image 30)
 
 **Step 2:** Click “Keys and Access Tokens” tab to get Consumer Key and Consumer Secret
 
-(image 31)
+![enter image description here](image 31)
 
 #### Amazon Login Configuration
 
@@ -234,15 +236,15 @@ Before getting started, remember that Amazon only works with https protocol. Thi
 
 **Step 1**: Go to Amazon manage app page: https://login.amazon.com/manageApps  and click “Register new application”:
 
-(image 32)
+![enter image description here](image 32)
 
 Fill in your name, description and Privacy Notice URL which actually is your domain:
 
-(image 33)
+![enter image description here](image 33)
 
 In Web settings section, there are 2 optional field which are “Allowed JavaScript Origins” and “Allowed Return URLs”. Actually they are your domain and your website URL respectively.. 
 
-(image 34)
+![enter image description here](image 34)
 
 **Step 2**: Get your Client ID and Client Secret
 
@@ -266,35 +268,35 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*) How do I get the Google Consumer Key and Consumer Secret?**
 **Step 1**: Go to https://cloud.google.com/console  or https://console.developers.google.com/project and then click “Create project” as demonstrated below.
 
-(image 35)
+![enter image description here](image 35)
 
 After that, fill in your Project Name and then click Create:
 
-(image 36)
+![enter image description here](image 36)
 
 **Step 2**: Come to Dashboard and “Enable and manges APIs”
 
-(image 37)
+![enter image description here](image 37)
 
 **Step 3**: Click “Credentials” tab and you will see 3 subtitles as demonstrated below. Please click “OAuth consent screen” tab on which you need to fill in your Product name shown to users and then click Save. 
 
-(image 38)
+![enter image description here](image 38)
 
 **Step 4**: Back to the subtitle Credential, after clicking “add credentials” button, you will see several choices. Please Choose “OAuth client ID” and “Web application” afterwards. 
 
-(image 39)
+![enter image description here](image 39)
 
 Then, fill in all information required. 
 
-(image 40)
+![enter image description here](image 40)
 
 Note that you need to get “Authorized redirect URIs” from your backend
 
-(image 41)
+![enter image description here](image 41)
 
 **Step 5**: Get your Client IP and Client Secret
 
-(image 42)
+![enter image description here](image 42)
 
 #### LinkedIn Login Configuration
 
@@ -316,18 +318,19 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*) How do I get the LinkedIn Consumer Key and Consumer Secret?**
 **Step 1**: Go to page: https://www.linkedin.com/secure/developer and click “Create application
 
-(image 43)
+![enter image description here](image 43)
 
 Please fill in required information. Note that **the app logo must be of same height and width**
 
-(image 44)
+![enter image description here](image 44)
 
 After that, tick “LinkedIn API terms of  Use” and submit your form. 
 
-(image 45)
+![enter image description here](image 45)
 
 **Step 2**: Get Client ID and Client Secret. You will see some other fields but there’s no need for you to fill in
-(image 46)
+
+![enter image description here](image 46)
 
 #### Yahoo Login Configuration
 
@@ -353,11 +356,11 @@ Then, create application by filling in all required information.
 
 In the field API permissions, please tick “Profiles/Read Write Public and Private”
 
-(image 48)
+![enter image description here](image 48)
 
 **Step 2**: Get your Client ID and Client Secret:
 
-(image 49)
+![enter image description here](image 49)
 
 #### AOL Login Configuration
 
@@ -371,7 +374,7 @@ In the field API permissions, please tick “Profiles/Read Write Public and Priv
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using AOL account|
 |3|Sort Order| 6|The order of buttons displaying in the list|
 
-(image 50)
+![enter image description here](image 50)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -387,7 +390,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes| Send password info to customer after logging in by using AOL account|
 |3|Sort Order|7|The order of buttons displaying in the list|
 
-(image 51)
+![enter image description here](image 51)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -403,7 +406,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes| Send password info to customer after logging in by using MyOpenId account|
 |3|Sort Order|7|The order of buttons displaying in the list|
 
-(image 52)
+![enter image description here](image 52)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -419,7 +422,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes\Send account info to customer after logging in by using Livejournal account|
 |3|Sort Order|7|The order of buttons displaying in the list|
 
-(image 53)
+![enter image description here](image 53)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -435,7 +438,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using Clavid account|
 |3|Sort Order|10|The order of buttons displaying in the list|
 
-(image 54)
+![enter image description here](image 54)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -451,7 +454,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using Orange account|
 |3|Sort Order|11|The order of buttons displaying in the list|
 
-(image 55)
+![enter image description here](image 55)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -476,15 +479,15 @@ After filling data into the configuration fields, click on the **Save Config** b
 **Step 1**: Go to page: https://foursquare.com/developers/apps or this page: https://foursquare.com/developers/register and click “Create a new app
 You will be required to fill in your website’s information:
 
-(image 56)
+![enter image description here](image 56)
 
 You can skip other information as below:
 
-(image 57)
+![enter image description here](image 57)
 
 **Step 2**: Save and get app’s client and secret:
 
-(image 58)
+![enter image description here](image 58)
 
 #### Windows Live Login Configuration
 
@@ -506,17 +509,17 @@ After filling data into the configuration fields, click on the **Save Config** b
 https://account.live.com/developers/applications/create
 Then, fill in your App name
 
-(image 59)
+![enter image description here](image 59)
 
 **Step 2**: Get Rediect URLs from your backend and set it into “Rediect URLs” box
 
-(image 60)
+![enter image description here](image 60)
 
-(image 61)
+![enter image description here](image 61)
 
 **Step 3**: Get “Application Id” and “Application Secret” at header
 
-(iamge 62)
+![enter image description here](iamge 62)
 
 #### Persona Login Configuration
 
@@ -530,7 +533,7 @@ Then, fill in your App name
 |2|Send Password To Customer|Yes|Send password info to customer after logging in by using Persona Login|
 |3|Sort Order|15|The order of buttons displaying in the list|
 
-(image 63)
+![enter image description here](image 63)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -546,7 +549,7 @@ After filling data into the configuration fields, click on the **Save Config** b
 |2|Send Password To Customer|Yes|Send account info to customer after logging in by using Stack Exchange Login|
 |3|Sort Order|15|The order of buttons displaying in the list|
 
-(image 64)
+![enter image description here](image 64)
 
 After filling data into the configuration fields, click on the **Save Config** button.
 
@@ -568,19 +571,19 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*) How do I get the Vk App ID and Secure Key?**
 **Step 1**: Go to page: http://vk.com/editapp?act=create and then fill in the required information as below:
 
-(image 65)
+![enter image description here](image 65)
 
 **Step 2:** You need to fill in your phone number and then get the confirmation code:
 
-(image 66)
+![enter image description here](image 66)
 
 **Step 3**: Click my app and start your setting:
 
-(image 67)
+![enter image description here](image 67)
 
 You can get your Application ID and Secure key on “Settings” tab:
 
-(image 68)
+![enter image description here](image 68)
 
 
 ### Show the Social Login buttons in the different positions
