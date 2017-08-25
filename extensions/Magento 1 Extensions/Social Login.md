@@ -14,85 +14,85 @@ The fact that a lot of information is required when creating a new account can d
 
  - Show the Social Login buttons in the Header
 
-![enter image description here](image 1)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image001.png?raw=true)
 
  - Show the Social Login buttons below Customer login form
 
-![enter image description here](image 2)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image002.png?raw=true)
 
 - Show the Social Login buttons below Customer registration for
 
-![enter image description here](image 3)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image003.png?raw=true)
 
 ### Customer can log in to web-shop by many social network accounts
 
 - Log in using Facebook account
 
-![enter image description here](image 4)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image004.png?raw=true)
 
 - Log in using Instagram account
 
-![enter image description here](image 5)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image005.png?raw=true)
 
 - Log in using Twitter account
 
-![enter image description here](image 6)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image006.png?raw=true)
 
 - Log in using Amazon account
 
-![enter image description here](image 7)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image007.png?raw=true)
 
 - Log in using Google account
 
-![enter image description here](image 8)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image008.png?raw=true)
 
 - Log in using Yahoo account
 
-![enter image description here](image 9)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image009.png?raw=true)
 
 - Log in using LinkedIn account
 
-![enter image description here](image 10)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image010.png?raw=true)
 
 - Log in using MyOpenId account
 
-![enter image description here](image 11)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image011.png?raw=true)
 
 - Log in using LiveJournal account
 
-![enter image description here](image 12)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image012.png?raw=true)
 
 - Log in using AOL account
 
-![enter image description here](image 13)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image013.png?raw=true)
 
 - Log in using WordPress account
 
-![enter image description here](image 14)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image014.png?raw=true)
 
 - Log in using Clavid account 
 
-![enter image description here](image 15)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image015.png?raw=true)
 
 - Log in using Orange account
 
-![enter image description here](image 16)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image016.png?raw=true)
 
 - Log in using FoursQuare account
 
-![enter image description here](image 17)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image017.png?raw=true)
 
 - Log in using Live account
 
-![enter image description here](image 18)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image018.png?raw=true)
 
 - Log in using StackExchange account
 
-![enter image description here](image 19)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image019.png?raw=true)
 
 - Log in using Vk account
 
-![enter image description here](image 20)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image020.png?raw=true)
 
 ## How to configure
 -----------------
@@ -133,19 +133,19 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*)** **How do I get the Facebook application ID and application secret?**
 **Step 1**: Go to page: https://developers.facebook.com/apps/?action=create and then choose “Add a New app”
 
-![enter image description here](image 21)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image021.png?raw=true)
 
 After that, you need to fill in your contact email and choose the category of app you are creating (Apps for Pages). Remember to click “Skip quick start”
 
-![enter image description here](image 22)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image022.png?raw=true)
 
 **Step 2**: After clicking creating App ID, you will be moved to a setting page in which you have to fill in your app domain, contact email and Site URL (please click “+Add Platform”) 
 
-![enter image description here](image 23)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image023.png?raw=true)
 
 In this step, please notice that although your app has been created, it can only get your account information. If you want to get information from other Facebook accounts, you have to publicize your app. This means you need to go to “App Review” tab and choose “Yes”
 
-![enter image description here](image 24)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image024.png?raw=true)
 
 **Step 3**: After finishing, let’s come back to “Settings” page or “Dashboard” page to get your App ID and App Secret
 
@@ -168,19 +168,19 @@ After filling data into the configuration fields, click on **Save Config** butto
 **(*)** **How do I get Instagram Client Id and Client Secret?**
 **Step 1**: Go to page: http://instagram.com/developer/clients/manage/ and click “Register a New Client”
 
-![enter image description here](image 25)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image025.png?raw=true)
 
 **Step 2**: Fill in required information. 
 
-![enter image description here](image 26)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image026.png?raw=true)
 
 Notice that when you are required to provide the valid redirect URLs, it is in the backend – Instagram tab that you can get this link. 
 
-![enter image description here](image 27)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image027.png?raw=true)
 
 **Step 3**: After finishing these 2 steps, you will see a notification appearing right after the title Manage Clients that you have registered successfully. You can get your app ID and client secret on the same page. 
 
-![enter image description here](image 28)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image028.png?raw=true)
 
 #### Twitter Login Configuration
 
@@ -203,15 +203,15 @@ It’s much easier to create an application with Twitter
 **Step 1**: Let’s go to page https://apps.twitter.com/app/new and fill in your app information. 
 In order to get callback URL that is required, please take it from your backend. 
 
-![enter image description here](image 29)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image029.png?raw=true)
 
 At the end of the setting page, you will see a box with the Twitter developer agreement on which you need to tick Yes. 
 
-![enter image description here](image 30)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image030.png?raw=true)
 
 **Step 2:** Click “Keys and Access Tokens” tab to get Consumer Key and Consumer Secret
 
-![enter image description here](image 31)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image031.png?raw=true)
 
 #### Amazon Login Configuration
 
@@ -236,15 +236,15 @@ Before getting started, remember that Amazon only works with https protocol. Thi
 
 **Step 1**: Go to Amazon manage app page: https://login.amazon.com/manageApps  and click “Register new application”:
 
-![enter image description here](image 32)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image032.png?raw=true)
 
 Fill in your name, description and Privacy Notice URL which actually is your domain:
 
-![enter image description here](image 33)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image033.png?raw=true)
 
 In Web settings section, there are 2 optional field which are “Allowed JavaScript Origins” and “Allowed Return URLs”. Actually they are your domain and your website URL respectively.. 
 
-![enter image description here](image 34)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image034.png?raw=true)
 
 **Step 2**: Get your Client ID and Client Secret
 
@@ -268,35 +268,35 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*) How do I get the Google Consumer Key and Consumer Secret?**
 **Step 1**: Go to https://cloud.google.com/console  or https://console.developers.google.com/project and then click “Create project” as demonstrated below.
 
-![enter image description here](image 35)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image035.png?raw=true)
 
 After that, fill in your Project Name and then click Create:
 
-![enter image description here](image 36)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image036.png?raw=true)
 
 **Step 2**: Come to Dashboard and “Enable and manges APIs”
 
-![enter image description here](image 37)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image037.png?raw=true)
 
 **Step 3**: Click “Credentials” tab and you will see 3 subtitles as demonstrated below. Please click “OAuth consent screen” tab on which you need to fill in your Product name shown to users and then click Save. 
 
-![enter image description here](image 38)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image038.png?raw=true)
 
 **Step 4**: Back to the subtitle Credential, after clicking “add credentials” button, you will see several choices. Please Choose “OAuth client ID” and “Web application” afterwards. 
 
-![enter image description here](image 39)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image039.png?raw=true)
 
 Then, fill in all information required. 
 
-![enter image description here](image 40)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image040.png?raw=true)
 
 Note that you need to get “Authorized redirect URIs” from your backend
 
-![enter image description here](image 41)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image041.png?raw=true)
 
 **Step 5**: Get your Client IP and Client Secret
 
-![enter image description here](image 42)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image042.png?raw=true)
 
 #### LinkedIn Login Configuration
 
@@ -318,11 +318,11 @@ After filling data into the configuration fields, click on the **Save Config** b
 **(*) How do I get the LinkedIn Consumer Key and Consumer Secret?**
 **Step 1**: Go to page: https://www.linkedin.com/secure/developer and click “Create application
 
-![enter image description here](image 43)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image043.png?raw=true)
 
 Please fill in required information. Note that **the app logo must be of same height and width**
 
-![enter image description here](image 44)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Social%20Login/image044.png?raw=true)
 
 After that, tick “LinkedIn API terms of  Use” and submit your form. 
 
