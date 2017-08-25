@@ -3,7 +3,9 @@
 **Version 1.0.1**
 
 Confidential Information Notice 
+
 Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 ----------
@@ -21,12 +23,14 @@ Purchase Management is a Magento 1 extension, which helps you manage purchasing 
 -------------
 To manage information about your suppliers, please go to Suppliers menu. Then you will navigate to Manage Supplier section shown as follows:
 
---i4--
+![Purchase Management for Magento ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image007.jpg)
+
 #### Supplier List
 
 This is a page where you can view all your suppliers list with a lot of information including **Supplier name, Supplier code, Contact email, Status**. Besides, you can edit, change status or delete suppliers one by one or in bulk. In this page, you also can export the supplier list to CSV/XML files by clicking on the Export button shown as the below image:
- 
---i5--
+
+ ![export the supplier list to CSV/XML files](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image009.jpg)
+
 
 #### Add a Supplier
 
@@ -34,12 +38,11 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
 - **Supplier Information**: In this tab, you need to fill in all required field including supplier name, supplier code, contact person, email. You should add description for each supplier to differentiate between this supplier and the rest. Do not forget to enable the supplier.
 
---i6--
-
+![Supplier Information](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image011.jpg)
 
 - **Mailing Address**: All information in this tab are optional for your supplier, so you don’t need to fill all of them.
 
---i7--
+![Mailing Address](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image013.jpg)
 
 - **Product List**: This tab allows you to add and manage products of the supplier you are creating. You can assign products to your supplier by importing a CSV file.
 
@@ -47,11 +50,11 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
   - If you are not clear about the format of the CSV file, you can download our sample file. After products imported, the list of products will be updated with ID, Name, SKU, Supplier product SKU, Cost, Tax from the CSV file.
 
---i8--
+![Product List](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image015.jpg)
 
 - **Pricelist**: This is a page where view all pricelist of the supplier. In this page, you also can export the pricelist to CSV/XML files by clicking on the Export button
 
---i9--
+![Pricelist](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image017.jpg)
 
 Remember to click on the **Save** or **Save and Continue Edit** button to save your work
 
@@ -62,7 +65,7 @@ Remember to click on the **Save** or **Save and Continue Edit** button to save y
 
  - Please go to **Supplier >>> Manage Pricelist** to view the pricelist with information such as **Product SKU, Product name, Supplier, Minimal Qty, Purchase Price, Start date, End date**
 
---i10--
+![view the pricelist with information](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image019.jpg)
 
  - In order to **add pricelist** into the system, you click to **Import Pricelist** button, choose a CSV file from your computer, then click to **Import** button. If you are not clear about the format of the CSV file, you can download our sample file.
  - Right to the page, you can remove the pricelist one by one or mass remove
@@ -83,7 +86,7 @@ To create a new quotation, please go to the **Quotation** menu and choose **Crea
 
 Fill in all required information including Created Time, Supplier, Currency, Currency Exchange Rate and Commen#t (optional); then click **Prepare Product List** to go to the next step.
 
---i12--
+![Input General Information ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image021.jpg)
 
 #### Prepare Product List
 
@@ -91,11 +94,11 @@ In this step, there are 6 ways for you to prepare product list:
 
 - **Import Products** via a CSV file (a sample file is provided);
 
---i14--
+![Import Products](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image023.jpg)
 
 - **Scan Barcode** to prepare product (if Barcode Management extension is also installed);
 
---i15--
+![Scan Barcode](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image025.jpg)
 
 - Prepare product list based on **Supply Need Products** forecast. The system will calculate the number of stock that may be in need in an upcoming period based on its sales. There are 4 steps you need to follow:
  - Step 1: Select the criteria for the system to forecast Supply Need Products:
@@ -111,28 +114,28 @@ In this step, there are 6 ways for you to prepare product list:
 
 - Step 4: Click **Add Selected Products** and the products will be added to the Quotation.
 
--i16--
+![dd Selected Products](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image027.jpg)
 
  - Prepare **Back Order Products**. Back order products are those that have been ordered by customers but currently not available in stock;
  - Prepare **Low Stock Products**. If Inventory Management extension is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
 
---i17--
+![Prepare **Low Stock Products](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image029.jpg)
 
  - Select products from the list of products from that specific supplier with the **All Products from Supplier** button.
 
 You can manually enter the Purchase Cost, Tax, Discount and Ordered Qty for each product in the grid. Current cost is the unit price you already knew, which can be blank. Purchase cost is the unit price at the time of creating the PO. Remember to click **Update Items** to save your edits.
 
---i18--
+![Update Items](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image031.jpg)
 
 After enter all required fields, click **Save** button and Order Totals is automatically calculated.
 
---i19--
+![Save](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image032.jpg)
 
 #### Edit Shipping and Payment method
 
 You can set up Shipping and Payment method for the quotation:
 
---i20--
+![set up Shipping and Payment method for the quotation](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image033.jpg)
 
 - Enter the address you want the stock to be shipped to
 - Select a shipping method for the quotation
@@ -148,7 +151,7 @@ After filling out the form, do not forget to save all the changes. Now you can S
 
 To manage all created quotation, please go to **Purchase Order Management>Quotations**:
 
---i21--
+![manage all created quotation ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image035.jpg)
 
 There is a shortcut to create a new quotation. Click here to know how to create a new quotation.
 
@@ -164,13 +167,13 @@ You can either create a new Purchase Order manually or generate a Purchase Order
 
 To create a new purchase order manually, select the Create Purchase Order submenu under the Purchase Order menu.
 
---i22--
+![create a new purchase order manually](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image037.jpg)
 
 #### General Information
 
 Fill in all required information including Created Time, Supplier, Currency, Currency Exchange Rate. You can also add extra information in the Comment box.notification Supplier can also view this comment if you send them a  email later. Then click Prepare Product List to continue.
 
---i23--
+![Fill in all required information ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image039.jpg)
 
 #### Prepare Product List
 
@@ -178,11 +181,11 @@ In this step, there are 6 ways for you to prepare product list:
 
 - **Import Products** via a CSV file (a sample file is provided);
  
---i14--
+![Import Products via a CSV file](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image041.jpg)
 
 - **Scan Barcode** to prepare product (if Barcode Management extension is also installed);
 
---i15--
+![Scan Barcode** to prepare product](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image043.jpg)
 
 - Prepare product list based on **Supply Need Products** forecast. The system will calculate the number of stock that may be in need in an upcoming period based on its sales. There are 4 steps you need to follow:
   - Step 1: Select the criteria for the system to forecast Supply Need Products:
@@ -194,29 +197,29 @@ need quantity.
   - Step 3: Select the products in the table that you want to add to the PO.
   - Step 4: Click Add Selected Products and the products will be added to the PO.
   
---i16--
+![Add Selected Products and the products](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image045.jpg)
 
 - Prepare **Back Order Products**. Back order products are those that have been ordered by customers but currently not available in stock;
 
 - Prepare **Low Stock Products**. If Inventory Management extension is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
 
---i17--
+![Prepare Low Stock Products](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image047.jpg)
 
 - Select products from the list of products from that specific supplier with the **All Products from Supplier** button.
 
 You can manually enter the Purchase Cost, Tax, Discount and Ordered Qty for each product in the grid. Remember to click **Update Items** to save your edits.
 
---i18--
+![Update Items](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image049.jpg)
 
 After enter all required fields, click **Save** button and Order Totals is automatically calculated.
 
---i19--
+![Save update items](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image051.jpg)
 
 #### Edit Shipping and Payment method
 
 You can set up Shipping and Payment method for the quotation:
 
---i20--
+![set up Shipping and Payment method for the quotation](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image053.jpg)
 
 - Enter the address you want the stock to be shipped to
 - Select a shipping method for the quotation
@@ -238,36 +241,36 @@ This tab displays all the PO’s information you have entered in the previous st
 
 This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management extension, you can also enter the product’s barcode and update its delivery status.
 
---i31--
+![enter the product’s barcode and update delivery status](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image055.jpg)
 
 ##### Returned Item:
 
 This tab records all products in the PO which you have returned to the supplier.
 Please note that you can only return products which you have received.
 
---i32--
+![return products](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image057.jpg)
 
 A **Return Items** window will appear. Enter the date of return, select product(s) to be returned, type in the quantity to be returned and finish by clicking **Return**.
 
---i33--
+![Return Items](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image059.jpg)
 
 ##### Invoices:
 
 This tab allows you to create invoice for the PO including payment and refund amount.
 
---i34--
+![create invoice for the PO including payment and refund amount](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image061.jpg)
 
 A **Create an Invoice** window will appear. Enter the date of creating the invoice; select product(s) to be invoiced; type in the quantity to be billed, unit price (if different), tax and discount in percentage and finish by clicking **Save**.
 
---i35--
+![Save new invoice](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image063.jpg)
 
-- **Transferred Ite**m: transfers deliveries into a specific warehouse. Please note that you can only transfer products which you have received.
+- **Transferred Item**: transfers deliveries into a specific warehouse. Please note that you can only transfer products which you have received.
 
---i36--
+![Transferred Item ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image065.jpg)
 
 A **Transfer Items** window will appear. Enter the date of transferring; choose the warehouse to transfer products to; select product(s) to be transferred; type in the quantity to be transferred and finish by clicking **Transfer**.
 
---i37--
+![Transferred Item](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image067.jpg)
 
 - **Shipping and Payment**: views and edits shipping and payment information for the PO which you may have input in creating the PO.
 
@@ -277,7 +280,7 @@ A **Transfer Items** window will appear. Enter the date of transferring; choose 
 
 During the process of **Confirm Purchase Order**, you can complete the purchase order any time by clicking the **Complete PO** button at the right of the page. You can also **Print, Send Email, Cancel or Save** the PO during the process.
 
---i38--
+![Complete Purchase Order ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image069.jpg)
 
 You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you can still transfer received items into warehouses.
 
@@ -293,7 +296,7 @@ There are 3 types of Status indicating to which stage the PO has been processed:
 
   - Completed: when you click the **Complete PO** button.
 
---i39--
+![Complete PO](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image071.jpg)
 
 Clicking on a PO will show you more details of the PO and let you continue editing the PO.
 
@@ -301,7 +304,7 @@ Clicking on a PO will show you more details of the PO and let you continue editi
 
 If you want to generate Purchase Order from **Quotation, please go to **Quotation> Quotations, click to choose a pending quotation. Then choose **Convert Quotation** to PO button.
 
---i40--
+![Generate Purchase Order from Quotation](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image073.jpg)
 
 After that, a new purchase order is generated. Now you can:
 
@@ -317,24 +320,24 @@ There are 4 tabs to configure Purchase Management: Shipping method, Payment meth
 
 This tab allows you to add/edit or delete Shipping methods for purchase orders. Click **Add**, enter name of the shipping method and set status (Enable/Disable) for each one. Click **Delete** to delete a shipping method. After all, do not forget to choose **Save Config** to save your work.
 
---i41--
+![Shipping Method](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image075.jpg)
 
 ### Payment Method
 This tab allows you to add/edit or delete Payment methods for purchase orders. Click on Add, enter name of the payment method and set status (Enable/Disable) for each one. Click Delete to delete a payment method. After all, do not forget to choose Save Config to save your work.
 
---i42--
+![Payment Method](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image077.jpg)
 
 ###  Payment Terms
 
 This tab allows you to add/edit or delete Payment terms for purchase orders. Click on **Add**, enter name of the payment term and set status (Enable/Disable) for each one. Click **Delete** to delete a payment term. After all, do not forget to choose **Save Config** to save your work.
 
---i43--
+![Payment Terms](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image079.jpg)
 
 ### Tax & Shipping Cost
 
 This tab allows you to edit Tax & Default Shipping Cost for purchase orders.
 
---i44--
+![Tax & Shipping Cost](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image081.jpg)
 
 - Default Shipping Cost: If you enter a shipping amount here, all purchase orders will automatically use this shipping cost as default. If you want to set different shipping cost for different purchase orders, leave this field blank.
 - Apply Customer Tax: Set customer tax applied before or after discount.
