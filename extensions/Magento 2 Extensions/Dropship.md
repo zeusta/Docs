@@ -53,7 +53,7 @@ When fulfilling an order in backend (with ***Order Fulfillment extension for Mag
 
 The drop-down list in the **Shipping Channel** field includes drop-ship. Select **Request Dropship**, choose **Add Products to Request** then it will show all available suppliers that provide corresponding products. You can choose among these suppliers as preferred.
 
-<<img1>>
+![](./dropship_images/dimg1.png)
 
 After that, click on the **Add Selected Product(s to Request** and **Save** button to send drop-ship requests to the suppliers chosen.
 
@@ -63,25 +63,25 @@ The drop-ship request is saved in **Dropship Request**. The status of this drops
 
 Each supplier selected will receive a notification email about the drop-ship request as below: 
 
-<<img2>>
+![](./dropship_images/dimg2.png)
 
 As being instructed in the email, the supplier follows the login link to access the **Supplier Manager** page and then fills in the Qty. that he can ship.
 
 **Note:** When adding/ editing a supplier (in ***Purchase Management extension for Magento 2***), the **Password Management** section will be shown. You can set password and email it to the supplier. The email will be shown as below:
 
-<<img3>>
+![](./dropship_images/dimg3.png)
 
 In case the supplier forget the password, the can request to reset the password. After the request is send, the supplier will receive a notification email as below:
 
- <<img4>>
+![](./dropship_images/dimg4.png)
 
 The supplier can use his email address and password to log in on the **Supplier** page and create drop-ship.  The supplier need to enter the carrier information and shipped Qty to create shipment. After a supplier create shipment, you will receive a notification email as below:            
 
-<<img5>>
+![](./dropship_images/dimg5.png)
 
 If the supplier can meet your demand, they would refuse to create shipment. You will receive a notification email as below:
 
-<<img6>>
+![](./dropship_images/dimg6.png)
 
 **Step 3:** Admin creates/cancels shipment.
 
@@ -89,7 +89,7 @@ If the supplier refuses to create shipment, you need to create shipment by yours
 
 Notification email when the storeowner cancel the dropship request:
 
-<<img7>>
+![](./dropship_images/dimg7.png)
 
 
 ## 2. How Admin & Warehouse Managers Manage Drop Shipments
@@ -97,11 +97,11 @@ Notification email when the storeowner cancel the dropship request:
 
 In the back-end, go to **Fulfillment > Dropship Request**. This tab lists all drop shipments from a supplier. 
 
-<<img8>>
+![](./dropship_images/dimg8.png)
 
 To review or take actions related to drop shipments, click on the ***Edit*** link in the **Action** column. The system will navigate you to the Drop Shipment detailed page.
 
-<<img9>>
+![](./dropship_images/dimg9.png)
 
 
 ## 3. How Suppliers Manage Drop Shipments
@@ -111,11 +111,11 @@ To help suppliers follow all their drop shipments easier, the extension provides
 
 Suppliers will fill their email address and the password received in the **Supplier Login** form as below:
 
-<<img10>>
+![](./dropship_images/dimg10.png)
 
 Once logged in successfully, suppliers can access their **Supplier Page**:
 
-<<img11>
+![](./dropship_images/dimg11.png)
 
 
 ### Dropship tab
@@ -129,18 +129,17 @@ There are 2 types of status for drop shipments, including **Pending** and **Comp
 
 Suppliers should enter the Qty. that they can send directly to the customer in the **Qty. confirmed** column, then click on the Confirm button. A confirmation email will be sent automatically to you (admin/ store owner) for approval.
 
-<<img12>>
+![](./dropship_images/dimg12.png)
 
 •	Drop Shipments with **Complete** status are the ones that all Qty. that need to ship has been delivered to customers. Suppliers can review information of completed drop shipments.
 
-<<img13>>
-
+![](./dropship_images/dimg13.png)
 
 
 ### Supplier Information tab
 
 
-<<img14>>
+![](./dropship_images/dimg14.png)
 
 In this tab, supplier can edit their information such as Name, Contact Person, Email, Telephone, Address and Password. All changes will be updated in the **General Information** tab of the **Supplier Manager** page in backend or vice versa. Thus, you can easily contact suppliers whenever having drop-ship requests.
 
@@ -150,7 +149,7 @@ In this tab, supplier can edit their information such as Name, Contact Person, E
 
 Go to **Fulfillment > Dropship Configuration**
 
-<<img15>>
+![](./dropship_images/dimg15.png)
 
 
 **No**|**Field**|**Sample**|**Description**
