@@ -15,12 +15,12 @@ This document and the information it contains constitute a trade secret of Mages
 -------------
 Purchase Management is a Magento 1 extension, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order and Quotation are kept track and automatically updated in the system.
 
-## 2. How to manage Supplier and Price List
+## How to manage Supplier and Price List
 -------------------
 
 ### Manage Supplier
-
 -------------
+
 To manage information about your suppliers, please go to Suppliers menu. Then you will navigate to Manage Supplier section shown as follows:
 
 ![Purchase Management for Magento ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image007.jpg)
@@ -158,10 +158,12 @@ There is a shortcut to create a new quotation. Click here to know how to create 
 Each quotation is listed with related information: Reference Number, Created Date, Supplier, Requested Qty, Grand Total (Inclusive Tax), Status and Action (to view more details). Please note that the quotations which are converted into PO will be removed from this list.
 
 ## How to create and manage purchase orders
+-------------
 
 “**Purchase Order (PO)** is a document sent to a specific supplier to purchase more inventories for your warehouses. It contains descriptions, quantities, prices, discounts, payment terms, date of performance or shipment, other associated terms and conditions.”
 
 ### Create a New Purchase Order Manually
+-------------
 
 You can either create a new Purchase Order manually or generate a Purchase Order from a Quotation.
 
@@ -285,6 +287,7 @@ During the process of **Confirm Purchase Order**, you can complete the purchase 
 You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you can still transfer received items into warehouses.
 
 ### Manage Purchase Orders
+-------------
 
 To create/ edit purchase orders, manage deliveries from suppliers to warehouses and return items from warehouses to suppliers, go to **Purchase Orders** submenu under the Purchase Order menu. The **Manage Purchase Orders** page contains information related to all POs including Reference Number, Date of the PO, Supplier, Ordered Qty, Received Qty, Billed Qty, Total Paid, Grand Total inclusive Tax (i.e. the total value of the PO) and Status.
 
@@ -301,6 +304,7 @@ There are 3 types of Status indicating to which stage the PO has been processed:
 Clicking on a PO will show you more details of the PO and let you continue editing the PO.
 
 ### Generate Purchase Order from Quotation
+-------------
 
 If you want to generate Purchase Order from **Quotation, please go to **Quotation> Quotations, click to choose a pending quotation. Then choose **Convert Quotation** to PO button.
 
@@ -313,27 +317,33 @@ After that, a new purchase order is generated. Now you can:
   - Complete Purchase Order
 
 ## Settings  
+-------------
 
 There are 4 tabs to configure Purchase Management: Shipping method, Payment method, Payment term, Tax & Shipping Cost.
 
 ### Shipping Method
+-------------
 
 This tab allows you to add/edit or delete Shipping methods for purchase orders. Click **Add**, enter name of the shipping method and set status (Enable/Disable) for each one. Click **Delete** to delete a shipping method. After all, do not forget to choose **Save Config** to save your work.
 
 ![Shipping Method](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image075.jpg)
 
 ### Payment Method
+-------------
+
 This tab allows you to add/edit or delete Payment methods for purchase orders. Click on Add, enter name of the payment method and set status (Enable/Disable) for each one. Click Delete to delete a payment method. After all, do not forget to choose Save Config to save your work.
 
 ![Payment Method](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image077.jpg)
 
 ###  Payment Terms
+-------------
 
 This tab allows you to add/edit or delete Payment terms for purchase orders. Click on **Add**, enter name of the payment term and set status (Enable/Disable) for each one. Click **Delete** to delete a payment term. After all, do not forget to choose **Save Config** to save your work.
 
 ![Payment Terms](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Purchase%20Management/image079.jpg)
 
 ### Tax & Shipping Cost
+-------------
 
 This tab allows you to edit Tax & Default Shipping Cost for purchase orders.
 
@@ -343,6 +353,6 @@ This tab allows you to edit Tax & Default Shipping Cost for purchase orders.
 - Apply Customer Tax: Set customer tax applied before or after discount.
 - Default Tax (%): Enter default tax for purchase order items
 
---------------------------------------------The End-----------------------------------------
+
 
 
