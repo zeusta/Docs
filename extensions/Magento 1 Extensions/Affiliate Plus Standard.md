@@ -24,36 +24,39 @@ Selling products on commission is regarded as a great way to market products. It
  - After successfully installing the module, you can place the
    affiliate’s link in the footer or at the top of your site.
    
-   (image1)
+   ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image001.jpg?raw=true)
+
 
  - When a visitor clicks on this link, he can view the **Affiliate Home**
    page of the Affiliate system. This is a CMS page so you can customize
    its content to suit your needs (See the instruction in the next
-(im2)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image002.jpg?raw=true)
+
 
 ### Sign up for an Affiliate Account
 Customers can view the link to sign up for an affiliate program on the left of the welcome page.
 
-(im3)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image003.jpg?raw=true)
 
 When visitors click on the **Sign-up** tab, they will be redirected to the **Affiliate Registration** page. After providing all required information, visitors should click on the **Save** button to complete their registration. There are different forms following some scenarios.
 
  - Form 1: When visitors have not registered any accounts in your store,
    they will be required to fill in all information as below.
 
-(im4)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image004.jpg?raw=true)
 
 
  - Form 2: When visitors have had a customer account already but have
    not registered as an Affiliate yet, they will need to fill in
    additional information required to join your Affiliate program.
 
-(im5)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image005.jpg?raw=true)
 
  - If Customers have already had an Affiliate account on your site, the
    Affiliate system will require them to log in:
 
-(im6)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image006.jpg?raw=true)
 
 After clicking on the **Login** button, Customers will be redirected to the **Affiliate Welcome** page.
 ### How to Manage Affiliate Info
@@ -64,39 +67,44 @@ After clicking on the **Login** button, Customers will be redirected to the **Af
    Affiliate program including Affiliate Home, Banners & Links, Refer
    Friends, Commissions, Withdrawals, Traffics, Settings and Logout.
 
-(im7)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image007.png?raw=true)
 
  - Customers can change their personal information in the **Settings** tab.
 
-(im8)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image008.jpg?raw=true)
 
 ### How to Use Banners & Links
 The **Banners & Links** tab provides affiliates with all banners and custom links which they can add to their websites, blogs or forums. This page contains 2 sections as follows:
 
 
  - The **Affiliate Link** section:
-(im9)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image009.jpg?raw=true)
 
 Here affiliates can copy any links on your website such as product URLs, category URLs, etc. and then paste into the textbox. After clicking on **Get Link,** affiliate will have unique links identified by their affiliate ID to share anywhere else.
 
-(im10)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image010.jpg?raw=true)
 
 
 
  - The **Banners** section:
 -	In this section, affiliates can filter banners by banner size or banner type (Image or Text).
-(im11)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image011.jpg?raw=true)
 
 -	Each banner has a source code for affiliates to put on websites. In addition, affiliates are able to share banner links on social networks like Google+, Twitter, and Facebook by clicking the corresponding icons.
-(im12)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image012.jpg?raw=true)
+
 - 	Affiliates can easily track clicks and impressions of each banner.
-(im13)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image013.jpg?raw=true)
 
 ### How to use Referring Materials
 
 The system provides customers with information of Affiliate system, links, and banners to share on forums or social networks.
 
-(im14)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image014.jpg?raw=true)
 
 The **Referring Materials** tab can be set as enabled/disabled. You are allowed to edit content of the tab by creating new CMS pages in backend. Eg: you explain more about system, links or banners for your Customers.
 
@@ -110,99 +118,105 @@ First of all,
 
  - Click on **Refer Friends** tab
 
-(im15)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image015.jpg?raw=true)
 
 As it’s called, affiliates can refer their friends by sharing an affiliate link through email or social channels (Facebook, Twitter, and Google+).
 
 Before sharing the affiliate link, affiliates can choose to customize the link to make it friendlier. In order to do this, they mark the **Custom URL** checkbox, entering their referred links before clicking on the **Save** button:
 
-(im16)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image016.jpg?raw=true)
 
 To refer friends via email, affiliates can click on **Email** tab. Then a form for sending email will be displayed like this:
 
-(im17)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image017.jpg?raw=true)
 
 
  - As you can see, affiliates can log in to their e-mail accounts in
    **Gmail**, **Yahoo** or **Hotmail.** A login popup will be shown for them to sign
    in an e-mail account.
 
-(im18)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image018.jpg?raw=true)
 
 After logging in, Customers choose their targeted email addresses, in order to avoid spamming. Then, Customers can compose the email or use the available content. The email’s subject can be edited before clicking on Send Email.
 
 The email sent to affiliates' friends is similar to the following:
 
-(im19)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image019.jpg?raw=true)
 
 
  - Besides email, affiliates can share links via social channels
    (Facebook, Twitter, or Google+).
 
 -	To share links on Facebook, affiliates just click on **Facebook** tab. Then the form to edit status and post it to their Facebook will appear:
-(im20)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image020.jpg?raw=true)
 
 After clicking on the **Share** button, affiliates will see a popup to log in to Facebook.
 
-(im21)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image021.jpg?raw=true)
 
 Finally, affiliates need to grant permission to post status on their timelines before they can see the affiliate link posted as the following:
 
-(im22)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image022.png?raw=true)
 
  - Similarly, to share links on Twitter, affiliates click on the **Twitter**
    tab, edit the message and click on **Tweet** button:
-(im23)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image023.jpg?raw=true)
 
 Then a popup will appear for affiliates to log in to Twitter and edit the status again.
-(im24)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image024.jpg?raw=true)
 
 Finally, when affiliates click on the **Tweet** button, the status will be posted on their Twitter right away.
-(im25)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image025.jpg?raw=true)
 
  - To share affiliate links on Google+, affiliates first click on the
    **Google+** tab:
-(im26)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image026.jpg?raw=true)
 
 Next, they click on the **G+ Share** button. A popup form to edit status to post on Google+ will be displayed as below:
 
-(im27)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image027.jpg?raw=true)
 
 Finally, after affiliates click on **Share**, the affiliate link will be posted on Google+.
 
-(im28)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image028.jpg?raw=true)
 
 
  - Also in this **Refer Friends** page, affiliates can view information of
    traffic from different sources:
-(im29)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image029.jpg?raw=true)
 
 #### On Category page and Product Detail page
 Affiliates can also share an affiliate link with their friends through email or social channels (Facebook, Twitter, Google+) right on **Category** pages and **Product Detail** pages.
 First of all, please take a look at these two page types and pay special attention to those icons in the red box:
 
-(im30) (***Category page***)
+![***Category page***](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image030.jpg?raw=true) ***Category page***
 
-(im31) (***Product Detail page***)
+![***Product Detail page***](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image031.jpg?raw=true) ***Product Detail page***
 
 As you can see, there are 4 symbols right below a product’s name that stand for email and social channels including Facebook, Twitter and Google+. If affiliates want to share links via a channel they like, they can click on its symbol. After that, the System will show corresponding form for them to share the affiliate link as below:
  
 
  - **Email form:**
 
-(im32)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image032.jpg?raw=true)
 
  - **Facebook form:**
 
-(im33)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image033.jpg?raw=true)
 
  - **Twitter form:**
 
-(im34)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image034.jpg?raw=true)
 
  - **Google+ form:**
 
-(im35)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image035.jpg?raw=true)
 
 In each form, steps for sharing are similar to those in the **Refer Friend** page.
 
@@ -213,14 +227,14 @@ In each form, steps for sharing are similar to those in the **Refer Friend** pag
    affiliate account, he will receive a discount (you can configure this
    discount in backend).
 
-(im36)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image036.jpg?raw=true)
 
  - Simultaneously when the order status is complete, the affiliate will
    gain commission, the level of which is configured by you in backend.
    Affiliates can follow their commission balances by clicking on the
    **Commissions** tab.
 
-(im37
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image037.jpg?raw=true)
 
 Here affiliates can view their current commission balance and other information such as purchased date, purchased product, total amount, commission, additional commission and status. They can also search commission by date, product name and status.
 #### Use Commissions
@@ -230,11 +244,11 @@ Depending on your settings in backend, affiliates can use their commission balan
  - Request withdrawal to receive money (please see section 2.8 for more
    details)
 
-(im38)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image038.jpg?raw=true)
 
 - Use commission as store credit to pay for future purchases at your store
 
-(im39)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image039.jpg?raw=true)
 
 ### How to Manage Withdrawals
 #### Request withdrawal
@@ -245,36 +259,38 @@ Affiliates can request payment if their account balances are more than the minim
 
 Affiliates enter the amount that they want to receive and click on the **Request Withdrawal** button.
 
-(im40)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image040.jpg?raw=true)
 
 - Step 2: Choose a preferred payment method
 
 Affiliates will be redirected to **Request Withdrawal** page. On this page, the module provides some payment methods for affiliates to withdraw including PayPal, Offline payment, Bank Transfer Payment and Moneybookers.
 
-(im41)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image041.jpg?raw=true)
 
 -***PayPal***: This is the default payment method of Affiliate System. If   
    affiliates choose this method, they are required to provide their    
    PayPal email.
 
-(im42)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image042.jpg?raw=true)
 
 -***Offline Payment***: affiliates can use the offline payment method to request payment. In this case, they need to provide their existing address in the system or enter a new address.
 
-(im43)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image043.jpg?raw=true)
 
 -***Bank Transfer Payment***: affiliates can use the bank transfer payment method to request his payment. Their bank account information is required for this payment method. They can use their bank account saved in the system or enter a new bank account.
 
-(im44)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image044.jpg?raw=true)
 
 -***Moneybookers***: affiliates can request withdrawals via Moneybookers (Skills) payment gateway. The email account registered with Moneybookers is required to continue processing payment.
 
-(im45)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image045.jpg?raw=true)
 
  - Step 3: Validate affiliates‟ payment info (Validations are required or not depending on your settings in backend)
 
 -	After affiliates click on the **Send Request** button, the system    will automatically email them an authentication code and show the    **Verification Form** popup as below:
-(im46)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image046.jpg?raw=true)
+
 -	After entering the code in their email in the **Authentication Code** field, affiliates should click on the **Verify** button to continue. After that, they will be redirected to the **Review your request and send** page.
 
 
@@ -282,12 +298,12 @@ Affiliates will be redirected to **Request Withdrawal** page. On this page, the 
 
 On this page, affiliates can review some information of the request such as date, amount, and method. If they want to edit any information, simply click on the **Back to edit** button. Otherwise, they can click **Send Request** to send the withdrawal request to admin for approval. After that, the system will automatically subtract money from their commission balance. 
 
-(im47)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image047.jpg?raw=true)
 
 #### View request details
 After sending the withdrawal request, the affiliate will instantly be navigated to the **Withdrawal History** page.
 
-(im48)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image048.jpg?raw=true)
 
 This is a grid view of withdrawal history that shows some information such as requested date, amount, fee, status and action.
 
@@ -295,102 +311,103 @@ This is a grid view of withdrawal history that shows some information such as re
 
 Affiliates click on **View** in the **Action** column and **Withdrawal detail** is shown as below:
 
-(im49)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image049.jpg?raw=true)
 
 - Cancel a withdrawal:
 
 If affiliates have a pending withdrawal, they cannot request a new one.
 
-(im50)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image050.jpg?raw=true)
 
 To cancel the pending withdrawal, click **Cancel** on the **Action** column and **yes** on the confirming notification. After that, the requested amount will be added back to affiliates’ commission balance.
 
-(im51)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image051.jpg?raw=true)
 
 - 	Search withdrawal history:
 
 Affiliates can search for withdrawals easily by using the filter at the top of each column, such as withdrawals which have status “Completed”:
 
-(im52)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image052.jpg?raw=true)
 
 #### Set Recurring Payment
 This useful feature allows affiliates to receive money periodically by week, month, and year or in his custom time.
 
-(im53)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image053.jpg?raw=true)
 
 In the **Settings** tab, affiliates need to choose a method for recurring payment and enter required information such as their email address, then click the **Save** button
 This useful feature allows affiliates to receive money periodically by week, month, and year or in his custom time.
 
-(im54)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image054.jpg?raw=true)
 
 In the **Settings** tab, affiliates need to choose a method for recurring payment and enter required information such as their email address, then click the **Save** button.
 
 ### How to View Traffics
 - By clicking on the **Traffics** tab on the left menu, affiliates can view the summary of commissions and traffics that they generated (the number of clicks on website banners):
 
-(im55)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image055.jpg?raw=true)
 
 - This **Traffic Summary** page lists commissions, number of clicks and number of unique clicks. Affiliates can sort commissions by **Clicks, Unique clicks, Store View, Landing Page** or **Traffic Source**.
 
-(im56)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image056.jpg?raw=true)
 
 ### How to manage Lifetime Customer
 Affiliates can access **Lifetime Customer** section to figure out how many lifetime customers they are having. The list will show **Customer Name** (if any) and **Customer Email**.
 
-(im57)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image057.jpg?raw=true)
 
 ### How to manage Sub-store
 This new feature has been available to use from version 4.6. Affiliate can choose specific products to be shown in their sub-store link. The sub-store link will include the Key Shop which is set/edit in the backend by admin. To change the Key Shop, affiliate should contact admin for special requirement. (Refer to **Section 3.1** for more details)
 
-(im58)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image058.jpg?raw=true)
 
 In order to add product in to the sub-store, affiliates can go to listing page/ product page, select option Add to Sub-store. 
 
-(im59)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image059.jpg?raw=true)
 
 Please note that in version 4.4, this feature does not support in removing products from the sub-store link. Affiliates can only add new products but editing/removing them.
 
 ## HOW TO CONFIGURE
 In back-end, you can set discount for referred customers, commission for affiliates as well as manage all information of affiliate accounts, banners, transactions and withdrawals. Now let’s go into details.
+
 ### How to Manage Affiliate accounts
 Log in to **Back-end → Affiliate plus → Manage Accounts.**
 
-(im60)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image060.jpg?raw=true)
 
 On this page, you can review the list of affiliate accounts as well as create a new account. Affiliate accounts can be managed by each store view.
 
-(im61)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image061.jpg?raw=true)
 
  - Add Account:
 
 To create a new account, you can click on the **Add Account** button, which will redirect you to the **Add Account** page. Then you should fill in all required data in 2 tabs, including Name, Email Address and PayPal Email Address. After that, remember to click on the **Save Account** or **Save and Continue Edit** button to save your work.
 
-(im62)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image062.jpg?raw=true)
 
  - Edit Account:
 
 Click on any account listed in grid to edit. An affiliate accounts information and performance will be shown in 4 tabs: **General Information, Payment Information, History Transaction** and **History Withdrawal.**
 - **General Information** tab:
 
-(im63)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image063.jpg?raw=true)
 
 The Key Shop field is required for affiliates to create sub-store link in the frontend (Refer to **Section 2.11** for details). Admin can set the Key Shop and change it later if any request from affiliates.
 
 -**Payment Information** tab:
 
-(im64)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image064.jpg?raw=true)
 
 -**History transaction** tab:
 
-(im65)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image065.jpg?raw=true)
 
 -**History Withdrawal** tab:
 
-(im66)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image066.jpg?raw=true)
 
 -**Lifetime Customers** tab:
 
-(im67)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image067.jpg?raw=true)
 
 You can edit information in the **General Information** tab. Then remember to click on the **Save Account** or **Save and Continue Edit** button to save your work.
 
@@ -399,7 +416,7 @@ To manage banners and links, go to **Affiliate plus** → **Manage Banners.**
 
 - You can enable/ disable banners for different store views by choosing a specific store on the left panel.
 
-(im68)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image068.jpg?raw=true)
 
 - ***Add Banner***: click on the **Add Banner** button and fill in the form with necessary information.
 	- **Title**: set the banner’s name
@@ -409,11 +426,12 @@ To manage banners and links, go to **Affiliate plus** → **Manage Banners.**
 	- **Height**: set the height for the banner (only available for image and flash banners).
 	- **Link**: set a landing page URL for the banner.
 	- **Status:** enable or disable the banner
-(im69)
+
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image069.jpg?raw=true)
 
 - ***Edit banner***: click on any banner on the management grid, you can edit its information similarly as when adding new banners. You also can review the number of clicks and impressions of the banner.
 
-(im70)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image070.jpg?raw=true)
 
 ### How to Manage Transactions
 
@@ -421,33 +439,33 @@ Go to **Affiliate Plus** → **Manage Transactions.**
 
 - You can obtain information of orders through an affiliate such as order value, discount, commission and recipient as well as the states of orders.
 
-(im71)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image071.jpg?raw=true)
 
 -	You can easily filter transactions by store view.
 
-(im72)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image072.jpg?raw=true)
 
 - Simply click on any transaction to view its details.
 
-(im73)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image073.jpg?raw=true)
 
 - **Add New Transaction**: Admin can create transaction manually by clicking on **Add New**, select the specific order and edit transaction information including Affiliate Account Email and the commission. Then, remember to choose **Save Transaction** or **Save and View.**
 
-(im74)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image074.jpg?raw=true)
 
 ### How to Manage Withdrawals
 Go to **Affiliate Plus** → **Manage Withdrawals.** This page lists all withdrawals requested by affiliates. You can view and filter by store view, affiliate account, amount, tax, fee, method, recurring, requested date and status.
 
-(im75)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image075.jpg?raw=true)
 
 #### Add Withdrawal:
 Click on the **Add Withdrawal** button at the top left of the page. Then you will be navigated to the **Select Account** page shown as below:
 
-(im76)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image076.jpg?raw=true)
 
 This page shows all affiliate accounts in the system. You can search and choose an account that you want to add withdrawal by clicking on it. The system will show you the **Add Withdrawal** page.
 
-(im77)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image077.jpg?raw=true)
 
 You should pay attention to some following fields:
 
@@ -469,17 +487,17 @@ You should pay attention to some following fields:
 
  - **Auto-pay though the payment gateway**: If you choose PayPal payment or Moneybookers payment method, the system gives you this option t transfer the withdrawal faster. It automatically pays through the gateway.
 
-(im78)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image078.jpg?raw=true)
 
 Simply click on the **Pay Now** button then you will be navigated to the **Review your payment and pay** page to confirm the data.
 
-(im79
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image079.jpg?raw=true)
 
 After reviewing all the information, you need to click **Pay** button to transfer money to the affiliate.
 
 - **Pay manual**: if you don't want to pay automatically through the payment gateways, you can click on the **Save and Pay Manual** button to save the withdrawal’s information.
 
-(im80
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image080.jpg?raw=true)
 
 After saving, the amount will be automatically subtracted from the affiliate balance. You can change the status of Withdrawal to “Complete” by editing it and clicking on the **Complete Manual** button. Then you can transfer the money in other ways.
 
@@ -487,7 +505,7 @@ After saving, the amount will be automatically subtracted from the affiliate bal
 Please note that you can only edit withdrawals with the “**Pending**” status. For withdrawals in other status, you only can view their information.
 On the grid of withdrawals, you can choose a pending withdrawal to edit by clicking on its row or link **Edit** in column **Action**. You will be navigated to the **Edit Withdrawal** page.
 
-(im81)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image081.jpg?raw=true)
 
  - On this page you can edit information including Amount, Fee, and
    Payment Method. You also can cancel, complete or delete the
@@ -501,17 +519,17 @@ On the grid of withdrawals, you can choose a pending withdrawal to edit by click
 ### How to Configure General Settings
 Go to **Affiliate Plus** → **Settings** or **System** → **Configuration**, you can see 10 tabs to configure functions of Affiliate Plus for each store view.
 
-(im82
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image082.png?raw=true)
 
  - **Doc and Help** tab:
 
 Here you will find the installation manual and user guides that explain about how to set up and configure the Affiliate Plus module.
 
-im83
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image083.png?raw=true)
 
  - **General Information** tab:
 
-im84
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image084.png?raw=true)
 
 |No|Field|	Sample| 	Description|
 |----|----|---|----|
@@ -528,7 +546,7 @@ im84
 
  - **Account Configuration** tab:
 
-im 85
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image085.jpg?raw=true)
 
 |No|Field|Sample|Description|
 |--|--|--|--|
@@ -566,7 +584,7 @@ im 85
 
  - **Discount Configuration** tab:
 
-im 86
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image086.png?raw=true)
 
 |No|	Field|	Sample|	Description|
 |--|--|--|--|
@@ -580,7 +598,7 @@ im 86
 
  - **Withdrawals Configuration** tab:
 
-im 87
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image087.jpg?raw=true)
 
 |No|	Field|	Sample|	Description|
 |-|-|-|-|
@@ -661,11 +679,11 @@ im 87
  - Log into **Back-end** → **System** →**Configuration.**
  - Choose tab **Magestore Extension** → A **ffiliate Plus Payment Method.**
 
-im 88
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image088.jpg?raw=true)
 
 • Tab ***Recurring Payment Configuration***:
 
-im 89
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image089.jpg?raw=true)
 
 |No|	Field|	Sample	|Description|
 |-|-|-|-|
@@ -683,7 +701,7 @@ im 89
 
 •	Tab ***Offline Payment Method***:
 
-im 90
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image090.jpg?raw=true)
 
 |No|	Field|	Sample|	Description|
 |-|-|-|-|
@@ -693,7 +711,7 @@ im 90
 
 •	Tab ***PayPal Payment Method***:
 
-im91
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image091.jpg?raw=true)
 
 |No|	Field|	Sample	|Description|
 |-|-|-|-|
@@ -710,7 +728,7 @@ If you use your default PayPal Merchant Email settings, you can follow below ste
  - Log into **Back-end** → **System** →**Configuration**.
  - Select the **PayPal** tab on the left menu
 
-im 92
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image092.jpg?raw=true)
 
 |No|	Field|	Value|	Description|
 |--|-|---|-|
@@ -724,7 +742,7 @@ im 92
 |8|	API Uses Proxy|	Yes|	You choose to use Proxy|
 
 •	Tab ***Bank Transfer Payment Method***:
-im 93
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image093.jpg?raw=true)
 
 |No.|	Field|	Sample|	Description|
 |--|--|--|--|
@@ -737,7 +755,7 @@ im 93
 
 •	Tab ***Moneybookers Payment Method (Skrills)***:
 
-im 94
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image094.png?raw=true)
 
 |No|	Field|	Sample|	Description
 |-|-|-|-|			
