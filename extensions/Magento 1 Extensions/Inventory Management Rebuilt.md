@@ -5,6 +5,8 @@
 
 Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
+
+
 ## Introduction
 
 Inventory cost is generally between 20% and 30% of the cost to purchase inventory (http://www.investopedia.com). For many SMEs, this is counted as the major expense whether having online stores or not. As the result, it is vital to have an effective inventory management strategy for saving costs & gaining profits.
