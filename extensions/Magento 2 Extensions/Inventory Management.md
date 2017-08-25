@@ -41,7 +41,7 @@ A warehouse contains basic information including Total SKU, total Qty, contact e
 
 Admin can add new warehouse then fill all information including warehouse name, contact, country…
 
-<<img1>>
+![](./inventoryimages/im1.png)
 
 ### Manage user/staff & Permission
 
@@ -51,13 +51,18 @@ Permission in Inventory extension allows admin to create multiple users and user
 
 Go to System menu, select “User Roles” under Permission submenu. Now admin can view a list of role and create a new role for users. Role information contains role info (name & password) and role resource. This role resource contains every part of Inventory that this role can be able to access to. For example if you set this role as Manager, you can grant some important permission to Delete warehouse, confirm Physical stock taking or complete a Stock request…by selecting the check boxes then Save Role.
 
-<<img2>>
+![](./inventoryimages/im2.png)
+
+-	**Create new user**
+Go to System menu, select “All users” under Permission submenu, admin can view a list of staffs with user name, name, email and status of account. User information contains 3 parts: User Info, User Role and the Warehouse which the user is assigned to. Admin can assign the warehouse and role for a staff. Admin can add new, edit, remove and save staff information.
+
+![](./inventoryimages/im3.png)
 
 - **Assign staff to warehouse**
 
 Go to Warehouses under Stock Listing submenu then select any warehouse, there is a configuration for Permission. From here admin can assign staff for that warehouse conveniently.
 
-<<img3>>
+![](./inventoryimages/im4.png)
 
 ### Stock in Warehouse
 
@@ -67,11 +72,11 @@ It can show Available Qty, Qty to Ship and total Qty in each warehouse and Shelf
 
 After selecting the warehouse, admin can easily update stock and shelf location right on the Inventory grid just by selecting the products, fill the updated Total Qty/Shelf location and click “Update Stock”.
 
-<<img4>>
+![](./inventoryimages/im5.png)
 
 Moreover, you can easily edit Qty of products by accessing to Products, choose **Catalog**, choose to edit a specific product and tick on **Force Edit**
 
-<<img5>>
+![](./inventoryimages/im6.png)
 
 ### Non-warehouse product
 
@@ -79,9 +84,9 @@ When a product is newly created and not assigned to any warehouse yet, it will b
 
 In addition, admin can also add the product to multiple warehouses in **Product edit page**:
 
-<<img6>>
+![](./inventoryimages/im7.png)
 
-<<img7>>
+![](./inventoryimages/im8.png)
 
 
 ## 2. Prediction
@@ -116,7 +121,7 @@ Admin can create unlimited rules to notify low stock. One rule contains: Rule in
 
 With Available Days selection, the system will base on sales history of an item to predict how many days left till it will be out of stock. You can configure Sales period (history time to base on and get sale data) and Threshold day (the days before the product runs out of stock). So if you configure Threshold day as 5, system will send notification to you 5 days before this item is predicted to be out of stock so that you can prepare to purchase more stocks.
 
-<<img8>>
+![](./inventoryimages/im9.png)
 
 Besides, you can add more conditions about Product attribute for example product SKU, color, category…
 
@@ -150,7 +155,7 @@ Now you can download Shortfall list & Summary of the Stock Request.
 
 Moreover, if the number of **Qty** you choose is bigger than the **Qty in Warehouse**, the system will automatically notify you to validate data before submitting send/request stock, as below:
 
-<<img9>>
+![](./inventoryimages/im10.png)
 
 
 ### Transfer to External & Transfer from External
@@ -176,11 +181,11 @@ This History records stock movements from Send stock, request stock, transfer fr
 
 With the newest version, you can link products and stock data by choosing “Yes” on the **Link stocks in Warehouse to Front Store View** section
 
-<<img10>>
+![](./inventoryimages/im11.png)
 
 To link multiple Store View to a Warehouse, go to **Inventory Management > Warehouse > select a specific warehouse**. Here, you can change the store view that links to the warehouse or select multiple store views as needed.
 
-<<img11>
+![](./inventoryimages/im12.png)
 
 **-	Add new Stock Adjustment**
 
@@ -188,15 +193,15 @@ Under menu “Stock Control”, you can create new Stock Adjustment for a specif
 
 From here you now go to Product List to **Add products to adjust stocks** or **Import products**, fill in the Qty you want to update and Save the Stock Adjustment. The Qty here can be “Change Qty” or “Adjusted Qty”, depending on how you configure in Store   Configuration: 
 
-<<img12>>
+![](./inventoryimages/im13.png)
 
 If you fill the Change Qty, you are allowed to add or subtract the change by filling positive or negative number. If you fill in Adjusted Qty, you will fill the final calculation to update the final qty. After being saved, this stock adjustment’s status is now **Pending**.
 
-<<img13>>
+![](./inventoryimages/im14.png)
 
 To change Stock Adjustment status to “completed”, you need to hit button “Adjust Stock”. Stock is updated in the warehouse. Once the Adjustment is Complete, there is no way to edit it.
 
-<<img14>>
+![](./inventoryimages/im15.png)
 
 Stock level will be updated instantly in the corresponding warehouse.
 
@@ -204,7 +209,7 @@ Stock level will be updated instantly in the corresponding warehouse.
 
 You can view all Stock Adjustment History under Stock Control -> Stock Adjustment History with information including Time created, staff created, warehouse and status…Click to each Adjustment, you can see stock adjustment details
 
-<<img15>>
+![](./inventoryimages/im16.png)
 
 ### Stock Taking & Stock Taking History
 
@@ -233,8 +238,8 @@ The extension records all the movements of stocks in warehouse. These movements 
 
 The table shows SKU of the products added or subtracted from warehouse, the changed Qty, Warehouse name, Date and Reference number to see the details on a click. Admin can easily exports Stock Movement details into CSV or Excel XML.
 
-<<img16>>
+![](./inventoryimages/im17.png)
 
 Admin can also filter the data basing on the variables in the table
 
-<<img17>>
+![](./inventoryimages/im18.png)
