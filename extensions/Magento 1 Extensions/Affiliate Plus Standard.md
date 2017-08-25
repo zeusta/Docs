@@ -86,12 +86,14 @@ Here affiliates can copy any links on your website such as product URLs, categor
  - The **Banners** section:
 -	In this section, affiliates can filter banners by banner size or banner type (Image or Text).
 (im11)
--		Each banner has a source code for affiliates to put on websites. In addition, affiliates are able to share banner links on social networks like Google+, Twitter, and Facebook by clicking the corresponding icons.
+
+-	Each banner has a source code for affiliates to put on websites. In addition, affiliates are able to share banner links on social networks like Google+, Twitter, and Facebook by clicking the corresponding icons.
 (im12)
 - 	Affiliates can easily track clicks and impressions of each banner.
 (im13)
 
-###How to use Referring Materials
+### How to use Referring Materials
+
 The system provides customers with information of Affiliate system, links, and banners to share on forums or social networks.
 
 (im14)
@@ -99,7 +101,8 @@ The system provides customers with information of Affiliate system, links, and b
 The **Referring Materials** tab can be set as enabled/disabled. You are allowed to edit content of the tab by creating new CMS pages in backend. Eg: you explain more about system, links or banners for your Customers.
 
 ### How to Refer Friends
-####On My Account/Affiliate Menu
+#### On My Account/Affiliate Menu
+
 First of all,
 
  - Go to **My account** → **Affiliates**
@@ -174,7 +177,7 @@ Finally, after affiliates click on **Share**, the affiliate link will be posted 
    traffic from different sources:
 (im29)
 
-####On Category page and Product Detail page
+#### On Category page and Product Detail page
 Affiliates can also share an affiliate link with their friends through email or social channels (Facebook, Twitter, Google+) right on **Category** pages and **Product Detail** pages.
 First of all, please take a look at these two page types and pay special attention to those icons in the red box:
 
@@ -234,7 +237,7 @@ Depending on your settings in backend, affiliates can use their commission balan
 (im39)
 
 ### How to Manage Withdrawals
-####Request withdrawal
+#### Request withdrawal
 Affiliates can request payment if their account balances are more than the minimum amount configured in backend. In the left navigation **My Affiliate Account,** click on tab **Withdrawals**. The **Withdrawals History** page will be shown as below.
 	
 
@@ -274,7 +277,6 @@ Affiliates will be redirected to **Request Withdrawal** page. On this page, the 
 (im46)
 -	After entering the code in their email in the **Authentication Code** field, affiliates should click on the **Verify** button to continue. After that, they will be redirected to the **Review your request and send** page.
 
-(,,,,,,,,,,,xoá)
 
  - Step 4: Review and confirm withdrawal request
 
@@ -282,7 +284,7 @@ On this page, affiliates can review some information of the request such as date
 
 (im47)
 
-####View request details
+#### View request details
 After sending the withdrawal request, the affiliate will instantly be navigated to the **Withdrawal History** page.
 
 (im48)
@@ -323,7 +325,7 @@ This useful feature allows affiliates to receive money periodically by week, mon
 
 In the **Settings** tab, affiliates need to choose a method for recurring payment and enter required information such as their email address, then click the **Save** button.
 
-###How to View Traffics
+### How to View Traffics
 - By clicking on the **Traffics** tab on the left menu, affiliates can view the summary of commissions and traffics that they generated (the number of clicks on website banners):
 
 (im55)
@@ -337,7 +339,7 @@ Affiliates can access **Lifetime Customer** section to figure out how many lifet
 
 (im57)
 
-###How to manage Sub-store
+### How to manage Sub-store
 This new feature has been available to use from version 4.6. Affiliate can choose specific products to be shown in their sub-store link. The sub-store link will include the Key Shop which is set/edit in the backend by admin. To change the Key Shop, affiliate should contact admin for special requirement. (Refer to **Section 3.1** for more details)
 
 (im58)
@@ -348,7 +350,7 @@ In order to add product in to the sub-store, affiliates can go to listing page/ 
 
 Please note that in version 4.4, this feature does not support in removing products from the sub-store link. Affiliates can only add new products but editing/removing them.
 
-##HOW TO CONFIGURE
+## HOW TO CONFIGURE
 In back-end, you can set discount for referred customers, commission for affiliates as well as manage all information of affiliate accounts, banners, transactions and withdrawals. Now let’s go into details.
 ### How to Manage Affiliate accounts
 Log in to **Back-end → Affiliate plus → Manage Accounts.**
@@ -413,7 +415,7 @@ To manage banners and links, go to **Affiliate plus** → **Manage Banners.**
 
 (im70)
 
-###How to Manage Transactions
+### How to Manage Transactions
 
 Go to **Affiliate Plus** → **Manage Transactions.**
 
@@ -654,7 +656,7 @@ im 87
 |13|	Default Message Shared on Twitter||		This is the default message that affiliates tweet on Twitter|
 
 
-###How to Configure Multiple Payment Methods
+### How to Configure Multiple Payment Methods
 
  - Log into **Back-end** → **System** →**Configuration.**
  - Choose tab **Magestore Extension** → A **ffiliate Plus Payment Method.**
@@ -745,501 +747,3 @@ im 94
 |4	|Use Recurring Payment Moneybookers API|	Yes|	Use this method for Recurring Payment|
 |5|Use your MoneyBookers Merchant Email Default on Moneybookers Configuration|	Yes| Use a different Skrills email from your default merchant account, then fill out your new Moneybookers account|
 			
-			
-			
-			
-			
-			
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
