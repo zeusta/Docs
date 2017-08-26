@@ -155,7 +155,7 @@ After finishing, click on **Save POS** or **Save And Continue Edit** button to s
 
 After finishing, click on **Save POS** or **Save and Continue Edit** button to save your work.
 ### 2.8.	How to connect Retailer POS with peripheral devices
-Magestore Retailer POS extension can connect with***Barcode readers, Card Swipe, Wireless Cash Drawer & Receipt printers**
+Magestore Retailer POS extension can connect with **Barcode readers, Card Swipe, Wireless Cash Drawer & Receipt printers**
 
 •	Card Swipe (via Audio jack)
 
@@ -277,7 +277,7 @@ You can choose between using **Custom Discount** or **Coupon Code**
 
 Then, the cart will be updated automatically after you click on **Apply** button. 
 
-- In Coupon Code tab:
+- In **Coupon Code** tab:
 
 Just fill in available coupon you want to offer for your customers. The cart will be updated automatically after you click on **Apply** button.
 
@@ -411,12 +411,12 @@ In POS screen, you can review orders by choosing **Orders** tab from sidebar. He
 
 - 	Order status
 
-In order list, the status of order is distinguished by color
-    -	Complete: Green 
-    -	Processing: Blue
-    -	Pending: Orange 
-    -	Canceled: Gray
-- 	Order searching
+In order list, the status of order is distinguished by color<br/>
+    -	Complete: Green<br/>
+    -	Processing: Blue<br/>
+    -	Pending: Orange<br/>
+    -	Canceled: Gray<br/>
+    - 	Order searching<br/>
 
 To quickly find an order to review, you can search it by Order ID or Customer’s Name/Email
 
