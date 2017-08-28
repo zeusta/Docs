@@ -71,7 +71,7 @@ After clicking on the **Login** button, Customers will be redirected to the **Af
 
  - Customers can change their personal information in the **Settings** tab.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image008.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%208.png?raw=true)
 
 ### How to Use Banners & Links
 The **Banners & Links** tab provides affiliates with all banners and custom links which they can add to their websites, blogs or forums. This page contains 2 sections as follows:
