@@ -44,7 +44,7 @@ When visitors click on the **Sign-up** tab, they will be redirected to the **Aff
  - Form 1: When visitors have not registered any accounts in your store,
    they will be required to fill in all information as below.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image004.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%204.png?raw=true)
 
 
  - Form 2: When visitors have had a customer account already but have
