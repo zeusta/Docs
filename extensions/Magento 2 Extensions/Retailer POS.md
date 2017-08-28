@@ -5,11 +5,11 @@
 
 *Copyright 2017 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
-## 1.	INTRODUCTION
+## 	INTRODUCTION
 Magento 2 Retailer POS is a point-of-sale app for iOS. With an iPad on hand, sales staff can process easy and fast transactions either on the go or at the counter. Natively build for Magento retail business, this POS allows automatic data synchronization between the app and your Magento store. You can apply custom discounts in cart, accept split payment, note shipping details for each order from your iPad. Ready to sell your products 10 times faster?
-## 2.	HOW TO CONFIGURE
+## 	HOW TO CONFIGURE
 Before using Retailer POS to check out, admin needs to configure it in backend first. Please read the user guide carefully to know how to configure information you want
-### 2.1.	How to enable a payment method for Retailer POS
+### 	How to enable a payment method for Retailer POS
 To set up payment method for Retailer POS, go to **Sales > Web POS > Settings > Payment for POS**. Then, you will be able to see: 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image004.png)
@@ -25,7 +25,7 @@ If you want to set Cash on Delivery (COD) to be the default payment method for i
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image005.png)
 
-### 2.2.	How to set up a shipping method for Retailer POS
+### 	How to set up a shipping method for Retailer POS
 To set up Shipping Methods for Retailer POS, go to **Sales > Web POS > Settings > Shipping Methods**, the following page will be shown as below:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image006.png)
@@ -42,17 +42,17 @@ If you want to set Flat Rate - Fixed to be the default shipping method for insta
 - 	**Enable "Mark as shipped" by default**: choose Yes if you want to mark items as shipped.
 
 After finishing, click on Save Config button to save your work.
-### 2.3.	What is default customer & how to configure Default Guest Checkout
-#### 2.3.1.	What is default customer
+### 	What is default customer & how to configure Default Guest Checkout
+#### 	What is default customer
 **Default customer** is the customer whose information will be used for Guest Checkout or when customer information is not enough, default value will be filled automatically. 
-#### 2.3.2.	How to configure Default Guest Checkout
+#### 	How to configure Default Guest Checkout
 To configure Default Guest Checkout, go to **Sales > Web POS > Settings > Default Guest Checkout**. You will see the configuration page as below: 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image007.png)
 
 Fill in all information as you want to use as default, including **First Name, Last Name, Street, Country, State/Province, City, Zip/Postal Code, Telephone and Email**.
 After finishing, click on **Save** or **Save and Continue Edit** button to save your work.
-### 2.4.	How to change logo of Retailer POS
+### 	How to change logo of Retailer POS
 To change logo of Retailer POS, go to **Sales > Web POS > Settings > Web POS Logo**. In this tab, you can see configuration as follows:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image008.png)
@@ -61,7 +61,7 @@ To change logo of Retailer POS, go to **Sales > Web POS > Settings > Web POS Log
 - **Web POS logo: Upload your logo here**. Please note that recommended size is 250x50px & supported files are jpeg, png
 After finishing, click on **Save** or **Save And Continue Edit** button to save your work.
 
-### 2.5.	How to add a Retailer POS user
+### 	How to add a Retailer POS user
 To add new user using Retailer POS, go to **Sales > Web POS > Manage Staff**. Here you can see a list of users that have been created. 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image009.png)
@@ -90,7 +90,7 @@ You can edit which information you want here:
 
 After finishing, click on **Save User** or **Save And Continue Edit** button to save your work.
 
-### 2.6.	How to differentiate access permissions of Retailer POS users
+### 	How to differentiate access permissions of Retailer POS users
 - 	To grant different permission for Retailer POS user, go to **Sales > Web POS > Manage Roles**. The **Role Manager** page will be shown. You can export role user list to csv/xml file: 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image014.png)
@@ -122,7 +122,7 @@ After finishing, click on Save or Save And Continue Edit button to save your wor
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image018.png)
 
 When finishing editing, please click on **Save** or **Save And Continue Edit** button to save the change.
-### 2.7.	How to add a new POS and assign it to a cashier
+### 	How to add a new POS and assign it to a cashier
 - To add a new POS, go to **Sales > Web POS > Manage POS**. The **POS Manager** page will be shown. Click to **Add POS** to create a new POS
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image019.png)
@@ -156,7 +156,7 @@ After finishing, click on **Save POS** or **Save And Continue Edit** button to s
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image023.png)
 
 After finishing, click on **Save POS** or **Save and Continue Edit** button to save your work.
-### 2.8.	How to connect Retailer POS with peripheral devices
+### 	How to connect Retailer POS with peripheral devices
 Magestore Retailer POS extension can connect with **Barcode readers, Card Swipe, Wireless Cash Drawer & Receipt printers**
 
 •	Card Swipe (via Audio jack)
@@ -167,9 +167,9 @@ Magestore Retailer POS extension can connect with **Barcode readers, Card Swipe,
 
 •	Wireless Cash Drawer
 
-## 3.	HOW TO USE
+## 	HOW TO USE
 You have finished settings for Magento 2 Retailer POS, now please move to the part of HOW TO USE Retailer POS for checkout
-### 3.1.	How a Retailer POS user logs in & manages his account
+### 	How a Retailer POS user logs in & manages his account
 **After downloading and installing the app in your iPad, open the app and you will see a login screen. User needs to fill in domain, an account & password to continue**:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image024.png)
@@ -182,7 +182,7 @@ Then, click on **My Account** tab and the user can see his information. He can a
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image026.png)
 
-### 3.2.	How to switch between cashiers with PIN code
+### 	How to switch between cashiers with PIN code
 Each staff will be set restrictions based on staff roles and responsibilities. Limit who can make a discount or give a refund. However, with Retailer POS app, you can flexibly switch between cashiers in the middle of transaction just with a PIN code (4 digital) which is added to when creating a POS user. In order to change cashier, you can follow the step below:
 
 - On the left top of the screen click on “change” icon.
@@ -199,7 +199,7 @@ Each staff will be set restrictions based on staff roles and responsibilities. L
 
 Now you can see that the cashier has changed.
 
-### 3.3.	How to filter & search products quickly
+### 	How to filter & search products quickly
 
 In backend, you can configure to search products by going to **Sales > Web POS > Settings**
 - **In General Configuration** section: Enable **Allow synchronizing order from Web POS** if there are out-of-stock items by choosing Yes option.
@@ -228,20 +228,20 @@ To search by product attributes, click on Search icon, then a search bar will be
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image033.png)
 
-### 3.4.	How to add products to cart
-#### 3.4.1.	Add products to cart: 
+### 	How to add products to cart
+#### 	Add products to cart: 
 -	With simple products, you just need 1 tap to add them to cart
 -	With configurable, bundle, grouped products, after clicking, you will see a popup shown to choose your option. Then, tap on **Done** button. 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image034.png)
 
-#### 3.4.2.	Edit products in cart
+#### 	Edit products in cart
 After adding products to cart, you can edit the quantity of each product by selecting the product that needs editing. A popup will display with edit option for **Qty**. 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image035.png)
 
 To edit Qty., just enter a wanted number or tap on +/-. The number of products will be adjusted in the cart right away. 
-#### 3.4.3.	Remove products in cart
+#### 	Remove products in cart
 - To remove products in cart one by one, edit the quantity of it back to 0. 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image036.png)
@@ -250,10 +250,10 @@ To clear all cart, tap on “trash” icon on the menu:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image037.png)
 
-### 3.5.	How to add a custom sale item to cart
-#### 3.5.1.	What is custom sale item & what it is for
+### 	How to add a custom sale item to cart
+#### 	What is custom sale item & what it is for
 Custom sale item is the item that Retailer POS user creates when checkout. It is used when the product hasn’t been added to the system or Retailer POS user cannot find it in the product list. 
-#### 3.5.2.	How to add Custom Sale to cart
+#### 	How to add Custom Sale to cart
 In frontend, select Custom Sale button if you want to add the custom product to cart
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image038.png)
@@ -267,7 +267,7 @@ After finishing configuration, tap **Add to Cart** button and check out as norma
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image039.png)
 
-### 3.6.	How to apply a coupon code or a cart discount
+### 	How to apply a coupon code or a cart discount
 After adding products to cart, to apply a coupon code or discount on the whole cart, tap on **Discount** button. Then, a popup will display as below:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image040.png)
@@ -286,7 +286,7 @@ Just fill in available coupon you want to offer for your customers. The cart wil
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image041.png)
 
-### 3.7.	How to apply a custom discount or custom price to a product
+### 	How to apply a custom discount or custom price to a product
 After adding products to cart, besides editing the quantity of each product (refer to section **3.4.2. Edit products in cart** for more details), you can click on the product to edit other information. A popup will display with edit option for **Custom Price, Discount**. Remember that you can only change information by Custom Price **OR** Discount, not both of them at a time for a product. 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image042.png)
@@ -301,8 +301,8 @@ Then, products in cart will be updated with the price you edit
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image043.png)
 
-### 3.8.	How to handle customer information at checkout
-#### 3.8.1.	Customer Checkout
+### 	How to handle customer information at checkout
+#### 	Customer Checkout
 To use **Customer Checkout**, add customer by clicking on **Add Customer** link. You will see a screen as below:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image044.png)
@@ -328,20 +328,20 @@ Fill enough information of the customer such as **First Name, Last Name, Email, 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image047.png)
 
 - Fill enough information of Billing Address such as Phone, Street, City, etc
-#### 3.8.2.	Guest Checkout
+#### 	Guest Checkout
 When you use Guest Checkout, the default customer that you configure in backend will be used (Please hover to the section **2.3.1 What is default customer & how to configure Default Guest Checkout** to get more details). At checkout, all fields will be auto-filled with that default information.
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image048.png)
 
-### 3.9.	How to add comments to an order
-#### 3.9.1.	When you need to add comments
+### 	How to add comments to an order
+#### 	When you need to add comments
 In some special situations, to remember about your order, you can add comment to it so that you will easily check it later. The comments on order are used internally. 
-#### 3.9.2.	How to add comments
+#### 	How to add comments
 Click on **Add Order Comment** icon in the top right corner. In the **Order Comment** box, type the content that reminds you of this order. Then, save it.
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image049.png)
 
-#### 3.9.3.	How to check order comment
+#### 	How to check order comment
 - In Retailer POS screen
 
 To view comment of order, you can go to **Orders** tab in Retailer POS screen, choose an order then scroll down to see Comment History
@@ -354,7 +354,7 @@ Go to Sales > Orders > click on a specific order. In order details page, scroll 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image051.png)
 
-### 3.10.	How to process at checkout for a customer
+### 	How to process at checkout for a customer
 You have been through steps to add products to cart and add customer, let’s move to checkout process. 
 - When products are added to cart, select **Checkout** button at the end of the cart page
 
@@ -378,7 +378,7 @@ After that, click on **Place Order** button to complete checkout process. There 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image055.png)
 
-### 3.11.	Split Payment with Retailer POS
+### 	Split Payment with Retailer POS
 **How to make payment via Retailer POS using multiple methods**
 
 You can use more than 1 payment method for split payments when checkout with Retailer POS. Let me give you an example. 
@@ -390,7 +390,7 @@ You can use more than 1 payment method for split payments when checkout with Ret
 **_Notes_**: 
 -	Support multiple payment methods for one order
 -	Not require Cash in method as compulsory
-### 3.12.	How to create multi-orders for different customers
+### 	How to create multi-orders for different customers
 Retailer POS allows you to create multi-orders for different customers and keep orders open until customers end up transaction. That means you can open multiple orders to serve lots of different customers at the same time. For example someone is paying for something in your shop and they decide to go and get another product, so you can keep this order open while you still can carry on serving the next customer.
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image056.png)
@@ -399,7 +399,7 @@ You may select **Continue Processing** whenever customer is willing to take fina
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image057.png)
 
-### 3.13.	How to print receipt and email order information
+### 	How to print receipt and email order information
 You can print receipt or email order information right after creating an order. Remember that you must be online and have permission to do these actions. 
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image058.png)
@@ -408,7 +408,7 @@ The receipt will look like the screenshot below:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image059.png)
 
-### 3.14.	How to review orders 
+### 	How to review orders 
 In POS screen, you can review orders by choosing **Orders** tab from sidebar. Here you can see the **order list** and **order details**
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image060.png)
@@ -426,8 +426,8 @@ To quickly find an order to review, you can search it by Order ID or Customer’
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image061.png)
 
-### 3.15.	How to create shipment or issue refund for an order
-#### 3.15.1.	 How to create shipment
+### 	How to create shipment or issue refund for an order
+#### 	 How to create shipment
 There are two ways to create shipment using Retailer POS: **before placing an order** and **when reviewing order**
 - Before placing an order
 
@@ -452,7 +452,7 @@ If you chose to enable Partial Shipment, a box of Items to Ship will appear when
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image064.png)
 
-#### 3.15.2.	 How to issue refund
+#### 	 How to issue refund
 Some certain staffs have permission to issue refund by cash (which is set by admin in backend. See **2.6. How to differentiate access permissions of Retailer POS users** for more details).
 
 To issue refund, go to **Orders** tab in POS screen, you choose the order that is required to refund. Tap on **Refund** button in the end. 
@@ -464,8 +464,8 @@ A popup will display so that you can fill in the information before making refun
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image066.png)
 
 After that, you will get the message informing that credit memo is created successfully. Please make sure you have permission to issue refund.
-### 3.16.	How to run sales report: based on staff, location or payment method
-#### 3.16.1.	 Based on Staff
+### 	How to run sales report: based on staff, location or payment method
+#### 	 Based on Staff
 In backend, go to **Sales > Report**. To view reports by staff, please choose **Staff Report**
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image067.png)
@@ -474,16 +474,16 @@ The report with information of **Period, Staff, Sales Total** will be show in th
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image068.png)
 
-#### 3.16.2.	 Based on sale location
+#### 	 Based on sale location
 Similar to run reports based on staff, go to **Sales > Web POS > Report**. Choose **Location Report** view it in different types. The report will be shown with the information of **Period, Location and Total Sales**. 
 
 Please go to section **3.16.1. Based on Staff** to know more details. 
-####  3.16.3.	 Based on payment method
+####  	 Based on payment method
 Similar to run reports based on staff and location, go to **Sales > Web POS > Report**. Choose **Payment Report** view it in different types. The report will be shown with the information of **Period, Payment method and Total Sales**. All payment methods will be listed down with the record of Grand Total in details respectively
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image069.png)
 
-### 3.17.	How to run reports from Staff account
+### 	How to run reports from Staff account
 - Session Management Report
 
 The Z-report will be refreshed to serve new shift/working day after you select **Close Store**. Particularly, your cash drawer will be reset to 0 or to the certain amount
@@ -496,14 +496,14 @@ This report contains data of all orders which is similar to your backend but via
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image071.png)
 
-### 3.18.	How to use Session Management
-#### 3.18.1.	 What is Session Management
+### 	How to use Session Management
+#### 	 What is Session Management
 Session Management is a place where records cash flow after each cashier’s shift. You have frequent cash in/out beside normal order transactions like paying electrical bills, balancing cash amount in hand, etc? Retailer POS system records deposits and withdrawals from your working shift then compare them with actual cash amount (counted in notes) after cashier’s shift ends up.
 You can easily set up it in Back-end by going to **Sales > Web POS > Settings > Need to create session before working**:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image072.png)
 
-#### 3.18.2.	 How to create a session
+#### 	 How to create a session
 After you choose “Yes” in Back-end to require to open a session before working, the following pop-up will be shown as below:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image073.png)
@@ -515,7 +515,7 @@ Cashiers will carry out to open a new session before getting started their shift
 
 Then clicking **Open Session** to begin your shift. 
 
-#### 3.18.3.	 How to Record Cash in and Cash out 
+#### 	 How to Record Cash in and Cash out 
 
 After you start a new session, you will see basic information on the current session and may make adjustment of cash in/out during your shift, record deposits and withdrawals from your cash drawer. Cash in and out appears in the drawer history on the iPad, with both the description you enter and the total amount in the drawer.
 - Put Money In: Enter the cash amount you add to your drawer and a description
@@ -526,7 +526,7 @@ After you start a new session, you will see basic information on the current ses
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image075.png)
 
-#### 3.18.4.	 How to End a Session 
+#### 	 How to End a Session 
 After your your shift is ended, you can close your session. The popup following will be shown with information of **Opening Balance, Transaction, Theoretical Closing Balance, Real Closing Balance, Difference**:
 
 ![RetailerPOS](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/Retailer%20POS%20image/image076.png)
