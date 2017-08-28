@@ -64,7 +64,7 @@ If Customers don’t have an account in your site, they can create one right awa
 
 This is super convenient, right? Signup and Checkout at the same time help you manage Customers and Orders more easily without swaying conversion rate.
 
-## Billing Address, Shipping Address
+### Billing Address, Shipping Address
 If Customers have already logged in, they can skip the **Shipping Address** section as their information is automatically added. If Customers want to change shipping address, select **New Address** and change the information.
 
 ![Customers can change or fill in new shipping address](./Onestep-Image/How-to-use/osc2-use-7.png)
