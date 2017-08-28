@@ -382,7 +382,7 @@ On this page, you can review the list of affiliate accounts as well as create a 
 
 To create a new account, you can click on the **Add Account** button, which will redirect you to the **Add Account** page. Then you should fill in all required data in 2 tabs, including Name, Email Address and PayPal Email Address. After that, remember to click on the **Save Account** or **Save and Continue Edit** button to save your work.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image062.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%2062.png?raw=true)
 
  - Edit Account:
 
