@@ -31,7 +31,7 @@ Selling products on commission is regarded as a great way to market products. It
    page of the Affiliate system. This is a CMS page so you can customize
    its content to suit your needs (See the instruction in the next
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image002.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%202.png?raw=true)
 
 
 ### Sign up for an Affiliate Account
