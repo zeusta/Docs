@@ -13,14 +13,17 @@ Are you confident of already winning your customers' heart? Why not develop your
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image001.png?raw=true)
 
+
 ## How to use
 
 ---------
-###	How to earn points
+
+### How to earn points
+
 When placing an order, Customers can earn points based on the rate set by admin.
 Our Standard edition makes sure that Customers are well aware of your reward point policy by showing messages on many pages. For example, on **Product Detail** pages, there will be a notification for Customers that says “You could receive some Points for purchasing this product”.
 
-(image 2)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image002.png?raw=true)
 
 Also, after clicking on the **Add to Cart** button, on **Mini Cart**, Customers will see another notification “**Check out now to earn points**”.
 
