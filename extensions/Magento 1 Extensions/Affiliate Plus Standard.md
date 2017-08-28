@@ -98,7 +98,7 @@ Here affiliates can copy any links on your website such as product URLs, categor
 
 - 	Affiliates can easily track clicks and impressions of each banner.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image013.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%2013.png?raw=true)
 
 ### How to use Referring Materials
 
