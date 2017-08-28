@@ -261,17 +261,13 @@ If Customers click on the **Gmail** or **Yahoo** link, firstly, our module will 
 After selecting contacts and click on the **Select Contacts** button, our module will automatically fill them into the recipient email address field.
 
 - Sharing via Facebook: Customers can customize their message before clicking on the Post on Facebook button. 
-	
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image050.png?raw=true)
+	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image050.png?raw=true)
 
 - Sharing via Twitter: Customers can customize their message before clicking on the Tweet button.
-	
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image051.png?raw=true)
+	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image051.png?raw=true)
 
 - Sharing via Google+: With Google+, Customers need to click on the Google+ button to share referring link on Google+.
-	
-
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image052.png?raw=true)
+	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image052.png?raw=true)
 
 If the invited friends click on those links or use those coupons to make purchases, they can get discount. After the orders are completed, Customers will get points under the corresponding policy.
 
@@ -316,7 +312,6 @@ You can see all the Life – Time Report about the Reward Points system to the l
 	 
 This ratio can tell you how many points are spent for every 100 points rewarded.  
 	 - *Cost for a loyal member*
-	
 	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image058.png?raw=true)
 	 
 	 This is the ratio beween the total value of orders after Customers spent points to pay and the total number of points spent. 
@@ -327,13 +322,11 @@ This ratio can tell you how many points are spent for every 100 points rewarded.
 	 Customers can earn points from many activities on your site such as **Order, Sign-Up, Newsletter, Birthday, Review, Product Tag, Facebook like, Refer Friend** or even from Admin. 
 This graph shows the percentage of each source from which Customers earn points.
 	 - *Average value of money per point spent:*
-	
 	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image060.png?raw=true)
 	 
 This number shows the average value of 1 point spent by Customers. 
-	 - *Total points in Customers’ balances:*
-
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image061.png?raw=true)
+	 - *Total points in Customers’ balances:* 
+	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image061.png?raw=true)
 
 This number shows the total number of points which is currently available in all Customers’ balances. 
 
