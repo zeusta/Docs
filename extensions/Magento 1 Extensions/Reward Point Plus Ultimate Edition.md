@@ -63,53 +63,53 @@ After adding products to the shopping cart, Customers can also see the point amo
  - **Earning points based on Shopping Cart Rule**
 Shopping Cart Earning Rule enables your Customers to earn points based on specific values of orders. That will help you to organize programs such as “Earn 20 points for orders equal to or higher than $500”. If Customers’ shopping carts meet the condition of the shopping cart rule that you set up on backend, the System will show the points they will earn. After Customers add products to the shopping cart, they can see the point amount as below:
 
-(image 11)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image011.png?raw=true)
 
 ### How to earn points for every action on site
 
  - **Sign up & Log in**
 When Customers access the **Login** page or **Create an Account** page, they can see a notification about the collectible points they will receive when signing up as below:
 - On the **Login** page:
-(image 12)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image012.png?raw=true)
 - On the **Create an Account** page:
-(image 13)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image013.png?raw=true)
 
 After Customers sign up successfully, they can see the number of points earned and the transaction information on the My Rewards page as follows:
 
-(image 14)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image014.png?raw=true)
 
  - **Subscribe to Newsletters**
 Customers can subscribe to newsletters on the **Create an Account** page, **Newsletter** block and **Newsletter Subscription** page.
 On the **Newsletter** block, for example, Customers can see a notification about the collectible points they will receive:
 
-(image 15)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image015.png?raw=true)
 
 After subscribing to newsletters, Customers can see their current balances and the transaction information on the **My Rewards** page:
 
-(image 16)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image016.png?raw=true)
 
  - **Take Polls**
 Customers can see a notification about the collectible points they will receive when taking polls on the **Community Polls** block:
 
-(image 17)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image017.png?raw=true)
 
 After selecting an option and click on the **Vote** button, Customers will receive points, and they can see that transaction information on the **My Rewards** page:
 
-(iamge 18)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image018.png?raw=true)
 
  - **Tag Products**
 On the **Product Detail** page, our module shows a notification about the collectible points that Customers can receive when they tag a product:
 
-(image 19)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image019.png?raw=true)
 Customers will receive points after their tags are approved by admin.
 In order to see the current balance and transaction information, they can go to the **My Reward** page.
 
-(image 20)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image020.png?raw=true)
 
  - **Rate and Review Products**
 Customers can see a notification about the collectible points they will receive when rating or reviewing a product on the **Product Detail** page and the **Product Reviews** page as below:  
 - On the **Product Detail** page:
-(image 21)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image021.png?raw=true)
 
 - On the Product Reviews page:
 (image 22)
