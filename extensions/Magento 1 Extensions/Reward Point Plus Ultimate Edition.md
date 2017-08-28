@@ -10,7 +10,9 @@ Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauth
 There is no doubt about the benefits of Customer loyalty to your business. The question is how to keep Customers returning and buying in your store? We offer you a wonderful solution - that is Magento Reward Points Plus extension. It is designed to maximize Customers engagement in your store by many useful features. 
 
 Are you confident of already winning your customers' heart? Why not develop your reward system to a larger scale with Platinum Edition? This edition provides you with 4 impressive functions that you can flexibly set up your system as preferred.
-(image 1)
+
+[!](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image001.png?raw=true)
+
 ## How to use
 
 ---------
