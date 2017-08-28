@@ -10,17 +10,19 @@ This document and the information it contains constitute a trade secret of Mages
 
 -------------
 
-## 1. INTRODUCTION
+## INTRODUCTION
 
 
 Barcode by definition is the small image of lines (bars) and spaces that is affixed to retail store items, identification cards, and postal mail to identify a particular product number, person, or location. The code uses a sequence of vertical bars and spaces to represent numbers and other symbols. Barcode is a reliable method for cutting costs and savingtime for business.
 
 Barcode management extension from Magestore provides your business with a handful solution to generate barcode, print barcode label and scan barcode, all in one.
 
-## 2. How it works
--------------------
+-------------
 
-### 2.1. Barcode listing
+## HOW IT WORKS
+
+
+### Barcode listing
 
 Barcode listing is a view to display all barcodes of all products saved in Inventory Management. It contains Barcode, SKU, Supplier and Purchased Time.
 
@@ -34,10 +36,10 @@ Admin can also view details of each product and barcode.
 
 From barcode detailed page, admin can configure barcode printing and print barcode directly. Product information is shown including Image, name, price and its availability in each warehouse.
 
-### 2.2. Generate barcode
-
+###  Generate barcode
 
 Inventory Management gives you 2 modes to generate barcode:
+
 - One barcode per product SKU
 - Multiple barcodes per product SKU
 This can be configured in Barcode Settings.
@@ -66,7 +68,7 @@ Admin can configure the barcode pattern to generate. Barcodes generated will be 
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Barcode/image006.png?raw=true)
 
-### 2.3. Import barcode
+### Import barcode
 
 When you generate barcodes in mass, you will not need to use Generate barcode feature. Instead, you can import barcode directly into the system using the **Import barcode** feature of Inventory Management.
 
@@ -76,7 +78,7 @@ The system provides a sample import file including SKU, Barcode, Qty. and Suppli
 
 After preparing the file as in the sample file, now you can upload the file, fill the reason and start to import.
 
-### 2.4. Barcode label template
+### Barcode label template
 
 You can create your own barcode template by adding new template. There are also 3 most used templates as default templates in the extension: **A4**, **Jewelry** and **Standard** for you to select.
 
@@ -86,7 +88,7 @@ You can configure paper width and height, label width and height, font size…an
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Barcode/image009.png?raw=true)
 
-### 2.5. Print barcode
+### Print barcode
 
 In Barcode configuration, admin can select the barcode template from the templates created before to print. 
 
@@ -96,7 +98,7 @@ Admin can select multiple barcodes to print at once. Or click to **View** under 
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Barcode/image011.png?raw=true)
 
-### 2.6. Scan barcode
+### Scan barcode
 
 In Inventory Management extension, you need to use a Barcode scanner which is able to connect with your computer. Then you can scan to read product information or update stock Qty. when doing Stock taking (Stock taking is a feature available in Inventory Management extension) or managing purchase orders (Magestore Barcode management extension is totally compatible with Magestore Inventory Management &amp; Purchase Management extension.)
 
