@@ -24,7 +24,7 @@ Selling products on commission is regarded as a great way to market products. It
  - After successfully installing the module, you can place the
    affiliate’s link in the footer or at the top of your site.
    
-   ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%201.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%201.png?raw=true)
 
 
  - When a visitor clicks on this link, he can view the **Affiliate Home**
