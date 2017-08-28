@@ -10,7 +10,7 @@ Copyright2016. All Rights Reserved. Any unauthorized reproduction of this docume
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 
-## I. Introduction
+##  Introduction
 
 
 Do you know that 45 - 90% of all business expenses are as results of inventory costs? (upstreamcommerce.com). Therefore, it is vital to have an effective inventory management strategy in 1. Introduction
@@ -30,7 +30,7 @@ Dropship for Magento 2 is one extension from Order Success solution, which allow
 •	User-friendly interface
 
 
-## II. How to prepare and ship items for sales order
+##  How to prepare and ship items for sales order
 
 
 ### Drop-ship
