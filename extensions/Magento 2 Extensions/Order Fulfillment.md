@@ -1,12 +1,9 @@
-ORDER FULFILLMENT - MAGENTO 2
-======
-
-
+# ORDER FULFILLMENT - MAGENTO 2
 **Version 1.0.0**
 
 
-*Confidential Information Notice
-Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+*Confidential Information Notice<br/>
+*Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 
@@ -16,7 +13,6 @@ This document and the information it contains constitute a trade secret of Mages
 
 
 ## Introduction
-
 
 Have high volume of sales orders & worry about messy shipments? You should have an effective order management strategy in order to save costs and gain profits. 
 
@@ -44,7 +40,7 @@ Have high volume of sales orders & worry about messy shipments? Then Order Fulfi
 5. Delivery packages
 
 
-### 2.1. Order fulfillment dashboard
+### Order fulfillment dashboard
 
 
 To have an overview of your order fulfillment process, you go to Fulfillment > Dashboard. On the Overview Dashboard, you can see 5 charts which offer you the summary of Order Fulfillment. They are:
@@ -64,7 +60,7 @@ With this Magento 2 extension, you can custom time range, print or download each
 ![Custom time range](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/OF%20Images/of-img2.png)
 
 
-### 2.2. Five steps to manage order fulfillment
+### Five steps to manage order fulfillment
 
 
 Order Fulfillment allows you to create new orders right in this extension by going to **Fulfillment > All Orders** (in Order Listing section). Choose **Create a new order** button then enter required information to create new orders.
@@ -74,7 +70,7 @@ Order Fulfillment allows you to create new orders right in this extension by goi
 After a new order is created, you can go to Fulfillment tab to manage that order shipment according to 5 default steps.
 
 
-#### 2.2.1. Verify order
+####  Verify order
 
 
 Go to the Verify Orders tab. This page will list all orders that need to be verified. This verification step allows you to verify, hold or cancel orders. This step is optional so if it is not useful for your business, you can turn it off by going to **Fulfillment > Order Configuration** and choose ***No*** in **Enable Verify Order Step** field.
@@ -140,7 +136,7 @@ In this step, you can print the list of orders which need to be verified. Tick t
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/OF%20Images/of-img16.png)
 
 
-#### 2.2.2. Prepare Fulfillment
+#### Prepare Fulfillment
 
 
 After being verified, order will be moved to this step – Prepare Fulfillment. This verification step allows you to separate orders into 2 groups based on inventory availability: The ones that have all items in stock (Request pick from warehouses) & the ones that lack some of items (Back order). Thus, you can know the priority of which orders can be fulfilled first. Follow these steps to prepare fulfillment for your orders
@@ -162,7 +158,7 @@ As for Print option, you should print documents for the next step, including inv
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/OF%20Images/of-img18.png)
 
 
-#### 2.2.3. Picking Items
+####  Picking Items
 
 
 On the Picking Items dashboard, you have a picking list and pick all items of these orders easily. Just follow 3 following steps: 
@@ -198,7 +194,7 @@ If you have a product barcode attribute, you can select it as the product barcod
 In Pick Items step, you can use batch as in Verify Orders step. In case, some orders need to be re-verified, you can get them back to Verify Orders step.
 
 
-#### 2.2.4. Packing Items
+#### Packing Items
 
 
 In the dashboard of packing items, each order will be packed with its items. Follow these 4 steps to manage this:
@@ -239,7 +235,7 @@ Order Fulfillment for Magento 2 allows you to take picture of the packages after
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/OF%20Images/of-img27.png)
 
 
-#### 2.2.5. Delivery Packages
+#### Delivery Packages
 
 
 In the last step, all shipped orders will be shown here with details, including the information of items in the packages, shipping information, & tracking number from your shipping carrier for you to check back anytime you want. 
@@ -247,14 +243,14 @@ In the last step, all shipped orders will be shown here with details, including 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/OF%20Images/of-img28.png)
 
 
-### 3. Order listing
+## Order listing
 
 In this dashboard, orders will be classified into 5 types: Awaiting Payment, Back Orders, Hold Orders, Complete Orders & Canceled Orders. Order Listing is designed to help you manage all orders better than Magento default system. 
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/OF%20Images/of-img29.png)
 
 
-### 4. Report 
+## Report 
 
 There are 4 types of reports which record how many orders have been picked and packed. They are
 
