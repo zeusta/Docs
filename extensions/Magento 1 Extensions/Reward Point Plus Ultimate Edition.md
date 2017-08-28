@@ -112,58 +112,58 @@ Customers can see a notification about the collectible points they will receive 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image021.png?raw=true)
 
 - On the Product Reviews page:
-(image 22)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image022.png?raw=true)
 
 Customers will receive points after their rating or reviewing has been approved by admin. They can check their balances and transaction information on the **My Reward** page.
 
-(image 23)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image023.png?raw=true)
 
  - **Like/Share via Social Networks**
 Our module allows Customers to like, share or send links of the Home page, **Category** pages or **Product Detail** pages via social networks to receive points. Customers can see social network buttons and notification as following:
 
-(image 24)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image024.png?raw=true)
 
  - **Like/Share via Facebook**
 - **Like via Facebook:**
 In order to like a page via Facebook, Customers just click on the **Like** button. After that, our module will show a message to notify them about the number of collectible points and show a box for sharing your site via their Facebook as below:
-(image 25)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image025.png?raw=true)
 Customers can check the current balance and transaction information on the **My Reward** page:
 - **Share via Facebook:**
 In order to share a page to friends via Facebook, Customers can click on the **Share** button. Our module will show a new tab for sharing as below:
-(image 26)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image026.png?raw=true)
 After clicking on the **Share Link** button, Customers can see a notification about the number of points they received. 
-(image 27)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image027.png?raw=true)
 The transaction information and the current balance will also be updated:
-(image 28)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image028.png?raw=true)
 
  - **Tweet via Twitter:**
 In order to receive points by sharing via **Twitter**, Customers can click on the **Tweet** button. Our module will show a new pop-up for them to log in and edit their post:
 
-(image 29)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image029.png?raw=true)
 
 - **G+1 via Google+:**
 In order to receive points by +1 via Google+, Customers can click on the **G+1** button. Our module will then show a box for them to edit their post and share.
 
 After sharing, Customers can see a notification about the number of points they received for this activity as followed:
 
-(image 30)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image030.png?raw=true)
 
  - **Pin via Pinterest**
 In order to receive points for Pin via Pinterest, Customers can click on the **Pin it** button. Our module will then show a new tab as bellow: 
 
-(image 31)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image031.png?raw=true)
 
 After customers click on Pin it button, points will be added to their account but the page isn’t reloaded to show number of points earned for that account because Pinterest doesn’t support API Callback.
 When they reload the page, Pin counter will be updated:
 
-(image 32)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image032.png?raw=true)
 
  - **Customer's Birthday**
 Customers can report their birthdays on the **Create an Account** page when they register or on the **Account Information** page if they forget to report before that.
 
 They can see a notification about the collectible points on the **Create an Account** page as follows:
 
-(image 33)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image033.png?raw=true)
 
 After reporting, Customers’ birthdays will be saved in your system. On their birthdays, our module will auto-add points to their balances and send an email to notify them about that.
 
@@ -171,11 +171,11 @@ After reporting, Customers’ birthdays will be saved in your system. On their b
 
 On **Shopping Cart** and **Checkout** pages, Customers can move the slide forwards or backwards to select the number of points they would like to spend. They can also just click on the **Minus** or **Plus** icons. Besides, they can enter this number in the empty box or tick the checkbox “**Maximize my discount with points**” to spend the maximum number of points. 
 
-(image 34)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image034.png?raw=true)
 
 On the **Checkout** page, System shows a similar form for Customers to edit the number of points they want to spend for their orders:
 
-(image 35)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image035.png?raw=true)
 
 ### 2.5.	How to spend points based on Catalog Spending Rule and Shopping Cart Spending rules
 
