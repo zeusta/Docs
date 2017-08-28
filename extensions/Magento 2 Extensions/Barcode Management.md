@@ -21,7 +21,7 @@ Barcode management extension from Magestore provides your business with a handfu
 ## How it works
 
 
-### 1. Barcode Listing
+### Barcode Listing
 
 
 Barcode listing is a view to display all barcodes of all products saved in Inventory Management. It contains Barcode, SKU, Supplier and Purchased Time.
@@ -39,7 +39,7 @@ From barcode detailed page, admin can configure barcode printing and print barco
 Product information is shown including Image, name, price and its availability in each warehouse.
 
 
-### 2. Generate barcode
+###  Generate barcode
 
 
 Inventory Management gives you 2 modes to generate barcode:
@@ -75,7 +75,7 @@ Admin can configure the barcode pattern to generate. Barcodes generated will be 
 ![Admin can configure the barcode pattern to generate](./barcode-images/bm6.png)
 
 
-### 3. Import barcode
+###  Import barcode
 
 
 When your products already have a pre-generated barcode, you will not need to use Generate barcode feature. Instead, you can import barcode directly into the system using Import barcode feature of Inventory Management. 
@@ -86,7 +86,7 @@ The system provides a sample import file including SKU, Barcode, Qty. and Suppli
 After preparing the file, now you can upload the file, fill the reason and start to Import.
 
 
-### 4. Barcode template
+###  Barcode template
 
 
 You can create your own barcode template by adding new template. There are also 3 most used templates as default templates in the extension: A4, jewelry and standard for you to select.
@@ -98,7 +98,7 @@ You can configure paper width and height, label width and height, font size…an
 ![You can configure paper width and height](./barcode-images/bm9.png)
 
 
-### 5. Print barcode
+###  Print barcode
 
 
 In Barcode configuration, admin can select the barcode template from the templates created before to print. 
@@ -110,7 +110,7 @@ Admin can select multiple barcodes to print at once. Or click to View under Deta
 ![View under Details column to print](./barcode-images/bm11.png)
 
 
-### 6. Scan barcode
+###  Scan barcode
 
 
 In Inventory Management extension, you need to use a Barcode scanner which is able to connect with your computer. Then you can scan to read product information or update stock Qty. when doing Stock taking (Stock taking is a feature available in Inventory Management extension).
