@@ -127,10 +127,12 @@ Our module allows Customers to like, share or send links of the Home page, **Cat
 - **Like via Facebook:**
 In order to like a page via Facebook, Customers just click on the **Like** button. After that, our module will show a message to notify them about the number of collectible points and show a box for sharing your site via their Facebook as below:
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image025.png?raw=true)
+
 Customers can check the current balance and transaction information on the **My Reward** page:
 - **Share via Facebook:**
 In order to share a page to friends via Facebook, Customers can click on the **Share** button. Our module will show a new tab for sharing as below:
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image026.png?raw=true)
+
 After clicking on the **Share Link** button, Customers can see a notification about the number of points they received. 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image027.png?raw=true)
 The transaction information and the current balance will also be updated:
@@ -251,8 +253,11 @@ This section contains links/coupons and channels for sharing such as email, Face
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image047.png?raw=true)
 	- Sharing via Email: In order to share a referring link or coupon via email, Customers can click on the **Email** tab, fill out their recipients’ email addresses and the verification code, edit email subject and message then click on the **Send Email** button. Our module will automatically send that message to the provided addresses with the provided subject and message.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image048.png?raw=true)
+
 If Customers click on the **Gmail** or **Yahoo** link, firstly, our module will request for permission to import contacts from their Google or Yahoo accounts. If they accept the request, our module will collect their contacts’ email addresses and display these addresses in a window. Then, Customers can select which addresses to send the referral email to.	
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image049.png?raw=true)
+
 After selecting contacts and click on the **Select Contacts** button, our module will automatically fill them into the recipient email address field.	
 	- Sharing via Facebook: Customers can customize their message before clicking on the Post on Facebook button. 
 	
@@ -333,18 +338,22 @@ To track information in a specific period of time, you can select the time range
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image062.png?raw=true)
 
 This graph shows the number of loyal Customers in your store in the chosen time period.
+
 - *Points Earned and Spent:*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image063.png?raw=true)
 
 This report shows the numbers of points your Customers earned and spent.
+
 - *Avg. order value vs avg. number of points earned from orders*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image064.png?raw=true)
 
 This report shows you the average order value and the number of points earned from purchasing orders. It enables you to see a correlation between the avg. number of points given to Customers per order and the avg. order value. What you will expect to see is an increase in the order value as you increase the number of points given to Customers for their orders.
+
 - *Sign-ups*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image065.png?raw=true)
 
 This report shows the number of points rewarded for Customers’ sign-ups on your store vs. the number of sign-ups.
+
 - *Newsletter Subcription*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image066.png?raw=true)
 
