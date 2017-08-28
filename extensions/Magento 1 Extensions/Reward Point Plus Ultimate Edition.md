@@ -255,11 +255,16 @@ If Customers click on the **Gmail** or **Yahoo** link, firstly, our module will 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image049.png?raw=true)
 After selecting contacts and click on the **Select Contacts** button, our module will automatically fill them into the recipient email address field.	
 	- Sharing via Facebook: Customers can customize their message before clicking on the Post on Facebook button. 
+	
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image050.png?raw=true)
 	- Sharing via Twitter: Customers can customize their message before clicking on the Tweet button.
+	
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image051.png?raw=true)
 	- Sharing via Google+: With Google+, Customers need to click on the Google+ button to share referring link on Google+.
+	
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image052.png?raw=true)
+
 If the invited friends click on those links or use those coupons to make purchases, they can get discount. After the orders are completed, Customers will get points under the corresponding policy.
 
 ### Sharing from Product Detail pages
@@ -300,19 +305,24 @@ On this page, you can access many data to analyze the situation of earning and s
 You can see all the Life – Time Report about the Reward Points system to the left of the **Dashboard** page.
 	 - *Spending/ Earning Ratio*
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image057.png?raw=true)
+	 
 This ratio can tell you how many points are spent for every 100 points rewarded.  
 	 - *Cost for a loyal member*
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image058.png?raw=true)
+	 
 	 This is the ratio beween the total value of orders after Customers spent points to pay and the total number of points spent. 
 	 - *Earning Distribution*
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image059.png?raw=true)
+	 
 	 Customers can earn points from many activities on your site such as **Order, Sign-Up, Newsletter, Birthday, Review, Product Tag, Facebook like, Refer Friend** or even from Admin. 
 This graph shows the percentage of each source from which Customers earn points.
 	 - *Average value of money per point spent:*
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image060.png?raw=true)
+	 
 This number shows the average value of 1 point spent by Customers. 
 	 - *Total points in Customers’ balances:*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image061.png?raw=true)
+
 This number shows the total number of points which is currently available in all Customers’ balances. 
 
  - **Period-of-Time Reports**
@@ -321,21 +331,27 @@ To track information in a specific period of time, you can select the time range
 	 
 - *Loyal Customers*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image062.png?raw=true)
+
 This graph shows the number of loyal Customers in your store in the chosen time period.
 - *Points Earned and Spent:*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image063.png?raw=true)
+
 This report shows the numbers of points your Customers earned and spent.
 - *Avg. order value vs avg. number of points earned from orders*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image064.png?raw=true)
+
 This report shows you the average order value and the number of points earned from purchasing orders. It enables you to see a correlation between the avg. number of points given to Customers per order and the avg. order value. What you will expect to see is an increase in the order value as you increase the number of points given to Customers for their orders.
 - *Sign-ups*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image065.png?raw=true)
+
 This report shows the number of points rewarded for Customers’ sign-ups on your store vs. the number of sign-ups.
 - *Newsletter Subcription*
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image066.png?raw=true)
+
 This report shows the number of points rewarded for Customers’ newsletter subscription vs. the number of newsletter subscriptions.
 - Product review
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image067.png?raw=true)
+
 This report shows the number of points rewarded for Customers’ product reviews vs. the number of reviews.
 
 #### Order Report
