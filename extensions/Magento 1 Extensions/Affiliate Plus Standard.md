@@ -56,7 +56,7 @@ When visitors click on the **Sign-up** tab, they will be redirected to the **Aff
  - If Customers have already had an Affiliate account on your site, the
    Affiliate system will require them to log in:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image006.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%206.png?raw=true)
 
 After clicking on the **Login** button, Customers will be redirected to the **Affiliate Welcome** page.
 ### How to Manage Affiliate Info
