@@ -11,7 +11,7 @@ There is no doubt about the benefits of Customer loyalty to your business. The q
 
 Are you confident of already winning your customers' heart? Why not develop your reward system to a larger scale with Platinum Edition? This edition provides you with 4 impressive functions that you can flexibly set up your system as preferred.
 
-[!](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image001.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image001.png?raw=true)
 
 ## How to use
 
