@@ -21,7 +21,9 @@ This document and the information it contains constitute a trade secret of Mages
 7| Credit Balance | When **Gift Card Credit Balance** function is enabled, Customers may redeem their gift codes to a credit balance and use the balance to pay for orders at your store.
 8| Gift Code Set | A list of gift code that users will import to their web store to sell.
 
-## 1. INTRODUCTION
+-------------
+
+## INTRODUCTION
 
 More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size- fits-all gift? With this extension, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
@@ -29,11 +31,11 @@ More and more Customers go online to find gifts for their friends and families, 
 
 -------------
 
-## 2. How to use
+##  HOW TO USE
 
 This section demonstrates how Customers can use Gift Cards in frontend.
 
-### 2.1. Order a Gift Card Product
+### Order a Gift Card Product
 
 - Gift Card can be ordered as a normal product. Customers can enter or choose the value and quantity of Gift Card they want to order, then click on **Add to Cart** button.
 
@@ -86,7 +88,7 @@ If Customers purchase Gift Card for themselves, the notification email that they
 
 ![notification email when Customers purchase Gift Card for themselves](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image026.png)
 
-### 2.2. Manage Gift Card/Credit
+###  Manage Gift Card/Credit
 
 After receiving a voucher code, Customers can check their voucher balance and credit by clicking on **Gift Card** tab on the navigator bar in “My account” section:
 
@@ -128,7 +130,7 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 
   - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
 
-### 2.3. Use Gift Card/Credit to Place an Order
+###  Use Gift Card/Credit to Place an Order
 
 When Customers have Gift Card codes or Gift Card credit balances, they can use them to get discount when ordering a product. There are two ways to use Gift Card code/credit balance:
 
@@ -155,13 +157,13 @@ Customers can choose to use Gift Card or Gift Card credit and enter the amount o
 
 -------------
 
-## 3. How to configure
+## How to configure
 
 **_Important Note_**: If you use a different theme from the default theme of Magento, you need to move template, skin and layout files into your theme folder:
 - app/design/frontend/base/default/....
 - skin/frontend/base/default/css/magestore/...
 
-### 3.1. Settings
+### Settings
 
 To configure default configurations and settings of the extension, please log in to **backend**, and then choose **Gift Card** menu→ **Settings**. Administrators can change parameters as follows:
 
@@ -257,7 +259,7 @@ To configure default configurations and settings of the extension, please log in
 3| Type of Barcode | QR Code | Show QR code on Gift Cards when they are printed or sent via email.
 4 | Gift Card notes | Converting to cash is not allowed. | The notes shown on Gift Cards when theyare printed or sent via email.
 
-## 3.2. Manage Gift Card Templates (Updated)
+## Manage Gift Card Templates (Updated)
 
 After installing the module, you can start with Gift Card templates. This function helps you create unlimited templates for Gift Card with different titles, designs, images and notes. You can flexibly customize Gift Cards for different purposes, such as X-mas Gift Card or Birth Day Gift Card, offering Customers a wide range of choices.
 
@@ -348,12 +350,13 @@ In Settings, you choose No in field “Show only Amazon style template” then y
 
 ![have 5 templates displayed in backend](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image082.png)
 
-## 3.3. Create/Edit a Gift Card Products
+### Create/Edit a Gift Card Products
 
 
 There are two ways to create a Gift Card product: on **Manage Gift Card Products** page and on **Manage Products** page.
 
 - Create Gift Card on **Manage Gift Card Products** page:
+
 Go to Gift Card menu→ **Manage Gift Card Products**
 
 ![Go to Gift Card menu](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image084.png)
@@ -429,7 +432,7 @@ Remember to click on **Save** or **Save and Continue Edit** button to save your 
 
 In order to edit any Gift product, you need to click on corresponding row or link **Edit**. Remember to click on **Save** or **Save and Continue Edit** button after editing to save your work.
 
-## 3.4. Generate Gift Codes
+### Generate Gift Codes
 
 
 This function helps you to generate a wide range of synchronous Gift Card codes, then you can print and give them to your Customers.
@@ -475,7 +478,7 @@ Besides viewing details and status of gift codes generated, you can export the l
 ![Export the list of Gift Card codes to .CSV or .XML file](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image116.png)
 
 
-## 3.5. Manage Gift Codes
+### Manage Gift Codes
 
 
 Our module enables you to manage gift codes with ease. Go to **Gift Card** menu → **Manage Gift Codes,** you will be navigated to **Gift Code Manager** page.
@@ -532,7 +535,7 @@ The Import Gift Code page will be shown as below for you to browse a CSV file. A
 
 ![Import and Print](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image132.png)
 
-## 3.6. Manage Gift Code Sets
+### Manage Gift Code Sets
 
 
 Gift code set is the new feature of Magestore Gift Card version 4.6.0. Gift code set is a list of code that store owners import into the system to sell. When you create gift card product, you can choose gift code set for that gift card product:
@@ -550,7 +553,7 @@ To create and manage gift code sets, you go to **Gift Card** -&gt; **Manage Gift
  
 ![Upload a new CSV file of gift code or edit each gift code’s information](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image138.png)
 
-## 3.7. Manage Gift Card Credit Balance
+### Manage Gift Card Credit Balance
 
 
 To manage gift card credit balance, please follow the steps below:
@@ -569,7 +572,7 @@ The balance will be updated and the change will be added to **Balance History** 
 
 ![Balance History](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image142.png)
 
-## 3.8. Create New Order
+### Create New Order
 
 
 On **Create New Order** page, after selecting a Customer and adding a product to an order, the system will show the Gift Card box, which allowing you to use Gift Card credit balance or Gift Card code(s) of the Customer to pay for this order. Select the method(s) as you want and then remember to click on **Apply Gift Card** button.
@@ -580,7 +583,7 @@ After applying, the discount from Credit Balance/Gift Card Code will be subtract
 
 ![use gift codes to pay orders](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_GiftcardM1/image146.png)
 
-## 3.9. Refund Orders
+### Refund Orders
 
 
 When Customers request for refunding their Product orders which Gift Card credit/ gift code was used as a payment method, the system will show a box to enter the amount of money which will be refunded into Customers’ credit balance or Gift Card code.
@@ -593,7 +596,7 @@ If Customers don’t have accounts on your site, this amount will be refunded in
 
 **_Note_**: Once Gift Card is used (redeemed or used to buy other products), it cannot be refunded to cash.
 
-## 3.10. History
+### History
 
 
 All actions related to Gift Card such as: **Create, Update, Mass Update, Spend on order, Refund** and **Redeem** are recorded on **Gift Card History** page. Go to **Gift Card** menu → **History** to access this page.
