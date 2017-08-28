@@ -79,7 +79,7 @@ The **Banners & Links** tab provides affiliates with all banners and custom link
 
  - The **Affiliate Link** section:
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image009.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%209.png?raw=true)
 
 Here affiliates can copy any links on your website such as product URLs, category URLs, etc. and then paste into the textbox. After clicking on **Get Link,** affiliate will have unique links identified by their affiliate ID to share anywhere else.
 
