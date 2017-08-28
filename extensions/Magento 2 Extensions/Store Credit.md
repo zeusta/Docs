@@ -4,16 +4,16 @@
 *Confidential Information Notice*
 *Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
-## 1. INTRODUCTION
+## INTRODUCTION
 Keep the Customers around, that’s what store owners care about! Magento Store Credit extension for Magento 2 allows you to enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. 
 Customers can use the credit to make purchases on your store or even share with their friends. 
 With Magento Store Credit extension for Magento 2, credit can be used as a convenient and time-saving payment method. Customers just need to recharge their credit accounts one time and then use for many future purchases.
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image003.png)
 
-## 2. HOW TO USE (Frontend)
+## HOW TO USE (Frontend)
 This section will show you how Customers can make use of **Store Credit extension for Magento 2** in Frontend.
-### 2.1. Buy Credit Product
+### Buy Credit Product
 After Customers login to your website, they can access the Store Credit Products page in two ways:
 
 •	**Option 1**: on the top navigation bar, click to **Buy Store Credit** 
@@ -71,15 +71,15 @@ In both cases, the sender always gets email notifications as below:
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image013.png)
 
-### 2.2. Manage Credit on My Credit page
+###  Manage Credit on My Credit page
 In order to access the **My Credit** page, Customers can click on the **Store Credit** tab on the left navigation.
-#### 2.2.1. Manage Credit Balance
+#### Manage Credit Balance
 On the **My Credit** page, Customers can view information about their current credit balances and transaction history.
 In the section **Transaction History**, our module shows Customers all of their credit transactions with a lot of information including **date, type, details, added/deducted value in transaction** and **credit balance**.
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image014.png)
 
-#### 2.2.2. Send Credit to Friends
+####  Send Credit to Friends
 First, Customers should click on the **Send Credit** tab on the left navigation to go to the **Send Credit to Friends** page.
 This page has 2 parts including **Send Credit to Friends** and **Credit Code List**.
 
@@ -145,7 +145,7 @@ To verify, Customers just enter the verification code they received in their ema
 
 After Customers finish verifying, our module will send credit to the recipient.
 
-#### 2.2.3. Redeem Credit
+####  Redeem Credit
 In order to go to the **Redeem Credit** page, Customers can click on the **Redeem Credit** tab on the left navigation.
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image026.png)
@@ -156,7 +156,7 @@ After redeeming code, Customers can check their current balance and transaction 
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image027.png)
 
-## 2.3. Checkout by Credit
+### Checkout by Credit
 Customers can use credit to checkout on both **Shopping Cart** and **Checkout page**.
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image028.png)
@@ -179,8 +179,8 @@ After order has been placed, Customers’ credit balances will be updated immedi
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image031.png)
 
-## 3. HOW TO CONFIGURE
-### 3.1. Manage Customers Using Credit
+##  HOW TO CONFIGURE
+### Manage Customers Using Credit
 Go to **Store Credit > Manage Customers Using Credit**
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image032.png)
@@ -209,7 +209,7 @@ After you save, our module will auto update the Customer’s credit balance, sen
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image037.png)
 
-### 3.2. Manage Credit Products
+### Manage Credit Products
 Go to **Store Credit > Manage Credit Products**
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image038.png)
@@ -244,8 +244,8 @@ Then you will be navigated to the **New Product** page. In the **Settings** tab,
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image043.png)
 
-### 3.3. Manage Credit Transactions and Report Charts
-#### 3.3.1. Credit Transactions
+###  Manage Credit Transactions and Report Charts
+####  Credit Transactions
 Go to **Store Credit > Manage Credit Transactions**
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image044.png)
@@ -259,7 +259,7 @@ This page shows all credit-related transactions with a lot of information such a
 You can search any transaction by using filter boxes in each column.
 
 If you click on a Customer’s email, you will be navigated to the **Customer Information** page.
-## 3.3.2. Credit Report Charts
+#### Credit Report Charts
 Go to **Store Credit > Customer Credit Report**
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image046.png)
@@ -276,7 +276,7 @@ This page can be divided into two main sections including **Life-time Reports an
 
 •	**Period-of-time Report Charts**: This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month**, etc.
 
-### 3.4. Using Credit to checkout in backend:
+### Using Credit to checkout in backend:
 
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
 
@@ -290,7 +290,7 @@ After submitting the order, the Customer’s credit balance will also auto updat
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image050.png)
 
-### 3.5. Refund Orders into Credit Balance
+###  Refund Orders into Credit Balance
 When Customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, Customers can use the credit for future purchases and you do not have to lose money for the refund at the same time.
 
 After clicking on the **Credit Memo** button, our module shows a text field for you to enter the amount you want to refund into credit:
@@ -305,7 +305,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image052.png)
 
-### 3.6. Settings
+### Settings
 Go to **Store Credit > Settings**
 
 ![Storecredit](https://github.com/Magestore/Docs/blob/master/extensions/Magento%202%20Extensions/SC%20Image/image053.png)
