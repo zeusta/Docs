@@ -372,7 +372,7 @@ In back-end, you can set discount for referred customers, commission for affilia
 ### How to Manage Affiliate accounts
 Log in to **Back-end → Affiliate plus → Manage Accounts.**
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image060.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%2060.png?raw=true)
 
 On this page, you can review the list of affiliate accounts as well as create a new account. Affiliate accounts can be managed by each store view.
 
