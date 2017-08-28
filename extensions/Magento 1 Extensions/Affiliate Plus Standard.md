@@ -104,7 +104,7 @@ Here affiliates can copy any links on your website such as product URLs, categor
 
 The system provides customers with information of Affiliate system, links, and banners to share on forums or social networks.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image014.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%2014.png?raw=true)
 
 The **Referring Materials** tab can be set as enabled/disabled. You are allowed to edit content of the tab by creating new CMS pages in backend. Eg: you explain more about system, links or banners for your Customers.
 
