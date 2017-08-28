@@ -11,7 +11,7 @@ There is no doubt about the benefits of Customer loyalty to your business. The q
 
 Are you confident of already winning your customers' heart? Why not develop your reward system to a larger scale with Platinum Edition? This edition provides you with 4 impressive functions that you can flexibly set up your system as preferred.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image001.png?raw=true)
+   ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image001.png?raw=true)
 
 
 ## How to use
@@ -27,23 +27,23 @@ Our Standard edition makes sure that Customers are well aware of your reward poi
 
 Also, after clicking on the **Add to Cart** button, on **Mini Cart**, Customers will see another notification “**Check out now to earn points**”.
 
-(image 3)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image003.png?raw=true)
 
 If Customers have not logged in yet, a notification message “**Login and checkout to earn points**” will be shown on mini cart:
 
-(image 4)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image004.png?raw=true)
 
 On **Checkout** page, Customers can see exactly the number of points they earned from buying that product in the **Grand Total** box:
 
-(image 5)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image005.png?raw=true)
 
 If Customers have not logged in yet, a notification message “**Login and checkout to earn points**” will be shown on **Grand Total** box of checkout page:
 
-(image 6)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image006.png?raw=true)
 
 After placing an order successfully, Customers can check their point balance right next to the **My Account** top link or can go directly to that link: 
 
-(image 7)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image007.png?raw=true)
 
 ### How to earn points based on Catalog Earning Rule & Shopping Cart Earning Rule
 
@@ -52,13 +52,13 @@ When placing an order, Customers can earn points depending on the rule set by Ad
  - **Earning points based on Catalog Earning Rule**
 Catalog Earning Rule enables your Customers to earn points based on specific products. That means you can give your Customers chances of earning more points from some items than from others. This point information will be shown on the **Product Listing** and **Product Detail** pages:
 
-(image 8)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image008.png?raw=true)
 
-(image 9)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image009.png?raw=true)
 
 After adding products to the shopping cart, Customers can also see the point amount they will receive as below:
 
-(image 10)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image010.png?raw=true)
 
  - **Earning points based on Shopping Cart Rule**
 Shopping Cart Earning Rule enables your Customers to earn points based on specific values of orders. That will help you to organize programs such as “Earn 20 points for orders equal to or higher than $500”. If Customers’ shopping carts meet the condition of the shopping cart rule that you set up on backend, the System will show the points they will earn. After Customers add products to the shopping cart, they can see the point amount as below:
