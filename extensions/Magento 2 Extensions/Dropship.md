@@ -1,4 +1,4 @@
-DROPSHIP - MAGENTO 2
+# DROPSHIP - MAGENTO 2
 ===
 
 
@@ -10,7 +10,7 @@ Copyright2016. All Rights Reserved. Any unauthorized reproduction of this docume
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 
-# I. Introduction
+## I. Introduction
 
 
 Do you know that 45 - 90% of all business expenses are as results of inventory costs? (upstreamcommerce.com). Therefore, it is vital to have an effective inventory management strategy in 1. Introduction
@@ -30,17 +30,17 @@ Dropship for Magento 2 is one extension from Order Success solution, which allow
 •	User-friendly interface
 
 
-# II. How to prepare and ship items for sales order
+## II. How to prepare and ship items for sales order
 
 
-## Drop-ship
+### Drop-ship
 
 **“Drop-shipping (Drop-ship)** is a term to describe the retailer does not keeping goods in stock, but instead transferring sales orders and shipment details to the wholesaler/ supplier, who then ships the goods directly to the customer.”
 
 With Dropship extension, you will act as the retailer, passing the order information onto your supplier for shipping. As items on drop-ship are not passed through your hands, they don’t affect to the Qty. and inventory movements in your warehouses.
 
 
-## 1. Drop-ship Process
+### Drop-ship Process
 
 Below is a step-by-step guide on how to handle a sales order that will be drop shipped to a customer. If you do not have enough in stock to complete the sales order, then a drop-ship request should be made and sent to the suppliers. The process contains only 3 simple steps:
 
@@ -92,7 +92,7 @@ Notification email when the storeowner cancel the dropship request:
 ![](./dropship_images/dimg7.png)
 
 
-## 2. How Admin & Warehouse Managers Manage Drop Shipments
+### How Admin & Warehouse Managers Manage Drop Shipments
 
 
 In the back-end, go to **Fulfillment > Dropship Request**. This tab lists all drop shipments from a supplier. 
@@ -104,7 +104,7 @@ To review or take actions related to drop shipments, click on the ***Edit*** lin
 ![](./dropship_images/dimg9.png)
 
 
-## 3. How Suppliers Manage Drop Shipments
+### How Suppliers Manage Drop Shipments
 
 
 To help suppliers follow all their drop shipments easier, the extension provides a separate page in the front-end, namely **Supplier Page**, where suppliers can log in and track all related information.
@@ -118,7 +118,7 @@ Once logged in successfully, suppliers can access their **Supplier Page**:
 ![](./dropship_images/dimg11.png)
 
 
-### Dropship tab
+#### Dropship tab
 
 
 This tab shows Drop Shipment #, Request Date, Shipping Address, Total Items Requested and Status. To see more details and edit each drop shipment, suppliers simply click on the View link in the last column. 
@@ -136,7 +136,7 @@ Suppliers should enter the Qty. that they can send directly to the customer in t
 ![](./dropship_images/dimg13.png)
 
 
-### Supplier Information tab
+#### Supplier Information tab
 
 
 ![](./dropship_images/dimg14.png)
@@ -144,7 +144,7 @@ Suppliers should enter the Qty. that they can send directly to the customer in t
 In this tab, supplier can edit their information such as Name, Contact Person, Email, Telephone, Address and Password. All changes will be updated in the **General Information** tab of the **Supplier Manager** page in backend or vice versa. Thus, you can easily contact suppliers whenever having drop-ship requests.
 
 
-## 4. Settings
+### Settings
 
 
 Go to **Fulfillment > Dropship Configuration**
