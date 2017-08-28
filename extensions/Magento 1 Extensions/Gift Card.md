@@ -160,7 +160,7 @@ Customers can choose to use Gift Card or Gift Card credit and enter the amount o
 
 -------------
 
-## How to configure
+## HOW TO CONFIGURE
 
 **_Important Note_**: If you use a different theme from the default theme of Magento, you need to move template, skin and layout files into your theme folder:
 - app/design/frontend/base/default/....
