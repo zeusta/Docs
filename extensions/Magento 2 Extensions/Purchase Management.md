@@ -1,11 +1,9 @@
-PURCHASE MANAGEMENT - MAGENTO 2
-=====
-
+# PURCHASE MANAGEMENT - MAGENTO 2
 **Version 1.0.1**
 
 
-*Confidential Information Notice
-Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+*Confidential Information Notice*<br/>
+*Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 
@@ -14,9 +12,7 @@ This document and the information it contains constitute a trade secret of Mages
 ![](./purchaseimages/pm1.png)
 
 
-# Introduction
----
-
+## Introduction
 
 **Purchase Management** is a Magento 2 extension, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order, Quotation and Suppliers are kept track and automatically updated in the system. The extension is:
 
@@ -31,11 +27,11 @@ This document and the information it contains constitute a trade secret of Mages
 •	User-friendly interface
 
 
-# How to manage suppliers
+## How to manage suppliers
 ---
 
 
-## 1. Add a new supplier
+### Add a new supplier
 
 
 To add a new supplier to the system, you should go to **Purchase Management => Manage Supplier** (in section Supplier) then click on **Add New Supplier** button. There are two types of information you have to enter in order to add a new supplier: Supplier Information & Supplier Address
@@ -55,7 +51,7 @@ Choose **Save** to finish entering supplier information. Now you need to assign 
 There are two ways to assign products to the supplier: Add product manually and import products with a csv file. If you choose to upload products manually, remember to enter related information for each one: Supplier SKU, Cost and Tax. Otherwise, importing products in mass is recommended. A csv file sample is offered. In case you have a mistake on importing products, Delete Product button can help.
 
 
-## 2. Manage supplier
+### Manage supplier
 
 
 To have an overview of Supplier, go to **Purchase Management => Manage Supplier**. Each warehouse comes with Supplier Code, Total SKU,  Purchase Order Value, Status and Date for last purchase order. You can view or click to edit the detail of each one.
@@ -63,7 +59,7 @@ To have an overview of Supplier, go to **Purchase Management => Manage Supplier*
 ![](./purchaseimages/pm5.png)
 
 
-## 3. Manage pricelist
+### Manage pricelist
 
 
 “**Pricelist** is a list of prices for the goods offered by a supplier. It usually consists of Minimal Qty and Cost”
@@ -78,7 +74,7 @@ There are two ways to add pricelist into the system:
 •	If you got the pricelist from suppliers, it is much easier to import them into Purchase Management with a csv file.
 
 
-## 4. Supplier settings
+### Supplier settings
 
 
 There is only one thing you need to configure for Supplier. Please go to **Purchase Management => Supplier** (in Settings 
@@ -89,11 +85,11 @@ section):
 If you choose Yes the system will automatically use and update cost from pricelist to purchase order. 
 
 
-# How to manage quotation
+## How to manage quotation
 ----
 
 
-## 1. Create a new quotation
+### Create a new quotation
 
 
 “A **quotation** (or a request for quotation) is the proposal of price and quantity of goods that store owners send to suppliers. The quotation will become purchase order when a seller sends confirmation of price and availability of products stated in the quotation.”
@@ -101,7 +97,7 @@ If you choose Yes the system will automatically use and update cost from priceli
 To create a new quotation, please go to **Purchase Management => Create Quotation** and choose **Create Quotation** button
 
 
-### Fill out General Information Form
+#### Fill out General Information Form
 
 
 After choose to create a new quotation, you will be navigated to this view: 
@@ -113,7 +109,7 @@ As can be seen, it is compulsory to choose Created Time and Supplier for the pri
 After that, click on **Prepare Product List** for the next step
 
 
-### Prepare Product List
+#### Prepare Product List
 
 
 In this step, there are 5 ways for you to prepare product list:
@@ -135,7 +131,7 @@ Apart from importing products via a CSV file, you need to enter Purchase Cost, T
 ![](./purchaseimages/pm10.png)
 
 
-### Edit Shipping and Payment method
+#### Edit Shipping and Payment method
 
 
 It is time to set up Shipping and Payment method for the quotation:
@@ -159,7 +155,7 @@ After filling out the form, do not forget to save all the changes. Now you can *
 ![](./purchaseimages/pm12.png)
 
 
-## 2. Manage Quotation
+### Manage Quotation
 
 
 To manage all created quotation, please go to **Purchase Management => Quotation**:
@@ -171,7 +167,7 @@ There is a shortcut to create a new quotation.
 Each quotation is listed with some related information: Created Date, Supplier, Requested Qty, Subtotal and Status. Please notice that quotations, which are converted into PO will be removed from this list.
 
 
-# How to submit the additional data to the place order
+## How to submit the additional data to the place order
 ---
 
 
@@ -182,7 +178,7 @@ To create/ edit purchase orders, manage deliveries from suppliers to warehouses 
 ![](./purchaseimages/pm14.png)
 
 
-## 1. Create a New Purchase Order Manually 
+### Create a New Purchase Order Manually 
 
 
 In order to create a new purchase order manually, click on the **Create Purchase Order** button on the top-right of the page or choose the **Create Purchase Order** tab. 
@@ -190,7 +186,7 @@ In order to create a new purchase order manually, click on the **Create Purchase
 When creating Purchase Order, you will see a tab showing steps at which Purchase Order is. They are **New, Pending, Processing,** and **Completed.**
 
 
-### General Information
+#### General Information
 
 
 In this tab, you should configure all the required fields marked with a red star, such as Created Time and Supplier.
@@ -205,7 +201,7 @@ There are several optional fields to help you add extra information to your purc
 After that, click on **Prepare Product List** button to continue.
 
 
-### Add products to the Purchase Order
+#### Add products to the Purchase Order
 
 
 In this step, there are 5 ways for you to prepare product list:
@@ -227,7 +223,7 @@ Apart from importing products via a CSV file, you need to enter Purchase Cost, T
 ![](./purchaseimages/pm17.png)
 
 
-### Setting Shipping and Payment
+#### Setting Shipping and Payment
 
 
 It is time to set up Shipping and Payment method for the purchase order:
@@ -251,7 +247,7 @@ After this step, choose **Save** and the purchase order status will be changed t
 You should double-check all information before confirming purchase order. After being confirmed, the purchase order status will be changed to **Processing.**
 
 
-### Receiving/Returning Items 
+#### Receiving/Returning Items 
 
 
 When the purchase order is processing, you can be navigated to the following view and receive or return items:
@@ -313,19 +309,19 @@ After clicking on **Transfer Product to Warehouse** button, you need to enter th
 ![](./purchaseimages/pm26.png)
 
 
-### Shipping and Payment
+#### Shipping and Payment
 
 
 From this tab, you can view and edit shipping and payment information for the purchase order. 
 
 
-### General Information
+#### General Information
 
 
 From this tab, you can view and edit general information for the purchase order.
 
 
-## 2. Complete Purchase Order
+### Complete Purchase Order
 
 
 You can complete a purchase order by choosing **Complete PO** button. After completing PO, the status will be changed to **Completed**
@@ -335,7 +331,7 @@ You can complete a purchase order by choosing **Complete PO** button. After comp
 You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you still transfer received items into warehouses after that.
 
 
-## 3. Generate Purchase Order from Quotation
+### Generate Purchase Order from Quotation
 
 If you want to generate Purchase Order from Quotation, please go to **Purchase Management => Quotations**, click to choose a pending quotation. Then choose **Convert Quotation to PO** button.
 
@@ -350,13 +346,13 @@ After that, a new purchase order is generated. Now you can:
 •	Complete Purchase Order
 
 
-## 4. Purchase Management Settings
+### Purchase Management Settings
 
 
 There are 4 tabs to configure Purchase Management: Shipping method, Payment method, Payment term, Tax & Shipping. Go to **Purchase Management => Purchase Management** (in Settings section) to do these settings.
 
 
-### Shipping Method
+#### Shipping Method
 
 
 This tab allows you to add/edit or delete Shipping methods for purchase orders. Click on **Add**, enter name of the shipping method and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a shipping method. After all, do no forget to choose **Save Config** to save your work.
@@ -364,7 +360,7 @@ This tab allows you to add/edit or delete Shipping methods for purchase orders. 
 ![](./purchaseimages/pm29.png)
 
 
-### Payment Method
+#### Payment Method
 
 
 This tab allows you to add/edit or delete Payment methods for purchase orders. Click on **Add**, enter name of the payment method and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a payment method. After all, do no forget to choose **Save Config** to save your work.
@@ -372,7 +368,7 @@ This tab allows you to add/edit or delete Payment methods for purchase orders. C
 ![](./purchaseimages/pm30.png)
 
 
-### Payment Terms
+#### Payment Terms
 
 
 This tab allows you to add/edit or delete Payment terms for purchase orders. Click on **Add**, enter name of the payment term and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a payment term. After all, do no forget to choose **Save Config** to save your work.
@@ -380,7 +376,7 @@ This tab allows you to add/edit or delete Payment terms for purchase orders. Cli
 ![](./purchaseimages/pm31.png)
 
 
-### Tax & Shipping
+#### Tax & Shipping
 
 
 This tab allows you to edit Tax & Shipping for purchase orders. You need to uncheck all box next to **Use system value** before configure fields
