@@ -37,7 +37,7 @@ Selling products on commission is regarded as a great way to market products. It
 ### Sign up for an Affiliate Account
 Customers can view the link to sign up for an affiliate program on the left of the welcome page.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image003.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%203.png?raw=true)
 
 When visitors click on the **Sign-up** tab, they will be redirected to the **Affiliate Registration** page. After providing all required information, visitors should click on the **Save** button to complete their registration. There are different forms following some scenarios.
 
