@@ -384,18 +384,18 @@ The extension provides 3 **types of Gift Card value**, including **fixed value, 
 
 The next step you need to do is selecting the type of Gift Card price, which could be 1 in 3 following options:
 
-     - **Default**: Gift Card price is the same as Gift Card value by default.
-     - **Fixed number**: Gift Card price is a fixed number as you configure in the next field.
-     - **Percent of Gift Card value**: Gift Card price is a percentage of Gift Card value as you configure in the next field.
+   - **Default**: Gift Card price is the same as Gift Card value by default.
+   - **Fixed number**: Gift Card price is a fixed number as you configure in the next field.
+   - **Percent of Gift Card value**: Gift Card price is a percentage of Gift Card value as you configure in the next field.
      
 If you choose the type of Gift Card price as **Fixed number** or **Percent of Gift Card value**, remember to fill in the next field **Price/ Percentage** to set the price for your Gift Card product.
 
 The following example will help you have better understanding about these configurations.
 
-     - **Type of Gift Card value**: Dropdown values
-     - **Gift Card values**: 20,30,40
-     - **Type of Gift Card price**: Percent of Gift Card value
-     - **Percentage**: 90,90,90
+   - **Type of Gift Card value**: Dropdown values
+    - **Gift Card values**: 20,30,40
+    - **Type of Gift Card price**: Percent of Gift Card value
+    - **Percentage**: 90,90,90
      
 So Customers only have to pay 90% of Gift Card value, which means $36 for a $40 Gift Card for instance.
 
