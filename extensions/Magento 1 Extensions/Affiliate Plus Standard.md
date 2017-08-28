@@ -94,7 +94,7 @@ Here affiliates can copy any links on your website such as product URLs, categor
 
 -	Each banner has a source code for affiliates to put on websites. In addition, affiliates are able to share banner links on social networks like Google+, Twitter, and Facebook by clicking the corresponding icons.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image012.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%2012.png?raw=true)
 
 - 	Affiliates can easily track clicks and impressions of each banner.
 
