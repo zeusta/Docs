@@ -118,7 +118,7 @@ First of all,
 
  - Click on **Refer Friends** tab
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image015.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%2015.png?raw=true)
 
 As it’s called, affiliates can refer their friends by sharing an affiliate link through email or social channels (Facebook, Twitter, and Google+).
 
