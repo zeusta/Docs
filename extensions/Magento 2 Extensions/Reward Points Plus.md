@@ -1,20 +1,15 @@
-REWARD POINTS PLUS - STANDARD EDITION FOR MAGENTO 2
-===
+# REWARD POINTS PLUS - STANDARD EDITION FOR MAGENTO 2
 
 **Version 1.0.2**
 
 
-*Confidential Information Notice 
+*Confidential Information Notice*<br/> 
 
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
-
------
-
-
-# INTRODUCTION
+## INTRODUCTION
 
 
 There is no doubt about the benefits of Customer loyalty to your business. The question is how to keep Customers returning and buying in your store? We offer you a wonderful solution- that is Magento Reward Points Plus extension. It is designed to maximize Customers engagement in your store by many useful features.
@@ -23,14 +18,10 @@ With Reward Points –Standard Edition, your Customers can receive reward points
 
 <<img1>>
 
-
------
-
-
-# How to use
+## How to use
 
 
-## 1. How to earn points
+### How to earn points
 
 When placing an order, Customers can earn points based on the rate set by admin.
 
@@ -59,7 +50,7 @@ After placing an order successfully, Customers can check their point balance rig
 <<img7>>
 
 
-## 2. How to spend points
+### How to spend points
 
 On **Shopping Cart** and **Checkout** pages, Customers can move the slide forwards or backwards to select the number of points they would like to spend. They can also just click on the **Minus** or **Plus** icons. Besides, they can enter this number in the empty box or tick the checkbox “**Maximize my discount with points**” to spend the maximum number of points.
 
@@ -70,7 +61,7 @@ On the **Checkout** page, System shows a similar form for Customers to edit the 
 <<img9>>
 
 
-## 3. Manage reward points
+### Manage reward points
 
 Customers can follow and manage their current points in 2 places:
 
@@ -94,14 +85,10 @@ Besides, in the **Settings** tab of the **Reward Points** navigation, Customers 
 
 <<img12>>
 
-
-------
-
-
-# HOW TO CONFIGURE
+## HOW TO CONFIGURE
 
 
-## 1. Manage earning rates
+### Manage earning rates
 
 Go to **Backend > Reward Points > Earning Rates**. Then the **Earning Rates** page will be shown, allowing you to do many tasks:
 
@@ -129,7 +116,7 @@ After editing the rate as you want, remember to click on the **Save** or the **S
 
 To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of the page.
 
-## 2. Manage spending rates
+### Manage spending rates
 
 Go to **Backend > Reward Points > Spending rates**. Then the **Spending Rates** page will be shown, allowing you to do many tasks:
 
@@ -161,7 +148,7 @@ After finish editing, remember to click on the **Save** or the **Save and Contin
 To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of that page.
 
 
-## 3. Manage transactions
+### Manage transactions
 
 Go to **Backend > Reward Points > Transactions**
 
@@ -184,9 +171,9 @@ In order to add a new transaction, you can click on the **Add Transaction** butt
 <<img21>>
 
 
-## 4. Manage Point Balances of Customers
+### Manage Point Balances of Customers
 
-###  Manage Point Balances
+####  Manage Point Balances
 
 Go to **Customers > Manage Customers**. On the **Customer Manager** page, you can choose the Customer you want to change balance by clicking on the **Edit** link in the **Action** column.
 
@@ -204,7 +191,7 @@ Also, you can configure other information like **Update Points Subscription** or
 
 <<img23>>
 
-### Change Point Balances
+#### Change Point Balances
 
 There are two ways to change point balances of customers.
 
@@ -223,7 +210,7 @@ Next step, you need to click on **Import Points** button, the Import Points page
 Besides, you can also export csv file from the list of customers in **Reward Point Balances Information** page. You can also use this file to import again.
 
 
-## 5.Create and refund orders
+### Create and refund orders
 
 Go to Sales > Orders. Then the System will display all Customers’ orders. Now, let’s see how Reward Points - Standard edition is used in creating and refunding orders.
  
@@ -252,7 +239,7 @@ Now, please click on the **Credit Memo** link to process the order refund. In th
 <<img29>>
 
 
-## 6. Settings
+### Settings
 
 Go to **Backend > Reward Points > Settings**. Then you will see 5 tabs to configure:
 
@@ -328,5 +315,3 @@ No.| Field| If you choose…| Result will be…
 5| Send  reminder  email before  a transaction expires| 7| Notification email will be automatically sent to remind Customers 7 days before the transaction expires.|
 
 Remember to click on **Save** or **Save and Continue Edit** button to save your configuration.
-
-----
