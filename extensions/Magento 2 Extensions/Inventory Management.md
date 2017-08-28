@@ -1,14 +1,13 @@
-INVENTORY MANAGEMENT - MAGENTO 2
-=====
+# INVENTORY MANAGEMENT - MAGENTO 2
 
 **Version 1.2.0**
 
-*Confidential Information Notice
-Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+*Confidential Information Notice<br/>
+*Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 
-# INTRODUCTION
+## INTRODUCTION
 ------
 
 
@@ -27,13 +26,13 @@ If your inventory is not enough to supply, you may lose customer. But if the inv
 Hope that you will have a great time using our extension and free your mind from messy stock management.
 
 
-# HOW IT WORKS
+## HOW IT WORKS
 ---
 
 
-## 1. Stock listing
+### Stock listing
 
-### Warehouse
+#### Warehouse
 
 After installation, the system will automatically provide a **Primary Warehouse**. This warehouse cannot be deleted and can only be edited. All the existing products with stocks level of your website will be automatically allocated in this warehouse first before being sent to other warehouses.
 
@@ -43,7 +42,7 @@ Admin can add new warehouse then fill all information including warehouse name, 
 
 ![](./inventoryimages/im1.png)
 
-### Manage user/staff & Permission
+#### Manage user/staff & Permission
 
 Permission in Inventory extension allows admin to create multiple users and user roles. A user can be assigned to a warehouses and grant specific access to the specific parts in Inventory management.
 
@@ -64,7 +63,7 @@ Go to Warehouses under Stock Listing submenu then select any warehouse, there is
 
 ![](./inventoryimages/im4.png)
 
-### Stock in Warehouse
+#### Stock in Warehouse
 
 Admin can have overview of Stock in all Warehouses and select a warehouse to view stocks of that warehouse only.
 
@@ -78,7 +77,7 @@ Moreover, you can easily edit Qty of products by accessing to Products, choose *
 
 ![](./inventoryimages/im6.png)
 
-### Non-warehouse product
+#### Non-warehouse product
 
 When a product is newly created and not assigned to any warehouse yet, it will be automatically allocated in Non-warehouse. From here admin can select the product and add it into a specific warehouse.
 
@@ -89,9 +88,9 @@ In addition, admin can also add the product to multiple warehouses in **Product 
 ![](./inventoryimages/im8.png)
 
 
-## 2. Prediction
+### Prediction
 
-### Supply Needs
+#### Supply Needs
 
 This feature predicts how many inventory items a warehouse need for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past. The **Forecast Supply Needs** feature will be automatically shown on the section **Supply Needs** your supply needs is zero. Or else, you can click on **Show Supply Needs** button. Admin can select Base On Sales to use to calculate data for supply need, fill in **Forecast Supply Needs** to the date that you want to get supply needs then it will give a product list with following information:
 
@@ -107,11 +106,11 @@ This feature predicts how many inventory items a warehouse need for each product
 
 The Supply Need Forecast can be exported to CSV or XML file and printed into PDF file.
 
-### Low Stock Notification
+#### Low Stock Notification
 
 Low Stock notification listing displays warning messages about the products which are nearly out of stock in warehouses. It shows all notification with information including Sent at, Update Type, Email received, Recipients and Action. Each notification log can show details of all products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
 
-### Low Stock Rule
+#### Low Stock Rule
 
 Admin can create unlimited rules to notify low stock. One rule contains: Rule information, Condition and Action.
 
@@ -127,9 +126,9 @@ Besides, you can add more conditions about Product attribute for example product
 
 -	**Action:** You can fill in the emails that you want to send the low stock notification to and warning message.
 
-## 3. Transfer Stock
+### Transfer Stock
 
-### Send stock & Request stock
+#### Send stock & Request stock
 
 **Send stock:** If admin want to send stock from his warehouse to another warehouse, he can use this feature to record stock sending. The process to Send stock is: Add new send stock > Prepare Product list > Send Stock > Receive Stock > Mark as Completed
 
@@ -158,7 +157,7 @@ Moreover, if the number of **Qty** you choose is bigger than the **Qty in Wareho
 ![](./inventoryimages/im10.png)
 
 
-### Transfer to External & Transfer from External
+#### Transfer to External & Transfer from External
 
 **-**	**Transfer to External**
 
@@ -168,14 +167,14 @@ This feature allows you to handle the product which is damaged, loss or sent as 
 
 This feature allows you to accept the stocks from outside of the system. Not from another warehouse but can be from any other source. You can fill in the External location, select product & qty to receive.
 
-### Transfer Stock History
+#### Transfer Stock History
 
 This History records stock movements from Send stock, request stock, transfer from external and transfer to external.
 
 
-## 4. Stock Control
+### Stock Control
 
-### Stock Adjustment & Stock Adjustment History
+#### Stock Adjustment & Stock Adjustment History
 
 **-	Link stocks in Warehouse to Front Store View:**
 
@@ -211,7 +210,7 @@ You can view all Stock Adjustment History under Stock Control -> Stock Adjustmen
 
 ![](./inventoryimages/im16.png)
 
-### Stock Taking & Stock Taking History
+#### Stock Taking & Stock Taking History
 
 Physical Stocktaking acts can be used at any time to double-check and correct inventory discrepancy amounts in Inventory Management vs. physical inventory in your warehouses. These consist of:
 
@@ -232,7 +231,7 @@ There are 5 steps in Stock taking using Inventory Management:
 5.	**Complete Stock take:** When admin does this, Stock taking status will be changed to Complete. Qty is adjusted in the warehouse. Similar to Adjust Stock, stock taking cannot be edited after status is Complete.
 After doing stock take, admin can easily view and export the difference between real stock in the warehouse and the stock level updated by the system
 
-### Stock Movement
+#### Stock Movement
 
 The extension records all the movements of stocks in warehouse. These movements are reflected in Stock Movement report under Stock Control submenu.
 
