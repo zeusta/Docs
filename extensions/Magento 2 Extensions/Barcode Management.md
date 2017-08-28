@@ -1,6 +1,5 @@
 
 # **BARCODE MANAGEMENT - MAGENTO 2**
-=================================
 
 **Version 1.0.0**
 
