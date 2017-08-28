@@ -90,7 +90,7 @@ Here affiliates can copy any links on your website such as product URLs, categor
  - The **Banners** section:
 -	In this section, affiliates can filter banners by banner size or banner type (Image or Text).
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/image011.jpg?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Affiliate%20Standard/Ảnh%2011.png?raw=true)
 
 -	Each banner has a source code for affiliates to put on websites. In addition, affiliates are able to share banner links on social networks like Google+, Twitter, and Facebook by clicking the corresponding icons.
 
