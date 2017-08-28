@@ -6,12 +6,6 @@
 *Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
-
-**Tip:** To discover all functions more easily, turn on your Bookmark bar in PDF reader software (View → Navigation Panels → Bookmarks) to view the navigation of this manual.
-
-![](./purchaseimages/pm1.png)
-
-
 ## Introduction
 
 **Purchase Management** is a Magento 2 extension, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order, Quotation and Suppliers are kept track and automatically updated in the system. The extension is:
