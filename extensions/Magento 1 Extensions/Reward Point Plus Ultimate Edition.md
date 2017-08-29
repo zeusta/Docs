@@ -997,11 +997,11 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 Go to **Reward Points > Special Referring Friends Offer > Manage Offers** or click on **Manage Special Offers** link on **Settings** page
 
-![]()
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image141.png?raw=true)
 
 You can see the **Special Offer Manager** page shown as below:
 
-![]()
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image142.png?raw=true)
 
 This page shows you information of special offers in your site including title, website, customer groups, effective date, status and priority.
 You can delete or change status of special offers one by one or in bulk.
@@ -1010,7 +1010,7 @@ You can easily search for any information you want from the list by using filter
 - **Add Special Offer:**
 If you want to add a special offer, you can click on the **Add Special Offer** button at the top-right of the page. The **Add Special Offer** page will be shown as below:
 	- *General Information*
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image141.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image143.png?raw=true)
 In this tab, you should pay attention to the following fields:
 		-	**Title**: The title of the Special Offer shown in frontend.
 		-	**Offer description shown for Referrals**: The description shown on the Refer Friends page.
@@ -1020,19 +1020,19 @@ In this tab, you should pay attention to the following fields:
 
 	- *Condition*
 This tab allows you to configure the condition to apply to this special offer. For example, if you wish any order with subtotal equal to or greater than $1000 would be eligible to this offer, you can configure as below:
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image142.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image144.png?raw=true)
 	- *Action*
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image143.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image145.png?raw=true)
 In this tab, you can configure the actions to do with the offer such as the number of points they will get per purchase made by their friends or the discount value the referred friends can get if they make a purchase.
 You should notice the following fields:
 
 		-	**Action and Points (X):** 
 *Give X points to Customers*: This option defines Customers will get X points per purchase made by their friends. For example, if you select this option and configure as below, Customers will get 5 points when their friends make a purchase. 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image144.png?raw=true)
-*Give X points for every Y money spent:* With this option, Customers will get X points for every Y amount of money their invited friends spend. For example, if X equals to "1" and Y equals to "300", Customers will get 1 point for every $300 spent via the referring link.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image145.png?raw=true)
-*Give X points for every Y qty purchase:* With this option, Customers will get X points for every Y items of products their invited friends buy. For example, if X equals to "1" and Y equals to "2", Customers will get 1 point when their friends purchase 2 items with the referring link.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image146.png?raw=true)
+*Give X points for every Y money spent:* With this option, Customers will get X points for every Y amount of money their invited friends spend. For example, if X equals to "1" and Y equals to "300", Customers will get 1 point for every $300 spent via the referring link.
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image147.png?raw=true)
+*Give X points for every Y qty purchase:* With this option, Customers will get X points for every Y items of products their invited friends buy. For example, if X equals to "1" and Y equals to "2", Customers will get 1 point when their friends purchase 2 items with the referring link.
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image148.png?raw=true)
 	-	Stop processing further rules: If you select "Yes", in the case an order satisfies more than one special offer, our module will apply it to the offer with the highest priority only.
 	-	Discount type: It is the type of discount that invited Customers will get with the referring link. You can select "Fixed" or "Percentage".
 	-	Discount value: It is the value of the discount that invited Customers will get.
@@ -1042,7 +1042,7 @@ Do not forget to click on the **Save** or **Save and Continue** button to save y
 - **Edit Special Offer:**
 In order to edit a special offer, you can click on its row on the **Special Offer Manager** page. The **Edit Special Offer** page will be shown as below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image147.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image149.png?raw=true)
 
 After making changes to your special offer, remember to click on the **Save** or **Save and Continue** button to update your offer.
 
@@ -1052,24 +1052,24 @@ Go to **Reward Points > Special Referring Friends Offer > Manage Coupon** **Code
 
 You can see the **Coupon Code Management** page shown as below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image148.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image150.png?raw=true)
 
 This page shows list of all customers with referral coupon of each one. You can print one or multi coupon by selecting on checkboxes and choose **Print Coupon Code** on the mass-action, then click on **Submit** button to print them out.
 The template of coupon code after printing will be shown as bellow:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image149.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image151.png?raw=true)
 
 ### Settings
 
 Go to **Backend > Reward Points > Settings**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image150.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image152.png?raw=true)
 
 Then you will see 9 tabs to configure. Let’s go step by step to configure these tabs. 
 
 #### General Configuration 
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image151.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image153.png?raw=true)
 
 -	**Enable Reward points**: Choose “Yes” if you want to enable Reward Points – Standard edition.
 -	**Label for Point**: You can give “point” another name to fit with your store such as Gold, Star, etc. If empty, the default label “Point” will be used.
@@ -1082,7 +1082,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Earning Points Configuration
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image152.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image154.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -1097,7 +1097,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Spending Points Configuration
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image153.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image155.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -1108,7 +1108,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Display Configuration
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image154.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image156.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -1118,7 +1118,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Email Configuration
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image155.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image157.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1131,7 +1131,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 Remember to click on **Save** or **Save and Continue Edit** button to save your configuration. 
 Go to **Reward Points > Settings**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image156.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image158.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1139,7 +1139,7 @@ Go to **Reward Points > Settings**
 
 Go to **Backend > Setting > Report Plugin Configuration** 
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image157.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image159.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1149,7 +1149,7 @@ Go to **Backend > Setting > Report Plugin Configuration**
 In backend, go to **System > Configuration > Reward Points > Refer Friends Plugin Configuration**
 You can enable/disable the **Refer Friends** plugin by choosing Yes/No in the dropdown list:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image158.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image161.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1164,7 +1164,7 @@ Just need to click on Manage Special Offer link, you will redirected to Manage O
 
 - **Referring method(s):**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image159.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image163.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1177,7 +1177,7 @@ Just need to click on Manage Special Offer link, you will redirected to Manage O
 
 - **Sharing via email:**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image161.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image165.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1196,17 +1196,17 @@ Just need to click on Manage Special Offer link, you will redirected to Manage O
 **Notes:** 
 	
 - For Yahoo email, you need to register to get information of Yahoo Application ID, Yahoo Consumer Key and Yahoo Consumer Secret. 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image163.png?raw=true)
-Click on **Register to Yahoo** link and you will be navigated to the registration page.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image165.png?raw=true)
-Remember to fill your information as required. Then, you will be directed to **My App** page of Yahoo. Click on the app you want and get what you need for configuration.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image167.png?raw=true)
-	- For Google email, you need to register to get information of Google Client ID and Google Client Secret. 
+Click on **Register to Yahoo** link and you will be navigated to the registration page.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image169.png?raw=true)
-Click on **Register to Google** link and you will be navigated to the registration page. On this page, you can create a new project by heating the **Create Project** button or choose your available project. 
+Remember to fill your information as required. Then, you will be directed to **My App** page of Yahoo. Click on the app you want and get what you need for configuration.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image171.png?raw=true)
-After that, in the left column, go to **API & auth > Credentials**. Get the Client ID and Client Secret to fill in the corresponding fields
+	- For Google email, you need to register to get information of Google Client ID and Google Client Secret. 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image173.png?raw=true)
+Click on **Register to Google** link and you will be navigated to the registration page. On this page, you can create a new project by heating the **Create Project** button or choose your available project. 
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image175.png?raw=true)
+After that, in the left column, go to **API & auth > Credentials**. Get the Client ID and Client Secret to fill in the corresponding fields
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image177.png?raw=true)
 
 - **Sharing via Facebook/Twitter/Google+:**
 
@@ -1219,30 +1219,30 @@ After that, in the left column, go to **API & auth > Credentials**. Get the Clie
 
 ***Notes:** 
 Unlike Twitter & Google+, sharing via Facebook needs configuration about Application ID and Application Secret
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image175.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image179.png?raw=true)
 
 To get information for this configuration, click on the Register to Facebook link. You will be navigated to the **My App** page on Facebook. To create a new app, heat the **Add a New App** button in the right corner or choose your available app. After that, you will see your app information as below: 
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image177.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image181.png?raw=true)
 
 Get the information of App ID and App Secret to fill in the corresponding fields in backend. 
 
 #### Behavior Plugin Configuration
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image179.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image183.png?raw=true)
 
 Enable Behavior Plugin: Choose Yes if you want to use this plugin
 
 #### Rules Plugin Configuration
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image181.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image185.png?raw=true)
 
 -	Enable Rules Plugin: Choose Yes if you want to use this plugin
 -	Show Earning Rule on Shopping Cart Page: If you choose Yes, after adding products to cart, on Shopping Cart Page, customers can see how they can earn more points. 
 
 #### Report Plugin Configuration
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image183.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image187.png?raw=true)
 
 -	Year-To-Date Starts: The report will be shown from the date you configure here. 
 -	Current Month Starts: Select the day of the month to be used as the starting point for reports. 
