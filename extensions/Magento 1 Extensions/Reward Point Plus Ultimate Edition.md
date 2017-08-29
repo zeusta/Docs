@@ -467,22 +467,23 @@ For example, if you want to give Customers 5 points for purchasing products, the
 		- **Give X points for every Y amount of Price:** The more expensive the products Customers buy, the more points they can receive. 
 For example, if you want to give Customers 5 points for every $200.00 of price they spend and limit the number of points that can be earned to 15, then:
 
-			• Choose "Action": "Give X points for every Y amount of price" 
+• Choose "Action": "Give X points for every Y amount of price" 
 			•	Fill in field "Points (X)": 5 
 			•	Fill in field "Money Step (Y)": 200 
 			•	Fill in field "Max points earned by this rule": 15 
 			=> If Customers purchase a product of $800.00, they will earn 15 points.
 
-		- **Give X points for every Y amount of Profit:** The more profits get from selling products that Customers buy, the more points they can receive. 
+	- **Give X points for every Y amount of Profit:** The more profits get from selling products that Customers buy, the more points they can receive. 
 For example, if you want to give Customers 5 points for every $200.00 of profit they make and limit the number of points that can be earned to 15, then:
 
-			•	Choose "Action": "Give X points for every Y amount of Profit" 
+•	Choose "Action": "Give X points for every Y amount of Profit" 
 			•	Fill in field "Points (X)": 5 
 			•	Fill in field "Money Step (Y)": 200 
 			•	Fill in field "Max points earned by this rule": 15
 			=>	If Customers purchase a product which contributes $800.00 in profit, they will earn 15 points.
 
 You should select one option and fill out all the necessary information as below:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image080.png?raw=true)
 
 Please note that if you choose “**yes**” for the field “**Stop Further Rules Processing**” then all other **Catalog Earning** rules will not be applied. If you choose “**no**”, the rule with the highest priority level will be applied.
@@ -528,7 +529,7 @@ For example, if you want to give Customers 5 points for purchasing, then:
 		- **Give X points for every Y money spent**: The higher the order values that Customers place, the more points they can receive.
 For example, if you want to give Customers 5 points for every $200.00 spent and limit the number of points that can be earned to 15, then:
 
-			•	Choose "Action": "Give X points for every Y amount spent" 
+•	Choose "Action": "Give X points for every Y amount spent" 
 			•	Fill in field "Points (X)": 5 
 			•	Fill in field "Money Step (Y)": 200 
 			•	Fill in field "Max points earned by this rule": 15 
@@ -552,7 +553,7 @@ In case you want to edit any shopping cart rule, please click on the **Edit** li
 After editing the rule as you want, remember to click on the **Save Rule** or **Save and Continue Edit** button to save your work.
 To delete a catalog rule, you can go to the **Edit Rule** page and click on the **Delete** button on the top of the page. 
 
-####	Manage earning points by product
+#### Manage earning points by product
 Go to **Backend > Reward Points > Earning > Manage** **earning points by product:**
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image087.png?raw=true)
@@ -570,7 +571,7 @@ On this page, you can change the number of earning points for each product by 2 
 
 Please note that Earning Points for products takes priority over catalog rules, and shopping cart rules may still apply.
 
-###	Manage Spending Rates
+### Manage Spending Rates
 
 Go to **Backend > Reward Points > Spending > Spending rates**
 
@@ -621,7 +622,7 @@ For example, you want to apply this rule only for products named Ottoman; you ca
 If you do not configure this field, the rule will be applied for all products.
 Also, you can configure how Customers can spend points in the **Action** field. There are two options for you to choose:
 
-		- **Discount for every X points:**
+- **Discount for every X points:**
 For example, if you want to configure that Customers need to spend at least 5 points on products:
 •	Choose "Action": "Discount for every X points" 
 •	Fill in field "Points (X)": 5 
@@ -629,7 +630,6 @@ For example, if you want to configure that Customers need to spend at least 5 po
 
 		- **Spend X points for every Y amount of Price:** 
 For example, if you want to configure that Customers need to spend 5 points on every $200.00 of product price and limit the required number of points to 15, then:
-
 			•	Choose "Action": "Spend X Points for every Y amount of price"
 			•	Fill in field "Points (X)": 5 
 			•	Fill in field "Money Step (Y)": 200 
@@ -684,7 +684,7 @@ For example, If you want to allow Customers to spend 5 points only on a shopping
 •	Fill in field "Points (X)": 5
 => If Customers place an order of $500.00 or $800.00, they can spend only 5 points in both cases.
 
-		- **Give discount for every X points**: Customers can receive discounts proportionally to the number of points they spent.
+- **Give discount for every X points**: Customers can receive discounts proportionally to the number of points they spent.
 If you want to give discount for every 5 points Customers spend on the order and limit the number of points that can be used to 15, then:
 •	Choose "Action": "Give discount for every X points" 
 •	Fill in field "Points (X)": 5 
@@ -739,7 +739,7 @@ You can also set products to buy with points by going to **Catalog > Manage Prod
 
 Please note that your customers only purchase these products by using point but cannot using money to purchase them.
 
-###	Manage transactions
+### Manage transactions
 Go to **Backend > Reward Points > Transactions**
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image107.png?raw=true)
@@ -1217,6 +1217,8 @@ Unlike Twitter & Google+, sharing via Facebook needs configuration about Applica
 To get information for this configuration, click on the Register to Facebook link. You will be navigated to the **My App** page on Facebook. To create a new app, heat the **Add a New App** button in the right corner or choose your available app. After that, you will see your app information as below: 
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image177.png?raw=true)
+
+Get the information of App ID and App Secret to fill in the corresponding fields in backend. 
 
 #### Behavior Plugin Configuration
 
