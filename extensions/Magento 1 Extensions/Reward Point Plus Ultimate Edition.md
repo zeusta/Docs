@@ -264,9 +264,11 @@ After selecting contacts and click on the **Select Contacts** button, our module
 	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image050.png?raw=true)
 
 - Sharing via Twitter: Customers can customize their message before clicking on the Tweet button.
+	
 	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image051.png?raw=true)
 
 - Sharing via Google+: With Google+, Customers need to click on the Google+ button to share referring link on Google+.
+	
 	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image052.png?raw=true)
 
 If the invited friends click on those links or use those coupons to make purchases, they can get discount. After the orders are completed, Customers will get points under the corresponding policy.
@@ -309,10 +311,12 @@ On this page, you can access many data to analyze the situation of earning and s
 You can see all the Life – Time Report about the Reward Points system to the left of the **Dashboard** page.
 	 - *Spending/ Earning Ratio*
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image057.png?raw=true)
+	 
 	 This ratio can tell you how many points are spent for every 100 points rewarded.  
 	 - *Cost for a loyal member*
 	 
 	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image058.png?raw=true)
+	
 	 This is the ratio beween the total value of orders after Customers spent points to pay and the total number of points spent. 
 	 - *Earning Distribution* 
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image059.png?raw=true)
@@ -409,6 +413,9 @@ You can filter to easily search for any information you want and export this tab
 ### Manage Earning Rates
 
 Go to **Backend > Reward Points > Earning > Earning Rates**
+
+(imgage)
+
 Then the **Earning Rates** page will be shown, allowing you to do many tasks:
 
  - **Add a new rate**
