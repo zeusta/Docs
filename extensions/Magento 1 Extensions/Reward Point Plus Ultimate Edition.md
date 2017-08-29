@@ -391,14 +391,14 @@ You can filter to easily search for any information you want and export this tab
 #### Point Earning Report
 This report shows the total points earned by your Customers from all kinds of activities such as Purchase Order, Admin Sign-up, Newsletter, Review, etc. You can choose to show report by day, month and so on.
 
-(image 71)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image071.png?raw=true)
 
 You can filter to easily search for any information you want and export this table to CSV/XML/Excel file.
 
 #### Point Spending Report
 This report shows the total points spent by your Customers with many other data including Number of Orders, Discount for Using Points, Total of Orders Using Points. You can choose to show report by day, month and so on.
 
-(image 72)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image072.png?raw=true)
 
 You can filter to easily search for any information you want and export this table to CSV/XML/Excel file
 
@@ -414,39 +414,39 @@ Then the **Earning Rates** page will be shown, allowing you to do many tasks:
  - **Add a new rate**
 In order to add a new earning rate, you can click on the **Add Rate** button and then fill out all the required data such as Money spent for order, **Earning Points, Status, Websites, Customer groups, Priority.**
 
-(image 73)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image073.png?raw=true)
 
 Please note that with **priority**, the rate with the highest level of priority will be applied first. In case there are two rates with the same priority, the rate created sooner will be applied.
 After you finish filling out all the required data, remember to click on the **Save** or **Save and Continue Edit** button to save your work. If you click on the **Save** button, you’ll be navigated to the **Earning rates** page and your rate will be shown as below:
 
-(image 74)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image074.png?raw=true)
 
 - Edit/ Delete an existing rate
 
 In case you want to edit a rate, please click on the **Edit** link in the **Action** column.
 Then you will be redirected to the **Edit Earning Rate** page:
 
-(image 75)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image075.png?raw=true)
 
 After editing the rate as you want, remember to click on the **Save** or the **Save and Continue Edit** button to save your work.
 To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of the page.
 
-###	Manage Earning Rules
+### Manage Earning Rules
 
-####	Catalog Earning Rules
+#### Catalog Earning Rules
 
 Go to **Backend > Reward Points > Earning > Catalog Earning Rules**
 
-(image 76)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image076.png?raw=true)
 
 Then you can see the **Catalog Earning Rule Manager** page as below:
 
-(image 77)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image077.png?raw=true)
 
 - **Add a new rule:**
 In order to add a new catalog rule, click on the **Add Rule** button and fill out all the required data.
 	- **General Information** tab:
-(image 78)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image078.png?raw=true)
 You should pay attention to these following fields:
 		- **Rule Name and Description**: These two fields will be shown on the **My Reward** page on frontend.
 		- **Validate from and Validate to**: These fields are used to configure the effective time of the rule.
@@ -454,7 +454,7 @@ You should pay attention to these following fields:
 
 	- **Conditions** tab: 
 This tab allows you to configure the products to which the rule is applicable. For example, if you want to apply this rule for cell phones, you can configure the condition as in the image below:
-(image 79)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image079.png?raw=true)
 If you leave this tab blank, the rule will be applied for all products.
 	- Actions** tab:
 In this tab, you can configure the number of points that Customers will receive according to the rule and how to exchange points when they purchase products. There are three options for you to choose:
@@ -483,7 +483,7 @@ For example, if you want to give Customers 5 points for every $200.00 of profit 
 			=>	If Customers purchase a product which contributes $800.00 in profit, they will earn 15 points.
 
 You should select one option and fill out all the necessary information as below:
-(image 80)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image080.png?raw=true)
 
 Please note that if you choose “**yes**” for the field “**Stop Further Rules Processing**” then all other **Catalog Earning** rules will not be applied. If you choose “**no**”, the rule with the highest priority level will be applied.
 
