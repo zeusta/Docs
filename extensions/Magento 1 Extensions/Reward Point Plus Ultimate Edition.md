@@ -309,13 +309,11 @@ On this page, you can access many data to analyze the situation of earning and s
 You can see all the Life – Time Report about the Reward Points system to the left of the **Dashboard** page.
 	 - *Spending/ Earning Ratio*
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image057.png?raw=true)
-	 
-This ratio can tell you how many points are spent for every 100 points rewarded.  
+	 This ratio can tell you how many points are spent for every 100 points rewarded.  
 	 - *Cost for a loyal member*
+	 
 	![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image058.png?raw=true)
-	 
 	 This is the ratio beween the total value of orders after Customers spent points to pay and the total number of points spent. 
-	 
 	 - *Earning Distribution* 
 	 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image059.png?raw=true)
 	 
