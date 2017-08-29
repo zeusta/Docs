@@ -574,7 +574,7 @@ On this page, you can change the number of earning points for each product by 2 
 -	Tick the product, choose **Change Point** in dropdown menu of **Action** box. Then, fill in the number of points you want to set.
 -	Double click on **Earning Points** column of the product you want to edit. Insert the number of points as you prefer, then click on **Ok**
 
-(image 88)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image089.png?raw=true)
 
 Please note that Earning Points for products takes priority over catalog rules, and shopping cart rules may still apply.
 
@@ -582,7 +582,7 @@ Please note that Earning Points for products takes priority over catalog rules, 
 
 Go to **Backend > Reward Points > Spending > Spending rates**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image089.png?raw=true)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image090.png?raw=true)
 
 Then the **Spending Rates** page will be shown, allowing you to do many tasks:
 
