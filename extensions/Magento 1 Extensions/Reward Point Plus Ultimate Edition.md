@@ -489,7 +489,7 @@ Please note that if you choose “**yes**” for the field “**Stop Further Rul
 
 After you finish configuring, remember to click on the **Save Rule** or Save and Continue Edit button to save your work. If you click on the **Save Rule** button, you will be navigated to the **Catalog Earning Rule Manager** page and the rule will be shown in the catalog rule list as below:
 
-(image 81)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image081.png?raw=true)
 
 - **Edit/ Delete an existing rule**
 
@@ -501,12 +501,12 @@ To delete a catalog rule, you can go to the **Edit Rule** page and click on the 
 
 Go to **Backend > Reward Points > Earning > Shopping Cart Earning Rules**
 
-(image 82)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image082.png?raw=true)
 
  - **Add a new rule**
 In order to add a new **Shopping Cart** rule, you can click on the Add rule button and fill out all the required data.
 - **General Information** tab
-(image 83)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image083.png?raw=true)
 You should pay attention to these following fields:
 	 - **Rule Name** and **Description**: These two fields will be shown on the My Reward page on frontend.
 		- **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
@@ -514,11 +514,11 @@ You should pay attention to these following fields:
 - **Conditions** tab:
 This tab allows you to configure the condition of shopping carts to which the rule is applicable. 
 For example, if you want to apply this rule only for carts which have **Subtotals** equal to or greater than $300, you can configure the condition as in the image below:
-(image 84)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image084.png?raw=true)
 If you leave this tab blank, the rule will be applied for all shopping carts.
 - **Actions** tab:
 In the **Action** tab, you can configure the number of points that Customers will receive when the rule is applied.
-(image 85)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image085.png?raw=true)
 There are three options of actions for you to choose:
 		- **Give fixed X points to Customers**: Customers will receive a fixed number of X points for whatever order they place.
 For example, if you want to give Customers 5 points for purchasing, then:
@@ -544,7 +544,7 @@ For example, if you want to give Customers 5 points for every 10 items they orde
 Please note that if you choose “**yes**” for the field “**Stop Further Rules Processing**” then all other **Shopping Cart Earning** rules will not be applied. If you choose “no”, the rule with the highest priority level will be applied.
 
 After you finish configuring, remember to click on the **Save Rule** or **Save and Continue Edit** button to save your work. If you click on the **Save Rule** button, you will be navigated to the **Shopping Cart Earning Rule Manager** page and the rule will be shown in the catalog rule list as below:
-(image 86)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image086.png?raw=true)
 
 - **Edit/ Delete an existing rule**
 
@@ -555,11 +555,11 @@ To delete a catalog rule, you can go to the **Edit Rule** page and click on the 
 ####	Manage earning points by product
 Go to **Backend > Reward Points > Earning > Manage** **earning points by product:**
 
-(image 87)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image087.png?raw=true)
 
 Then you will be redirected to the **Manage Earning Points By Product** page:
 
-(image 88)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image088.png?raw=true)
 
 On this page, you can change the number of earning points for each product by 2 ways:
 
@@ -574,7 +574,7 @@ Please note that Earning Points for products takes priority over catalog rules, 
 
 Go to **Backend > Reward Points > Spending > Spending rates**
 
-(image 89)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image089.png?raw=true)
 
 Then the **Spending Rates** page will be shown, allowing you to do many tasks:
 
@@ -583,28 +583,28 @@ Then the **Spending Rates** page will be shown, allowing you to do many tasks:
 In order to add a new spending rate, you can click on the **Add Rate** button and then fill out all the required data such as **Points spent, Discount received, Status, Limit spending points based on, Websites, Customer groups and Priority.**
 For example, if you want to allow your Customers to exchange 2 points for $1 to spend on their orders, you can enter data as in the image below:
 
-(image 90)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image090.png?raw=true)
 
 Besides, you can also configure priority for rates. The rate with the highest priority will be applied first. In case there are two rates with the same priority, the one created sooner will be applied.
 After you finish filling out all the required data, remember to click on the **Save** or the **Save and Continue Edit** button to save your work. If you click on the **Save** button, you’ll be navigated to the **Spending Rates** manager page and your rate will be shown as below:
 
-(image 91)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image091.png?raw=true)
 
  - **Edit/ Delete an existing rate**
 In case you want to edit a rate, please click on Edit link in the Action column.
 Then you will be redirected to the Edit Spending Rate page:
 
-(image 92)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image092.png?raw=true)
 
 After finish editing, remember to click on the **Save** or the **Save and Continue Edit** button to save your work.
 To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of that page.
 
-###	Manage Spending Rules
+### Manage Spending Rules
 
 #### Catalog Spending rules
 Go to **Backend > Reward Points > Spending > Catalog Spending Rules**
 
-(image 93)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image093.png?raw=true)
 
 Then you will be redirected to the Catalog Spending Rule Manager page.
 
@@ -612,12 +612,12 @@ Then you will be redirected to the Catalog Spending Rule Manager page.
 First you should click on the Add Rule button. And then you should configure information in 3 tabs:
 
 - **General Information** Tab:
-(image 94)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image094.png?raw=true)
 
 - **Conditions** tab:
 This tab allows you to configure the conditions of products to which the rule is applicable.
 For example, you want to apply this rule only for products named Ottoman; you can configure the condition as in the image below:
-(image 95)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image095.png?raw=true)
 If you do not configure this field, the rule will be applied for all products.
 Also, you can configure how Customers can spend points in the **Action** field. There are two options for you to choose:
 
@@ -638,7 +638,7 @@ For example, if you want to configure that Customers need to spend 5 points on e
 
 - **Actions** tab:
 In the Action tab, you can configure how prices of products are discounted after Customers use points:
-(image 96)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image096.png?raw=true)
 There are four discount types:
 		- By Fixed Amount
 		- To Fixed Amount
@@ -651,7 +651,7 @@ Let’s take an example, to give a discount of $10 or to $10 for every X points 
 => With the discount "By a fixed amount" of $10.00 and "Uses Allowed Per Product" equal to 5, a $200.00 product will have its price down to $90.00 for the first time of spending points, to$180.00 for the second time and so on until reaching $150.00 for the last time (5th time).
 
 After being saved, the rule which has just been created will be shown as below:
-(image 97)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image097.png?raw=true)
 
  - **Edit/ Delete an existing rule**
 In case you want to edit any catalog spending rule, please click on the **Edit** link in the **Action** column. Then you will be redirected to the **Edit Rule** page.
@@ -663,18 +663,18 @@ To delete a catalog rule, you can go to the **Edit Rule** page and click on the 
 
 Go to **backend > Reward Points > Spending > Shopping Cart Spending Rules**
 
-(image 98)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image098.png?raw=true)
 
 Then you will be redirected to the Shopping Cart Spending Rule Manager page.
 
  - **Add a new Rule:**
 First you should click on the **Add Rule** button. And then you should configure information in 3 tabs:
 - **General Information** Tab:
-(image 99)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image099.png?raw=true)
 - **Conditions** tab:
 This tab allows you to configure the conditions of shopping carts to which the rule is applicable.
 For example, you want to apply this rule only for shopping carts of subtotals equal to or greater than $300, you can configure the condition as in the image below:
-(image 100)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image100.png?raw=true)
 If you do not set up this field, the rule will be applied for all carts.
 Also, you can configure how Customers can spend points in the **Action** field. There are two options for you to choose:
 		
@@ -706,11 +706,11 @@ Let’s take an example, if you want to give a discount of $10 or 10% for X poin
 Besides, you can configure the condition of products on shopping cart to apply the rule.
 For example, if you want to apply the rule only for orders having products belonging to the furniture category, you can set up the data as in the image below:
 
-(image 101)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image101.png?raw=true)
 
 After being saved, the rule which has just been created will be shown as below:
 
-(image 102)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image102.png?raw=true)
 
  - **Edit/ Delete an existing rule**
 In case you want to edit any shopping cart spending rule, please click on the **Edit** link in the **Action** column. Then you will be redirected to the **Edit Rule** page.
@@ -718,35 +718,35 @@ In case you want to edit any shopping cart spending rule, please click on the **
 After editing the rule as you want, remember to click on the **Save Rule** or **Save and Continue Edit** button to save your work.
 To delete a shopping cart rule, you can go to the **Edit Rule** page and click on the **Delete** button on the top of the page. 
 
-####	Manage Spending Points By Product
+#### Manage Spending Points By Product
 Go to **Backend > Reward Points > Spending > Manage** **spending points by product:**
 
-(image 103)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image103.png?raw=true)
 
 Then you will be redirected to the **Manage Spending Points By Product** page:
 
-(image 104)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image104.png?raw=true)
 
 On this page, you can change the number of spending points to purchase each product by 2 ways:
 -	Tick the product, choose **Change Point** in dropdown menu of **Action** box. Then, fill in the number of points you want to set.
 -	Double click on **Spending Points** column of the product you want to edit. Insert the number of points as you want, then click on **Ok**.
 
-(image 105)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image105.png?raw=true)
 
 You can also set products to buy with points by going to **Catalog > Manage Products**. On the **Product Manager** page, click on your wanted product. Here, in General tab, you will find the field to fill in the number of points that can be used to purchase it. 
 
-(image 106)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image106.png?raw=true)
 
 Please note that your customers only purchase these products by using point but cannot using money to purchase them.
 
 ###	Manage transactions
 Go to **Backend > Reward Points > Transactions**
 
-(image 107)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image107.png?raw=true)
 
 Then all the transactions related to reward points will be shown as below:
 
-(image 108)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image108.png?raw=true)
 
 On this **Transaction Manager** page, you can view a list of all point transactions together with many general information including **Customer, Transaction Type, Points Used, etc.**
 Moreover, you can filter and search for the information you want as well as export this table to CSV/XML/Excel files.
@@ -754,59 +754,59 @@ You can **Complete**, **Cancel** or make transactions **expire** by choosing the
 
 To view details of each transaction, you can click on the corresponding row: 
 
-(image 109)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image109.png?raw=true)
 
 In order to add a new transaction, you can click on the Add Transaction button, fill out all the required data and then click on the Save Transaction button.
 
-(image 110)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image110.png?raw=true)
 
 ### 	Manage Point Balances of Customers
 #### Manage Point Balances
 
 -	Go to **Reward Points > Manage Point Balances**
 
-(image 111)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image111.png?raw=true)
 
 Then, the Reward Point Balance Manager page will be shown. Here you can see the information of customers and their current point balance. To view in details, click on **View** link in Action column. 
 
-(image 112)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image112.png?raw=true)
 
 Moreover, you can also import/export customers’ points to your system via csv files. 
 
-(image 113)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image113.png?raw=true)
 
 -	Another way to manage point balances is to go to **Customers > Manage Customers**
-(image 114)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image114.png?raw=true)
 On the **Customer Manager** page, you can choose the Customer you want to change balance by clicking on the **Edit link** in the **Action** column.
 After clicking on the **Reward Points** tab, all of that Customer’s information will appear as below:
-(image 115)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image115.png?raw=true)
 	- **Reward Points Information**: In this session, you can change the Customer’s balance by filling an integer in the **Change Balance** field. For example, if you enter 5, then 5 points will be added to that customer’s balance and vice versa, “-5” means that Customer’s balance will be deducted 5 points.
 Also, you can configure other information like **Update Points Subscription** or **Expire Transaction** **Subscription**
 	- **Transaction history**: This part lists all of that Customer’s transactions:
 
-(image 116)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image116.png?raw=true)
 
-####	Change Point Balances
+#### Change Point Balances
 There are two ways to change point balances of customers.
 
 -	You can change point balances for each customer by entering the **Change Balance** in the **Reward Point** session of Customer information page. After you save, the **Available Points Balance** will be updated. 
 
-(image 117)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image117.png?raw=true)
 
 -	Another way is that you can change point for many customers at the same time by importing points from csv file. Go to **Reward Points > Manage Point Balances**. On this page, the list of customers will be shown with Point Balance column. 
 
-(image 118)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image118.png?raw=true)
 
 Next step, you need to click on **Import Points** button, the Import Points page will be shown so that you can import file from your computer. Please download the sample file, edit customers’ information then import it. After being imported successfully, the Point Balance of customers will be updated.
 
-(image 119)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image119.png?raw=true)
 
 Besides, you can also export csv file from the list of customers in **Reward Point Balances Information** page. You can also use this file to import again. 
 
-###	Create and refund orders
+### Create and refund orders
 Go to **Sales > Orders**
 
-(image 120)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image120.png?raw=true)
 
 Then the System will display all Customers’ orders. Now, let’s see how Reward Points - Standard edition is used in creating and refunding orders.
 
@@ -814,11 +814,11 @@ Then the System will display all Customers’ orders. Now, let’s see how Rewar
 First, please click on the Create new Order button to see the Order form.
 After selecting a Customer, a store and adding Products, you will see the **Use Customer Reward Points** box in which you can set up the number of points the Customer will spend for his order.
 
-(image 121)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image121.png?raw=true)
 
 The **Order Totals** box will also display the number of points that Customer will spend:
 
-(image 122)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image122.png?raw=true)
 
 After filling out all the required fields, please click on the **Submit Order** button to finish creating the new order. Then the **Order** **totals** box shows the total spent point 
 
@@ -826,25 +826,25 @@ After filling out all the required fields, please click on the **Submit Order** 
 When Customers refund orders, you can decide how many points to refund them as well as how many points to get back from them. By default, the System will set those values as the number of points that Customer spent and the number of points that Customer earned respectively.
 First, please choose the order your Customer wants to refund by clicking on the **View** link in the **Action** column. Then the order will appear as below:
 
-(image 123)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image123.png?raw=true)
 
 Now, please click on the **Credit Memo** link to process the order refund. In the **Refund Total** box, you can choose to refund a number of points you like among those that the Customer spent and get back a number of points among those that he earned.
 After that, please click on the **Refund Offline** button to finish your refunding.
 
-(image 124)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image124.png?raw=true)
 
-###	Customer Behavior Earning Rules
+### Customer Behavior Earning Rules
 Go to **Reward Points > Earning Rates > Behavior Earning Rules**
 
-(image 125)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image125.png?raw=true)
 
 Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
-(image 126)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image126.png?raw=true)
 
 - **Login**
 
-(image 127)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image127.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -854,7 +854,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Sign up and Subscribe to Newsletters:**
 
-(image 128)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image128.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -866,7 +866,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Rate Products:**
 
-(image 129)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image129.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -877,7 +877,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Review Products:**
 
-(image 130)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image130.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -888,7 +888,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Tag Products:**
 
-(image 131)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image131.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -899,7 +899,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Take Polls:**
 
-(image 132)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image132.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -910,7 +910,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - Customer's Birthday:
 
-(image 133)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image133.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -922,7 +922,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Like/share via Facebook:**
 
-(image 134)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image134.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -938,7 +938,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Tweeting via Twitter:**
 
-(image 135)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image135.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -951,7 +951,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **+1 via Google:**
 
-(image 136)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image136.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -964,7 +964,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Pin via Pinterest**
 
-(image 137)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image137.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -977,24 +977,24 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 
 - **Show collectible points via social channels**
 
-(image 138)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image138.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
 |1|Enable|Yes|The collectible number of points for activities via Facebook, Twitter, Pinterest and Google+ is shown on frontend.|
 |2|Pages to display|Homepage|Buttons for sharing via Facebook, Twitter, Google+ and Pinterest are displayed on homepage. |
 
-###	Special Referring Friends Offers
+### Special Referring Friends Offers
 
-####	Manage  Offers
+#### Manage  Offers
 
 Go to **Reward Points > Special Referring Friends Offer > Manage Offers** or click on **Manage Special Offers** link on **Settings** page
 
-(image 139)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image139.png?raw=true)
 
 You can see the **Special Offer Manager** page shown as below:
 
-(image 140)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image140.png?raw=true)
 
 This page shows you information of special offers in your site including title, website, customer groups, effective date, status and priority.
 You can delete or change status of special offers one by one or in bulk.
@@ -1003,7 +1003,7 @@ You can easily search for any information you want from the list by using filter
 - **Add Special Offer:**
 If you want to add a special offer, you can click on the **Add Special Offer** button at the top-right of the page. The **Add Special Offer** page will be shown as below:
 	- *General Information*
-(image141)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image141.png?raw=true)
 In this tab, you should pay attention to the following fields:
 		-	**Title**: The title of the Special Offer shown in frontend.
 		-	**Offer description shown for Referrals**: The description shown on the Refer Friends page.
@@ -1013,19 +1013,19 @@ In this tab, you should pay attention to the following fields:
 
 	- *Condition*
 This tab allows you to configure the condition to apply to this special offer. For example, if you wish any order with subtotal equal to or greater than $1000 would be eligible to this offer, you can configure as below:
-(image 142)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image142.png?raw=true)
 	- *Action*
-(image 143)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image143.png?raw=true)
 In this tab, you can configure the actions to do with the offer such as the number of points they will get per purchase made by their friends or the discount value the referred friends can get if they make a purchase.
 You should notice the following fields:
 
 		-	**Action and Points (X):** 
 *Give X points to Customers*: This option defines Customers will get X points per purchase made by their friends. For example, if you select this option and configure as below, Customers will get 5 points when their friends make a purchase. 
-(image 144)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image144.png?raw=true)
 *Give X points for every Y money spent:* With this option, Customers will get X points for every Y amount of money their invited friends spend. For example, if X equals to "1" and Y equals to "300", Customers will get 1 point for every $300 spent via the referring link.
-(image 145)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image145.png?raw=true)
 *Give X points for every Y qty purchase:* With this option, Customers will get X points for every Y items of products their invited friends buy. For example, if X equals to "1" and Y equals to "2", Customers will get 1 point when their friends purchase 2 items with the referring link.
-(image 146)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image146.png?raw=true)
 	-	Stop processing further rules: If you select "Yes", in the case an order satisfies more than one special offer, our module will apply it to the offer with the highest priority only.
 	-	Discount type: It is the type of discount that invited Customers will get with the referring link. You can select "Fixed" or "Percentage".
 	-	Discount value: It is the value of the discount that invited Customers will get.
@@ -1035,34 +1035,34 @@ Do not forget to click on the **Save** or **Save and Continue** button to save y
 - **Edit Special Offer:**
 In order to edit a special offer, you can click on its row on the **Special Offer Manager** page. The **Edit Special Offer** page will be shown as below:
 
-(IMAGE 147)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image147.png?raw=true)
 
 After making changes to your special offer, remember to click on the **Save** or **Save and Continue** button to update your offer.
 
-####	Manage Coupon Codes
+#### Manage Coupon Codes
 
 Go to **Reward Points > Special Referring Friends Offer > Manage Coupon** **Codes**. 
 
 You can see the **Coupon Code Management** page shown as below:
 
-(image 148)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image148.png?raw=true)
 
 This page shows list of all customers with referral coupon of each one. You can print one or multi coupon by selecting on checkboxes and choose **Print Coupon Code** on the mass-action, then click on **Submit** button to print them out.
 The template of coupon code after printing will be shown as bellow:
 
-(image 149)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image149.png?raw=true)
 
 ### Settings
 
 Go to **Backend > Reward Points > Settings**
 
-(image 150)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image150.png?raw=true)
 
 Then you will see 9 tabs to configure. Let’s go step by step to configure these tabs. 
 
 #### General Configuration 
 
-(image 151)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image151.png?raw=true)
 
 -	**Enable Reward points**: Choose “Yes” if you want to enable Reward Points – Standard edition.
 -	**Label for Point**: You can give “point” another name to fit with your store such as Gold, Star, etc. If empty, the default label “Point” will be used.
@@ -1075,7 +1075,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Earning Points Configuration
 
-(image 152)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image152.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -1090,7 +1090,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Spending Points Configuration
 
-(image 153)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image153.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -1101,7 +1101,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Display Configuration
 
-(image 154)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image154.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|-----|----|
@@ -1111,7 +1111,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 
 #### Email Configuration
 
-(image 155)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image155.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1124,7 +1124,7 @@ Then you will see 9 tabs to configure. Let’s go step by step to configure thes
 Remember to click on **Save** or **Save and Continue Edit** button to save your configuration. 
 Go to **Reward Points > Settings**
 
-(image 156)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image156.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1132,7 +1132,7 @@ Go to **Reward Points > Settings**
 
 Go to **Backend > Setting > Report Plugin Configuration** 
 
-(image 157)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image157.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1142,7 +1142,7 @@ Go to **Backend > Setting > Report Plugin Configuration**
 In backend, go to **System > Configuration > Reward Points > Refer Friends Plugin Configuration**
 You can enable/disable the **Refer Friends** plugin by choosing Yes/No in the dropdown list:
 
-(image 158)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image158.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1157,7 +1157,7 @@ Just need to click on Manage Special Offer link, you will redirected to Manage O
 
 - **Referring method(s):**
 
-(image 159)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image159.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1170,7 +1170,7 @@ Just need to click on Manage Special Offer link, you will redirected to Manage O
 
 - **Sharing via email:**
 
-(image 160)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image161.png?raw=true)
 
 |No|Field|If you choose| Result will be|
 |---|----|:-----:|----|
@@ -1189,17 +1189,17 @@ Just need to click on Manage Special Offer link, you will redirected to Manage O
 **Notes:** 
 	
 - For Yahoo email, you need to register to get information of Yahoo Application ID, Yahoo Consumer Key and Yahoo Consumer Secret. 
-(image 161)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image163.png?raw=true)
 Click on **Register to Yahoo** link and you will be navigated to the registration page.
-(image 162)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image165.png?raw=true)
 Remember to fill your information as required. Then, you will be directed to **My App** page of Yahoo. Click on the app you want and get what you need for configuration.
-(image 163)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image167.png?raw=true)
 	- For Google email, you need to register to get information of Google Client ID and Google Client Secret. 
-(image 164)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image169.png?raw=true)
 Click on **Register to Google** link and you will be navigated to the registration page. On this page, you can create a new project by heating the **Create Project** button or choose your available project. 
-(image 165)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image171.png?raw=true)
 After that, in the left column, go to **API & auth > Credentials**. Get the Client ID and Client Secret to fill in the corresponding fields
-(image 166)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image173.png?raw=true)
 
 - **Sharing via Facebook/Twitter/Google+:**
 
@@ -1212,28 +1212,28 @@ After that, in the left column, go to **API & auth > Credentials**. Get the Clie
 
 ***Notes:** 
 Unlike Twitter & Google+, sharing via Facebook needs configuration about Application ID and Application Secret
-(image 167)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image175.png?raw=true)
 
 To get information for this configuration, click on the Register to Facebook link. You will be navigated to the **My App** page on Facebook. To create a new app, heat the **Add a New App** button in the right corner or choose your available app. After that, you will see your app information as below: 
 
-(image 168)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image177.png?raw=true)
 
 #### Behavior Plugin Configuration
 
-(image 169)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image179.png?raw=true)
 
 Enable Behavior Plugin: Choose Yes if you want to use this plugin
 
 #### Rules Plugin Configuration
 
-(image 170)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image181.png?raw=true)
 
 -	Enable Rules Plugin: Choose Yes if you want to use this plugin
 -	Show Earning Rule on Shopping Cart Page: If you choose Yes, after adding products to cart, on Shopping Cart Page, customers can see how they can earn more points. 
 
 #### Report Plugin Configuration
 
-(image 171)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image183.png?raw=true)
 
 -	Year-To-Date Starts: The report will be shown from the date you configure here. 
 -	Current Month Starts: Select the day of the month to be used as the starting point for reports. 
