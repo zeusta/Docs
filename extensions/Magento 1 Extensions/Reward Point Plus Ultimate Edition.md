@@ -465,31 +465,30 @@ You should pay attention to these following fields:
 This tab allows you to configure the products to which the rule is applicable. For example, if you want to apply this rule for cell phones, you can configure the condition as in the image below:
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image080.png?raw=true)
 If you leave this tab blank, the rule will be applied for all products.
-	- Actions** tab:
+	- **Actions** tab:
 In this tab, you can configure the number of points that Customers will receive according to the rule and how to exchange points when they purchase products. There are three options for you to choose:
-
-		- **Give Fixed X points to Customers**: Customers will receive a fixed number of points for whatever products they buy. 
+-**Give Fixed X points to Customers**: Customers will receive a fixed number of points for whatever products they buy. 
 For example, if you want to give Customers 5 points for purchasing products, then:
-•	Choose "Action": "Give X points to Customer" 
-•	Fill in field "Points (X)": 5
++ Choose "Action": "Give X points to Customer" 
++ Fill in field "Points (X)": 5
 => If Customers purchase a product of 500.00 usd or 800.00 usd, they will earn 5 points.
-		- **Give X points for every Y amount of Price:** The more expensive the products Customers buy, the more points they can receive. 
+-**Give X points for every Y amount of Price:** The more expensive the products Customers buy, the more points they can receive. 
 For example, if you want to give Customers 5 points for every $200.00 of price they spend and limit the number of points that can be earned to 15, then:
 
-• Choose "Action": "Give X points for every Y amount of price" 
-			•	Fill in field "Points (X)": 5 
-			•	Fill in field "Money Step (Y)": 200 
-			•	Fill in field "Max points earned by this rule": 15 
-			=> If Customers purchase a product of $800.00, they will earn 15 points.
++Choose "Action": "Give X points for every Y amount of price" 
+~ Fill in field "Points (X)": 5 
+~ Fill in field "Money Step (Y)": 200 
+~ Fill in field "Max points earned by this rule": 15 
+=> If Customers purchase a product of $800.00, they will earn 15 points.
 
-	- **Give X points for every Y amount of Profit:** The more profits get from selling products that Customers buy, the more points they can receive. 
+- **Give X points for every Y amount of Profit:** The more profits get from selling products that Customers buy, the more points they can receive. 
 For example, if you want to give Customers 5 points for every $200.00 of profit they make and limit the number of points that can be earned to 15, then:
 
-•	Choose "Action": "Give X points for every Y amount of Profit" 
-			•	Fill in field "Points (X)": 5 
-			•	Fill in field "Money Step (Y)": 200 
-			•	Fill in field "Max points earned by this rule": 15
-			=>	If Customers purchase a product which contributes $800.00 in profit, they will earn 15 points.
++ Choose "Action": "Give X points for every Y amount of Profit" 
+~ Fill in field "Points (X)": 5 
+~ Fill in field "Money Step (Y)": 200 
+~ Fill in field "Max points earned by this rule": 15
+=>If Customers purchase a product which contributes $800.00 in profit, they will earn 15 points.
 
 You should select one option and fill out all the necessary information as below:
 
@@ -917,7 +916,7 @@ Then you will be navigated to the **Customer Behavior Earning Rul**es page:
 |3|Show collectible points of taking poll|Yes|The collectible number of points of taking pollis shown on frontend.|
 
 
-- Customer's Birthday:
+- **Customer's Birthday**:
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image135.png?raw=true)
 
