@@ -14,7 +14,7 @@ There is no doubt about the benefits of Customer loyalty to your business. The q
 
 With Reward Points –Standard Edition, your Customers can receive reward points when placing orders on your site. These points then can be converted to money for checkout at the rate configured by you. The System will show messages about the number of points Customers will earn and spend. Customers certainly feel more encouraged to purchase at your site when they can get some bonus for doing that!
 
-<<img1>>
+![ ](./rp_images/rp1.png)
 
 ## How to use
 
