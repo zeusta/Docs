@@ -25,38 +25,38 @@ When placing an order, Customers can earn points based on the rate set by admin.
 
 Our Standard edition makes sure that Customers are well aware of your reward point policy by showing messages on many pages. For example, on Product Detail pages, there will be a notification for Customers that says “You could receive some Points for purchasing this product”.
 
-<<img2>>
+![](./rp_images/rp2.png)
 
 Also, after clicking on the **Add to Cart** button, on **Mini Cart**, Customers will see another notification “**Check out now to earn points**”.
 
-<<img3>>
+![](./rp_images/rp3.png)
 
 If Customers have not logged in yet, a notification message “**Login and checkout to earn points**” will be shown on mini cart:
 
-<<img4>>
+![](./rp_images/rp4.png)
 
 On **Checkout** page, Customers can see exactly the number of points they earned from buying that product in the **Grand Total** box:
 
-<<img5>>
+![](./rp_images/rp5.png)
 
 If Customers have not logged in yet, a notification message “**Login and checkout to earn points**” will be shown on **Grand Total** box of checkout page:
 
-<<img6>>
+![](./rp_images/rp6.png)
 
 After placing an order successfully, Customers can check their point balance right next to the **My Account** top link or can go directly to that link:
 
-<<img7>>
+![](./rp_images/rp7.png)
 
 
 ### How to spend points
 
 On **Shopping Cart** and **Checkout** pages, Customers can move the slide forwards or backwards to select the number of points they would like to spend. They can also just click on the **Minus** or **Plus** icons. Besides, they can enter this number in the empty box or tick the checkbox “**Maximize my discount with points**” to spend the maximum number of points.
 
-<<img8>>
+![](./rp_images/rp8.png)
 
 On the **Checkout** page, System shows a similar form for Customers to edit the number of points they want to spend for their orders:
 
-<<img9>>
+![](./rp_images/rp9.png)
 
 
 ### Manage reward points
@@ -65,11 +65,11 @@ Customers can follow and manage their current points in 2 places:
 
 On the one hand, they can view their current points on the top link as below:
 
-<<img10>>
+![](./rp_images/rp10.png)
 
 On the other hand, they can go to **My Account > My Rewards** to view more information.
 
-<<img11>
+![](./rp_images/rp11.png)
 
 As you can see, this page can be divided into two parts: **Reward Information** and **Recent Transactions**
 
@@ -81,7 +81,7 @@ If Customers want to see all transactions, they can click on the **View all** li
 
 Besides, in the **Settings** tab of the **Reward Points** navigation, Customers can set up their **Reward Points Subscriptions**.
 
-<<img12>>
+![](./rp_images/rp12.png)
 
 ## HOW TO CONFIGURE
 
@@ -94,13 +94,13 @@ Go to **Backend > Reward Points > Earning Rates**. Then the **Earning Rates** pa
 
 In order to add a new earning rate, you can click on the **Add Rate** button and then fill out all the required data such as **Money spent for order, Earning Points, Status, Websites, Customer groups, Priority**.
 
-<<img13>>
+![](./rp_images/rp13.png)
 
 Please note that with **priority**, the rate with the highest level of priority will be applied first. In case there are two rates with the same priority, the rate created sooner will be applied.
 
 After you finish filling out all the required data, remember to click on the **Save** or **Save and Continue Edit** button to save your work. If you click on the **Save** button, you’ll be navigated to the **Earning rates** page and your rate will be shown as below:
 
-<<img14>>
+![](./rp_images/rp14.png)
 
  - **Edit/ Delete an existing rate**
 
@@ -108,7 +108,7 @@ In case you want to edit a rate, please click on the **Edit** link in the **Acti
 
 Then you will be redirected to the **Edit Earning Rate** page:
 
-<<img15>>
+![](./rp_images/rp15.png)
 
 After editing the rate as you want, remember to click on the **Save** or the **Save and Continue Edit** button to save your work.
 
@@ -125,13 +125,13 @@ In order to add a new spending rate, you can click on the **Add Rate** button an
 
 For example, if you want to allow your Customers to exchange 2 points for $1 to spend on their orders, you can enter data as in the image below:
 
-<<img16>>
+![](./rp_images/rp16.png)
 
 Besides, you can also configure priority for rates. The rate with the highest priority will be applied first. In case there are two rates with the same priority, the one created sooner will be applied.
 
 After you finish filling out all the required data, remember to click on the **Save** or the **Save and Continue Edit** button to save your work. If you click on the Save button, you’ll be navigated to the **Spending Rates** manager page and your rate will be shown as below:
 
-<<img17>>
+![](./rp_images/rp17.png)
 
  - **Edit/ Delete an existing rate**
 
@@ -139,7 +139,7 @@ In case you want to edit a rate, please click on **Edit** link in the **Action**
 
 Then you will be redirected to the **Edit Spending Rate** page:
 
-<<img18>>
+![](./rp_images/rp18.png)
 
 After finish editing, remember to click on the **Save** or the **Save and Continue Edit** button to save your work.
 
@@ -152,7 +152,7 @@ Go to **Backend > Reward Points > Transactions**
 
 Then all the transactions related to reward points will be shown as below:
 
-<<img19>>
+![](./rp_images/rp19.png)
 
 On this **Transaction Manager** page, you can view a list of all point transactions together with many general information including **Customer, Transaction Type, Points Used, etc**.
 
@@ -162,11 +162,11 @@ You can **Complete, Cancel** or make transactions **expire** by choosing the sta
 
 To view details of each transaction, you can click on the corresponding row:
 
-<<img20>>
+![](./rp_images/rp20.png)
 
 In order to add a new transaction, you can click on the **Add Transaction** button, fill out all the required data and then click on the **Save Transaction** button.
 
-<<img21>>
+![](./rp_images/rp21.png)
 
 
 ### Manage Point Balances of Customers
@@ -177,7 +177,7 @@ Go to **Customers > Manage Customers**. On the **Customer Manager** page, you ca
 
 After clicking on the **Reward Points** tab, all of that Customer’s information will appear as below:
 
-<<img22>>
+![](./rp_images/rp22.png)
 
 **Reward Points Information:** In this session, you can change the Customer’s balance by filling an integer in the **Change Balance** field. For example, if you enter 5, then 5 points will be added to that customer’s balance and vice versa, “-5” means that Customer’s balance will be deducted 5 points.
 
@@ -187,7 +187,7 @@ Also, you can configure other information like **Update Points Subscription** or
 
 **Transaction history:** This part lists all of that Customer’s transactions:
 
-<<img23>>
+![](./rp_images/rp23.png)
 
 #### Change Point Balances
 
@@ -195,15 +195,15 @@ There are two ways to change point balances of customers.
 
 You can change point balances for each customer by entering the **Change Balance** in the **Reward Point** session of **Customer information** page. After you save, the **Available Points Balance** will be updated.
 
-<<img24>>
+![](./rp_images/rp24.png)
 
 Another way is that you can change point for many customers at the same time by importing points from csv file. Go to **Reward Points** > **Manage Point Balances**. On this page, the list of customers will be shown with Point Balance column.
 
-<<img25>>
+![](./rp_images/rp25.png)
 
 Next step, you need to click on **Import Points** button, the Import Points page will be shown so that you can import file from your computer. Please download the sample file, edit customers’ information then import it. After being imported successfully, the Point Balance of customers will be updated.
 
-<<img26>>
+![](./rp_images/rp26.png)
 
 Besides, you can also export csv file from the list of customers in **Reward Point Balances Information** page. You can also use this file to import again.
 
@@ -218,11 +218,11 @@ First, please click on the Create new Order button to see the Order form.
 
 After selecting a Customer, a store and adding Products, you will see the **Use Customer Reward Points** box in which you can set up the number of points the Customer will spend for his order.
 
-<<img27>>
+![](./rp_images/rp27.png)
 
 The **Order Totals** box will also display the number of points that Customer will spend:
 
-<<img28>>
+![](./rp_images/rp28.png)
 
 After filling out all the required fields, please click on the **Submit Order** button to finish creating the new order. Then the **Order totals** box shows the total spent point
 
@@ -234,7 +234,7 @@ First, please choose the order your Customer wants to refund by clicking on the 
 
 Now, please click on the **Credit Memo** link to process the order refund. In the **Refund Total** box, you can choose to refund a number of points you like among those that the Customer spent and get back a number of points among those that he earned. After that, please click on the **Refund Offline** button to finish your refunding.
 
-<<img29>>
+![](./rp_images/rp29.png)
 
 
 ### Settings
@@ -245,7 +245,7 @@ Go to **Backend > Reward Points > Settings**. Then you will see 5 tabs to config
 
 **General Configuration** tab:
 
-<<img30>>
+![](./rp_images/rp30.png)
 
 **Enable Reward points: ** Choose “Yes” if you want to enable Reward Points – Standard edition.
 
@@ -265,7 +265,7 @@ Go to **Backend > Reward Points > Settings**. Then you will see 5 tabs to config
 
  - **Earning Points Configuration**
 
-<<img31>>
+![](./rp_images/rp31.png)
 
 No| Field| If you choose| Result will be|
 ---|---|---|----
@@ -281,7 +281,7 @@ No| Field| If you choose| Result will be|
 
  - **Spending Points Configuration**
 
-<<img32>>
+![](./rp_images/rp32.png)
 
 No.| Field| If you choose…| Result will be…|
 ---|---|---|---
@@ -293,7 +293,7 @@ No.| Field| If you choose…| Result will be…|
 
  - **Display and Email Configuration**
 
-<<img33>>
+![](./rp_images/rp33.png)
 
 No.| Field| If you choose…| Result will be…
 ---|---|---|---
