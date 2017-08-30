@@ -473,7 +473,9 @@ In this tab, you can configure the number of points that Customers will receive 
 For example, if you want to give Customers 5 points for purchasing products, then:
 
 +Choose "Action": "Give X points to Customer" 
+
 +Fill in field "Points (X)": 5
+
 => If Customers purchase a product of $500.00 or $800.00, they will earn 5 points.
 
 -**Give X points for every Y amount of Price:** The more expensive the products Customers buy, the more points they can receive. 
@@ -482,7 +484,10 @@ For example, if you want to give Customers 5 points for every $200.00 of price t
 +Choose "Action": "Give X points for every Y amount of price" 
 
 ~ Fill in field "Points (X)": 5 
+
 ~ Fill in field "Money Step (Y)": 200 
+
+
 ~ Fill in field "Max points earned by this rule": 15 
 => If Customers purchase a product of $800.00, they will earn 15 points.
 
@@ -492,7 +497,10 @@ For example, if you want to give Customers 5 points for every $200.00 of profit 
 +Choose "Action": "Give X points for every Y amount of Profit" 
 
 ~ Fill in field "Points (X)": 5 
+
 ~ Fill in field "Money Step (Y)": 200 
+
+
 ~ Fill in field "Max points earned by this rule": 15
 =>If Customers purchase a product which contributes $800.00 in profit, they will earn 15 points.
 
@@ -520,18 +528,18 @@ Go to **Backend > Reward Points > Earning > Shopping Cart Earning Rules**
 
  - **Add a new rule**
 In order to add a new **Shopping Cart** rule, you can click on the Add rule button and fill out all the required data.
-- **General Information** tab
+	- **General Information** tab
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image084.png?raw=true)
 You should pay attention to these following fields:
-	 - **Rule Name** and **Description**: These two fields will be shown on the My Reward page on frontend.
+	 	- **Rule Name** and **Description**: These two fields will be shown on the My Reward page on frontend.
 		- **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
 		- **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
-- **Conditions** tab:
+	- **Conditions** tab:
 This tab allows you to configure the condition of shopping carts to which the rule is applicable. 
 For example, if you want to apply this rule only for carts which have **Subtotals** equal to or greater than $300, you can configure the condition as in the image below:
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image085.png?raw=true)
 If you leave this tab blank, the rule will be applied for all shopping carts.
-- **Actions** tab:
+	- **Actions** tab:
 In the **Action** tab, you can configure the number of points that Customers will receive when the rule is applied.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image086.png?raw=true)
 There are three options of actions for you to choose:
