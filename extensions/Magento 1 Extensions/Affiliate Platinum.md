@@ -37,6 +37,7 @@ In this part, we are going to introduce how a customer interacts with the affili
 -	When Customers click on **Sign-up** tab, the System will show the **Affiliate Registration** page. After providing all the required information, affiliates should click on the **Save **button to complete the registration.
 
 •	Form 1: When Customers have not had registered account in your store:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image006.png)
 
 •	Form 2: When Customers have registered account to log in but have not had an Affiliate account yet:
@@ -192,6 +193,7 @@ Besides email, affiliates can share links via social channels (Facebook, Twitter
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image034.png)  
 
 Also in this **Refer Friends** page, affiliates can view information of traffic sources:
+
  ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image035.png)  
  
 **On Category page and Product Detail page**
@@ -199,6 +201,7 @@ Also in this **Refer Friends** page, affiliates can view information of traffic 
 Affiliates can also share an affiliate link with their friends through email or social channels (Facebook, Twitter, Google+) right on **Category**page and **Product Detail** page.
 
 First of all, please take a look at these two page types and pay special attention to those icons in the red box:
+
  ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image036.png)  
 **Category page**
 
@@ -343,8 +346,8 @@ In backend, admins can manage all information of programs, affiliates, banners, 
    -	**Conditions**: In this tab, you can choose which categories you want to apply to program. Plus, you can set up the conditions that can make orders eligible to the program.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image061.png)
 
-   -	**Commissions and Discounts**: You can set up some information of commissions and discounts to apply for the program.
-    - **Commission:**
+ -	**Commissions and Discounts**: You can set up some information of commissions and discounts to apply for the program.
+   - **Commission:**
     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image062.png) 
 
@@ -355,7 +358,8 @@ In backend, admins can manage all information of programs, affiliates, banners, 
 **3** |	Commission Value | |		The amount of commission that an affiliate can receive for his successful sales.
 **4** |	Use	different commission from 2nd order of a Customer |	Yes |You	choose	to	configure a	different commission from 2nd order of a Customer.
 **5** |	Tier Commission	 | |	Install the Tier Commission plugin to set the number of tiers, commission amount and commission type.
-    - **Discount:**
+
+  - **Discount:**
     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image063.png) 
  
@@ -432,6 +436,7 @@ You can edit information in **General Information** tab. Then remember to click 
 ### How to manage banners
 
 -	In order to manage banners, log in **Back-end → Affiliate plus → Manage Banners.**
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image081.png) 
 
    -	**Add Banner**: When clicking on the Add Banner button, a form with necessary information will appear for admin to fill in (you can choose store  for banners on the left panel):
@@ -450,9 +455,11 @@ You can edit information in **General Information** tab. Then remember to click 
 
 -	Log in **Back-end→ Affiliate plus → Manage Transactions.**
 -	Admin can obtain information of orders through an affiliate such as order value, discount, commission and receiver as well as the states of orders.
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image083.png) 
  
 -	Admin can also view details of a transaction by clicking on the store to which it belongs.
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image084.png) 
 
 -	New feature v 4.2: Allow admin to add Affiliates coupons when creating orders in back-end.
@@ -466,17 +473,21 @@ Take following steps to create new orders:
 The **Create New Order** page is displayed as following:
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image085.png) 
 When a coupon code is applied, the system will automatically subtract money from the order as following:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image086.png) 
 
 ### How to manage withdrawals
 
 -	**Add Withdrawal**: To add a new Withdrawal, you can click on the **Add Withdrawal** button at the top left of the page.
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image087.png) 
 
 Then you will be navigated to the **Select Account** page shown as below:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image088.png) 
  
 This page shows all the accounts of the system. You can search and choose any account you want to add withdrawal by clicking on that line. The system will show **Add  Withdrawal** page as below:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image089.png) 
  
 You should pay attention to some following fields:
@@ -491,6 +502,7 @@ After entering all the data, you click the Save and Pay Manually button to trans
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image090.png) 
 
 You will be navigated to the **Edit Withdrawal** page, on which you can only edit the amount and the withdrawal fee. Then you can complete or cancel withdrawal by clicking on the **Complete Manual** and Cancel button.
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image091.png) 
 
 ### How to use reports
@@ -517,6 +529,7 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image094.png) 
 -	**Pie charts of traffic and transaction activities:** As can be seen, traffics and transactions are illustrated by two pie charts. The first provides data of total clicks and unique clicks while the latter shows figures of pending, completed and cancelled status.
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image095.png) 
 
 -	**Line chart**: In this part, there are 5 tabs showing 5 charts of sale amounts, transactions, commissions, clicks and impressions. These charts will display the data of your affiliate system in the specific period you choose in Select Range drop-down.
@@ -525,15 +538,20 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
      
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image096.png) 
      •	**Transactions** tab:shows the total number of completed transactions in your system.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image097.png) 
      •	**Commissions** tab: shows the total commissions that affiliates received from your affiliate system.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image098.png) 
      •	**Clicks** tab: displays the total unique / total clicks on your site. The number of unique click(s) of a period is calculated by the number of IP addresses clicking on your banner via affiliate links during that time.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image099.png) 
      •	**Impressions** tab: displays the total unique/ total impressions for your site. Unique impression(s) of a period is calculated by the number of IP addresses that visit your affiliate banner during that time.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0100.png) 
 
 -	**Totals** bar: shows the total of sales amount, transactions, commissions, unique/total clicks and unique/total impressions in your current period.
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0101.png)
 
 -	**Grids** tab: contains the grids of new accounts, bestseller products, top affiliates, and top referrers.
