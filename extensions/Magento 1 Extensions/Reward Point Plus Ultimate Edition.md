@@ -69,9 +69,9 @@ Shopping Cart Earning Rule enables your Customers to earn points based on specif
 
  - **Sign up & Log in**
 When Customers access the **Login** page or **Create an Account** page, they can see a notification about the collectible points they will receive when signing up as below:
-- On the **Login** page:
+	- On the **Login** page:
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image012.png?raw=true)
-- On the **Create an Account** page:
+	- On the **Create an Account** page:
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image013.png?raw=true)
 
 After Customers sign up successfully, they can see the number of points earned and the transaction information on the My Rewards page as follows:
