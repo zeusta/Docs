@@ -554,7 +554,7 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image099.png) 
      •	**Impressions** tab: displays the total unique/ total impressions for your site. Unique impression(s) of a period is calculated by the number of IP addresses that visit your affiliate banner during that time.
      
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image100.png) 
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image100.png)
 
 -	**Totals** bar: shows the total of sales amount, transactions, commissions, unique/total clicks and unique/total impressions in your current period.
 
@@ -564,16 +564,16 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 
      •	**New account:** allows you to view information of new accounts in your system including name, email address and the time they registered. Click on each row to go to the **Edit account** page.
      
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0102.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image102.png)
      •	**Bestseller product:** helps you follow which product is the most bestselling  in your Affiliate program.
      
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0103.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image103.png)
      •	**Top affiliates**: These are top accounts which are sorted according to their total sales.
      
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0104.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image104.png)
      •	**Top Traffic Sources**: shows the most effective links based on the total clicks or unique clicks.
      
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0105.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image105.png)
 
 **Get sales report**
 
@@ -582,11 +582,11 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
      •	Go to **Affiliate plus → Reports → Sales Report**
 -	The **Total Sales Report** page will be displayed as below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0106.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image106.png)
  
 -	On this page, you can choose the store and some other filters (**grouped by, period, from date, to date, transactions status**) to show the report. After completing the filter form, you just click on the **Show Report** button to view the result.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0107.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image107.png)
 
 -	You can export this report to file in CSV or Excel XML format.
 
@@ -599,7 +599,7 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 -	Then take the same steps as when you obtain sales reports.
 -	Just like when you obtain the sales reports, after you complete the filter form, click on the **Show Report** button to get your report:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0108.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image108.png)
  
 -	In this result grid, you can see that the total number of unique clicks is not equal to the sum of all rows. It is because an IP address which visits your site from different referrers and URL paths in different periods will be calculated one time only for a unique click.
 
@@ -611,7 +611,7 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 
 After completing the filter form, just click on the **Show Report** button to get your report:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0109.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image109.png)
 
 **Get bestseller product report**
 
@@ -621,7 +621,7 @@ After completing the filter form, just click on the **Show Report** button to ge
 
 -	After completing the filter form, just click on the **Show Report** button to get your report:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0110.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image110.png)
 
 **Get affiliate account report**
 
@@ -631,17 +631,17 @@ After completing the filter form, just click on the **Show Report** button to ge
 
 -	After completing the filter form, just click on the **Show Report** button to get your report:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0111.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image111.png)
 
 ### How to configure the module
 
 -	Go to **Affiliate plus → Settings**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0112.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image112.png)
 
 -	**General Information tab:**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0113.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image113.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
@@ -658,7 +658,7 @@ After completing the filter form, just click on the **Show Report** button to ge
 
 - **Account Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0114.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image114.png)
  
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -697,7 +697,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 
 -	**Discount Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0115.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image115.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
@@ -710,7 +710,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 
 -	**Coupon Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0116.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image116.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
@@ -720,7 +720,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
  
 -	**Withdrawals Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0117.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image117.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
@@ -788,8 +788,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 
 -	**Report Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0118.png)
-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image118.png)
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
 **1**|	Enable Frontend Report	| Yes  	Frontend report will be allowed to display.
@@ -799,7 +798,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 
 -	**Multi-program Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0119.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image119.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
@@ -809,7 +808,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 -	**Tier commission configuration** tab:
 Select Yes/No to choose whether to enable **Tier Commission plugin.**
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0120.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image120.png)
 
 -	**Friends Referring Configuration** tab:
 
@@ -834,7 +833,7 @@ Refer friends Page |
 
 -	**Style Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0121.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image121.png)
 
 You can manage your Affiliate plus style by choosing your own selection with following sections: Responsive Theme, General Selection, Left Navigation Style, Popup Style, and Button Style (on the Affiliate Home page).
 
@@ -843,11 +842,11 @@ You can manage your Affiliate plus style by choosing your own selection with fol
 •	Log into **Back-end → System →Configuration.**
 •	Select the **Affiliate Plus Payment Method** tab on the left navigation
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0122.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image122.png)
 
 -	**Recurring Payment Configuration** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0123.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image123.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
@@ -860,7 +859,7 @@ You can manage your Affiliate plus style by choosing your own selection with fol
 
 -	**Offline Payment Method** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0124.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image124.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
 ---|---|---|---
@@ -870,7 +869,7 @@ You can manage your Affiliate plus style by choosing your own selection with fol
  
 -	**PayPal Payment Method** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0125.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image125.png)
 
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -883,7 +882,7 @@ You can manage your Affiliate plus style by choosing your own selection with fol
 
 -	**Bank Transfer Payment Method** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0126.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image125.png)
 
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -894,7 +893,7 @@ You can manage your Affiliate plus style by choosing your own selection with fol
 
 -	**Moneybookers Payment Method** tab:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0127.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image127.png)
 
 
 **No** |	**Field**|	**Sample**|	**Description**
