@@ -227,6 +227,7 @@ On the **Checkout** page, our system shows a similar form for Customers to edit 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image041.png?raw=true)
 
 ### Buy products with points
+
 With this feature, some products that you selected in backend can be only purchased by using points. For these products, customers cannot use money to buy them. Instead, they have to earn enough points to purchase. 
 They will be shown on the listing page as bellow:
 
@@ -263,6 +264,7 @@ This section contains links/coupons and channels for sharing such as email, Face
 **Note**: Our module offers a new feature, your customers will be able to change their link or coupon for sharing. After entering new url and new coupon, just need to click **Save** button to replace old link and coupon and new link and coupon will be sent to friends via Email, Facebook, Twitter or Google+.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image047.png?raw=true)
 	- Sharing via Email: In order to share a referring link or coupon via email, Customers can click on the **Email** tab, fill out their recipients’ email addresses and the verification code, edit email subject and message then click on the **Send Email** button. Our module will automatically send that message to the provided addresses with the provided subject and message.
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image048.png?raw=true)
 
 If Customers click on the **Gmail** or **Yahoo** link, firstly, our module will request for permission to import contacts from their Google or Yahoo accounts. If they accept the request, our module will collect their contacts’ email addresses and display these addresses in a window. Then, Customers can select which addresses to send the referral email to.	
