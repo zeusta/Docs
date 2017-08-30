@@ -19,7 +19,7 @@ Selling products on commission is regarded as a great way to market products. It
 
 In this part, we are going to introduce how a customer interacts with the affiliate system.
 
-###	Welcome page
+### Welcome page
 
 -	After successfully installing the module, you can place the affiliate‟s link in the footer or at the top of a site. It can be seen from our demo site where this link is placed in the footer.
 	
@@ -29,7 +29,7 @@ In this part, we are going to introduce how a customer interacts with the affili
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image004.png)
 
-###	Sign up for an Affiliate
+### Sign up for an Affiliate
 
 -	Customers can view the link to sign up for an affiliate program on the left of the welcome page.
 
@@ -50,7 +50,7 @@ In this part, we are going to introduce how a customer interacts with the affili
 -	After clicking on the **Login** button, the system will be redirected to the Affiliate Welcome page.
  
 
-###	How to manage Affiliate accounts
+### How to manage Affiliate accounts
 
 -	After logging in the system, Customers can view their affiliate information in a common page where they will see various menu of Affiliate program including Affiliate Home, My Programs, Banners & Links, Materials, Standard Commissions, Tier Commissions, Withdrawals, Referrers, Account Information and Logout.
 
@@ -61,7 +61,7 @@ In this part, we are going to introduce how a customer interacts with the affili
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image010.png)
  
 
-###	How to use Referring Materials
+### How to use Referring Materials
 
 The system provides customers with information of Affiliate system, links, and banners to share on forums or social networks.
 
@@ -69,7 +69,7 @@ The system provides customers with information of Affiliate system, links, and b
  
 The **Referring Materials** tab can be set as enabled/disabled. You are allowed to edit content of the tab by creating new CMS pages in backend. Eg: you explain more about system, links or banners for your Customers.
 
-###	How to manage Programs
+### How to manage Programs
 
 -	After logging in to the Affiliate system, Customers are able to manage their programs by clicking on the **My Programs** tab on the **Affiliate Account** menu.
 
@@ -126,7 +126,7 @@ The **Referring Materials** tab can be set as enabled/disabled. You are allowed 
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image020.png)
  
-###	How to refer Friends
+### How to refer Friends
 
 **On My Account/Affiliate Menu**
 
@@ -208,15 +208,19 @@ First of all, please take a look at these two page types and pay special attenti
 As you can see, there are 4 symbols right below a product‟s name that stand for email and social channels including Facebook, Twitter and Google+. Should affiliates want to share links via a channel they like, they can click on its symbol. After that, System will show corresponding form for them to share the affiliate link as below:
 
 -	**Email form:**
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image038.png)  
 
 -	**Facebook form:**
+
  ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image039.png)  
 
 -	**Twitter form:**
+
  ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image040.png)  
 	
 -	**Google+ form:**
+
  ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image041.png)  
 
 In each of the forms, steps for sharing are similar to those in **Refer Friend** page.
@@ -280,7 +284,6 @@ To view report charts, affiliates click on the Reports tab on the My Affiliate  
  
 -	**Clicks:** the number of clicks (unique and raw) that Customers click on banners posted by affiliates.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image054.png) 
-
 
 -	Impressions:  reports on the amount of views of affiliates' banners.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image055.png) 
@@ -403,18 +406,25 @@ Log in **Back-end → Affiliate plus → Manage Accounts.**
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image073.png) 
     - **Edit Account**: With all existing accounts listed in grid, you can click on any account you want to edit. You will see all data of an account in 7 tabs that  are **General Information, Payment Information, Coupon  Code, Programs, History transaction, History Withdrawal, Tier affiliates**
      -	**General Information** tab:
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image074.png) 
      -	**Payment Information** tab:
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image075.png) 
      •	**Coupon Code** tab:
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image076.png) 
      •	**Programs** tab:
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image077.png) 
      •	**History transaction** tab:
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image078.png) 
      •	**History Withdrawal** tab:
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image079.png) 
-•	**Tier affiliates** tab
+     •	**Tier affiliates** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image080.png) 
 
 You can edit information in **General Information** tab. Then remember to click on the **Save Account** or **Save and Continue Edit** button to save your work.
@@ -529,12 +539,16 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 -	**Grids** tab: contains the grids of new accounts, bestseller products, top affiliates, and top referrers.
 
      •	**New account:** allows you to view information of new accounts in your system including name, email address and the time they registered. Click on each row to go to the **Edit account** page.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0102.png)
      •	**Bestseller product:** helps you follow which product is the most bestselling  in your Affiliate program.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0103.png)
      •	**Top affiliates**: These are top accounts which are sorted according to their total sales.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0104.png)
      •	**Top Traffic Sources**: shows the most effective links based on the total clicks or unique clicks.
+     
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0105.png)
 
 **Get sales report**
@@ -543,6 +557,7 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
      •	Login **Backend**
      •	Go to **Affiliate plus → Reports → Sales Report**
 -	The **Total Sales Report** page will be displayed as below:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0106.png)
  
 -	On this page, you can choose the store and some other filters (**grouped by, period, from date, to date, transactions status**) to show the report. After completing the filter form, you just click on the **Show Report** button to view the result.
@@ -581,6 +596,7 @@ After completing the filter form, just click on the **Show Report** button to ge
      •	Go to **Affiliate plus → Reports → Bestseller Product Report**
 
 -	After completing the filter form, just click on the **Show Report** button to get your report:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0110.png)
 
 **Get affiliate account report**
@@ -590,6 +606,7 @@ After completing the filter form, just click on the **Show Report** button to ge
      •	Go to **Affiliate plus → Reports →Affiliate Account Report**
 
 -	After completing the filter form, just click on the **Show Report** button to get your report:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0111.png)
 
 ### How to configure the module
@@ -599,6 +616,7 @@ After completing the filter form, just click on the **Show Report** button to ge
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0112.png)
 
 -	**General Information tab:**
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0113.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -614,8 +632,8 @@ After completing the filter form, just click on the **Show Report** button to ge
 **9** |	Value Type for Affiliate URL Parameter |	Affiliate ID |	You can change Affiliate URL parameter and replace the default identify code with the affiliate ID to make the link shorter & friendlier.
  
 
-
 - **Account Configuration** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0114.png)
  
 
@@ -654,6 +672,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 **11** |	Tier Commission Value & Type | |		You can manage the value and type of tier commission.
 
 -	**Discount Configuration** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0115.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -665,7 +684,8 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 **5** |	Discount displayed	 | |	There are two options including on shopping cart page and on product pages
 
 
--	**Coupon Configuration** tab
+-	**Coupon Configuration** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0116.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -675,6 +695,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 **3** |	Use	affiliate	and	sale coupon simultaneously |	Yes |	Allow using both affiliate coupon and sale rule coupon at once.
  
 -	**Withdrawals Configuration** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0117.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -741,7 +762,8 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 **8** |	Detect	Proxy	by gethostbyaddr Function |	No |	Allow	enabling	detect	Proxy	by gethostbyaddr Function
 **9** |	Detect	Proxy	by	IP Bank		 | |
 
--	**Report Configuration** tab
+-	**Report Configuration** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0118.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -752,6 +774,7 @@ Canceled |	When order is in this status, commission will be subtracted from bala
 **4** |	Current month starts |		Select the day of the month to be used as the starting point for reports.
 
 -	**Multi-program Configuration** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0119.png)
 
 **No** |	**Field**|	**Sample**|	**Description**
@@ -798,7 +821,7 @@ You can manage your Affiliate plus style by choosing your own selection with fol
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0122.png)
 
--	**Recurring Payment Configuration** tab
+-	**Recurring Payment Configuration** tab:
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0123.png)
 
@@ -822,6 +845,7 @@ You can manage your Affiliate plus style by choosing your own selection with fol
 3 |	Require Authentication |	Yes	 |Allow sending verification code to Customers to confirm the payment.
  
 -	**PayPal Payment Method** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0125.png)
 
 
@@ -834,6 +858,7 @@ You can manage your Affiliate plus style by choosing your own selection with fol
 5 |	Use your PayPal Merchant Email	|Yes |	Allow using PayPal Merchant Email which is set as default on PayPal configuration
 
 -	**Bank Transfer Payment Method** tab:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0126.png)
 
 
