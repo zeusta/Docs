@@ -1,0 +1,1264 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Magestore Documents"> 
+    <meta name="author" content="mrthinlt@gmail.com"> 
+    <link rel="canonical" href="https://docs.magestore.com/Magento 1 Extensions/Web POS/">
+    <link rel="shortcut icon" href="../../img/favicon.ico">
+
+    <title>Web POS - MagestoreDocs</title>
+
+    <!--<link href="../../css/bootstrap-custom.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
+
+    <link href="../../css/base.css" rel="stylesheet">
+    <link href="../../css/psinder.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/highlight.css">
+
+
+    <link href="../../css/extra.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+</head>
+
+<body>
+    
+        <header class="site-header">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+        <div class="wap-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="wrap-nav">
+                        <div class="navbar-brand">
+                            <a class="navbar-logo" href="https://docs.magestore.com"><img src="../../img/logo.png" alt="Magestore"></a>           
+                        </div>
+                     <div class="hidden-lg-up mobile-search-btn">
+                        <span>
+                            <i class="fa fa-search"></i>
+                            <!--<i class="fa fa-search-close">x</i>-->
+                        </span>
+                    </div>
+                    
+
+                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                            data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    
+
+        <div class="col-sm-9 col-md-9 search-box">
+                <div class="nav-item item-search">
+                    <form class="form-inline w-100" id="form-search" role="form">
+                        <input class="w-100" type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        <i class="mobile-search-close-btn">x</i>
+                    </form>
+                    <div id="mkdocs-search-results"><p>No results found</p></div>
+                </div>
+            </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav">            
+            
+            <ul class="navbar-nav navbar-left">
+                
+                
+
+                <li class="nav-item ">
+                    <a class="nav-link" href="../..">Home</a>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu active">
+                    <a href="#">Magento 1 Extensions</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="">
+        <a href="../Affiliate Plus Standard/">Affiliate Plus Standard</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Barcode Management/">Barcode Management</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Gift Card/">Gift Card</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Inventory Management Rebuilt/">Inventory Management Rebuilt</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Mega Menu/">Mega Menu</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Purchase Management/">Purchase Management</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Reward Point Plus Platinum Edition/">Reward Point Plus Platinum Edition</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Reward Point Plus Standard Edition/">Reward Point Plus Standard Edition</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Reward Point Plus Ultimate Edition/">Reward Point Plus Ultimate Edition</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Social Login/">Social Login</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Store Credit/">Store Credit</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../Store Locator/">Store Locator</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="active">
+        <a href="./">Web POS</a>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Magento 2 Extensions</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Barcode Management/">Barcode Management</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Dropship/">Dropship</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Gift Card/">Gift Card</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Inventory Management/">Inventory Management</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Onestep Checkout/">Onestep Checkout</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Order Fulfillment/">Order Fulfillment</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Purchase Management/">Purchase Management</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Retailer POS/">Retailer POS</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Reward Points Plus/">Reward Points Plus</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Store Credit/">Store Credit</a>
+    </li>
+    
+                    
+                    
+    
+    <li class="">
+        <a href="../../Magento 2 Extensions/Web POS/">Web POS</a>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+
+            </ul>
+            
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <span class="search-btn">
+                        <i class="fa fa-search"></i><!--<span>Search</span>-->
+                        <i class="fa fa-search-close">x</i>
+                    </span>
+                </li>
+
+                
+                <!--<li>
+                    <li >
+                        <a rel="next" href="../Store Locator/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../../Magento 2 Extensions/Barcode Management/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>-->
+                    
+                    
+                    <!--<li>
+                        <a href="https://github.com/Magestore/Docs">
+                            
+                                <i class="fa fa-github"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                </li>-->
+                
+
+
+            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    </nav>
+</header>
+    
+    <div class="main-content">
+        
+            
+            
+        <div class="container"><div class="row">
+            <div class="col col-md-3">
+                
+                <div class="bs-sidebar nav-menu" id="sideNav">
+    <div class="sidenav-toggle"></div>
+    <ul class="nav bs-sidenav">
+        
+        <li class="toc-level-0">
+            <div data-toggle="collapse" data-target="#collapse-level-1-1">
+                <a href="#web-pos-magento-1">WEB POS - MAGENTO 1</a>
+            </div>
+            
+            <ul id="collapse-level-1-1" class="collapse show">
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-1">
+                        <a href="#introduction">INTRODUCTION</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-2">
+                        <a href="#how-to-configure">HOW TO CONFIGURE</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-2" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#how-to-change-logo-of-web-pos">How to change logo of Web POS</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#how-to-set-up-a-shipping-method-for-web-pos">How to set up a shipping method for Web POS</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#how-to-enable-a-payment-method-for-web-pos">How to enable a payment method for Web POS</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#how-to-disable-inactive-categories">How to disable inactive categories</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-5">
+                                <a href="#what-is-default-customer-how-to-configure-default-guest-checkout">What is default customer &amp; how to configure Default Guest Checkout</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-5" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#what-is-default-customer">What is default customer</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#how-to-configure-default-guest-checkout">How to configure Default Guest Checkout</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-6">
+                                <a href="#how-to-enable-offline-mode">How to enable offline mode</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-7">
+                                <a href="#how-to-add-a-web-pos-user">How to add a Web POS user</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-8">
+                                <a href="#how-to-differentiate-access-permissions-of-web-pos-users">How to differentiate access permissions of Web POS users</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-9">
+                                <a href="#how-to-connect-web-pos-with-peripheral-devices">How to connect Web POS with peripheral devices</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-3">
+                        <a href="#how-to-use">HOW TO USE</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-3" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#how-a-web-pos-user-logs-in-manages-his-account">How a Web POS user logs in &amp; manages his account</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#how-a-web-pos-user-deletes-reloads-data-in-local-manually">How a Web POS user deletes/ reloads data in local manually</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#how-to-filter-search-products-quickly">How to filter &amp; search products quickly</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#how-to-add-products-to-cart">How to add products to cart</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-4" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#add-products-to-cart">Add products to cart:</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#edit-products-in-cart">Edit products in cart</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#remove-products-in-cart">Remove products in cart</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-5">
+                                <a href="#how-to-add-a-custom-sale-item-to-cart">How to add a custom sale item to cart</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-5" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#what-is-custom-sale-item-and-what-it-is-for">What is custom sale item and what it is for</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#how-to-add-custom-sale-to-cart">How to add Custom Sale to cart</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-6">
+                                <a href="#how-to-apply-a-coupon-code-or-a-cart-discount">How to apply a coupon code or a cart discount</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-7">
+                                <a href="#how-to-apply-a-custom-discount-or-custom-price-to-a-product">How to apply a custom discount or custom price to a product</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-8">
+                                <a href="#how-to-handle-customer-information-at-checkout">How to handle customer information at checkout</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-8" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#customer-checkout">Customer Checkout</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#guest-checkout">Guest Checkout</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-9">
+                                <a href="#how-to-add-comments-to-an-order">How to add comments to an order</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-9" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#when-you-need-to-add-comments">When you need to add comments</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#how-to-add-comments">How to add comments</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-10">
+                                <a href="#how-to-check-order-comment">How to check order comment</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-11">
+                                <a href="#how-to-process-at-checkout-for-a-customer">How to process at checkout for a customer</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-12">
+                                <a href="#split-payment-with-web-pos">Split Payment with Web POS</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-13">
+                                <a href="#split-partial-payment-with-web-pos">Split &amp; Partial Payment with Web POS</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-14">
+                                <a href="#how-to-keep-orders-on-hold-for-further-processing">How to keep orders on hold for further processing</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-15">
+                                <a href="#how-to-print-receipt-and-email-order-information">How to print receipt and email order information</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-16">
+                                <a href="#how-to-review-orders">How to review orders</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-17">
+                                <a href="#how-to-issue-invoice-for-an-order">How to issue invoice for an order</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-18">
+                                <a href="#how-to-create-shipment-or-issue-refund-for-an-order">How to create shipment or issue refund for an order</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-18" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#how-to-create-shipment">How to create shipment</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#how-to-issue-refund">How to issue refund</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-19">
+                                <a href="#how-to-view-reports">How to view reports</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-19" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#staff-report">Staff Report</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#location-report">Location report</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#payment-report">Payment Report</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-20">
+                                <a href="#how-to-manage-cash-drawer">How to manage cash drawer</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-20" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#manage-cash-flow-into-cash-drawer">Manage cash flow into cash drawer</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#z-report">Z-report</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+    </ul>
+</div>
+            </div>
+            <div class="col col-md-9" role="main">
+                
+
+<h1 id="web-pos-magento-1">WEB POS - MAGENTO 1</h1>
+<p><strong>Version 3.0.5</strong></p>
+<p>Confidential Information Notice</p>
+<p>Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.</p>
+<p>This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.</p>
+<hr />
+<h2 id="introduction">INTRODUCTION</h2>
+<p>Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s <strong>Magento POS</strong> integration extension, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you will be fascinated by its convenience and the amount of time saved.</p>
+<hr />
+<h2 id="how-to-configure">HOW TO CONFIGURE</h2>
+<p>Before using Web POS to check out, admin needs to configure it in backend first. Please read the user guide carefully to know how to configure information you want.</p>
+<h3 id="how-to-change-logo-of-web-pos">How to change logo of Web POS</h3>
+<p>To change logo of Web POS, go to <strong>Sales &gt; Web POS &gt; Settings &gt; General Configuration.</strong> In this tab, you can see configuration as below:</p>
+<p><img alt="Web POS extension for Magento " src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image007.jpg" /></p>
+<ul>
+<li>
+<p><strong>Web POS logo</strong>: Upload your logo here. Please note that recommended size is 260*120px and supported files are jpeg &amp; png.</p>
+</li>
+<li>
+<p><strong>Web POS color</strong>: Enter the color code to change Web POS color.</p>
+</li>
+</ul>
+<p>After finishing, click on <strong>Save or Save And Continue Edit</strong> button to save your work.</p>
+<h3 id="how-to-set-up-a-shipping-method-for-web-pos">How to set up a shipping method for Web POS</h3>
+<p>To set up Shipping Methods for Web POS, go to <strong>System &gt; Configuration &gt; Shipping for POS</strong>, the following page will be shown as below:
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image009.jpg" /></p>
+<ul>
+<li>
+<p><strong>Offline Shipping Methods</strong>: Hold Shift + Click to choose the payment methods used for POS.</p>
+</li>
+<li>
+<p><strong>Default Shipping Methods</strong>: Choose the payment methods you want to set as default for POS.</p>
+</li>
+</ul>
+<h3 id="how-to-enable-a-payment-method-for-web-pos">How to enable a payment method for Web POS</h3>
+<p>To set up payment method for Web POS, go to <strong>Web POS &gt; Settings &gt; Payment for POS</strong>. Then, you will be able to see:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image011.jpg" /></p>
+<ul>
+<li>
+<p>Applicable payments:</p>
+<ul>
+<li>If you want to apply all payments, choose <strong>All Allowed Payments</strong></li>
+<li>If you want to apply some particular payment methods only, choose <strong>Specific Payments</strong>. Then in <strong>Specific Payments</strong> field, select payment method as your preference. Hold Shift + Click to choose more than one.</li>
+</ul>
+</li>
+<li>
+<p><strong>Default Payment Method</strong>: Choose the payment method that you would want to set as Default payment method.</p>
+</li>
+</ul>
+<p>If you want to set Cash In to be the default payment method for instance, you first have to choose it in <strong>Specific Payments</strong> field. Then, select option <strong>Cash In</strong> in <strong>Default Payment Method</strong> field.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image013.jpg" /></p>
+<p>Magestore WebPOS well integrates with Pay.nl payment gateway, allowing more flexible payment methods for customers.</p>
+<h3 id="how-to-disable-inactive-categories">How to disable inactive categories</h3>
+<p>To set up payment method for Web POS, go to <strong>Web POS &gt; Settings &gt; Product Search</strong>.Then, you will be able to see:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image015.jpg" /></p>
+<ul>
+<li>If you want to show inactive categories on the website, you choose <strong>Yes</strong>.</li>
+<li>If you want to hide inactive categories on your website, you choose <strong>No</strong>.</li>
+</ul>
+<h3 id="what-is-default-customer-how-to-configure-default-guest-checkout">What is default customer &amp; how to configure Default Guest Checkout</h3>
+<h4 id="what-is-default-customer">What is default customer</h4>
+<p><strong>Default customer</strong> is the customer whose information will be used for Guest Checkout or if customer information is not enough, default value will be filled automatically.</p>
+<h4 id="how-to-configure-default-guest-checkout">How to configure Default Guest Checkout</h4>
+<p>To configure Default Guest Checkout, you go to <strong>Web POS &gt; Settings &gt; Default Guest Checkout</strong>. You will see the configuration page as below</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image017.jpg" /></p>
+<p>Fill in all information as you want to use as default, including <strong>Default Customer ID, First Name, Last Name, Street, Country, State/Province, City, Zip/Postal Code, Telephone</strong> and <strong>Email</strong>.</p>
+<p>After finishing, click on <strong>Save</strong> or <strong>Save And Continue Edit</strong> button to save your work.</p>
+<h3 id="how-to-enable-offline-mode">How to enable offline mode</h3>
+<p>Offline mode is when there is no Internet Connection. When you are in offline mode, you can still check out as normally and then, the data will be saved as offline order. After the system can connect to the Internet, the order can be synced &amp; completed.</p>
+<p>To enable offline mode, you go to <strong>Web POS &gt; Settings &gt;General</strong> then choose tab <strong>Checkout</strong>. You choose <strong>Yes</strong> option to use online mode and choose <strong>No</strong> to use offline mode.</p>
+<p>The promotion rule auto check can be applied for offline mode only, choose <strong>Yes/ No</strong> to activate/ turn off this function. See the screenshot below:
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image019.jpg" /></p>
+<h3 id="how-to-add-a-web-pos-user">How to add a Web POS user</h3>
+<p>To add new user using Web POS, go to <strong>Web POS &gt; Web POS Permissions &gt; POS Users</strong>. Here you can see a list of users who have been created.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image021.jpg" /></p>
+<p>You can also export user list to CSV/ XML file or add new Web POS user.
+-   Click on <strong>Add User</strong> button then you will be directed to the following page:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image023.jpg" /></p>
+<p>Fill in all information of the user in <strong>User Information &amp; User Settings</strong> then, click <strong>Save</strong> or <strong>Save And Continue</strong> Edit.</p>
+<p>Please note that to select the role for user, you need to add a role first. Please go to the section: <strong>How to differentiate access permissions of Web POS users for more details</strong>.</p>
+<ul>
+<li>To edit a user, click on the <strong>Edit</strong> link in <strong>POS Users</strong> manager page.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image025.jpg" /></li>
+</ul>
+<p>You can edit information here. After finishing, you click on <strong>Save</strong> to save the changes.</p>
+<h3 id="how-to-differentiate-access-permissions-of-web-pos-users">How to differentiate access permissions of Web POS users</h3>
+<p>To grant different permission for Web POS user, go to <strong>Web POS &gt; Web POS Permissions &gt; POS Roles</strong>. The <strong>Role Manager</strong> page will be shown. You can export role user list to csv/xml file:
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image027.jpg" /></p>
+<p>To add a new role, click on <strong>Add Role</strong> button in the top right corner. You will see the Add page. Here, there are two tabs: <strong>Role Information</strong> and <strong>User List</strong>.</p>
+<ul>
+<li>
+<p>In <strong>Role Information</strong> tab, please make sure you fill in enough information
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image029.jpg" /></p>
+<ul>
+<li><strong>Role Name</strong>: Enter a specific name for the role in order to find it easily</li>
+<li><strong>Permissions</strong>: Choose which all or specific permissions you want to grant for this role. Use Shift + Click to choose more than one</li>
+<li><strong>Maximum discount percent</strong>: Limit the highest discount percent that each user role can offer customers.</li>
+<li><strong>Description</strong>: Enter text that describes the role</li>
+<li><strong>Status</strong>: Remember to set Status as Active if you want to enable it</li>
+</ul>
+</li>
+<li>
+<p>In <strong>User List</strong> tab, there is a list of users who will have corresponding permission in Web POS system. You can delete/ enable users right on this board. After finishing, click on <strong>Save</strong> or <strong>Save And Continue Edit</strong> button to save your work.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image031.jpg" /></p>
+<ul>
+<li>To edit a current role, click on "Edit" link on Role Manager page, then you will be redirected to <strong>Edit Role</strong> page. When finishing editing, please click on <strong>Save</strong> or <strong>Save and Continue Edit</strong> Button to save the change.</li>
+</ul>
+</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image033.jpg" /></p>
+<h3 id="how-to-connect-web-pos-with-peripheral-devices">How to connect Web POS with peripheral devices</h3>
+<p>Magestore Web POS extension can connect with <strong>Barcode readers, Card swiper, Receipt printer &amp; Customer pole display.</strong></p>
+<ul>
+<li>
+<p>Barcode readers: any devices that connect with iPad/laptop/PC (no matter through usb port, wifi or bluetooth) - as long as the scanner can read barcodes &amp; fill encoded information into Web POS search box.</p>
+</li>
+<li>
+<p>Card readers: only devices connected through USB port.</p>
+</li>
+<li>
+<p>Receipt printers: any devices that connect with iPad/laptop/PC (no matter through usb port, wifi or bluetooth).</p>
+</li>
+<li>
+<p>Pole display:</p>
+</li>
+</ul>
+<p><strong>How to integrate Customer pole display with Magento Web POS</strong></p>
+<p>You should install customer pole display’s driver if your device has driver before taking the following steps.</p>
+<p>Firstly, you need to enable Pole display function in Web POS settings. Go to Magento backend, choose <strong>Sales &gt; Web POS &gt; Settings</strong>, then choose <strong>Yes</strong> in field <strong>“Integrate with Pole Display device”</strong>.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image035.jpg" /></p>
+<p>Secondly, you need to install the desktop application to connect your PC/ Laptop with the pole. After purchasing Web POS, you can download the Pole Display integration file which contains these following files &amp; folders:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image037.jpg" /></p>
+<p>Then follow these steps:</p>
+<ul>
+<li>
+<p><strong>Step 1</strong>: Install the .NET Framework 4.5.2</p>
+<ul>
+<li>Open the folder .NET Framework 4.5.2</li>
+<li>Run NDP452-KB2901907-x86-x64-AllOS-ENU.exe file and install it to your computer.</li>
+</ul>
+</li>
+<li>
+<p><strong>Step 2</strong>: Intall the USB to Serial COM setup:</p>
+<ul>
+<li>Open the folder USB to Serial COM</li>
+<li>Run CDM21224_Setup.exe and install it to your computer</li>
+</ul>
+</li>
+<li>
+<p><strong>Step 3</strong>: Run the Pole Integration.exe file:</p>
+</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image039.jpg" /></p>
+<p>You need to open this program when using Web POS to use customer pole display.</p>
+<hr />
+<h2 id="how-to-use">HOW TO USE</h2>
+<p>You have finished settings for Web POS, now please move to the part of How to use Web POS for checkout.</p>
+<h3 id="how-a-web-pos-user-logs-in-manages-his-account">How a Web POS user logs in &amp; manages his account</h3>
+<p>After you create user with specific permission in using Web POS, you can send him Web POS checkout link or guide him to access from Web POS backend by going to <strong>Web POS -&gt;    Web POS Checkout</strong>. Then, a login form will appear. User needs to choose store (if website has multi store views) then fill in your account &amp; password to continue:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image041.jpg" /></p>
+<p>To manage his account, the user should go to Settings tab &gt; My Account:
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image043.jpg" /></p>
+<p>Then, click on <strong>My Account</strong> link and the user can see his information. He can also change his password if he wants.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image045.jpg" /></p>
+<h3 id="how-a-web-pos-user-deletes-reloads-data-in-local-manually">How a Web POS user deletes/ reloads data in local manually</h3>
+<ul>
+<li><strong>When to use:</strong></li>
+</ul>
+<p>In the first time a user log in to Web POS Checkout screen, the extension will load data like products, customers, tax calculations, etc. to his local. Then the system will automatically update new data about products, customers... when having any changes in admin panel.</p>
+<p>In some cases, a user's local data is not 100% synced with data in the back-end. If the user notices any discrepancy, he can delete and reload data manually.</p>
+<ul>
+<li><strong>How to use</strong>:</li>
+</ul>
+<p>To reload data, go to <strong>Setting &gt; Synchronization</strong> then choose <strong>Reload</strong> (to reload each category) or <strong>Reload All</strong> (to reload all data).
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image047.jpg" /></p>
+<ul>
+<li><strong><em>Notes</em></strong>:</li>
+</ul>
+<p>For data storage, in case the user closes his browser or restarts the system, Web POS still keeps all previous data so he can continue working without any problem.</p>
+<h3 id="how-to-filter-search-products-quickly">How to filter &amp; search products quickly</h3>
+<p>You can configure to search products by going to Settings &gt; General</p>
+<ul>
+<li>In Catalog tab: Enable <strong>Display out-of-stock products in search results (online mode)</strong> by choosing <strong>Yes</strong> option. If you choose <strong>No</strong> option, out-of-stock products will not display in search results.</li>
+</ul>
+<p><strong>Note</strong>: This function is available for online mode only.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image049.jpg" /></p>
+<p><strong>Product Search</strong> section: You go <strong>Web POS -&gt;Setting</strong> and choose tab <strong>Product Search</strong>.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image051.jpg" /></p>
+<ul>
+<li><strong>Product Attribute(s) for Search</strong>: Select attributes by which you want to search products. The default attributes are Name &amp; SKU. If you want to search quickly by barcode, choose barcode attribute. Hold Shift + Click to pick more than one.</li>
+</ul>
+<p>In frontend, you can search products in 3 ways - <strong>categories</strong>, <strong>product attributes</strong> and <strong>barcode.</strong></p>
+<ul>
+<li>Use categories: In frontend, you can click on All Categories link to quickly search products by categories. Choose the corresponding categories as you prefer.</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image053.jpg" /></p>
+<ul>
+<li>Use product attribute</li>
+</ul>
+<p>To search by product attributes, click on Search icon, then a search bar will be shown. Enter your search terms and matching products will display right away.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image055.jpg" /></p>
+<ul>
+<li>
+<p>Use barcode</p>
+<ul>
+<li>Connect Web POS with barcode reader devices (Please refer to <strong>How to connect Web POS with peripheral devices for more details</strong>)</li>
+<li>Scan barcode and then the barcode attribute will be filled automatically in the search box (To set barcode attribute, go to <strong>How to filter &amp; search products</strong> quickly to know more)</li>
+<li>The matching product will be shown in the list.</li>
+</ul>
+</li>
+</ul>
+<h3 id="how-to-add-products-to-cart">How to add products to cart</h3>
+<h4 id="add-products-to-cart">Add products to cart:</h4>
+<ul>
+<li>
+<p>With simple products, you just need 1 click to add them to cart</p>
+</li>
+<li>
+<p>With configurable, bundle, grouped products, after clicking, you will see a popup shown to choose your option. Then, click on <strong>Add to cart</strong> button.</p>
+</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image057.jpg" /></p>
+<h4 id="edit-products-in-cart">Edit products in cart</h4>
+<p>After adding products to cart, you can edit the quantity of each product by clicking on the product that needs editing. A popup will display with edited option for <strong>Qty</strong>.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image059.jpg" /></p>
+<p>To edit Qty., just enter a wanted number or click on +/-. The number of products will be adjusted in the cart right away.</p>
+<h4 id="remove-products-in-cart">Remove products in cart</h4>
+<p>To remove products in cart one by one, click on <strong>“x”</strong> button of the corresponding product. After that, the cart will be updated immediately. Or you can click on the waste basket icon to clear cart.</p>
+<h3 id="how-to-add-a-custom-sale-item-to-cart">How to add a custom sale item to cart</h3>
+<h4 id="what-is-custom-sale-item-and-what-it-is-for">What is custom sale item and what it is for</h4>
+<p>Custom sale item is the item that Web POS user creates when checkout. It is used when the product hasn’t been added to the system or Web POS user cannot find it in the product list.</p>
+<h4 id="how-to-add-custom-sale-to-cart">How to add Custom Sale to cart</h4>
+<p>In frontend, click on <strong>Custom Sale</strong> button if you want to add the custom product to cart</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image062.jpg" /></p>
+<p>A screen will be shown for you to configure this custom product.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image064.jpg" /></p>
+<ul>
+<li>
+<p><strong>Name</strong>: Enter the name of custom product</p>
+</li>
+<li>
+<p><strong>Price</strong>: Enter the price of this product</p>
+</li>
+<li>
+<p><strong>None/ Taxable goods</strong>: Choose whether the product is subject to tax or not</p>
+</li>
+<li>
+<p><strong>Shippable</strong>: Choose whether the product will be shipped or not by turning on/off this option</p>
+</li>
+</ul>
+<p>After finishing configuration, click on <strong>Add to Cart</strong> button and check out as normally.
+Please note that this custom sale product will not be saved for the next checkout.</p>
+<h3 id="how-to-apply-a-coupon-code-or-a-cart-discount">How to apply a coupon code or a cart discount</h3>
+<p>After adding products to cart, to apply a coupon code or discount on the whole cart, click on <strong>Add Cart Discount</strong> link.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image066.jpg" /></p>
+<p>Then, a popup will display as below:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image068.jpg" /></p>
+<p>You can choose between using <strong>Discount</strong> or <strong>Promotion</strong></p>
+<ul>
+<li>In Discount tab:<ul>
+<li>Name: Enter a name for this discount as you will easily check it again</li>
+<li>Discount Type: Select discount by fixed amount or percentage    </li>
+<li>Amount: Fill in discount value as you offer for your customers.</li>
+</ul>
+</li>
+</ul>
+<p>Then, the cart will be updated automatically after you click on <strong>Apply</strong> button.</p>
+<ul>
+<li>In Promotion tab:</li>
+</ul>
+<p>Just fill in available coupon you want to offer for your customers. The cart will be updated automatically after you click on <strong>Apply</strong> button.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image070.jpg" /></p>
+<h3 id="how-to-apply-a-custom-discount-or-custom-price-to-a-product">How to apply a custom discount or custom price to a product</h3>
+<p>After adding products to cart, besides editing the quantity of each product (refer to section <strong>Edit products in cart</strong> for more details), you can click on the product to edit other information. A popup will display with edit option for <strong>Custom Price, Discount</strong>. Remember that you can only change information by Custom Price <strong>OR</strong> Discount, instead of both at once for a product.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image072.jpg" /></p>
+<ul>
+<li>You can set custom price for products by click on <strong>Custom Price</strong> button. The next popup will be shown as below:</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image074.jpg" /></p>
+<p>In this popup, please choose type you want to adjust for the price, according to fixed number or percentage.
+     •  If you edit fixed price, the price will be changed to the price you have entered.
+     •  If you edit by percentage, the price will be shown by the percent you have entered (it is similar to Discount by percentage)</p>
+<p>Then, products in cart will be automatically updated with the price you edit.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image076.jpg" /></p>
+<p>Editing discount for each product is similar to edit by Custom Price. Click on <strong>Discount</strong> button and choose types of discount–fixed discount or percentage–you want to adjust:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image078.jpg" /></p>
+<pre><code> •  If you edit discount by fixed number, the price will decrease by the exact value you have entered
+ •  If you edit by percentage, the price will decrease by the percent you have entered (it is similar to Custom Price by percentage).
+</code></pre>
+<p>Then, the product price will be updated in the cart.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image080.jpg" /></p>
+<h3 id="how-to-handle-customer-information-at-checkout">How to handle customer information at checkout</h3>
+<h4 id="customer-checkout">Customer Checkout</h4>
+<p>To use Customer Checkout, add customer by clicking on <strong>Customer</strong> icon on the right corner. You will see a screen as below:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image082.jpg" /></p>
+<ul>
+<li>Search customers:</li>
+</ul>
+<p>In the search box, you can quickly find the customer by entering his name, email, phone or address. Choose customer from suggested results in dropdown list.</p>
+<p>The information of customer in the system will be auto updated in checkout step. To edit it, please click on name of customer. In the popup, just edit the pieces of information you want to change.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image084.jpg" /></p>
+<ul>
+<li>Create customer</li>
+</ul>
+<p>If customer hasn’t been added in your system before, instead of searching, click on <strong>Create Customer</strong> button.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image086.jpg" /></p>
+<p>Fill enough information of the customer such as <strong>First Name, Last Name, Email, Group, Shipping &amp; Billing Address,</strong> etc. You can choose whether Billing Address is similar to Shipping Address or not. Remember to click on <strong>Save</strong> button to save the customer information for the next checkout.</p>
+<h4 id="guest-checkout">Guest Checkout</h4>
+<p>When you use Guest Checkout, the default customer that you configure in backend will be used (Please hover to the section <strong>What is default customer &amp; how to configure Default Guest Checkout</strong> to get more details). At checkout, all fields will be auto-filled with that default information.</p>
+<h3 id="how-to-add-comments-to-an-order">How to add comments to an order</h3>
+<h4 id="when-you-need-to-add-comments">When you need to add comments</h4>
+<p>In some special situations, to remember about your order, you can add comment to it so that you will easily check it later. The comments on order are used internally.</p>
+<h4 id="how-to-add-comments">How to add comments</h4>
+<p>Click on <strong>Add Order Comment</strong> icon in the top right corner. In the <strong>Order Comment</strong> box, type the content that reminds you of this order. Then, save it.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image088.jpg" /></p>
+<h3 id="how-to-check-order-comment">How to check order comment</h3>
+<ul>
+<li>In Web POS screen</li>
+</ul>
+<p>To view comment of order, you can go to <strong>Orders</strong> tab in Web POS screen, choose an order then scroll down to see Comment History.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image090.jpg" /></p>
+<ul>
+<li>In Magento backend</li>
+</ul>
+<p>Go to Sales &gt; Orders &gt; click on a specific order. In order details page, scroll down to <strong>Comment History</strong> tab to check whether it has any notes or not.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image092.jpg" /></p>
+<h3 id="how-to-process-at-checkout-for-a-customer">How to process at checkout for a customer</h3>
+<p>You have been through steps to add products to cart and add customer, let’s move to the checkout process.</p>
+<ul>
+<li>When products are added to cart, click on <strong>Checkout</strong> button at the end of the cart page
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image094.jpg" /></li>
+</ul>
+<p>You will be redirected to the next page with information of Shipping &amp; Payment Method</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image096.jpg" /></p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image098.jpg" /></p>
+<ul>
+<li>
+<p><strong>Credit Card</strong>: Magestore Web POS supports Authorize.net &amp; Stripe. Sale staff can fill in card information manually or swipe card (if the POS system is connected with a card swiper). For more information about how to connect, please go to section <strong>How to connect Web POS with peripheral devices</strong>.</p>
+</li>
+<li>
+<p><strong>Split Payment</strong>: For more information about Split Payment, please go to section</p>
+</li>
+</ul>
+<h3 id="split-payment-with-web-pos">Split Payment with Web POS</h3>
+<ul>
+<li><strong>2 Custom Payment option</strong>: You can change name of payment option as you desire, for example: change Web POS – Custom Payment 1 into Bank transfer.</li>
+</ul>
+<p>After choosing payment method, click on Place Order button to complete checkout process. There will be a notification as is shown below:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image100.jpg" /></p>
+<h3 id="split-partial-payment-with-web-pos">Split &amp; Partial Payment with Web POS</h3>
+<p><strong>How to make payment via Web POS using multiple methods (split payment)</strong>
+You can use more than 1 payment method for split payments when checkout with Web POS. Let me give you an example.</p>
+<p><strong>Customer’s order value is $606.04</strong>
+     -  Your customer wants to pay $400 in Cash In. Then, you fill in the blank space <strong>Cash In</strong> with the value of $400.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image102.jpg" /></p>
+<ul>
+<li>For the remaining ($206.04), your customer wants to pay by Custom payment 1. So, at this time, you click on the <strong>Add Payment</strong> button and choose <strong>Custom payment 1</strong>. The remaining amount ($206.04) will be automatically filled in the box.</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image104.jpg" /></p>
+<p><strong><em>Notes</em></strong>:</p>
+<ul>
+<li>Support multiple payment methods for one order</li>
+<li>Not require Cash in method as compulsory</li>
+<li>You can save payment method code to order if you do not use split payment (updated)</li>
+</ul>
+<p><strong>Process part of order payment (partial payment)</strong></p>
+<p>With Web POS, you can also apply partial payment that allows customers to pay part of the order value. For example, your customer wants to reserve the good before it will be launched. His order value is $606.04. He pays $300 as reservation.</p>
+<ul>
+<li>When processing payment, choose <strong>Cash In</strong> with the value of $300. Then, instead of filling the remained values in other payment methods, you click on button <strong>Mark as partial</strong>.</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image106.jpg" /></p>
+<ul>
+<li>After finishing creating order, in the next step, when customers come back to pay the rest of order value, you open that order’s details in <strong>Order History</strong> tab.</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image108.jpg" /></p>
+<ul>
+<li>You can check the total due is $306.04 and the total paid is $300. To complete the order payment, you click on <strong>Take payment</strong> button. Tick to choose the payment option or pay with multiple ones.</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image110.jpg" /></p>
+<ul>
+<li>After filling in the due amount, click on <strong>Submit</strong> button to complete the payment action. Then the total paid is equal to the whole order’s value.</li>
+</ul>
+<h3 id="how-to-keep-orders-on-hold-for-further-processing">How to keep orders on hold for further processing</h3>
+<p>Your customers can't make up their minds yet, or are unable to make a payment meanwhile? They may want to purchase items that are for pre-order or currently out of stocks? You don't want to lose those potential customers, don't you? Then, Web POS's new feature can put these orders on hold - no limit in time - until they are ready to continue processing!</p>
+<p>After adding products to cart, you can choose <strong>Hold</strong> to put the order into <strong>On-hold Orders</strong> section. A <strong>Note for holding order</strong> will appear for inserting any comment that you would like to keep, for example, “Waiting for payment”.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image112.jpg" /></p>
+<p>To check orders that have been put on hold, select <strong>On-hold Orders</strong> section. List of on-hold orders is recorded with certain note for each order. You may select <strong>Continue Processing</strong> whenever customer is willing to take final action for payment or you may <strong>Cancel</strong> it if it is not effective anymore.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image114.jpg" /></p>
+<h3 id="how-to-print-receipt-and-email-order-information">How to print receipt and email order information</h3>
+<p>You can print receipt or email order information right after creating an order. Remember that you must be online and have permission to do these actions.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image116.jpg" /></p>
+<p>The receipt will look like the screenshot below:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image118.jpg" /></p>
+<p>And here is the email of order information:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image120.jpg" /></p>
+<h3 id="how-to-review-orders">How to review orders</h3>
+<p>In POS screen, you can review orders by choosing <strong>Order History</strong> tab. Here you can see the order list and order details:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image122.jpg" /></p>
+<ul>
+<li><strong>Order status</strong></li>
+</ul>
+<p>In order list, the status of order is distinguished by color
+     -  Complete: Green (When you ship order AND create invoice
+     -  Processing: Blue (When you  ship order OR create invoice)
+     -  Pending: Orange (When you create order successfully but have not shipped order and created invoice)
+     -  Canceled: Gray (When you cancel the order)
+     -  Not synced: Red (When order’s data has not been synced to the system)
+     -  Closed: Black (When order has been refunded)</p>
+<ul>
+<li><strong>Order searching</strong>
+To quickly find an order to review, you can search it by Order ID or Customer’s Name/Email</li>
+</ul>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image124.jpg" /></p>
+<ul>
+<li><strong>View order information</strong></li>
+</ul>
+<p>To view detailed information, click on your wanted order. Please make sure that you have permission to check it. The detailed order will be shown like this</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image126.jpg" /></p>
+<h3 id="how-to-issue-invoice-for-an-order">How to issue invoice for an order</h3>
+<p>The order can’t be complete if you haven’t issued invoice for customer. After the order is created successfully, you will find order’s details on tab Order History then click on tab <strong>Invoice</strong>.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image130.jpg" /></p>
+<p>A pop-up will appear so you can enter the quantity of item or the order amount to be invoiced. Then you click on button <strong>Submit invoice</strong> to complete the action. You can choose whether to send invoice to customer’s email or not.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image132.jpg" /></p>
+<p><strong><em>Note</em></strong>: From version 3.0.4, WebPOS extension is well integrated with Magestore PDF Invoice extension. This helps store owners create invoice much more easily and faster.</p>
+<h3 id="how-to-create-shipment-or-issue-refund-for-an-order">How to create shipment or issue refund for an order</h3>
+<h4 id="how-to-create-shipment">How to create shipment</h4>
+<p>There are two ways to create shipment using Web POS: <strong>before placing an order and when reviewing order</strong></p>
+<ul>
+<li><strong>Before placing order</strong></li>
+</ul>
+<p>Before an order is created by clicking Place Order, you can create shipment by turn it on as below:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image134.jpg" /></p>
+<p>After verifying shipment method, the system will automatically load to Successful Order Page. There will be a message shown to notify you that shipment is created successfully. Please note that to use this way, you need to have permission and be in online mode.</p>
+<ul>
+<li><strong>After placing order</strong></li>
+</ul>
+<p>When order has been created successfully but hasn’t been shipped, you can go to Order History and create shipment for that order.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image136.jpg" /></p>
+<ul>
+<li><strong>Partial shipment</strong>:</li>
+</ul>
+<p>If customers want the orders to be shipped in 2 or more consignments, sales staff can enable Partial Shipment function. When you create order, remember to turn of button “Mark as shipped”.</p>
+<p>After placing order successfully, you find that order in Order History. Then you click on the icon on the right corner and choose Ship. A pop-up then appears so you can enter the number of items to be shipped of each product.</p>
+<p><strong>Note</strong>: Only orders that have been synced can be shipped.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image138.jpg" /></p>
+<h4 id="how-to-issue-refund">How to issue refund</h4>
+<p>Some certain staffs have permission to issue refund (which is set by admin in backend. See <strong>How to differentiate access permissions of Web POS users</strong> for more details). Customers can get refund in either Store Credits, points or in cash. To enable refund by <strong>Store Credit</strong> and <strong>Reward Points</strong>, these two extensions must be installed in your website.</p>
+<p>To issue refund, go to Orders tab in POS screen, you choose the order that is required to refund. Click on <strong>Refund</strong> button in the end.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image143.jpg" /></p>
+<p>A popup will display so that you can fill in the information before making refund. Tick <strong>Return to stock</strong> if you want to return those items back to your stock.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image145.jpg" /></p>
+<p>After that, you will get the message informing that credit memo is created successfully. Please make sure you have permission to issue refund and you are in online mode. </p>
+<p><strong>Adjustment Refund</strong>: The fee customers might have to pay for your store when requesting refund.</p>
+<p><strong>Adjustment Fee</strong>: The compensation customers get from your store if they have to request refund.</p>
+<h3 id="how-to-view-reports">How to view reports</h3>
+<p>Magento Web POS provides you 10 types of reports which help you get deeper into your business performance. To view reports, you choose tab Sales/ Report on Magento backend. There will display 10 types of report as on the image below:</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image147.jpg" /></p>
+<p><strong>Note</strong>:
+     -  You can export each report into Excel XML or CSV file.
+     -  You can view report in any custom time period.</p>
+<h4 id="staff-report">Staff Report</h4>
+<p>On Staff report row, there are 3 types of reports: Sales by staff, Sales by staff (Daily) and Order list for staff. The Sales by staff report shows the number of orders and total sales created by each sale staff in any custom period.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image149.jpg" /></p>
+<p>The Sales by staff (Daily) expresses the number of order and total sales created by each staff each day in the time period that you choose.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image151.jpg" /></p>
+<p>In the Order list for sale staff, you can view all order information including ID, value, history and status of each order created by any or each specific sale staff.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image153.jpg" /></p>
+<h4 id="location-report">Location report</h4>
+<p>Similar to Staff report, the Location report has 3 different reports including Sales by location, Sales by location (Daily) and Order list for location.</p>
+<p>The Sales by location report shows the number of orders and sales created in each location, in any custom time period.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image155.jpg" /></p>
+<p>The Sales by location (Daily) report shows the number of orders and sales created in each location by each day.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image157.jpg" /></p>
+<p>In the Order list for location, you can view all order information including ID, value, history and status of each order created by all or each specific sale location.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image159.jpg" /></p>
+<h4 id="payment-report">Payment Report</h4>
+<p>The section of Payment Report has 4 different types of report including Sales by payment method, Sales by payment method (Daily), Order list for payment method and Sales by payment method for location.</p>
+<p>The Sales by payment method displays the number of orders and sales paid by each payment method in a custom time period.
+<img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image161.jpg" /></p>
+<p>The Sales by payment (Daily) report shows the number of orders and sales created by each payment method by each day.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image163.jpg" /></p>
+<p>In the Order list for payment method, you can view all order information including ID, value, history and status of each order created by all or each specific payment method.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image165.jpg" /></p>
+<p>The Sales by payment method for location displays the number of orders and sales created by each payment in each sale location.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image167.jpg" /></p>
+<h3 id="how-to-manage-cash-drawer">How to manage cash drawer</h3>
+<h4 id="manage-cash-flow-into-cash-drawer">Manage cash flow into cash drawer</h4>
+<p>To manage cash drawer, you go to tab Cash Drawer on Web POS checkout screen.</p>
+<p>As you see on the below image, there is a list of orders paid in cash on the left screen (cash transactions). The total value of cash transactions equals to the balance in cash drawers. The amounts paid with other payment methods are displayed on Sales by Payments section.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image169.jpg" /></p>
+<p>You have frequent cash in/out beside normal order transactions like paying electrical bills, balancing cash amount in hand, etc? Web POS system records deposits and withdrawals from your cash drawer then compare them with actual cash amount (counted in notes) after each cashier’s shift.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image171.jpg" /></p>
+<p>When your cashier’s shift ends, you count the cash amount on cash drawers and compared with the one recorded by the system. You can also record the amount of cash left for the next shift and add some notes.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image173.jpg" /></p>
+<h4 id="z-report">Z-report</h4>
+<p>Z-report shows the cash drawer balance in a certain time like a shift or a working day. All payment methods will be listed down with the record of Grand Total in details respectively. If there is no customer use Cash on Delivery method to purchase orders, it will not appear in the Payment Method section.</p>
+<p><img alt="" src="https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image175.jpg" /></p>
+<p>The Z-report will be refreshed to serve new shift/working day after you select Close Store. Particularly, your cash drawer will be reset to 0 or to the certain amount that you set up in Cash Left. Each Z-report is automatically saved in Magento backend so you can check it back (go to Sales &gt; Web POS &gt; Web POS Z-report)</p>
+<p>We hope that this manual is useful to help you master Magestore Web POS for Magento. If you have any concern, feel free to <em>send us your questions</em>, we would be glad to assist you. Enjoy making sales 10x times faster!</p>
+                
+            </div>
+            </div></div>
+            
+                    
+    </div>
+
+    <footer id="footer">
+        <div class="container-fluid">
+            <div class="col-md-12 text-center">
+                <div class="footer-wrap">
+                    <div class="copyright-date">&copy; 2017 Magestore.com. All rights reserved. Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!--<script src="../../js/jquery-1.10.2.min.js"></script>-->
+    <!--<script src="../../js/bootstrap-3.0.3.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="../../js/tags.js"></script>
+    <script src="../../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+    var base_url = '../..';
+    </script>
+    <script data-main="../../mkdocs/js/search.js" src="../../mkdocs/js/require.js"></script>
+    <script src="../../js/base.js"></script>
+    <script src="../../js/extra.js"></script>
+
+    <!--<div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                </div>
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <p>
+                        From here you can search these documents. Enter your search terms below.
+                    </p>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        </div>
+                    </form>
+                    <div id="mkdocs-search-results"></div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>-->
+
+
+    <div class="search-backdrop"></div>
+
+        <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+    </body>
+
+</html>
