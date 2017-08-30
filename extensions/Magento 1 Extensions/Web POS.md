@@ -1,5 +1,5 @@
-**Magento Web POS**
-=================================
+# WEB POS - MAGENTO 1
+
 **Version 3.0.5**
 
 Confidential Information Notice
