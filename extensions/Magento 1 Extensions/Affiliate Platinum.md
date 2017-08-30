@@ -185,10 +185,11 @@ Besides email, affiliates can share links via social channels (Facebook, Twitter
 -	To share affiliate links on Google+, affiliates first click on **Google+** tab:
  ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image032.png)  
    
-    - Next, they click on **G+ Share** button. A popup form to edit status to post on Google+ will be displayed as below:
+   - Next, they click on **G+ Share** button. A popup form to edit status to post on Google+ will be displayed as below:
      
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image033.png)  
-     -	Finally, after affiliates click on **Share** button, the affiliate link will be posted on Google+.
+
+   - Finally, after affiliates click on **Share** button, the affiliate link will be posted on Google+.
      
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image034.png)  
 
@@ -245,6 +246,7 @@ Affiliates can request payment if their account balances are more than the minim
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image044.png) 
  
 On this page, affiliates should enter the PayPal email and click on the **Send Request** button. System will send them an email having an authentication code and show a **Verify Email** popup as below:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image045.png) 
  
 After entering the code in their emails in the **Authentication Code** field, affiliates should click on the Verify button. After that, they will be redirected to the **Review your request and send** page.
@@ -528,6 +530,7 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 -	**General information of your affiliate system:** This part shows information of  your affiliate system such as lifetime sales, total commissions, total transactions, total affiliate account and total payout:
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image094.png) 
+
 -	**Pie charts of traffic and transaction activities:** As can be seen, traffics and transactions are illustrated by two pie charts. The first provides data of total clicks and unique clicks while the latter shows figures of pending, completed and cancelled status.
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image095.png) 
