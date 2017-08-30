@@ -1,2 +1,2 @@
 Welcome to MagestoreDocs!
-1
+12
