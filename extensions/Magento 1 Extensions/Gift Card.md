@@ -1,5 +1,5 @@
-**Magento Gift Card**
-=================================
+# GIFT CARD - MAGENTO 1
+
 **Version 4.6.0**
 
 Confidential Information Notice 
