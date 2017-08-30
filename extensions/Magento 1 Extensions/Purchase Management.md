@@ -1,5 +1,5 @@
-**Magento Purchase Management**
-=================================
+# PURCHASE MANAGEMENT - MAGENTO 1
+
 **Version 1.0.1**
 
 Confidential Information Notice 
