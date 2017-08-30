@@ -22,7 +22,9 @@ Before using Web POS to check out, admin needs to configure it in backend first.
 ### How to change logo of Web POS
 
 To change logo of Web POS, go to **Sales > Web POS > Settings > General Configuration.** In this tab, you can see configuration as below:
-i7-
+
+![Web POS extension for Magento ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image007.jpg)
+
 
 -	**Web POS logo**: Upload your logo here. Please note that recommended size is 260*120px and supported files are jpeg & png.
 
@@ -33,7 +35,7 @@ After finishing, click on **Save or Save And Continue Edit** button to save your
 ### How to set up a shipping method for Web POS
 
 To set up Shipping Methods for Web POS, go to **System > Configuration > Shipping for POS**, the following page will be shown as below:
-i9-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image009.jpg)
 
 -	**Offline Shipping Methods**: Hold Shift + Click to choose the payment methods used for POS.
 
@@ -42,7 +44,8 @@ i9-
 ### How to enable a payment method for Web POS
 
 To set up payment method for Web POS, go to **Web POS > Settings > Payment for POS**. Then, you will be able to see:
-i11-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image011.jpg)
 
 -	Applicable payments:
 
@@ -53,14 +56,15 @@ i11-
 
 If you want to set Cash In to be the default payment method for instance, you first have to choose it in **Specific Payments** field. Then, select option **Cash In** in **Default Payment Method** field.
 
-i13-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image013.jpg)
 
 Magestore WebPOS well integrates with Pay.nl payment gateway, allowing more flexible payment methods for customers.
 
 ### How to disable inactive categories
 
 To set up payment method for Web POS, go to **Web POS > Settings > Product Search**.Then, you will be able to see:
-i15-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image015.jpg)
 
 -	If you want to show inactive categories on the website, you choose **Yes**.
 -	If you want to hide inactive categories on your website, you choose **No**.
@@ -74,7 +78,8 @@ i15-
 #### How to configure Default Guest Checkout
 
 To configure Default Guest Checkout, you go to **Web POS > Settings > Default Guest Checkout**. You will see the configuration page as below
-i17-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image017.jpg)
 
 Fill in all information as you want to use as default, including **Default Customer ID, First Name, Last Name, Street, Country, State/Province, City, Zip/Postal Code, Telephone** and **Email**.
 
@@ -87,37 +92,36 @@ Offline mode is when there is no Internet Connection. When you are in offline mo
 To enable offline mode, you go to **Web POS > Settings >General** then choose tab **Checkout**. You choose **Yes** option to use online mode and choose **No** to use offline mode.
 
 The promotion rule auto check can be applied for offline mode only, choose **Yes/ No** to activate/ turn off this function. See the screenshot below:
-i19-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image019.jpg)
 
 ### How to add a Web POS user
 
 To add new user using Web POS, go to **Web POS > Web POS Permissions > POS Users**. Here you can see a list of users who have been created.
-i21-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image021.jpg)
 
 You can also export user list to CSV/ XML file or add new Web POS user.
 -	Click on **Add User** button then you will be directed to the following page:
 
-
-i23-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image023.jpg)
 
 Fill in all information of the user in **User Information & User Settings** then, click **Save** or **Save And Continue** Edit.
 
 Please note that to select the role for user, you need to add a role first. Please go to the section: **How to differentiate access permissions of Web POS users for more details**.
 
 -	To edit a user, click on the **Edit** link in **POS Users** manager page.
-i25-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image025.jpg)
 
 You can edit information here. After finishing, you click on **Save** to save the changes.
 
 ### How to differentiate access permissions of Web POS users
 
 To grant different permission for Web POS user, go to **Web POS > Web POS Permissions > POS Roles**. The **Role Manager** page will be shown. You can export role user list to csv/xml file:
-i27-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image027.jpg)
 
 To add a new role, click on **Add Role** button in the top right corner. You will see the Add page. Here, there are two tabs: **Role Information** and **User List**.
 
 -	In **Role Information** tab, please make sure you fill in enough information
-i29-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image029.jpg)
 
      -	**Role Name**: Enter a specific name for the role in order to find it easily
      -	**Permissions**: Choose which all or specific permissions you want to grant for this role. Use Shift + Click to choose more than one
@@ -126,11 +130,11 @@ i29-
      -	**Status**: Remember to set Status as Active if you want to enable it
 
 -	In **User List** tab, there is a list of users who will have corresponding permission in Web POS system. You can delete/ enable users right on this board. After finishing, click on **Save** or **Save And Continue Edit** button to save your work.
-i31-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image031.jpg)
 
      -	To edit a current role, click on "Edit" link on Role Manager page, then you will be redirected to **Edit Role** page. When finishing editing, please click on **Save** or **Save and Continue Edit** Button to save the change.
 
-i33-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image033.jpg)
 
 ### How to connect Web POS with peripheral devices
 
@@ -149,10 +153,12 @@ Magestore Web POS extension can connect with **Barcode readers, Card swiper, Rec
 You should install customer pole display’s driver if your device has driver before taking the following steps.
 
 Firstly, you need to enable Pole display function in Web POS settings. Go to Magento backend, choose **Sales > Web POS > Settings**, then choose **Yes** in field **“Integrate with Pole Display device”**.
-i35-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image035.jpg)
 
 Secondly, you need to install the desktop application to connect your PC/ Laptop with the pole. After purchasing Web POS, you can download the Pole Display integration file which contains these following files & folders:
-i37-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image037.jpg)
 
 Then follow these steps:
 
@@ -167,7 +173,8 @@ Then follow these steps:
      +	Run CDM21224_Setup.exe and install it to your computer
 
 -	**Step 3**: Run the Pole Integration.exe file:
-i39-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image039.jpg)
 
 You need to open this program when using Web POS to use customer pole display.
 
@@ -178,13 +185,14 @@ You have finished settings for Web POS, now please move to the part of How to us
 ### How a Web POS user logs in & manages his account
 
 After you create user with specific permission in using Web POS, you can send him Web POS checkout link or guide him to access from Web POS backend by going to **Web POS ->	Web POS Checkout**. Then, a login form will appear. User needs to choose store (if website has multi store views) then fill in your account & password to continue:
-i41-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image041.jpg)
 
 To manage his account, the user should go to Settings tab > My Account:
-i43-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image043.jpg)
 
 Then, click on **My Account** link and the user can see his information. He can also change his password if he wants.
-i45-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image045.jpg)
 
 ### How a Web POS user deletes/ reloads data in local manually
 
@@ -197,7 +205,7 @@ In some cases, a user's local data is not 100% synced with data in the back-end.
 -	**How to use**:
 
 To reload data, go to **Setting > Synchronization** then choose **Reload** (to reload each category) or **Reload All** (to reload all data).
-i47-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image047.jpg)
 
 -	**_Notes_**:
 
@@ -210,11 +218,11 @@ You can configure to search products by going to Settings > General
 -	In Catalog tab: Enable **Display out-of-stock products in search results (online mode)** by choosing **Yes** option. If you choose **No** option, out-of-stock products will not display in search results.
 
 **Note**: This function is available for online mode only.
-i49-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image049.jpg)
 
 **Product Search** section: You go **Web POS ->Setting** and choose tab **Product Search**.
 
-i51-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image051.jpg)
 
    -	**Product Attribute(s) for Search**: Select attributes by which you want to search products. The default attributes are Name & SKU. If you want to search quickly by barcode, choose barcode attribute. Hold Shift + Click to pick more than one.
 
@@ -222,13 +230,13 @@ In frontend, you can search products in 3 ways - **categories**, **product attri
 
 -	Use categories: In frontend, you can click on All Categories link to quickly search products by categories. Choose the corresponding categories as you prefer.
 
-i53-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image053.jpg)
 
 -	Use product attribute
 
 To search by product attributes, click on Search icon, then a search bar will be shown. Enter your search terms and matching products will display right away.
 
-i55-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image055.jpg)
 
 -	Use barcode
 
@@ -243,12 +251,14 @@ i55-
 -	With simple products, you just need 1 click to add them to cart
 
 -	With configurable, bundle, grouped products, after clicking, you will see a popup shown to choose your option. Then, click on **Add to cart** button.
-i57-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image057.jpg)
 
 #### Edit products in cart
 
 After adding products to cart, you can edit the quantity of each product by clicking on the product that needs editing. A popup will display with edited option for **Qty**.
-i59-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image059.jpg)
 
 To edit Qty., just enter a wanted number or click on +/-. The number of products will be adjusted in the cart right away.
 
@@ -265,10 +275,12 @@ Custom sale item is the item that Web POS user creates when checkout. It is used
 #### How to add Custom Sale to cart
 
 In frontend, click on **Custom Sale** button if you want to add the custom product to cart
-i62-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image062.jpg)
 
 A screen will be shown for you to configure this custom product.
-i64-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image064.jpg)
 
 -	**Name**: Enter the name of custom product
 
@@ -284,11 +296,12 @@ Please note that this custom sale product will not be saved for the next checkou
 ### How to apply a coupon code or a cart discount
 
 After adding products to cart, to apply a coupon code or discount on the whole cart, click on **Add Cart Discount** link.
-i66-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image066.jpg)
 
 Then, a popup will display as below:
 
-i68-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image068.jpg)
 
 You can choose between using **Discount** or **Promotion**
 
@@ -303,16 +316,17 @@ Then, the cart will be updated automatically after you click on **Apply** button
 
 Just fill in available coupon you want to offer for your customers. The cart will be updated automatically after you click on **Apply** button.
 
-i70-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image070.jpg)
 
 ### How to apply a custom discount or custom price to a product
 
 After adding products to cart, besides editing the quantity of each product (refer to section **Edit products in cart** for more details), you can click on the product to edit other information. A popup will display with edit option for **Custom Price, Discount**. Remember that you can only change information by Custom Price **OR** Discount, instead of both at once for a product.
 
-i72-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image072.jpg)
 
 -	You can set custom price for products by click on **Custom Price** button. The next popup will be shown as below:
-i74-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image074.jpg)
 
 In this popup, please choose type you want to adjust for the price, according to fixed number or percentage.
      •	If you edit fixed price, the price will be changed to the price you have entered.
@@ -320,24 +334,26 @@ In this popup, please choose type you want to adjust for the price, according to
 
 Then, products in cart will be automatically updated with the price you edit.
 
-i76-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image076.jpg)
 
 Editing discount for each product is similar to edit by Custom Price. Click on **Discount** button and choose types of discount–fixed discount or percentage–you want to adjust:
 
-i78-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image078.jpg)
+
      •	If you edit discount by fixed number, the price will decrease by the exact value you have entered
      •	If you edit by percentage, the price will decrease by the percent you have entered (it is similar to Custom Price by percentage).
 
 Then, the product price will be updated in the cart.
 
-i80-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image080.jpg)
 
 ### How to handle customer information at checkout
 
 #### Customer Checkout
 
 To use Customer Checkout, add customer by clicking on **Customer** icon on the right corner. You will see a screen as below:
-i82-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image082.jpg)
 
 -	Search customers:
 
@@ -345,12 +361,13 @@ In the search box, you can quickly find the customer by entering his name, email
 
 The information of customer in the system will be auto updated in checkout step. To edit it, please click on name of customer. In the popup, just edit the pieces of information you want to change.
 
-i84-
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image084.jpg)
 
 -	Create customer
 
 If customer hasn’t been added in your system before, instead of searching, click on **Create Customer** button.
-i86-
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image086.jpg)
 
 Fill enough information of the customer such as **First Name, Last Name, Email, Group, Shipping & Billing Address,** etc. You can choose whether Billing Address is similar to Shipping Address or not. Remember to click on **Save** button to save the customer information for the next checkout.
 
