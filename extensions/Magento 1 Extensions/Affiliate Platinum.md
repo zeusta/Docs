@@ -290,7 +290,7 @@ To view report charts, affiliates click on the Reports tab on the My Affiliate  
 -	**Clicks:** the number of clicks (unique and raw) that Customers click on banners posted by affiliates.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image054.png) 
 
--	Impressions:  reports on the amount of views of affiliates' banners.
+-	**Impressions**:  reports on the amount of views of affiliates' banners.
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image055.png) 
 
 To view charts in different periods, affiliates can choose options of time ranges in the Select Range drop-down.
@@ -323,6 +323,7 @@ In backend, admins can manage all information of programs, affiliates, banners, 
      •	Export programs to CSV/XML file
      •	Change status/ delete a mass of programs
      
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image059.png) 
 
 **Add a new program**
@@ -377,9 +378,8 @@ In backend, admins can manage all information of programs, affiliates, banners, 
    - **Apply the program only to cart items matching the following conditions**
 To manage discount & commission of certain products in cart, you can add condition here, such as “Price in cart is equal or greater than 100”.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image064.png) 
-    
-   - **Affiliate Accounts:** All affiliate accounts are listed for you to choose who can join in this program (if this program allows affiliates to automatically participate in, all affiliates can join in it whenever they meet the conditions of the program).
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image064.png)    
+      - **Affiliate Accounts:** All affiliate accounts are listed for you to choose who can join in this program (if this program allows affiliates to automatically participate in, all affiliates can join in it whenever they meet the conditions of the program).
    
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image065.png) 
 
@@ -398,6 +398,7 @@ To manage discount & commission of certain products in cart, you can add conditi
 ### How to manage Affiliate accounts
 
 Log in **Back-end → Affiliate plus → Manage Accounts.**
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image069.png) 
 
 -	On this page, you can review the list of affiliate accounts as well as create a new account. Affiliate Account Information is available in each store.
@@ -411,10 +412,10 @@ Log in **Back-end → Affiliate plus → Manage Accounts.**
     - **Choose the Programs:**
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image073.png) 
     - **Edit Account**: With all existing accounts listed in grid, you can click on any account you want to edit. You will see all data of an account in 7 tabs that  are **General Information, Payment Information, Coupon  Code, Programs, History transaction, History Withdrawal, Tier affiliates**
-     -	**General Information** tab:
+     •	**General Information** tab:
      
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image074.png) 
-     -	**Payment Information** tab:
+     •	**Payment Information** tab:
      
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image075.png) 
      •	**Coupon Code** tab:
@@ -473,7 +474,9 @@ Take following steps to create new orders:
      •	Enter all required information such as: **Order Currency, Add Product, Coupon code.**
 
 The **Create New Order** page is displayed as following:
+
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image085.png) 
+
 When a coupon code is applied, the system will automatically subtract money from the order as following:
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image086.png) 
@@ -551,11 +554,11 @@ You will be navigated to the **Edit Withdrawal** page, on which you can only edi
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image099.png) 
      •	**Impressions** tab: displays the total unique/ total impressions for your site. Unique impression(s) of a period is calculated by the number of IP addresses that visit your affiliate banner during that time.
      
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0100.png) 
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image100.png) 
 
 -	**Totals** bar: shows the total of sales amount, transactions, commissions, unique/total clicks and unique/total impressions in your current period.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image0101.png)
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image101.png)
 
 -	**Grids** tab: contains the grids of new accounts, bestseller products, top affiliates, and top referrers.
 
