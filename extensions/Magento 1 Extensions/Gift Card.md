@@ -1,6 +1,6 @@
 # GIFT CARD - MAGENTO 1
 
-**Version 4.6.0**
+**Version 4.7**
 
 Confidential Information Notice 
 Copyright 2016. 
