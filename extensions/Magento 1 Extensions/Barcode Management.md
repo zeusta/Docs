@@ -1,5 +1,5 @@
-Magento Barcode Management
-===================
+# BARCODE MANAGEMENT - MAGENTO 1
+
 Version 1.0
 
 Confidential Information Notice 
