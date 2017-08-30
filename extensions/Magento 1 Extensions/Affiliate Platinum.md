@@ -10,7 +10,9 @@ This document and the information it contains constitute a trade secret of Mages
 ---------------
 ## INTRODUCTION
 
+
 Selling products on commission is regarded as a great way to market products. It‟s an efficient sales channel since Customers are more likely to buy products recommended by their friends. Many stores have applied this kind of selling and experience great success. Realizing that demand, we release Affiliate Plus - an advanced Magento extension that allows web-shop owners to sell products on commission. Those who sign up affiliate system will receive commissions when their friends click on the referral links and purchase products. Why don‟t you start a lucrative business by adding this Affiliate plus module to your cart?
+
 ---------------
 
 ## HOW TO USE
@@ -20,7 +22,9 @@ In this part, we are going to introduce how a customer interacts with the affili
 ###	Welcome page
 
 -	After successfully installing the module, you can place the affiliate‟s link in the footer or at the top of a site. It can be seen from our demo site where this link is placed in the footer.
-i3-
+	
+![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Affiliate%20Platinum/image003.png)
+
 - When a customer clicks on this link, he can view the **Affiliate Home** page of the Affiliate system. The content can be adjusted using CMS page in backend (See  the instruction in the next part).
  i4-
 
@@ -286,10 +290,9 @@ i60
 **7** |	From date | |		Choose the program started date.
 **8** |	To date	| |	Choose the program ended date.
 **9** |	Priority | |		Set the atomic number, the higher the  atomic number, the higher priority.
- 
-     •	**Conditions**: In this tab, you can choose which categories you want to apply to program. Plus, you can set up the conditions that can make orders eligible to the program.
+   -	**Conditions**: In this tab, you can choose which categories you want to apply to program. Plus, you can set up the conditions that can make orders eligible to the program.
  i61
-     •	**Commissions and Discounts**: You can set up some information of commissions and discounts to apply for the program.
+     -	**Commissions and Discounts**: You can set up some information of commissions and discounts to apply for the program.
          - **Commission:**
 i62
 
@@ -301,8 +304,7 @@ i62
 **4** |	Use	different commission from 2nd order of a Customer |	Yes |You	choose	to	configure a	different commission from 2nd order of a Customer.
 **5** |	Tier Commission	 | |	Install the Tier Commission plugin to set the number of tiers, commission amount and commission type.
 
--
-         -	**Discount:**
+ -	**Discount:**
  i63-
  
 **No** |	**Field**|	**Sample**|	**Description**
@@ -313,8 +315,8 @@ i62
 **4** |	Customer |	Groups Applied	|	Select Customer group that you want to apply discount.
 **5** |	Affiliate Coupon | |		Install Affiliate by Coupon plugin to help you set up a code pattern to automatically generate unique coupons for Affiliates.
 
--
-         -	**Apply the program only to cart items matching the following conditions**
+
+   -	**Apply the program only to cart items matching the following conditions**
 To manage discount & commission of certain products in cart, you can add condition here, such as “Price in cart is equal or greater than 100”.
 i64
      •	**Affiliate Accounts:** All affiliate accounts are listed for you to choose who can join in this program (if this program allows affiliates to automatically participate in, all affiliates can join in it whenever they meet the conditions of the program).
@@ -348,13 +350,10 @@ i71
      •	**Choose the Programs:**
  i73
      -	**Edit Account**: With all existing accounts listed in grid, you can click on any account you want to edit. You will see all data of an account in 7 tabs that  are **General Information, Payment Information, Coupon  Code, Programs, History transaction, History Withdrawal, Tier affiliates**
-     
      •	**General Information** tab:
      i74
      •	**Payment Information** tab:
  i75
-
-
      •	**Coupon Code** tab:
      i76
      •	**Programs** tab:
@@ -549,9 +548,9 @@ i113-
 **1** |	Enable |	Affiliate Plus Module |	Yes	 |
 **2** |	Show Affiliate link  in frontend |	Yes |	Affiliate link will be shown in frontend.
 **3** |	Welcome	page using CMS |	 |	Choose the Affiliate welcome page from CMS pages.
-**4** |	Show Material page |	Yes	 |Allow showing Material page in frontend.
+**4** |	Show Material page |Yes	 |Allow showing Material page in frontend.
 **5** |	Material page using CMS	 | |	Create CMS page and manage there
-**6v	|Cookie	Expiry (days)	| 360| 	The number of days for admin to store cookies of this program. For example, you can fix a 10-day period. This means when a referrer  purchases any item in your site through affiliate link; he and the affiliate will receive discount and commission within 10 days. In case the purchase failed, the affiliate will not receive commission and the invited-customer will buy products without discount.
+**6**	|Cookie	Expiry (days)	| 360| 	The number of days for admin to store cookies of this program. For example, you can fix a 10-day period. This means when a referrer  purchases any item in your site through affiliate link; he and the affiliate will receive discount and commission within 10 days. In case the purchase failed, the affiliate will not receive commission and the invited-customer will buy products without discount.
 **7** |	Enable	| Substore feature |	Enable |	Enable substore feature to bring more convenience to your customers. Each affiliate users will have their own substore on your Magento shop to refer more customers.
 **8** |	Affiliate |	URL Parameter| |	You can change Affiliate URL parameter and replace the default identify code with the affiliate ID to make the link shorter & friendlier.
 **9** |	Value Type for Affiliate URL Parameter |	Affiliate ID |	You can change Affiliate URL parameter and replace the default identify code with the affiliate ID to make the link shorter & friendlier.
@@ -789,4 +788,3 @@ i127
 3  |	Use for Recurring Payment  |	Yes/No |	Use this method for Recurring Payment or not
 4  |	Moneybookers merchant email/Password  |  |		Information of your Moneybookers account
  
-
