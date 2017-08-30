@@ -430,7 +430,7 @@ After you finish filling out all the required data, remember to click on the **S
 
 ![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/image_Reward%20Points%20Plus%20Ultimate%20Edition/image075.png?raw=true)
 
-- Edit/ Delete an existing rate
+- **Edit/ Delete an existing rate**
 
 In case you want to edit a rate, please click on the **Edit** link in the **Action** column.
 Then you will be redirected to the **Edit Earning Rate** page:
