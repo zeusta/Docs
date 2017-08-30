@@ -1,6 +1,6 @@
 # INVENTORY MANAGEMENT - MAGENTO 2
 
-**Version 1.2.0**
+**Version 1.2.1**
 
 *Confidential Information Notice*<br/>
 *Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
@@ -32,37 +32,6 @@ Hope that you will have a great time using our extension and free your mind from
 
 ### Stock listing
 
-#### Warehouse
-
-After installation, the system will automatically provide a **Primary Warehouse**. This warehouse cannot be deleted and can only be edited. All the existing products with stocks level of your website will be automatically allocated in this warehouse first before being sent to other warehouses.
-
-A warehouse contains basic information including Total SKU, total Qty, contact email, telephone, street, city, country and status
-
-Admin can add new warehouse then fill all information including warehouse name, contact, country…
-
-![](./inventoryimages/im1.png)
-
-#### Manage user/staff & Permission
-
-Permission in Inventory extension allows admin to create multiple users and user roles. A user can be assigned to a warehouses and grant specific access to the specific parts in Inventory management.
-
-- **Create user role**
-
-Go to System menu, select “User Roles” under Permission submenu. Now admin can view a list of role and create a new role for users. Role information contains role info (name & password) and role resource. This role resource contains every part of Inventory that this role can be able to access to. For example if you set this role as Manager, you can grant some important permission to Delete warehouse, confirm Physical stock taking or complete a Stock request…by selecting the check boxes then Save Role.
-
-![](./inventoryimages/im2.png)
-
--	**Create new user**
-Go to System menu, select “All users” under Permission submenu, admin can view a list of staffs with user name, name, email and status of account. User information contains 3 parts: User Info, User Role and the Warehouse which the user is assigned to. Admin can assign the warehouse and role for a staff. Admin can add new, edit, remove and save staff information.
-
-![](./inventoryimages/im3.png)
-
-- **Assign staff to warehouse**
-
-Go to Warehouses under Stock Listing submenu then select any warehouse, there is a configuration for Permission. From here admin can assign staff for that warehouse conveniently.
-
-![](./inventoryimages/im4.png)
-
 #### Stock in Warehouse
 
 Admin can have overview of Stock in all Warehouses and select a warehouse to view stocks of that warehouse only.
@@ -87,6 +56,15 @@ In addition, admin can also add the product to multiple warehouses in **Product 
 
 ![](./inventoryimages/im8.png)
 
+#### Warehouse
+
+After installation, the system will automatically provide a **Primary Warehouse**. This warehouse cannot be deleted and can only be edited. All the existing products with stocks level of your website will be automatically allocated in this warehouse first before being sent to other warehouses.
+
+A warehouse contains basic information including Total SKU, total Qty, contact email, telephone, street, city, country and status
+
+Admin can add new warehouse then fill all information including warehouse name, contact, country…
+
+![](./inventoryimages/im1.png)
 
 ### Prediction
 
@@ -106,11 +84,11 @@ This feature predicts how many inventory items a warehouse need for each product
 
 The Supply Need Forecast can be exported to CSV or XML file and printed into PDF file.
 
-#### Low Stock Notification
+#### Low Stock Notifications
 
-Low Stock notification listing displays warning messages about the products which are nearly out of stock in warehouses. It shows all notification with information including Sent at, Update Type, Email received, Recipients and Action. Each notification log can show details of all products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
+Low Stock notifications listing displays warning messages about the products which are nearly out of stock in warehouses. It shows all notification with information including Sent at, Update Type, Email received, Recipients and Action. Each notification log can show details of all products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
 
-#### Low Stock Rule
+#### Low Stock Rules
 
 Admin can create unlimited rules to notify low stock. One rule contains: Rule information, Condition and Action.
 
@@ -130,7 +108,8 @@ Besides, you can add more conditions about Product attribute for example product
 
 #### Send stock & Request stock
 
-**Send stock:** If admin want to send stock from his warehouse to another warehouse, he can use this feature to record stock sending. The process to Send stock is: Add new send stock > Prepare Product list > Send Stock > Receive Stock > Mark as Completed
+**Send stock:** If admin want to send stock from his warehouse to another warehouse, he can use this feature to record stock sending. The process to Send stock is: *Add new send stock > Prepare Product list > Select Products > Start Send Stock > Save Receive Stock > Mark as Completed*
+
 
 -	**Add new send stock:** Select the Source warehouse and Destination warehouse. Fill in the reason.
 
@@ -140,7 +119,8 @@ Besides, you can add more conditions about Product attribute for example product
 
 Now you can download Shortfall list – the list containing the products that the Destination warehouse does not receive from Source warehouse.
 
-**Request Stock:** If a warehouse lacks of stock, admin can create a Stock request to get stock from other warehouse. The process to request stock is: Add new request stock > Prepare Product list > Request Stock > Delivery Stock > Receive Stock > Mark as Completed
+**Request Stock:** If a warehouse lacks of stock, admin can create a Stock request to get stock from other warehouse. The process to request stock is: *Add new request stock > Prepare Product list > Select Products> Start Request Stock > Save Delivery Stock > Save Receive Stock > Mark as Completed*
+
 
 -	**Add new request stock:** Select the Source warehouse and Destination warehouse. Fill in the reason.
 
@@ -230,6 +210,12 @@ There are 5 steps in Stock taking using Inventory Management:
 
 5.	**Complete Stock take:** When admin does this, Stock taking status will be changed to Complete. Qty is adjusted in the warehouse. Similar to Adjust Stock, stock taking cannot be edited after status is Complete.
 After doing stock take, admin can easily view and export the difference between real stock in the warehouse and the stock level updated by the system
+
+Or you can directly adjust stock by choosing **New Stock Adjustment** on Stock Control, then fill 3 basic information about **Warehouse, Adjustment Code** and **Reason**.
+
+![](./inventoryimages/imnew1.png)
+![](./inventoryimages/imnew2.png)
+
 
 #### Stock Movement
 
