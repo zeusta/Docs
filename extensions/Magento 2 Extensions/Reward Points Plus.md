@@ -1,6 +1,6 @@
 # REWARD POINTS PLUS - STANDARD EDITION FOR MAGENTO 2
 
-**Version 1.0.2**
+**Version 1.0.3**
 
 
 *Confidential Information Notice*<br/> 
