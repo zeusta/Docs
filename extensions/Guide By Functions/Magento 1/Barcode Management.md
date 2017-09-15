@@ -28,11 +28,11 @@ Barcode listing is a view to display all barcodes of all products saved in Inven
 
 From this screen, admin can instantly take actions like importing or generating barcode with 5 buttons on the top right.
 
-![enter image description here](./Image_Barcode/image001.png)
+![import barcode from the top right of the page](./Image_Barcode/image001.png)
 
 Admin can also view details of each product and barcode. 
 
-![enter image description here](./Image_Barcode/image002.png?raw=true)
+![edit barcode info and barcode print configuration](./Image_Barcode/image002.png)
 
 From barcode detailed page, admin can configure barcode printing and print barcode directly. Product information is shown including Image, name, price and its availability in each warehouse.
 
@@ -44,18 +44,18 @@ Inventory Management gives you 2 modes to generate barcode:
 - Multiple barcodes per product SKU
 This can be configured in Barcode Settings.
 
-![enter image description here](./Image_Barcode/image003.png?raw=true)
+![enable/disable Multiple barcodes per product SKU](./Image_Barcode/image003.png)
 
 - If you set “One barcode per product SKU” as “Yes”, then the system will allow you to generate only one barcode for one product SKU.
 Now to generate barcode, you go to Generate Barcodes tab. From here you can select the product that you want to generate barcode, fill in the Supplier (optional) then generate.
 
-![enter image description here](./Image_Barcode/image004.png?raw=true)
+![Generate Barcodes tab](./Image_Barcode/image004.png)
 
 If you set “One barcode per product SKU” as “No”, then it opens up 2 options to generate barcode when you go to Generate Barcodes tab.
 
 - Generate Barcode
 
-![enter image description here](./Image_Barcode/image005.png?raw=true)
+![2 Generate Barcodes options](./Image_Barcode/image005.png)
 
 These 2 options are: Generate barcode per item or Generate barcode per purchase.
 “Generate barcode per item” means each item will have its own identified barcode although they have the same SKU.
@@ -66,7 +66,7 @@ After selecting the option you want to proceed with, you can continue selecting 
 
 Admin can configure the barcode pattern to generate. Barcodes generated will be saved in Barcode listing page &amp; Barcode creating history.
 
-![enter image description here](./Image_Barcode/image006.png?raw=true)
+![Barcode Creating History Details panel](./Image_Barcode/image006.png)
 
 ### Import barcode
 
@@ -74,7 +74,7 @@ When you generate barcodes in mass, you will not need to use Generate barcode fe
 
 The system provides a sample import file including SKU, Barcode, Qty. and Supplier &amp; Purchase time (optional).
 
-![enter image description here](./Image_Barcode/image007.png?raw=true)
+![csv template to import barcode](./Image_Barcode/image007.png)
 
 After preparing the file as in the sample file, now you can upload the file, fill the reason and start to import.
 
@@ -82,21 +82,21 @@ After preparing the file as in the sample file, now you can upload the file, fil
 
 You can create your own barcode template by adding new template. There are also 3 most used templates as default templates in the extension: **A4**, **Jewelry** and **Standard** for you to select.
 
-![enter image description here](./Image_Barcode/image008.png?raw=true)
+![Manage Barcode Label Template panel](./Image_Barcode/image008.png)
 
 You can configure paper width and height, label width and height, font size…and preview the template before saving. 
 
-![enter image description here](./Image_Barcode/image009.png?raw=true)
+![Barcode Template panel](./Image_Barcode/image009.png)
 
 ### Print barcode
 
 In Barcode configuration, admin can select the barcode template from the templates created before to print. 
 
-![enter image description here](./Image_Barcode/image010.png?raw=true)
+![Barcode Print Configuration panel](./Image_Barcode/image010.png)
 
 Admin can select multiple barcodes to print at once. Or click to **View** under Action column to print one barcode multiple times.
 
-![enter image description here](./Image_Barcode/image011.png?raw=true)
+![Set Barcode Quantity to Print](./Image_Barcode/image011.png)
 
 ### Scan barcode
 
@@ -104,12 +104,12 @@ In Inventory Management extension, you need to use a Barcode scanner which is ab
 
 - When going to Scan Barcode, you can read barcode information and product information.
 
-![enter image description here](./Image_Barcode/image012.png?raw=true)
+![Scan Barcode panel](./Image_Barcode/image012.png)
 
 - In Stock-taking, there are 5 steps: *1- General information*, *2-Prepare products*, *3-Stock counting*, *4-Complete data entry*, *5-Complete Stocktaking*. You can scan barcode to choose products in step 2-Prepare products and count stock quantity in step 3-Stock counting. (For more details of Physical Stock taking, please refer to Inventory Management user guide.)
 
-![enter image description here](./Image_Barcode/image013.png?raw=true)
+![Scan barcodes for Stock taking](./Image_Barcode/image013.png)
 
-![enter image description here](./Image_Barcode/image014.png?raw=true)
+![product's barcode is displayed after scanned](./Image_Barcode/image014.png)
 
 This is the end of Magento Barcode Management user guide, we hope this manual is useful for you. If you have any further question, feel free to send us email at **_support@magestore.com_** to receive best assistance!
