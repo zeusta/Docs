@@ -23,7 +23,7 @@ Before using Web POS to check out, admin needs to configure it in backend first.
 
 To change logo of Web POS, go to **Sales > Web POS > Settings > General Configuration.** In this tab, you can see configuration as below:
 
-![Web POS extension for Magento ](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image007.jpg)
+![Web POS extension for Magento ](./Image_Web%20POS/image007.jpg)
 
 
 -	**Web POS logo**: Upload your logo here. Please note that recommended size is 260*120px and supported files are jpeg & png.
@@ -35,7 +35,7 @@ After finishing, click on **Save or Save And Continue Edit** button to save your
 ### How to set up a shipping method for Web POS
 
 To set up Shipping Methods for Web POS, go to **System > Configuration > Shipping for POS**, the following page will be shown as below:
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image009.jpg)
+![](./Image_Web%20POS/image009.jpg)
 
 -	**Offline Shipping Methods**: Hold Shift + Click to choose the payment methods used for POS.
 
@@ -45,7 +45,7 @@ To set up Shipping Methods for Web POS, go to **System > Configuration > Shippin
 
 To set up payment method for Web POS, go to **Web POS > Settings > Payment for POS**. Then, you will be able to see:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image011.jpg)
+![](./Image_Web%20POS/image011.jpg)
 
 -	Applicable payments:
 
@@ -56,7 +56,7 @@ To set up payment method for Web POS, go to **Web POS > Settings > Payment for P
 
 If you want to set Cash In to be the default payment method for instance, you first have to choose it in **Specific Payments** field. Then, select option **Cash In** in **Default Payment Method** field.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image013.jpg)
+![](./Image_Web%20POS/image013.jpg)
 
 Magestore WebPOS well integrates with Pay.nl payment gateway, allowing more flexible payment methods for customers.
 
@@ -64,7 +64,7 @@ Magestore WebPOS well integrates with Pay.nl payment gateway, allowing more flex
 
 To set up payment method for Web POS, go to **Web POS > Settings > Product Search**.Then, you will be able to see:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image015.jpg)
+![](./Image_Web%20POS/image015.jpg)
 
 -	If you want to show inactive categories on the website, you choose **Yes**.
 -	If you want to hide inactive categories on your website, you choose **No**.
@@ -79,7 +79,7 @@ To set up payment method for Web POS, go to **Web POS > Settings > Product Searc
 
 To configure Default Guest Checkout, you go to **Web POS > Settings > Default Guest Checkout**. You will see the configuration page as below
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image017.jpg)
+![](./Image_Web%20POS/image017.jpg)
 
 Fill in all information as you want to use as default, including **Default Customer ID, First Name, Last Name, Street, Country, State/Province, City, Zip/Postal Code, Telephone** and **Email**.
 
@@ -92,36 +92,36 @@ Offline mode is when there is no Internet Connection. When you are in offline mo
 To enable offline mode, you go to **Web POS > Settings >General** then choose tab **Checkout**. You choose **Yes** option to use online mode and choose **No** to use offline mode.
 
 The promotion rule auto check can be applied for offline mode only, choose **Yes/ No** to activate/ turn off this function. See the screenshot below:
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image019.jpg)
+![](./Image_Web%20POS/image019.jpg)
 
 ### How to add a Web POS user
 
 To add new user using Web POS, go to **Web POS > Web POS Permissions > POS Users**. Here you can see a list of users who have been created.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image021.jpg)
+![](./Image_Web%20POS/image021.jpg)
 
 You can also export user list to CSV/ XML file or add new Web POS user.
 -	Click on **Add User** button then you will be directed to the following page:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image023.jpg)
+![](./Image_Web%20POS/image023.jpg)
 
 Fill in all information of the user in **User Information & User Settings** then, click **Save** or **Save And Continue** Edit.
 
 Please note that to select the role for user, you need to add a role first. Please go to the section: **How to differentiate access permissions of Web POS users for more details**.
 
 -	To edit a user, click on the **Edit** link in **POS Users** manager page.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image025.jpg)
+![](./Image_Web%20POS/image025.jpg)
 
 You can edit information here. After finishing, you click on **Save** to save the changes.
 
 ### How to differentiate access permissions of Web POS users
 
 To grant different permission for Web POS user, go to **Web POS > Web POS Permissions > POS Roles**. The **Role Manager** page will be shown. You can export role user list to csv/xml file:
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image027.jpg)
+![](./Image_Web%20POS/image027.jpg)
 
 To add a new role, click on **Add Role** button in the top right corner. You will see the Add page. Here, there are two tabs: **Role Information** and **User List**.
 
 -	In **Role Information** tab, please make sure you fill in enough information
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image029.jpg)
+![](./Image_Web%20POS/image029.jpg)
 
      -	**Role Name**: Enter a specific name for the role in order to find it easily
      -	**Permissions**: Choose which all or specific permissions you want to grant for this role. Use Shift + Click to choose more than one
@@ -130,11 +130,11 @@ To add a new role, click on **Add Role** button in the top right corner. You wil
      -	**Status**: Remember to set Status as Active if you want to enable it
 
 -	In **User List** tab, there is a list of users who will have corresponding permission in Web POS system. You can delete/ enable users right on this board. After finishing, click on **Save** or **Save And Continue Edit** button to save your work.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image031.jpg)
+![](./Image_Web%20POS/image031.jpg)
 
      -	To edit a current role, click on "Edit" link on Role Manager page, then you will be redirected to **Edit Role** page. When finishing editing, please click on **Save** or **Save and Continue Edit** Button to save the change.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image033.jpg)
+![](./Image_Web%20POS/image033.jpg)
 
 ### How to connect Web POS with peripheral devices
 
@@ -154,11 +154,11 @@ You should install customer pole display’s driver if your device has driver be
 
 Firstly, you need to enable Pole display function in Web POS settings. Go to Magento backend, choose **Sales > Web POS > Settings**, then choose **Yes** in field **“Integrate with Pole Display device”**.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image035.jpg)
+![](./Image_Web%20POS/image035.jpg)
 
 Secondly, you need to install the desktop application to connect your PC/ Laptop with the pole. After purchasing Web POS, you can download the Pole Display integration file which contains these following files & folders:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image037.jpg)
+![](./Image_Web%20POS/image037.jpg)
 
 Then follow these steps:
 
@@ -174,7 +174,7 @@ Then follow these steps:
 
 -	**Step 3**: Run the Pole Integration.exe file:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image039.jpg)
+![](./Image_Web%20POS/image039.jpg)
 
 You need to open this program when using Web POS to use customer pole display.
 
@@ -188,13 +188,13 @@ You have finished settings for Web POS, now please move to the part of How to us
 
 After you create user with specific permission in using Web POS, you can send him Web POS checkout link or guide him to access from Web POS backend by going to **Web POS ->	Web POS Checkout**. Then, a login form will appear. User needs to choose store (if website has multi store views) then fill in your account & password to continue:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image041.jpg)
+![](./Image_Web%20POS/image041.jpg)
 
 To manage his account, the user should go to Settings tab > My Account:
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image043.jpg)
+![](./Image_Web%20POS/image043.jpg)
 
 Then, click on **My Account** link and the user can see his information. He can also change his password if he wants.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image045.jpg)
+![](./Image_Web%20POS/image045.jpg)
 
 ### How a Web POS user deletes/ reloads data in local manually
 
@@ -207,7 +207,7 @@ In some cases, a user's local data is not 100% synced with data in the back-end.
 -	**How to use**:
 
 To reload data, go to **Setting > Synchronization** then choose **Reload** (to reload each category) or **Reload All** (to reload all data).
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image047.jpg)
+![](./Image_Web%20POS/image047.jpg)
 
 -	**_Notes_**:
 
@@ -220,11 +220,11 @@ You can configure to search products by going to Settings > General
 -	In Catalog tab: Enable **Display out-of-stock products in search results (online mode)** by choosing **Yes** option. If you choose **No** option, out-of-stock products will not display in search results.
 
 **Note**: This function is available for online mode only.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image049.jpg)
+![](./Image_Web%20POS/image049.jpg)
 
 **Product Search** section: You go **Web POS ->Setting** and choose tab **Product Search**.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image051.jpg)
+![](./Image_Web%20POS/image051.jpg)
 
    -	**Product Attribute(s) for Search**: Select attributes by which you want to search products. The default attributes are Name & SKU. If you want to search quickly by barcode, choose barcode attribute. Hold Shift + Click to pick more than one.
 
@@ -232,13 +232,13 @@ In frontend, you can search products in 3 ways - **categories**, **product attri
 
 -	Use categories: In frontend, you can click on All Categories link to quickly search products by categories. Choose the corresponding categories as you prefer.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image053.jpg)
+![](./Image_Web%20POS/image053.jpg)
 
 -	Use product attribute
 
 To search by product attributes, click on Search icon, then a search bar will be shown. Enter your search terms and matching products will display right away.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image055.jpg)
+![](./Image_Web%20POS/image055.jpg)
 
 -	Use barcode
 
@@ -254,13 +254,13 @@ To search by product attributes, click on Search icon, then a search bar will be
 
 -	With configurable, bundle, grouped products, after clicking, you will see a popup shown to choose your option. Then, click on **Add to cart** button.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image057.jpg)
+![](./Image_Web%20POS/image057.jpg)
 
 #### Edit products in cart
 
 After adding products to cart, you can edit the quantity of each product by clicking on the product that needs editing. A popup will display with edited option for **Qty**.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image059.jpg)
+![](./Image_Web%20POS/image059.jpg)
 
 To edit Qty., just enter a wanted number or click on +/-. The number of products will be adjusted in the cart right away.
 
@@ -278,11 +278,11 @@ Custom sale item is the item that Web POS user creates when checkout. It is used
 
 In frontend, click on **Custom Sale** button if you want to add the custom product to cart
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image062.jpg)
+![](./Image_Web%20POS/image062.jpg)
 
 A screen will be shown for you to configure this custom product.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image064.jpg)
+![](./Image_Web%20POS/image064.jpg)
 
 -	**Name**: Enter the name of custom product
 
@@ -299,11 +299,11 @@ Please note that this custom sale product will not be saved for the next checkou
 
 After adding products to cart, to apply a coupon code or discount on the whole cart, click on **Add Cart Discount** link.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image066.jpg)
+![](./Image_Web%20POS/image066.jpg)
 
 Then, a popup will display as below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image068.jpg)
+![](./Image_Web%20POS/image068.jpg)
 
 You can choose between using **Discount** or **Promotion**
 
@@ -318,17 +318,17 @@ Then, the cart will be updated automatically after you click on **Apply** button
 
 Just fill in available coupon you want to offer for your customers. The cart will be updated automatically after you click on **Apply** button.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image070.jpg)
+![](./Image_Web%20POS/image070.jpg)
 
 ### How to apply a custom discount or custom price to a product
 
 After adding products to cart, besides editing the quantity of each product (refer to section **Edit products in cart** for more details), you can click on the product to edit other information. A popup will display with edit option for **Custom Price, Discount**. Remember that you can only change information by Custom Price **OR** Discount, instead of both at once for a product.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image072.jpg)
+![](./Image_Web%20POS/image072.jpg)
 
 -	You can set custom price for products by click on **Custom Price** button. The next popup will be shown as below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image074.jpg)
+![](./Image_Web%20POS/image074.jpg)
 
 In this popup, please choose type you want to adjust for the price, according to fixed number or percentage.
      •	If you edit fixed price, the price will be changed to the price you have entered.
@@ -336,18 +336,18 @@ In this popup, please choose type you want to adjust for the price, according to
 
 Then, products in cart will be automatically updated with the price you edit.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image076.jpg)
+![](./Image_Web%20POS/image076.jpg)
 
 Editing discount for each product is similar to edit by Custom Price. Click on **Discount** button and choose types of discount–fixed discount or percentage–you want to adjust:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image078.jpg)
+![](./Image_Web%20POS/image078.jpg)
 
      •	If you edit discount by fixed number, the price will decrease by the exact value you have entered
      •	If you edit by percentage, the price will decrease by the percent you have entered (it is similar to Custom Price by percentage).
 
 Then, the product price will be updated in the cart.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image080.jpg)
+![](./Image_Web%20POS/image080.jpg)
 
 ### How to handle customer information at checkout
 
@@ -355,7 +355,7 @@ Then, the product price will be updated in the cart.
 
 To use Customer Checkout, add customer by clicking on **Customer** icon on the right corner. You will see a screen as below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image082.jpg)
+![](./Image_Web%20POS/image082.jpg)
 
 -	Search customers:
 
@@ -363,13 +363,13 @@ In the search box, you can quickly find the customer by entering his name, email
 
 The information of customer in the system will be auto updated in checkout step. To edit it, please click on name of customer. In the popup, just edit the pieces of information you want to change.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image084.jpg)
+![](./Image_Web%20POS/image084.jpg)
 
 -	Create customer
 
 If customer hasn’t been added in your system before, instead of searching, click on **Create Customer** button.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image086.jpg)
+![](./Image_Web%20POS/image086.jpg)
 
 Fill enough information of the customer such as **First Name, Last Name, Email, Group, Shipping & Billing Address,** etc. You can choose whether Billing Address is similar to Shipping Address or not. Remember to click on **Save** button to save the customer information for the next checkout.
 
@@ -388,7 +388,7 @@ In some special situations, to remember about your order, you can add comment to
 
 Click on **Add Order Comment** icon in the top right corner. In the **Order Comment** box, type the content that reminds you of this order. Then, save it.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image088.jpg)
+![](./Image_Web%20POS/image088.jpg)
 
 ### How to check order comment
 
@@ -396,26 +396,26 @@ Click on **Add Order Comment** icon in the top right corner. In the **Order Comm
 
 To view comment of order, you can go to **Orders** tab in Web POS screen, choose an order then scroll down to see Comment History.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image090.jpg)
+![](./Image_Web%20POS/image090.jpg)
 
 -	In Magento backend
 
 Go to Sales > Orders > click on a specific order. In order details page, scroll down to **Comment History** tab to check whether it has any notes or not.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image092.jpg)
+![](./Image_Web%20POS/image092.jpg)
 
 ### How to process at checkout for a customer
 
 You have been through steps to add products to cart and add customer, let’s move to the checkout process.
 
 -	When products are added to cart, click on **Checkout** button at the end of the cart page
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image094.jpg)
+![](./Image_Web%20POS/image094.jpg)
 
 You will be redirected to the next page with information of Shipping & Payment Method
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image096.jpg)
+![](./Image_Web%20POS/image096.jpg)
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image098.jpg)
+![](./Image_Web%20POS/image098.jpg)
 
 -	**Credit Card**: Magestore Web POS supports Authorize.net & Stripe. Sale staff can fill in card information manually or swipe card (if the POS system is connected with a card swiper). For more information about how to connect, please go to section **How to connect Web POS with peripheral devices**.
 
@@ -427,7 +427,7 @@ You will be redirected to the next page with information of Shipping & Payment M
 
 After choosing payment method, click on Place Order button to complete checkout process. There will be a notification as is shown below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image100.jpg)
+![](./Image_Web%20POS/image100.jpg)
 
 ### Split & Partial Payment with Web POS
 
@@ -437,11 +437,11 @@ You can use more than 1 payment method for split payments when checkout with Web
 **Customer’s order value is $606.04**
      -	Your customer wants to pay $400 in Cash In. Then, you fill in the blank space **Cash In** with the value of $400.
      
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image102.jpg)
+![](./Image_Web%20POS/image102.jpg)
 
 -	For the remaining ($206.04), your customer wants to pay by Custom payment 1. So, at this time, you click on the **Add Payment** button and choose **Custom payment 1**. The remaining amount ($206.04) will be automatically filled in the box.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image104.jpg)
+![](./Image_Web%20POS/image104.jpg)
 
 **_Notes_**:
 
@@ -455,15 +455,15 @@ With Web POS, you can also apply partial payment that allows customers to pay pa
 
 -	When processing payment, choose **Cash In** with the value of $300. Then, instead of filling the remained values in other payment methods, you click on button **Mark as partial**.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image106.jpg)
+![](./Image_Web%20POS/image106.jpg)
 
 -	After finishing creating order, in the next step, when customers come back to pay the rest of order value, you open that order’s details in **Order History** tab.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image108.jpg)
+![](./Image_Web%20POS/image108.jpg)
 
 -	You can check the total due is $306.04 and the total paid is $300. To complete the order payment, you click on **Take payment** button. Tick to choose the payment option or pay with multiple ones.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image110.jpg)
+![](./Image_Web%20POS/image110.jpg)
 
 -	After filling in the due amount, click on **Submit** button to complete the payment action. Then the total paid is equal to the whole order’s value.
 
@@ -473,31 +473,31 @@ Your customers can't make up their minds yet, or are unable to make a payment me
 
 After adding products to cart, you can choose **Hold** to put the order into **On-hold Orders** section. A **Note for holding order** will appear for inserting any comment that you would like to keep, for example, “Waiting for payment”.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image112.jpg)
+![](./Image_Web%20POS/image112.jpg)
 
 To check orders that have been put on hold, select **On-hold Orders** section. List of on-hold orders is recorded with certain note for each order. You may select **Continue Processing** whenever customer is willing to take final action for payment or you may **Cancel** it if it is not effective anymore.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image114.jpg)
+![](./Image_Web%20POS/image114.jpg)
 
 ### How to print receipt and email order information
 
 You can print receipt or email order information right after creating an order. Remember that you must be online and have permission to do these actions.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image116.jpg)
+![](./Image_Web%20POS/image116.jpg)
 
 The receipt will look like the screenshot below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image118.jpg)
+![](./Image_Web%20POS/image118.jpg)
 
 And here is the email of order information:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image120.jpg)
+![](./Image_Web%20POS/image120.jpg)
 
 ### How to review orders
 
 In POS screen, you can review orders by choosing **Order History** tab. Here you can see the order list and order details:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image122.jpg)
+![](./Image_Web%20POS/image122.jpg)
 
 -	**Order status**
 
@@ -512,23 +512,23 @@ In order list, the status of order is distinguished by color
 - **Order searching**
 To quickly find an order to review, you can search it by Order ID or Customer’s Name/Email
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image124.jpg)
+![](./Image_Web%20POS/image124.jpg)
 
 -	**View order information**
 
 To view detailed information, click on your wanted order. Please make sure that you have permission to check it. The detailed order will be shown like this
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image126.jpg)
+![](./Image_Web%20POS/image126.jpg)
 
 ### How to issue invoice for an order
 
 The order can’t be complete if you haven’t issued invoice for customer. After the order is created successfully, you will find order’s details on tab Order History then click on tab **Invoice**.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image130.jpg)
+![](./Image_Web%20POS/image130.jpg)
 
 A pop-up will appear so you can enter the quantity of item or the order amount to be invoiced. Then you click on button **Submit invoice** to complete the action. You can choose whether to send invoice to customer’s email or not.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image132.jpg)
+![](./Image_Web%20POS/image132.jpg)
 
 **_Note_**: From version 3.0.4, WebPOS extension is well integrated with Magestore PDF Invoice extension. This helps store owners create invoice much more easily and faster.
 
@@ -542,7 +542,7 @@ There are two ways to create shipment using Web POS: **before placing an order a
 
 Before an order is created by clicking Place Order, you can create shipment by turn it on as below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image134.jpg)
+![](./Image_Web%20POS/image134.jpg)
 
 After verifying shipment method, the system will automatically load to Successful Order Page. There will be a message shown to notify you that shipment is created successfully. Please note that to use this way, you need to have permission and be in online mode.
 
@@ -550,7 +550,7 @@ After verifying shipment method, the system will automatically load to Successfu
 
 When order has been created successfully but hasn’t been shipped, you can go to Order History and create shipment for that order.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image136.jpg)
+![](./Image_Web%20POS/image136.jpg)
 
 -	**Partial shipment**:
 
@@ -560,7 +560,7 @@ After placing order successfully, you find that order in Order History. Then you
 
 **Note**: Only orders that have been synced can be shipped.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image138.jpg)
+![](./Image_Web%20POS/image138.jpg)
 
 #### How to issue refund
 
@@ -568,11 +568,11 @@ Some certain staffs have permission to issue refund (which is set by admin in ba
 
 To issue refund, go to Orders tab in POS screen, you choose the order that is required to refund. Click on **Refund** button in the end.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image143.jpg)
+![](./Image_Web%20POS/image143.jpg)
 
 A popup will display so that you can fill in the information before making refund. Tick **Return to stock** if you want to return those items back to your stock.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image145.jpg)
+![](./Image_Web%20POS/image145.jpg)
 
 After that, you will get the message informing that credit memo is created successfully. Please make sure you have permission to issue refund and you are in online mode. 
 
@@ -584,7 +584,7 @@ After that, you will get the message informing that credit memo is created succe
 
 Magento Web POS provides you 10 types of reports which help you get deeper into your business performance. To view reports, you choose tab Sales/ Report on Magento backend. There will display 10 types of report as on the image below:
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image147.jpg)
+![](./Image_Web%20POS/image147.jpg)
 
 **Note**:
      -	You can export each report into Excel XML or CSV file.
@@ -594,48 +594,48 @@ Magento Web POS provides you 10 types of reports which help you get deeper into 
 
 On Staff report row, there are 3 types of reports: Sales by staff, Sales by staff (Daily) and Order list for staff. The Sales by staff report shows the number of orders and total sales created by each sale staff in any custom period.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image149.jpg)
+![](./Image_Web%20POS/image149.jpg)
 
 The Sales by staff (Daily) expresses the number of order and total sales created by each staff each day in the time period that you choose.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image151.jpg)
+![](./Image_Web%20POS/image151.jpg)
 
 In the Order list for sale staff, you can view all order information including ID, value, history and status of each order created by any or each specific sale staff.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image153.jpg)
+![](./Image_Web%20POS/image153.jpg)
 
 #### Location report
 
 Similar to Staff report, the Location report has 3 different reports including Sales by location, Sales by location (Daily) and Order list for location.
 
 The Sales by location report shows the number of orders and sales created in each location, in any custom time period.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image155.jpg)
+![](./Image_Web%20POS/image155.jpg)
 
 The Sales by location (Daily) report shows the number of orders and sales created in each location by each day.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image157.jpg)
+![](./Image_Web%20POS/image157.jpg)
 
 In the Order list for location, you can view all order information including ID, value, history and status of each order created by all or each specific sale location.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image159.jpg)
+![](./Image_Web%20POS/image159.jpg)
 
 #### Payment Report
 
 The section of Payment Report has 4 different types of report including Sales by payment method, Sales by payment method (Daily), Order list for payment method and Sales by payment method for location.
 
 The Sales by payment method displays the number of orders and sales paid by each payment method in a custom time period.
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image161.jpg)
+![](./Image_Web%20POS/image161.jpg)
 
 The Sales by payment (Daily) report shows the number of orders and sales created by each payment method by each day.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image163.jpg)
+![](./Image_Web%20POS/image163.jpg)
 
 In the Order list for payment method, you can view all order information including ID, value, history and status of each order created by all or each specific payment method.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image165.jpg)
+![](./Image_Web%20POS/image165.jpg)
 
 The Sales by payment method for location displays the number of orders and sales created by each payment in each sale location.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image167.jpg)
+![](./Image_Web%20POS/image167.jpg)
 
 ### How to manage cash drawer
 
@@ -646,22 +646,22 @@ To manage cash drawer, you go to tab Cash Drawer on Web POS checkout screen.
 
 As you see on the below image, there is a list of orders paid in cash on the left screen (cash transactions). The total value of cash transactions equals to the balance in cash drawers. The amounts paid with other payment methods are displayed on Sales by Payments section.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image169.jpg)
+![](./Image_Web%20POS/image169.jpg)
 
 You have frequent cash in/out beside normal order transactions like paying electrical bills, balancing cash amount in hand, etc? Web POS system records deposits and withdrawals from your cash drawer then compare them with actual cash amount (counted in notes) after each cashier’s shift.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image171.jpg)
+![](./Image_Web%20POS/image171.jpg)
 
 When your cashier’s shift ends, you count the cash amount on cash drawers and compared with the one recorded by the system. You can also record the amount of cash left for the next shift and add some notes.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image173.jpg)
+![](./Image_Web%20POS/image173.jpg)
 
 
 #### Z-report
 
 Z-report shows the cash drawer balance in a certain time like a shift or a working day. All payment methods will be listed down with the record of Grand Total in details respectively. If there is no customer use Cash on Delivery method to purchase orders, it will not appear in the Payment Method section.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Magento%201%20Extensions/Image_Web%20POS/image175.jpg)
+![](./Image_Web%20POS/image175.jpg)
 
 The Z-report will be refreshed to serve new shift/working day after you select Close Store. Particularly, your cash drawer will be reset to 0 or to the certain amount that you set up in Cash Left. Each Z-report is automatically saved in Magento backend so you can check it back (go to Sales > Web POS > Web POS Z-report)
 
