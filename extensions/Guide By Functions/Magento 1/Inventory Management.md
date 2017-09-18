@@ -13,8 +13,8 @@ Inventory cost is generally between 20% and 30% of the cost to purchase inventor
 
 ![enter image description here](./image_IM%20Rebuilt/image001.png)
 
-The rebuilt **Inventory Management** for Magento 1 has been released to replace the former one. No more complicated pricing plan, the rebuilt version includes mainly features of the **Professional edition** (in old Inventory Management) as well as **new additional features**.
-Together with Magento 1 upcoming extensions: Barcode Management, Purchase Management, Order Fulfillment, Dropship & Reports, **Inventory Management** rebuilt is the critical element in **Order Success combo**. Everything in stock is under control, plus, all operations such as add, adjust, transfer stocks are simplified to be completed within the shortest of time! 
+**Inventory Management** for Magento 1 is especially designed for Magento retails to successfully control their stock with minimum effort and fatest time.
+Together with other features in our solution: Barcode Management, Purchase Management, Order Fulfillment, Dropship & Reports, **Inventory Management** is the critical element in creating Order-Fulfillment-Success combo. Everything in stock is under control, plus, all operations such as add, adjust, transfer stocks are simplified to be completed within the shortest of time! 
 
 ## Terminologies and principles
 
@@ -27,7 +27,7 @@ Together with Magento 1 upcoming extensions: Barcode Management, Purchase Manage
 |Quantity to ship| The number of items has been ordered but not been shipped yet. This number will be returned to Avail Qty & Qty in Warehouse(s) if the shipment is cancelled| 1.1. Stock in Warehouse|
 |Shelf Location| Insert the detailed area in the shelf where the product is located. This is how you can support your staff in finding the product efficiently in the physical warehouse| 1.3. Warehouses|
 | Warehouse| A “warehouse” in Inventory Management represents for a physical place where you keep your stock. Stocks can be moved between warehouses, purchased for a Warehouse and shipped from a Warehouse. Employees (with different admin accounts) can be restricted to handling only warehouse(s) with which they work| 1.3. Warehouses|
-| Primary Warehouse| Primary Warehouse is automatically created after the extension is installed which contains all products in your catalog. This warehouse cannot be deleted to make sure that there is always at least one warehouse consisting of your inventory| 1.3. Warehouses|
+| Primary Warehouse| Primary Warehouse is automatically created after the module is installed which contains all products in your catalog. This warehouse cannot be deleted to make sure that there is always at least one warehouse consisting of your inventory| 1.3. Warehouses|
 |Warehouse Pemission| Assign and manage a staff account permission level in controlling a specific warehouse. Base on Roles Assigned, an user who has full authorities will have permission to create new role & set up new user with specific permissions| 1.3. Warehouses|
 |Stock Adjustment|Adjust Stock action is used to correct/ update inventory levels of your products and records them in Stock Adjustment History. This will change the Qty. In Warehouse(s) in the Stock in Warehouse grid of Inventory Management module. After that, the system will update Available Qty. accordingly (or the quantity in default Catalog Products) after subtracting Qty allocated in sales orders from the new Qty in Warehouse(s)|2.1.1. New stock Adjustment|
 |Stock Adjustment History | Stock Adjustment History records all inventory corrections/ updates when there are some differences between stock levels of physical and virtual warehouses|2.1.2. Stock Adjustment History|
@@ -112,7 +112,7 @@ When a product is newly-created and has not been assigned to any warehouse yet, 
 #### 1.3. Warehouses
 
 The **Warehouses** page displays each warehouse’s details such as its ID, name, total SKUs and total product quantities in each warehouse, contact email/ tel./ address. 
-The **Inventory Management** rebuilt allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers. 
+Our **Inventory Management** allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers. 
 You can enable this function in **Settings.**
 
 ![enter image description here](./image_IM%20Rebuilt/image008.png)
