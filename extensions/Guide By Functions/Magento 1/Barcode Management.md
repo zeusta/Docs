@@ -15,7 +15,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 Barcode by definition is the small image of lines (bars) and spaces that is affixed to retail store items, identification cards, and postal mail to identify a particular product number, person, or location. The code uses a sequence of vertical bars and spaces to represent numbers and other symbols. Barcode is a reliable method for cutting costs and savingtime for business.
 
-Barcode management extension from Magestore provides your business with a handful solution to generate barcode, print barcode label and scan barcode, all in one.
+Barcode management module from Magestore provides your business with a handful solution to generate barcode, print barcode label and scan barcode, all in one.
 
 -------------
 
@@ -80,7 +80,7 @@ After preparing the file as in the sample file, now you can upload the file, fil
 
 ### Barcode label template
 
-You can create your own barcode template by adding new template. There are also 3 most used templates as default templates in the extension: **A4**, **Jewelry** and **Standard** for you to select.
+You can create your own barcode template by adding new template. There are also 3 most used templates as default templates: **A4**, **Jewelry** and **Standard** for you to select.
 
 ![Manage Barcode Label Template panel](./Image_Barcode/image008.png)
 
@@ -100,7 +100,7 @@ Admin can select multiple barcodes to print at once. Or click to **View** under 
 
 ### Scan barcode
 
-In Inventory Management extension, you need to use a Barcode scanner which is able to connect with your computer. Then you can scan to read product information or update stock Qty. when doing Stock taking (Stock taking is a feature available in Inventory Management extension) or managing purchase orders (Magestore Barcode management extension is totally compatible with Magestore Inventory Management &amp; Purchase Management extension.)
+In our inventory management modules, you need to use a Barcode scanner which is able to connect with your computer. Then you can scan to read product information or update stock Qty. when doing Stock taking (Stock taking is a function available in Magestore's inventory management solution) or managing purchase orders.
 
 - When going to Scan Barcode, you can read barcode information and product information.
 
