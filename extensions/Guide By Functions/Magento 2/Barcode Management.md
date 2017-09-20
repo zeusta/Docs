@@ -14,7 +14,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 Barcode by definition is the small image of lines (bars) and spaces that is affixed to retail store items, identification cards, and postal mail to identify a particular product number, person, or location. The code uses a sequence of vertical bars and spaces to represent numbers and other symbols. Barcode is a reliable method for cutting costs and saving time for business.
 
-Barcode management extension from Magestore provides your business with a handful solution to generate barcode, print barcode label and scan barcode, all in one.
+Barcode management module from Magestore provides your business with a handful solution to generate barcode, print barcode label and scan barcode, all in one.
 
 
 ## How it works
@@ -88,7 +88,7 @@ After preparing the file, now you can upload the file, fill the reason and start
 ###  Barcode template
 
 
-You can create your own barcode template by adding new template. There are also 3 most used templates as default templates in the extension: A4, jewelry and standard for you to select.
+You can create your own barcode template by adding new template. There are also 3 most used templates as default templates in the module: A4, jewelry and standard for you to select.
 
 ![You can create your own barcode template](./barcode-images/bm8.png)
 
@@ -112,12 +112,18 @@ Admin can select multiple barcodes to print at once. Or click to View under Deta
 ###  Scan barcode
 
 
-In Inventory Management extension, you need to use a Barcode scanner which is able to connect with your computer. Then you can scan to read product information or update stock Qty. when doing Stock taking (Stock taking is a feature available in Inventory Management extension).
+In Inventory Management module, you need to use a Barcode scanner which is able to connect with your computer. Then you can scan to read product information or update stock Qty. when doing Stock taking (Stock taking is a feature available in Inventory Management module).
 
 - When going to Scan Barcode, you can read barcode information and product information.
 
 ![When going to Scan Barcode](./barcode-images/bm12.png)
 
-- In Stock-taking, there are 5 steps: 1- General information, 2-Prepare product, 3-Stock take, 4-Complete data entry, 5-Complete Stock take. Scanning can be applied at step 2: Prepare product before Stock take. From this step, there is an option to import products and sample files are provided. You can use a barcode scanner to scan product with Qty. into an excel/csv file. Then upload the file with Qty. counted by barcode scanner into the system to update Stock take Qty. About detailed steps of Physical Stock taking, please refer to Inventory Management user guide.
+- In Stock-taking, there are 5 steps:<br/>
+  -General information<br/>
+  -Prepare product<br/>
+  -Stock take<br/>
+  -Complete data entry<br/>
+  -Complete Stock take.<br/>
+  Scanning can be applied at step 2: Prepare product before Stock take. From this step, there is an option to import products and sample files are provided. You can use a barcode scanner to scan product with Qty. into an excel/csv file. Then upload the file with Qty. counted by barcode scanner into the system to update Stock take Qty. About detailed steps of Physical Stock taking, please refer to Inventory Management user guide.
 
 ![Stock-taking](./barcode-images/bm13.png)
