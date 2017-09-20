@@ -270,9 +270,9 @@ Then the **Report Charts** page will be shown as follows:
 
 This page can be divided into two main sections including **Life-time Reports and Period-of-time Report Charts**.
 
-•	**Life-time Reports**: There are 2 types of reports.
--  	**Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.
--	**Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
+- **Life-time Reports**: There are 2 types of reports.<br/>
+       - **Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.<br/>
+       - **Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
 
 •	**Period-of-time Report Charts**: This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month**, etc.
 
@@ -310,7 +310,7 @@ Go to **Store Credit > Settings**
 
 ![Storecredit](./SC%20Image/image053.png)
 
-•	**General Configuration** Tab:
+- **General Configuration** Tab:
 
 ![Storecredit](./SC%20Image/image054.png)
 
@@ -321,7 +321,7 @@ Allow sending credit|	Yes	|Your Customers can send credit to their friends
 Verify before sending credit|	Yes|	Your Customers are required to verify before sending credit to friends
 Groups can use credit|	General	|Only General Customers can use credit
 
-•	**Spend Credit On** Tab
+- **Spend Credit On** Tab
 
 ![Storecredit](./SC%20Image/image055.png)
 
@@ -330,15 +330,13 @@ Title|	If you choose|	Result will be|
 Apply Customer Credit|	After tax|	Apply Customer credit discount to Customer’s order value after tax calculated
 Shipping Fee|	No	|Credit balance cannot be used to pay for Shipping Fee
 
-•	**Email Configuration** Tab:
+- **Email Configuration** Tab:
 
-![Storecredit](./SC%20Image/image056.png)
+![Storecredit](./SC%20Image/image056.png)<br/>
+       - **Adjust time for Customer credit reports on total used and total received credit** Tab:
 
-•	**Adjust time for Customer credit reports on total used and total received credit** Tab:
-
-![Storecredit](./SC%20Image/image057.png)
-
-•	**Style Configuration** tab: on this tab, you will be able to change background and color of Title
+![Storecredit](./SC%20Image/image057.png)<br/>
+       - **Style Configuration** tab: on this tab, you will be able to change background and color of Title
 
 ![Storecredit](./SC%20Image/image058.png)
 
