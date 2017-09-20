@@ -23,7 +23,7 @@ If your inventory is not enough to supply, you may lose customer. But if the inv
 
 •	Allow to link multiple Magento stores to a warehouse
 
-Hope that you will have a great time using our extension and free your mind from messy stock management.
+Hope that you will have a great time using our module and free your mind from messy stock management.
 
 
 ## HOW IT WORKS
@@ -219,7 +219,7 @@ Or you can directly adjust stock by choosing **New Stock Adjustment** on Stock C
 
 #### Stock Movement
 
-The extension records all the movements of stocks in warehouse. These movements are reflected in Stock Movement report under Stock Control submenu.
+The module records all the movements of stocks in warehouse. These movements are reflected in Stock Movement report under Stock Control submenu.
 
 The table shows SKU of the products added or subtracted from warehouse, the changed Qty, Warehouse name, Date and Reference number to see the details on a click. Admin can easily exports Stock Movement details into CSV or Excel XML.
 
