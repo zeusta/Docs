@@ -258,20 +258,20 @@ In Magento backend, you go to tab **Retail Report**, then choose **Settings** to
 No.|	Metrics |		Sign|	Equation|	Explain|
 ---|---|---|---|---|
 **O. Metric Units**|				
-1|	Actual Sold	|actual_sold_qty|	min (qty_shipped, (qty_ordered -qty_canceled -qty_refunded)) |Quantity of products transferred to customers (shipped orders).|
-2 |	Potential Sold Quantity |potential_sold_qty	Max (0, qty_ordered -qty_shipped -qty_canceled -qty_refunded)| Quantity of products sold to customers (unshipped orders)|
+1|	Actual Sold Quantity |actual_sold_qty|	min (qty_shipped, (qty_ordered -qty_canceled -qty_refunded)) |Quantity of products transferred to customers (shipped orders).|
+2 |	Potential Sold Quantity |potential_sold_qty| Max (0, qty_ordered -qty_shipped -qty_canceled -qty_refunded)| Quantity of products sold to customers (unshipped orders)|
 3|	Purchase cost calculated by average MAC value| unit_cost | Get data from field **base_cost** in the table **order_item** (from Magento backend) |
-4|	Average price per unit product	|unit price|	base price	|
+4|	Average price per unit product	|unit price|	base_price	|
 5|	Tax of a product unit	|	unit_tax |	base_price x tax_percent|	
 6|	Discount value discount_percent	|	unit_discount|	base_price x discount_percent	|
-7|	Profit value of a discount_percent|		unit_profit	| base_price - unit_cost -unit_tax - unit_discount|
+7|	Profit value of a discount_percent|		unit_profit	| base_price - unit_cost - unit_tax - unit_discount|
 **I. Sales Report**	|			
 1|	Cost of goods sold|		COGS|	actual_cogs + potential_cogs |	COGS = cost of purchase x quantity of sold items|
-2| Actual cost of goods sold |	actual_cogs |	unit_cost x actual_sold_qty | Actual discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are not invoiced yet.|
-3 |	Potential Cost of goods sold|	potential_cogs|	unit_cost x potential_sold_qty| Potential discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are not invoiced yet.|
+2| Actual cost of goods sold |	actual_cogs |	unit_cost x actual_sold_qty | Actual discount value (based on the product's current order status) is shown in **row_invoiced**. This value is calculated for items that are not invoiced yet.|
+3 |	Potential Cost of goods sold|	potential_cogs|	unit_cost x potential_sold_qty| Potential discount value (based on the product's current order status) is shown in **row_invoiced**. This value is calculated for items that are not invoiced yet.|
 4|	Purchasing cost calculated by the MAC (Moving average cost)|unit_cost| total cost after Purchase Order / total Qty after Purchase Order|Cost of purchase is calculated in average cost method. MAC = total cost / quantity that have been transferred into warehouse (based on the current purchase order status)|
 5|	Profit|	Profit|	actual_profit + potential_profit |	Profit = total revenue -total COGS
-6|	Actual Profit|	actual_profit|	unit_profit x actual_sold_qty| Actual discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are already Invoiced|
+6|	Actual Profit|	actual_profit|	unit_profit x actual_sold_qty| Actual discount value (based on the product's current order status) is shown in **row_invoiced**. This value is calculated for items that are already Invoiced|
 7|	Potential Profit|	potential_profit|	unit profit x potential_sold_qty | Projected discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are not invoiced yet|
 8|	Tax|	Tax	|actual_tax + potential_tax|	Tax of an item on order
 9|	Actual Tax|	actual_tax|	unit_tax x actual_sold_qty|	Actual discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are already invoiced|
@@ -286,7 +286,7 @@ No.|	Metrics |		Sign|	Equation|	Explain|
 3|	Selling Price|	Selling Price|	Product Price|	Product price which is set in Magento core (exclusive tax and discount)
 4|	Potential Revenue| Potential Revenue| price x Qty| Total price of unsold products (the estimate - the actual amount depends on actual sales)
 5|	Potential Profit	|	Potential Profit|	Potential Revenue - Inv Value = (price x Qty) -(MAC x Qty)| Total potential profit ofunsold products
-6|	Profit margin	|	Profit margin| 	Potential Profit / Potential Revenue x 100 / Potential Profit of unsold products in percentage
+6|	Profit margin	|	Profit margin| 	Potential Profit / Potential Revenue x 100 | Potential Profit of unsold products in percentage
 7|	On Purchase Order (Incoming Stock)|Incoming Stock | qty_ordered - qty_refund - qty_tranfer|  The quantity of stock in pending/ processing Purchase Orders (i.e. excluding completed and canceled POs) that have not been transferred into warehouse.  **Note:** this value is the same in reports in all warehouses, since these stocks have not been assigned to any warehouse yet
 8| Overdue Incoming Stock| Overdue Incoming Stock|qty_ordered - qty_refund - qty_tranfer|Quantity of stock in overdue Purchase Orders that have not been transferred to warehouse (the current date has passed the expected due date on Purchase Order)
 9|	Total cost of incoming stock| Total cost of incoming stock| (qty_ordered - qty_refund - qty_tranfer) x cost| Total cost
