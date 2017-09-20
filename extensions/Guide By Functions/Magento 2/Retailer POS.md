@@ -14,12 +14,12 @@ To set up payment method for Retailer POS, go to **Sales > Web POS > Settings > 
 
 ![RetailerPOS](./Retailer%20POS%20image/image004.png)
 
->> 	**Applicable payments**: 
+- **Applicable payments**: 
 
-•	If you want to apply all payments, choose **All Allowed Payments**
+ •	If you want to apply all payments, choose **All Allowed Payments**
 
-•	If you want to apply some particular payment methods only, choose **Specific Payments**. Then in **Specific Payments** field, select payment method as your preference. Hold Shift + Click to choose more than one.
->>	**Default Payment Method**: You can choose any payment method as default payment method for POS
+ •	If you want to apply some particular payment methods only, choose **Specific Payments**. Then in **Specific Payments** field, select payment method as your preference. Hold Shift + Click to choose more than one.
+- **Default Payment Method**: You can choose any payment method as default payment method for POS
 
 If you want to set Cash on Delivery (COD) to be the default payment method for instance, you first have to choose it in Specific Payments field. Then, select option Web POS – Cash on Delivery in Default Payment Method field.
 
@@ -38,7 +38,7 @@ To set up Shipping Methods for Retailer POS, go to **Sales > Web POS > Settings 
 
 - 	**Default Shipping Method**: You can choose one of three shipping methods supported to set as default payment method for POS
 
-If you want to set Flat Rate - Fixed to be the default shipping method for instance, you first have to choose it in Specific Shipping field. Then, select option Flat Rate - Fixed in Default Shipping Method field.
+If you want to set Flat Rate - Fixed to be the default shipping method for instance, you first have to choose it in Specific Shipping field. Then, select option Flat Rate - Fixed in Default Shipping Method field.<br/>
 - 	**Enable "Mark as shipped" by default**: choose Yes if you want to mark items as shipped.
 
 After finishing, click on Save Config button to save your work.
@@ -78,7 +78,7 @@ Fill in all information of the user, including **User Name, Password, Password C
 
 Enter all information of the user settings such as **Customer Group, Location, Roles, Status, POS**
 
-Please note that to select the role for user, you need to add a role first. Please go to the section: **_2.6. How to differentiate access permissions of Retailer POS users_** for more details.
+Please note that to select the role for user, you need to add a role first. Please go to the section: **How to differentiate access permissions of Retailer POS users_** for more details.
 
 - To edit a user, click on the **Edit** link in **Staff manager** page. 
 
@@ -95,28 +95,22 @@ After finishing, click on **Save User** or **Save And Continue Edit** button to 
 
 ![RetailerPOS](./Retailer%20POS%20image/image014.png)
 
-- 	To add a new role, click on **Add Role** button in the top right corner. You will see the **Add Role** page. Here there are three tabs, including **General, Permission** and **Staff List**.
+- 	To add a new role, click on **Add Role** button in the top right corner. You will see the **Add Role** page. Here there are three tabs, including **General, Permission** and **Staff List**.<br/>
     -In **General** tab, please make sure you fill in enough Role information
 
-![RetailerPOS](./Retailer%20POS%20image/image015.png)
-
-~    - **Role Name**: Enter a specific name for the role in order to find it easily
-
-~    - **Maximum discount percent**: limit the highest discount percent that each user role can offer customers
-
-~    - **Description**: Enter text that describes the role
-
-~    - **Status**: Remember to set Status as Active if you want to enable it
+![RetailerPOS](./Retailer%20POS%20image/image015.png)<br/>
+ - **Role Name**: Enter a specific name for the role in order to find it easily<br/>
+ - **Maximum discount percent**: limit the highest discount percent that each user role can offer customers<br/>
+ - **Description**: Enter text that describes the role<br/>
+ - **Status**: Remember to set Status as Active if you want to enable it<br/>
+ -In **Permission** tab, choose which all or specific permissions you want to grant for this role. Use Shift + Click to choose more than one
     
-~    -In **Permission** tab, choose which all or specific permissions you want to grant for this role. Use Shift + Click to choose more than one
-    
-  ![RetailerPOS](./Retailer%20POS%20image/image016.png)
-    
-~    -In **Staff List** tab, tick on users who will have corresponding permission in Retailer POS system.
+  ![RetailerPOS](./Retailer%20POS%20image/image016.png)<br/>
+   -In **Staff List** tab, tick on users who will have corresponding permission in Retailer POS system.
     
    ![RetailerPOS](./Retailer%20POS%20image/image017.png)
     
-After finishing, click on Save or Save And Continue Edit button to save your work.
+After finishing, click on Save or Save And Continue Edit button to save your work.<br/>
 - To edit a current role, click on "Edit" link on Role Manager page, then you will be redirected to **Edit Role** page: 
 
 ![RetailerPOS](./Retailer%20POS%20image/image018.png)
@@ -127,12 +121,10 @@ When finishing editing, please click on **Save** or **Save And Continue Edit** b
 
 ![RetailerPOS](./Retailer%20POS%20image/image019.png)
 
->> Fill enough information for new POS such as **POS Name, Location, Store View, Current Staff, Status, Available for other staff**
+- Fill enough information for new POS such as **POS Name, Location, Store View, Current Staff, Status, Available for other staff**
 
-![RetailerPOS](./Retailer%20POS%20image/image020.png)
-
-
-~    - **POS Name**: You enter the name of your point of sales<br/>  
+![RetailerPOS](./Retailer%20POS%20image/image020.png)<br/>
+   - **POS Name**: You enter the name of your point of sales<br/>  
     - **Location**: Select location to set POS. Each location may have a lot of POS<br/>    
     - **Store View**: Select Store view from your list<br/>    
     - **Current Staff**: Staff is working on the POS<br/>    
@@ -201,18 +193,17 @@ Now you can see that the cashier has changed.
 
 ### 	How to filter & search products quickly
 
-In backend, you can configure to search products by going to **Sales > Web POS > Settings**
+In backend, you can configure to search products by going to **Sales > Web POS > Settings**<br/>
 - **In General Configuration** section: Enable **Allow synchronizing order from Web POS** if there are out-of-stock items by choosing Yes option.
 
 ![RetailerPOS](./Retailer%20POS%20image/image030.png)
 
 - 	**Product Search** section: 
 
-![RetailerPOS](./Retailer%20POS%20image/image031.png)
-
-~   - 	**Product Attribute(s) for Search**: Select attributes by which you want to search products. The default attributes are Name & SKU. If you want to search quickly by barcode, choose barcode attribute. Hold Shift + Click to pick more than one.<br/> 
-    -	**Barcode Attributes**: Choose SKU to search products quickly<br/> 
-In frontend, you can search products by 3 ways, which are **categories, product attributes and barcode**
+![RetailerPOS](./Retailer%20POS%20image/image031.png)<br/>
+- 	**Product Attribute(s) for Search**: Select attributes by which you want to search products. The default attributes are Name & SKU. If you want to search quickly by barcode, choose barcode attribute. Hold Shift + Click to pick more than one.<br/> 
+-	**Barcode Attributes**: Choose SKU to search products quickly<br/> 
+In frontend, you can search products by 3 ways, which are **categories, product attributes and barcode**<br/>
 - 	Use categories: In frontend, you can click on All Categories link to quickly search products by categories. Choose the corresponding categories as you prefer.
 
 ![RetailerPOS](./Retailer%20POS%20image/image032.png)
@@ -258,9 +249,9 @@ In frontend, select Custom Sale button if you want to add the custom product to 
 
 ![RetailerPOS](./Retailer%20POS%20image/image038.png)
 
-A screen will be shown for you to configure this custom product
--	**Name**: Enter the name of custom product
--	**Shippable**: If choose whether this product will be shipped or not by turning on or off this option
+A screen will be shown for you to configure this custom product<br/>
+-	**Name**: Enter the name of custom product<br/>
+-	**Shippable**: If choose whether this product will be shipped or not by turning on or off this option<br/>
 -	**Price**: Enter the price of this product
 
 After finishing configuration, tap **Add to Cart** button and check out as normal. Please note that this custom sale product will not be saved for the next checkout. 
@@ -273,9 +264,9 @@ After adding products to cart, to apply a coupon code or discount on the whole c
 ![RetailerPOS](./Retailer%20POS%20image/image040.png)
 
 You can choose between using **Custom Discount** or **Coupon Code**
-- In **Custom Discount** tab:
-    -	**Name**: Enter a name for this discount as you will easily check it again
-    -	**Discount Type**: Select discount by fixed amount or percentage
+- In **Custom Discount** tab:<br/>
+    -	**Name**: Enter a name for this discount as you will easily check it again<br/>
+    -	**Discount Type**: Select discount by fixed amount or percentage<br/>
     -	**Amount**: Fill in discount value as you offer for your customers. 
 
 Then, the cart will be updated automatically after you click on **Apply** button. 
@@ -383,12 +374,12 @@ After that, click on **Place Order** button to complete checkout process. There 
 
 You can use more than 1 payment method for split payments when checkout with Retailer POS. Let me give you an example. 
 
-**Customer’s order value is $125.00**
--	Your customer wants to pay $25 in cash. Then, you fill in the blank space **Retailer POS - Cash-in** with the value of $25. 
+**Customer’s order value is $125.00**<br/>
+-	Your customer wants to pay $25 in cash. Then, you fill in the blank space **Retailer POS - Cash-in** with the value of $25.<br/>
 -	For the remaining ($68.29), your customer wants to pay by Credit Card. So, at this time, you fill in the amount at the blank space next to **Retailer POS – Credit Card**. 
 
-**_Notes_**: 
--	Support multiple payment methods for one order
+**_Notes_**: <br/>
+-	Support multiple payment methods for one order<br/>
 -	Not require Cash in method as compulsory
 ### 	How to create multi-orders for different customers
 Retailer POS allows you to create multi-orders for different customers and keep orders open until customers end up transaction. That means you can open multiple orders to serve lots of different customers at the same time. For example someone is paying for something in your shop and they decide to go and get another product, so you can keep this order open while you still can carry on serving the next customer.
@@ -428,7 +419,7 @@ To quickly find an order to review, you can search it by Order ID or Customer’
 
 ### 	How to create shipment or issue refund for an order
 #### 	 How to create shipment
-There are two ways to create shipment using Retailer POS: **before placing an order** and **when reviewing order**
+There are two ways to create shipment using Retailer POS: **before placing an order** and **when reviewing order**<br/>
 - Before placing an order
 
 Before an order is created by clicking **Place Order**, you can create shipment by turn it on as below:
@@ -453,7 +444,7 @@ If you chose to enable Partial Shipment, a box of Items to Ship will appear when
 ![RetailerPOS](./Retailer%20POS%20image/image064.png)
 
 #### 	 How to issue refund
-Some certain staffs have permission to issue refund by cash (which is set by admin in backend. See **2.6. How to differentiate access permissions of Retailer POS users** for more details).
+Some certain staffs have permission to issue refund by cash (which is set by admin in backend. See **How to differentiate access permissions of Retailer POS users** for more details).
 
 To issue refund, go to **Orders** tab in POS screen, you choose the order that is required to refund. Tap on **Refund** button in the end. 
 
@@ -477,7 +468,7 @@ The report with information of **Period, Staff, Sales Total** will be show in th
 #### 	 Based on sale location
 Similar to run reports based on staff, go to **Sales > Web POS > Report**. Choose **Location Report** view it in different types. The report will be shown with the information of **Period, Location and Total Sales**. 
 
-Please go to section **3.16.1. Based on Staff** to know more details. 
+Please go to section **Based on Staff** to know more details. 
 ####  	 Based on payment method
 Similar to run reports based on staff and location, go to **Sales > Web POS > Report**. Choose **Payment Report** view it in different types. The report will be shown with the information of **Period, Payment method and Total Sales**. All payment methods will be listed down with the record of Grand Total in details respectively
 
