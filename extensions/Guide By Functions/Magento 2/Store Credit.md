@@ -5,14 +5,14 @@
 *Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 ## INTRODUCTION
-Keep the Customers around, that’s what store owners care about! Magento Store Credit extension for Magento 2 allows you to enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. 
+Keep the Customers around, that’s what store owners care about! Magento Store Credit module for Magento 2 allows you to enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. 
 Customers can use the credit to make purchases on your store or even share with their friends. 
-With Magento Store Credit extension for Magento 2, credit can be used as a convenient and time-saving payment method. Customers just need to recharge their credit accounts one time and then use for many future purchases.
+With Magento Store Credit module for Magento 2, credit can be used as a convenient and time-saving payment method. Customers just need to recharge their credit accounts one time and then use for many future purchases.
 
 ![Storecredit](./SC%20Image/image003.png)
 
 ## HOW TO USE (Frontend)
-This section will show you how Customers can make use of **Store Credit extension for Magento 2** in Frontend.
+This section will show you how Customers can make use of **Store Credit module for Magento 2** in Frontend.
 ### Buy Credit Product
 After Customers login to your website, they can access the Store Credit Products page in two ways:
 
@@ -340,5 +340,5 @@ Shipping Fee|	No	|Credit balance cannot be used to pay for Shipping Fee
 
 ![Storecredit](./SC%20Image/image058.png)
 
-*This is the end of the Store Credit User Guide. We hope that this manual is helpful for you to use the extension effectively. If you have any question, feel free to contact us at support@magestore.com, we would be glad to assist you!*
+*This is the end of the Store Credit User Guide. We hope that this manual is helpful for you to use the module effectively. If you have any question, feel free to contact us at support@magestore.com, we would be glad to assist you!*
        
