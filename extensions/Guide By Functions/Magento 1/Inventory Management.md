@@ -1,5 +1,4 @@
-**INVENTORY MANAGEMENT - MAGENTO 1**
-----------
+# INVENTORY MANAGEMENT - MAGENTO 1
 
 **Version 2.1.0**
 
