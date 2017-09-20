@@ -8,9 +8,10 @@ Copyright 2017. All Rights Reserved.
 
 Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
+--------------------------
 ## Introduction
 
-----------
+
 
 There is no doubt about the benefits of Customer loyalty to your business. The question is how to keep Customers returning and buying in your store? We offer you a wonderful solution- that is Magento Reward Points Plus module. It is designed to maximize Customers engagement in your store by many useful features. 
 
@@ -18,11 +19,13 @@ With Reward Points –Standard Edition, your Customers can receive reward points
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image001.png)
 
+------------------------
+
 ## How to use
 
-----------
 
 ### 2.1.	How to earn points
+
 When placing an order, Customers can earn points based on the rate set by admin.
 Our Standard edition makes sure that Customers are well aware of your reward point policy by showing messages on many pages. For example, on Product Detail pages, there will be a notification for Customers that says “You could receive some Points for purchasing this product”.
 
@@ -77,6 +80,8 @@ Besides, in the **Settings** tab of the **Reward Points** navigation, Customers 
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image012.png?raw=true)
 
+----------------------------
+
 ## 3.	HOW TO CONFIGURE
 
 ###	Manage earning rates
@@ -84,7 +89,7 @@ Go to **Backend > Reward Points > Earning Rates**
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image013.png?raw=true)
 
-Then the Earning Rates**strong text** page will be shown, allowing you to do many tasks:
+Then the Earning Rates **strong text** page will be shown, allowing you to do many tasks:
 
  - **Add a new rate**
 In order to add a new earning rate, you can click on the **Add Rate** button and then fill out all the required data such as **Money spent for order, Earning Points, Status, Websites, Customer groups, Priority.**
@@ -133,6 +138,7 @@ After finish editing, remember to click on the **Save** or the **Save and Contin
 To delete a rate, you can go to the Edit Rate page and then click on the **Delete button** on top of that page.
 
 ### Manage transactions
+
 Go to **Backend > Reward Points > Transactions**
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image021.png?raw=true)
