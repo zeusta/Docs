@@ -270,7 +270,8 @@ To add a new tag, please click on **Add Tag** button, the Add Tags page will be 
 
 After that, remember to save your work by clicking on **Save Tag** button or **Save And Continue Edit** button.
 
-####	View Pickup Orders
+###	View Pickup Orders
+
 To view pickup orders in backend:
 
 - Go to **Sales** → **Orders** on the menu, choose the order in which the shipping name is the same as the pickup store’s name.
