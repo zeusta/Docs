@@ -12,11 +12,11 @@ Many times customers want to visit your physical store to pick up products order
 ### View Store Information
 Store Pickup module creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **arrow button** on Top-Link (the top right of the page)
 
-004
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image004.png)
 
 The Store Listing page includes 4 sections: **Store list**, **Search form**, **Google Map** and **Tags list**.
 
-005
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image005.png)
 
 •	The list of all stores is shown on the bottom of Google Map. Customers can view store names and base images on this list. 
 
@@ -28,17 +28,16 @@ The Store Listing page includes 4 sections: **Store list**, **Search form**, **G
 
 When customers click on a store on the map, they can instantly view the store location along with its name, address, phone number and store manager’s email address. Customers can also get direction on this box.
 
-006
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image006.png)
 
 For more details of a store, customers can click on its name link to be navigated to the detailed page.
 
-007
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image007.png)
 
 As you can see, this page shows all details that customers want to know about a store before arriving, such as location, contact info, working time, description and store images. 
 They can also view list of special days & holidays in **Special day** & **Holiday information** tab. They can conveniently give comment to stores by filling in the Facebook comment box:
 
-008
-
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image008.png)
 
 ### Use Store Pickup at Checkout
 
@@ -46,11 +45,11 @@ The main function of Store Pickup module is allowing customers to select a prefe
 
 •	In the **Shipping method** tab at checkout, customers can select **Store Pickup** as their shipping option. Then customers can select a store from the dropdown list: 
 
-009
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image009.png)
 
 or select on Google map as bellow:
 
-010
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image010.png)
 
 On the G-Map popup, customer needs to select a store on store list or search store that they want, after that click on the Apply button to apply or click on Close button to cancel.
 
@@ -58,29 +57,30 @@ On the G-Map popup, customer needs to select a store on store list or search sto
 
 If the shipping date is one of store’s holidays, customers won’t be able to choose that on the calendar. Thus, they can avoid arriving on the store’s days off. You can refer to section 3.2 to know how to set up these holidays.
 
-011
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image011.png)
 
 •	In the **Payment Information** tab, applicable payment methods for **In-store Pickup** are shown as your configuration.
 
-012
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image012.png)
 
 •	Before placing order, customers can also review the store address, shipping date and time along with other order information.
 
 ### View Orders
 To view their orders with store pickup information, customers can go to **My Account** on Top-Link > **My Orders** tab > **View Order**.
 
-013
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image013.png)
 
 To print orders, customers can click on **Print Order** on the top right. The following page will be shown:
 
-014
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image014.png)
 
 ## HOW TO CONFIGURE
  You have seen how Store Pickup works in front-end for customers. The following part will guide you through how to configure and manage the module in back-end.
  
 ***Tips**: For quick instructions on where to set up each function and how to get Google Map API Key, you can go to the **Stores > Settings > Configuration > Magestore > Store Pickup**. Under **Service API** section, click on the link for Google Map API Key Registration Guide
 
-015/016
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image015.png)
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image016.png)
 
 ***New release**: One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was that **required future product updates are only available for [requests made with an API key](https://developers.google.com/maps/faq#using-google-maps-apis)**.
 
@@ -92,8 +92,7 @@ In order to get the API key, follow the steps listed **[here](https://docs.googl
 ### Manage Stores
 In the back-end, go to **Store Pickup** > **Manage Stores**. The **Store Manager** grid shows all stores created in your system with their address and status. To add new stores, you can add them manually and import from CSV files.
 
-017
-
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image017.png)
 #### Add Store
 Click on the **Add Store** button on the top right corner of the **Store Manager** page. You will be navigated to the **Add Store** page, which includes 7 tabs: **General Information, Google Map Location, Image Gallery, Store’s Schedule, Store’s Tag, Store’s Holiday, Store’s Special Days**
 - **General Information** tab: 
@@ -105,7 +104,7 @@ Besides important information such as Store name, Description, Status, here are 
 → Store’s link: enter a link to the store’s official website or social channel such as Facebook fan page.<br/>
 → Sort order: Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of “List Store by” in Settings.
 
-018
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image018.png)
 
 ***Tips**: You can input content for the **Description field** in HTML for better display in frontend, such as customized format, attached links, etc.<br/>
     - In **Contact Information** session, it allows you to enter information of store’s manager such as email address, phone number, etc. so customers will know how to contact if needed. You can configure to enable automatic emails sent to the store manager when pickup orders’ status is changed.<br/>
@@ -119,13 +118,13 @@ There are 4 fields in this tab including **Zoom Level, Store Latitude, Longitude
     - **Store Latitude** and **Store Longitude**: You do not need to fill them out if you do not remember your store’s coordinates. If you pin a store directly from G-map, these fields will be filled automatically.<br/>
     - **Store Icon**: You can upload an icon to use as store’s marker on G-map instead of the default pin icon. 
     
-019
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image019.png)
 
 - **Image Gallery** Tab: 
 
 Upload as many store images as you want. The base image will be shown in the store list. 
 
-020
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image020.png)
 
 - **Store’s Schedule** Tab: 
 
@@ -135,30 +134,30 @@ This tab allows you to choose a Schedule from a list to apply for this store. Le
     - The module also allows you to set break time for each store if you want. <br/>
 Similarly, you can set opening hours for each remaining day of the week. To quickly set up, click on the Apply to other days button on the top right corner of the Monday section. Other days will have the same working time as Monday.
 
-021
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image021.png)
 
 After entering all the necessary data, remember to click on the Save or Save and Continue Edit button to save your work.
 - **Store’s Tags** Tab: 
 
 For easier search, you can tag each store in multiple categories. Choose tags for each in this tab by search for the tag and select suitable ones. Please note that one store can belongs to more than one tag.
 
-022
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image022.png)
 
 - **Store’s Holidays** Tab: 
 
 Select Holidays to be applied for this store by searching/filtering and select Holiday(s) that you set up before.
 
-023
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image023.png)
 
 - **Store’s Special Days** Tab: 
 Select Special days to be applied for this store by searching/filtering and select Special day(s) that you set up before.
 
-024
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image024.png)
 
 #### Edit Store
 To edit a specific store, go to **Manage Store** > select **Action (Edit)**.
 
-025
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image025.png)
 
 ***Note**:
 When a store is created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map Location** tab allows you to edit store coordinates manually.
@@ -167,25 +166,25 @@ You can see it at the left upper. Click on this tab, the Google map will be disp
 
 By clicking **Apply to Form** before saving, the store coordinates & the store address will be auto-updated regarding the address of the location you pinned on the map. You can also change the marker icon which presents the pinned location on the map.
 
-026
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image026.png)
 
 ###	Manage Tags
 Click on **Store Pickup > Manage Tags** to access **Tag Manager**. This tab manages all tags that are used to filter stores. Click on the **Add New Tag** button to create new one.
 - **General Information**
 
-027
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image027.png)
 
 Choose a suitable Tag Name, write a description and upload Icon to make it pop out on store listing page.
 - **Stores of Tag**
 
 Select stores from the list to be shown up when Customers clicking on “Coffee” tab. Then Save Tag.
 
-028
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image028.png)
 
 ### Manage Holidays
 To set days off for your stores, go to **tore Pickup > Manage Holidays**. You will be navigated to the **Holiday Manager** page listing all holidays created. Click on **Add Holiday** button to create a new one.
 
-029
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image029.png)
 
 On the **General Information** page:<br/>
     - Set the Holiday Name<br/>
@@ -194,12 +193,12 @@ On the **General Information** page:<br/>
 Remember to click on the **Save and continue edit** button after entering required fields to save your work.
 On the **Stores of Holiday** page: tick all stores that you want this holiday to be applied, then Save Holiday
 
-030
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image030.png)
 
 ### Manage Special Days
 To set days with special working time for your stores, go to **Store Pickup** > **Manage Special Days**. You will be navigated to the **Special Day Manager** page listing all special days created. Click on the Add Special Day button to create a new one.  
 
-031
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image031.png)
 
 On the **Add Special Day** page:<br/>
 •	Enter special day name.<br/>
@@ -208,28 +207,27 @@ On the **Add Special Day** page:<br/>
 •	Set interval between shipping time options shown to customers at checkout, such as 15 minutes.<br/>
 •	Choose opening and closing time applied to these special days.<br/>
 
-032
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image032.png)
 
 Remember to click on the **Save Item** button to save your work. 
 ***Note**: Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.
 
 On the **Stores of Holiday** page: tick all stores that you want this special day to be applied, then Save Special Day
 
-033
-
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image033.png)
 ### Manage Schedule
 Set up all store’s schedules in **Store Pickup > Manage Schedule** tab.
 You can see a number of schedule that had been created in this tab and quickly edit some, or create a new one by hitting the button **Add New Schedule**.
 
-034
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image034.png)
 
 Quickly set up open/close time, break time of each day from Mon to Sun.
 
-035
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image035.png)
 
 And to apply this schedule to various stores, navigate to **Stores of Schedule** to check all stores that you want to add.
 
-036
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image036.png)
 
 ### View Pickup Orders
 To view pickup orders in backend:<br/>
@@ -237,7 +235,7 @@ To view pickup orders in backend:<br/>
 •	In the **Information tab**, you can see the information about shipping address changed to the address of pickup store and attached with a map location.<br/>
 When there is an order using store pickup, notification email will be sent to store owner & administrator.
 
-037
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image037.png)
 
 ### Settings
 To configure settings of the Store Pickup module, go to **Store Pickup > Settings**
@@ -245,7 +243,7 @@ To configure settings of the Store Pickup module, go to **Store Pickup > Setting
 The configuration is divided into 3 groups including **General, Service API, Store Search**
 - **General**:
 
-038
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image038.png)
 
 No.|	Field|	Sample	|Result 
 -|-|-|-
@@ -261,12 +259,12 @@ No.|	Field|	Sample	|Result
 
 - **Service API**: 
 
-039<br/>
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image039.png)<br/>
     - To integrate Google API in your site, fill your Google Map API key into this field. You can get this key by following the guide link or going to Store Pickup → Guide on the menu in backend. <br/>
     - Choose Yes to enable Facebook comment for your stores. To integrate Facebook social plugin in your site, you must enter Facebook API key into this field. To register this key, please follow the guide link.
 - **Store Search**:
 
-040
+![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image040.png)
 
 No.	|Field	|Sample	|Result 
 -|-|-|-
