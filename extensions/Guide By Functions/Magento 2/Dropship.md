@@ -1,6 +1,4 @@
 # DROPSHIP - MAGENTO 2
-===
-
 
 **Version 1.0.0**
 
@@ -17,7 +15,7 @@ Do you know that 45 - 90% of all business expenses are as results of inventory c
 
 Do you know that 45 - 90% of all business expenses are as results of inventory costs? (upstreamcommerce.com). Therefore, it is vital to have an effective inventory management strategy in order to save costs and gain profits. 
 
-Dropship for Magento 2 is one extension from Order Success solution, which allows your suppliers to ship items to customers directly. This plugin is:
+Dropship for Magento 2 is one module from Order Success solution, which allows your suppliers to ship items to customers directly. This plugin is:
 
 •	Compatible with Magento CE 2.1.x
 
@@ -37,7 +35,7 @@ Dropship for Magento 2 is one extension from Order Success solution, which allow
 
 **“Drop-shipping (Drop-ship)** is a term to describe the retailer does not keeping goods in stock, but instead transferring sales orders and shipment details to the wholesaler/ supplier, who then ships the goods directly to the customer.”
 
-With Dropship extension, you will act as the retailer, passing the order information onto your supplier for shipping. As items on drop-ship are not passed through your hands, they don’t affect to the Qty. and inventory movements in your warehouses.
+With Dropship module, you will act as the retailer, passing the order information onto your supplier for shipping. As items on drop-ship are not passed through your hands, they don’t affect to the Qty. and inventory movements in your warehouses.
 
 
 ### Drop-ship Process
@@ -49,7 +47,7 @@ Below is a step-by-step guide on how to handle a sales order that will be drop s
 -	Admin creates/cancels shipment
 
 **Step 1:** Admin sends drop-ship request to the supplier
-When fulfilling an order in backend (with ***Order Fulfillment extension for Magento 2***), in the **Prepare Fulfil** step, you can choose **Request Dropship** option. Select **Fulfill** button on the right of the order you want to request drop-ship for.
+When fulfilling an order in backend (with ***Order Fulfillment module for Magento 2***), in the **Prepare Fulfil** step, you can choose **Request Dropship** option. Select **Fulfill** button on the right of the order you want to request drop-ship for.
 
 The drop-down list in the **Shipping Channel** field includes drop-ship. Select **Request Dropship**, choose **Add Products to Request** then it will show all available suppliers that provide corresponding products. You can choose among these suppliers as preferred.
 
@@ -67,7 +65,7 @@ Each supplier selected will receive a notification email about the drop-ship req
 
 As being instructed in the email, the supplier follows the login link to access the **Supplier Manager** page and then fills in the Qty. that he can ship.
 
-**Note:** When adding/ editing a supplier (in ***Purchase Management extension for Magento 2***), the **Password Management** section will be shown. You can set password and email it to the supplier. The email will be shown as below:
+**Note:** When adding/ editing a supplier (in ***Purchase Management module for Magento 2***), the **Password Management** section will be shown. You can set password and email it to the supplier. The email will be shown as below:
 
 ![](./dropship_images/dimg3.png)
 
@@ -107,7 +105,7 @@ To review or take actions related to drop shipments, click on the ***Edit*** lin
 ### How Suppliers Manage Drop Shipments
 
 
-To help suppliers follow all their drop shipments easier, the extension provides a separate page in the front-end, namely **Supplier Page**, where suppliers can log in and track all related information.
+To help suppliers follow all their drop shipments easier, the module provides a separate page in the front-end, namely **Supplier Page**, where suppliers can log in and track all related information.
 
 Suppliers will fill their email address and the password received in the **Supplier Login** form as below:
 
@@ -154,5 +152,5 @@ Go to **Fulfillment > Dropship Configuration**
 
 **No**|**Field**|**Sample**|**Description**
 ---|---|---|---
-|1| Email notice dropship request for supplier|Submit request notice to suppliers|Supplier will get notifications email if there are new drop-ship requests|
+1| Email notice dropship request for supplier|Submit request notice to suppliers|Supplier will get notifications email if there are new drop-ship requests
 2| Email cancel dropship request for supplier|Cancel request notcie to suppliers|Supplier will get notifications email if admin cancels drop-ship requests 
