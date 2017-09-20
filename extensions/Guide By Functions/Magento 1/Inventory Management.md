@@ -54,6 +54,7 @@ Together with other features in our solution: Barcode Management, Purchase Manag
 |History of Stock Transfer from External Location|Record all stock transfers from an external location to a warehouse which are created and note the status of the transfer|4.2. Stock Transfer History|
 
 
+
 ## How to configure 
 
 
@@ -62,6 +63,7 @@ Together with other features in our solution: Barcode Management, Purchase Manag
 ### Stock Listing
 
 After installation, the system will automatically provide a Primary Warehouse. This Primary Warehouse cannot be deleted but can only be edited. All the existing products will be automatically synced from your website to this warehouse before you can assign to another warehouse. 
+
 This function consists of 3 tabs to help you manage your inventory successfully:
 
  - **Stock in Warehouse**: provides an overview of stocks in all warehouses or in a specific warehouse
@@ -71,7 +73,9 @@ This function consists of 3 tabs to help you manage your inventory successfully:
 #### Stock in Warehouse
 
 This tab provides an overview of stocks in all warehouses. Here you can view stock SKU, Name, Price, Qty in Warehouse(s), Qty to Ship, Available Qty, Products in Warehouse(s), Stock Movement and Product Status. 
+
 The module provides an in-depth control over your **composite products** (configurable, bundle and grouped products).  You can see 3 quantity types of each variation or component of the composite product in a specific warehouse. 
+
 For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. 
 
 ![enter image description here](./image_IM%20Rebuilt/image002.png)
@@ -92,7 +96,7 @@ Update the total quantity and Shelf Location easily on the Inventory grid in onl
 
  - **Step 1**: Select the product(s);
  - **Step 2**: Input the new Qty in Warehouse(s) and/or Shelf Location;
- - **Step 3**: Click “Update Stock”.
+ - **Step 3**: Click “**Update Stock**”.
 
 ![enter image description here](./image_IM%20Rebuilt/image004.png)
 
@@ -114,7 +118,9 @@ When a product is newly-created and has not been assigned to any warehouse yet, 
 #### Warehouses
 
 The **Warehouses** page displays each warehouse’s details such as its ID, name, total SKUs and total product quantities in each warehouse, contact email/ tel./ address. 
-Our **Inventory Management** allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers. 
+
+The **Inventory Management** allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers. 
+
 You can enable this function in **Settings.**
 
 ![enter image description here](./image_IM%20Rebuilt/image008.png)
