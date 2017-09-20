@@ -1,5 +1,5 @@
-**GIFT CARD - MAGENTO 2**
-=================================
+# **GIFT CARD - MAGENTO 2**
+
 
 **Version 2.0.1**
 
@@ -8,7 +8,8 @@
 Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
-## Table of Terminologies
+**Table of Terminologies**
+
 No|Terms|Explanation
 ---|---|---
 |1| Gift code|Gift codes are not only generated from Gift Card products but can also be added by Admin:<br/> - Gift codes of Gift Card products are generated in **Settings**<br> - You can import/add gift codes in **Manage Gift Code**s, or auto generate random gift codes in Generate Gift codes|
@@ -18,7 +19,7 @@ No|Terms|Explanation
 5|Gift Card order, Product order|Gift Card order is the order purchasing Gift Card at your store.Product order is the order using gift codes to purchase products at your store.
 6|Gift Card Product page|The detailed page of a Gift Card where Customers can choose options like: sending Gift Card to friend, filling recipient’s information, sending Gift Card via emails/PO, adding message, scheduling day to send…
 7|Credit Balance|When **Gift Card Credit Balance** function is enabled, Customers may redeem their gift codes to a credit balance and use the balance to pay for orders at your store. 
-## 	**INTRODUCTION**
+## **INTRODUCTION**
 More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size-fits-all gift? With this extension, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
 ![Gift Card for Magento 2](./GC2%20Image/image004.jpg)
@@ -37,10 +38,9 @@ Customers can also see the expiration date of the Gift Card on Gift Card image.
 - For Gift Card products that have **usage conditions**, the conditions will NOT be displayed below the product name as in Magento 1 version. However, the admin can write the conditions in the description if it is necessary for customers to see. If anyone want to redeem the gift cards (enter the gift code to purchase one or many products) but does not meet the condition(s), then the system will show an 'Invalid' notice.
 -  	Customers can also send Gift Cards to their friends by ticking **Send Gift Card to friend** checkbox and enter all the required fields: 
 
-![send Gift Cards to friends](./GC2%20Image/image008.jpg)
+![send Gift Cards to friends](./GC2%20Image/image008.jpg)<br/>
 
-   <><br/>
-           -**Recipient name**: the name of the recipient
+   -**Recipient name**: the name of the recipient
   <br/>
      - **Recipient email address**: the email address of the recipient. The system will send an email which contains a Gift Card code to this address.
    <br/>
@@ -59,12 +59,11 @@ Customers can also see the expiration date of the Gift Card on Gift Card image.
 - 	After Customers add a Gift Card to cart, they can go to shopping cart page to review the cart by clicking on the **cart icon** on top right corner, then choose **View and edit cart**. Customer can edit and update the quantity of the gift card right on the Add to cart popup. 
 
 ![ Add to cart popup](./GC2%20Image/image012.jpg)
-
-
+<br/>
      - The details of Gift Card when Customers send the Gift Card to their friend
 
 ![Gift Card details when sending to friends](./GC2%20Image/image014.jpg)
-
+<br/>
      - 	The details of Gift Card when Customers buy the Gift Card for themselves:
      
 
@@ -176,7 +175,7 @@ No.|Field|Sample|Description
 
 - **Gift Card Printout** tab:
 
-![Gift Card Printout tab(./GC2%20Image/image036.jpg)
+![Gift Card Printout tab](./GC2%20Image/image036.jpg)
 
 No.|Field|Sample|Description
 ---|---|---|---
@@ -211,7 +210,7 @@ There are 3 default Gift Card templates with 3 different design styles for you t
  ![Default Gift Card template 3](./GC2%20Image/image046.jpg)
         **Default template 3**
     
-If you want to create new Gift Card templates, select **Add Gift Card Template** button and finish the form as below:
+If you want to create new Gift Card templates, select **Add Gift Card Template** button and finish the form as below:<br/>
 - **General Information** tab:
 
 ![General Information tab](./GC2%20Image/image048.jpg)
@@ -236,17 +235,14 @@ You can click on **Preview** button at the top right corner to see how Gift Card
 
 In this tab, you can create a list of images for Customers to select when buying Gift Card in frontend. Just click on **Add** button and choose image files to upload. 
 
-***Note**: You should use images with the following recommended sizes for better display:
-
-    -  Template style is “Top”: 600x190px.
-    
-    - Template style is “Left”: 250x365px.
-    
+***Note**: You should use images with the following recommended sizes for better display:<br/>
+    -  Template style is “Top”: 600x190px.<br/>    
+    - Template style is “Left”: 250x365px.<br/>    
     - Template style is “Center”: 600x365px.
     
 Click **Preview** under each image to see how Gift Card will look like. When you finish, remember to click on **Save** or **Save and Continue Edit** to save your work. 
 ###  Create/Edit a Gift Card Products
-There are two ways to create a Gift Card product: on **Manage Gift Card Products** page and on **Manage Products** page.
+There are two ways to create a Gift Card product: on **Manage Gift Card Products** page and on **Manage Products** page.<br/>
 - Create Gift Card on **Manage Gift Card Products** page:
 
 Go to **Gift Card** menu→ **Manage Gift Card Products**
@@ -321,7 +317,7 @@ Go to **Gift Card** menu→ **Generate Gift Codes**, you will be navigated to **
 
 ![Generate Gift Codes tab](./GC2%20Image/image070.jpg)
 
-To add a new template to generate gift codes, click on Add Gift Code Pattern button and configure information as below: 
+To add a new template to generate gift codes, click on Add Gift Code Pattern button and configure information as below:<br/>
 - **General Information** tab:
 
 ![General Information tab](./GC2%20Image/image072.jpg)
@@ -344,10 +340,11 @@ In this tab, you can set special conditions applied to shopping carts when Custo
 After setting up, click on **Save Pattern, Save and Continue Edit** or **Save And Generate** button, the template created will be shown in the **Gift Code Pattern Manager** grid as below:
 
 ![Gift Code Pattern Manager grid](./GC2%20Image/image076.jpg)
-When you click on **Save And Generate** button, gift codes will be auto-generated. After that, **Gift Codes Information** page will show a new tab as below:
+When you click on **Save And Generate** button, gift codes will be auto-generated. After that, **Gift Codes Information** page will show a new tab as below:<br/>
 - **Gift Codes Information** tab:
 
-!Gift Codes Information tab](./GC2%20Image/image078.jpg)
+![Gift Codes Information tab](./GC2%20Image/image078.jpg)
+
 Besides viewing details and status of gift codes generated, you can export the list of Gift Card codes to .CSV or .XML file by clicking on the drop-down list **Export to**, choose one of the options provided and then click on **Export** button.
 
 ![Export button](./GC2%20Image/image080.jpg)
@@ -365,9 +362,8 @@ This page gives you a detailed list of all gift codes in your system, including 
 ![Action button in Manage Gift Codes page](./GC2%20Image/image086.jpg)
 
 Besides, you can add new gift codes manually, import gift codes in bulk from CSV files and edit each gift code by clicking on **Edit** link at the end of each corresponding row.
-- If you want to create a new gift code manually, select **Add Gift Code** and finish the form as below:
-
-    -  **General Information** tab:
+- If you want to create a new gift code manually, select **Add Gift Code** and finish the form as below:<br/>
+   -  **General Information** tab:
          
 ![General Information tab](./GC2%20Image/image088.jpg)
 
@@ -382,13 +378,14 @@ No.|Field|Sample|Description
 7| Expired on| 03/8/16 |The expiration date for the gift code is March 8th, 2016
 8 |Store View| All Store Views |Customers can use the gift code in all store views.
 9 |Last Comments|| Add Admin‟s notes if needed
-<>
-+ **Message Information** tab:
+
+
+   -  **Message Information** tab:
      
 If you intend to send the gift code to a specific person, a Customer for example, this tab allows you to add information about the Customer, the recipient and a custom message.
         
 ![Message Information tab](./GC2%20Image/image090.jpg)
-After entering all data, remember to click on **Save**, **Save And Send Email** or **Save and Continue Edit** to save your work.
+After entering all data, remember to click on **Save**, **Save And Send Email** or **Save and Continue Edit** to save your work.<br/>
 - Moreover, you can add new gift codes by importing voucher codes from a CSV file. You need to click on **Import Gift Code** button on the top right corner of the **Gift Code Manager** page.
 
 ![Import Gift Code button on the top right corner](./GC2%20Image/image092.jpg)
@@ -424,4 +421,4 @@ All actions related to Gift Card such as: **Create, Update, Mass Update, Spend o
 On Gift Card History page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status.
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience.
 
-![Export Gift Card History](./GC2%20Image/image106.png)
+![Export Gift Card History](./GC2%20Image/image106.jpg)
