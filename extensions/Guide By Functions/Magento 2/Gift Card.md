@@ -23,7 +23,7 @@ No|Terms|Explanation
 -------------
 
 ## **INTRODUCTION**
-More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size-fits-all gift? With this extension, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
+More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size-fits-all gift? With this module, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
 ![Gift Card for Magento 2](./GC2%20Image/image004.jpg)
 
@@ -99,7 +99,7 @@ Customers can choose to use Gift Cards and enter the amount of money as on
 - skin/frontend/base/default/css/magestore/...
 
 ###  Settings
-To configure default configurations and settings of the extension, please log in to **backend**, and then choose **Gift Card** menu→ **Setting**. Administrators can change parameters as follows:
+To configure default configurations and settings of the module, please log in to **backend**, and then choose **Gift Card** menu→ **Setting**. Administrators can change parameters as follows:
 
 •	**General** tab :
 
@@ -134,7 +134,7 @@ No.|Field|Sample|Description
  No.|Field|Sample|Description
 ---|---|---|---
 **Gift Card Value**|
-1|Default Gift Card value|25,75,100|Set default Gift Card dropdown values as 25, 75, and 100 in case admin didn’t specify when creating Gift Cards.<br/>***Note**: this configure is only applied to Gift Cards created in previous versions of the extension. Starting from version 4.0, each Gift Card product must have its own value(s) when being created.
+1|Default Gift Card value|25,75,100|Set default Gift Card dropdown values as 25, 75, and 100 in case admin didn’t specify when creating Gift Cards.<br/>***Note**: this configure is only applied to Gift Cards created in previous versions of the module. Starting from version 4.0, each Gift Card product must have its own value(s) when being created.
 2|Description of Gift Card value|The value of Gift Card|Description of Gift Card value shown on **Gift product details** page to explain for Customers (only applied to Gift Cards in versions below 4.0).
 **Gift Card template**|
 3|Allow customers to change the image inserted into template|Yes|Enable customers to change the image inserted into Gift Card template by uploading their preferred picture.
@@ -269,7 +269,7 @@ In **Avanced Pricing** tab, Admin can configure prices and values of a Gift Card
 
 ![Avanced Pricing tab](./GC2%20Image/image060.jpg)
 
-The extension provides 3 **types of Gift Card value**, including **fixed value, range of values** and **dropdown values**. You can base on the type chosen to set Gift Card value(s) accordingly such as 50-100 (USD) for the **range of values type**
+The module provides 3 **types of Gift Card value**, including **fixed value, range of values** and **dropdown values**. You can base on the type chosen to set Gift Card value(s) accordingly such as 50-100 (USD) for the **range of values type**
 
 
 The next step you need to do is selecting the type of **Gift Card price**, which could be 1 in 3 following options:
