@@ -48,7 +48,7 @@ When customers click on a store on the map, they can instantly view the store lo
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image009.png?raw=true)
 
-For more details of a store, customers can click on its View more info link to be navigated to the detailed page.
+For more details of a store, customers can click on its **View more info** link to be navigated to the detailed page.
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image010.png?raw=true)
 
