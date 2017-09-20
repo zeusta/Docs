@@ -13,7 +13,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 Have high volume of sales orders & worry about messy shipments? You should have an effective order management strategy in order to save costs and gain profits. 
 
-Order Fulfillment is one extension for Magento 2, which helps you easily keep track of order-fulfilling process in the backend. With default Order Fulfillment, tons of your orders can be managed easily. In addition, this Magento 2 extension is:
+Order Fulfillment is one module for Magento 2, which helps you easily keep track of order-fulfilling process in the backend. With default Order Fulfillment, tons of your orders can be managed easily. In addition, this Magento 2 module is:
 
 •	Compatible with Magento CE 2.1.0 - 2.1.1 - 2.1.2
 
@@ -52,7 +52,7 @@ To have an overview of your order fulfillment process, you go to Fulfillment > D
 
 •	Packed requests by day report
 
-With this Magento 2 extension, you can custom time range, print or download each report in multiple forms: PNG image, JPEG image, PDF document and SVG vector image.
+With this Magento 2 module, you can custom time range, print or download each report in multiple forms: PNG image, JPEG image, PDF document and SVG vector image.
 
 ![Custom time range](./OF%20Images/of-img2.png)
 
@@ -60,7 +60,7 @@ With this Magento 2 extension, you can custom time range, print or download each
 ### Five steps to manage order fulfillment
 
 
-Order Fulfillment allows you to create new orders right in this extension by going to **Fulfillment > All Orders** (in Order Listing section). Choose **Create a new order** button then enter required information to create new orders.
+Order Fulfillment allows you to create new orders right in this module by going to **Fulfillment > All Orders** (in Order Listing section). Choose **Create a new order** button then enter required information to create new orders.
 
 ![Create new order button](./OF%20Images/of-img3.png)
 
