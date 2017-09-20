@@ -19,6 +19,7 @@ No|Terms|Explanation
 5|Gift Card order, Product order|Gift Card order is the order purchasing Gift Card at your store.Product order is the order using gift codes to purchase products at your store.
 6|Gift Card Product page|The detailed page of a Gift Card where Customers can choose options like: sending Gift Card to friend, filling recipient’s information, sending Gift Card via emails/PO, adding message, scheduling day to send…
 7|Credit Balance|When **Gift Card Credit Balance** function is enabled, Customers may redeem their gift codes to a credit balance and use the balance to pay for orders at your store. 
+
 ## **INTRODUCTION**
 More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size-fits-all gift? With this extension, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
