@@ -1,7 +1,15 @@
-**STORE CREDIT - MAGENTO 1**
-==============
+# STORE CREDIT - MAGENTO 1
+
 **Version 2.0**
-Confidential Information Notice. Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
+
+Confidential Information Notice. 
+
+Copyright 2016. All Rights Reserved.
+
+Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 ## Introduction
 
 
