@@ -111,7 +111,7 @@ Besides important information such as Store name, Description, Status, here are 
 
 ![SP](./Store%20Pickup%20Image/image018.png)
 
-***Tips**: You can input content for the **Description field** in HTML for better display in frontend, such as customized format, attached links, etc.<br/>
+**Tips**: You can input content for the **Description field** in HTML for better display in frontend, such as customized format, attached links, etc.<br/>
     - In **Contact Information** session, it allows you to enter information of store’s manager such as email address, phone number, etc. so customers will know how to contact if needed. You can configure to enable automatic emails sent to the store manager when pickup orders’ status is changed.<br/>
     - **Meta Information** session, you can fill in URL key, meta title, meta keywords, meta description for better SEO
 - **Google Map Location** tab: 
@@ -141,7 +141,7 @@ Similarly, you can set opening hours for each remaining day of the week. To quic
 
 ![SP](./Store%20Pickup%20Image/image021.png)
 
-After entering all the necessary data, remember to click on the Save or Save and Continue Edit button to save your work.
+After entering all the necessary data, remember to click on the Save or Save and Continue Edit button to save your work.<br/>
 - **Store’s Tags** Tab: 
 
 For easier search, you can tag each store in multiple categories. Choose tags for each in this tab by search for the tag and select suitable ones. Please note that one store can belongs to more than one tag.
@@ -164,7 +164,7 @@ To edit a specific store, go to **Manage Store** > select **Action (Edit)**.
 
 ![SP](./Store%20Pickup%20Image/image025.png)
 
-***Note**:
+***Note**:<br/>
 When a store is created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map Location** tab allows you to edit store coordinates manually.
 
 You can see it at the left upper. Click on this tab, the Google map will be displayed. You can reset store position by clicking on specific point on the map, then select **Save Store**.
@@ -174,12 +174,12 @@ By clicking **Apply to Form** before saving, the store coordinates & the store a
 ![SP](./Store%20Pickup%20Image/image026.png)
 
 ###	Manage Tags
-Click on **Store Pickup > Manage Tags** to access **Tag Manager**. This tab manages all tags that are used to filter stores. Click on the **Add New Tag** button to create new one.
+Click on **Store Pickup > Manage Tags** to access **Tag Manager**. This tab manages all tags that are used to filter stores. Click on the **Add New Tag** button to create new one.<br/>
 - **General Information**
 
 ![SP](./Store%20Pickup%20Image/image027.png)
 
-Choose a suitable Tag Name, write a description and upload Icon to make it pop out on store listing page.
+Choose a suitable Tag Name, write a description and upload Icon to make it pop out on store listing page.<br/>
 - **Stores of Tag**
 
 Select stores from the list to be shown up when Customers clicking on “Coffee” tab. Then Save Tag.
@@ -214,7 +214,7 @@ On the **Add Special Day** page:<br/>
 
 ![SP](./Store%20Pickup%20Image/image032.png)
 
-Remember to click on the **Save Item** button to save your work. 
+Remember to click on the **Save Item** button to save your work.<br/>
 ***Note**: Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.
 
 On the **Stores of Holiday** page: tick all stores that you want this special day to be applied, then Save Special Day
@@ -266,7 +266,7 @@ No.|	Field|	Sample	|Result
 
 ![SP](./Store%20Pickup%20Image/image039.png)<br/>
     - To integrate Google API in your site, fill your Google Map API key into this field. You can get this key by following the guide link or going to Store Pickup → Guide on the menu in backend. <br/>
-    - Choose Yes to enable Facebook comment for your stores. To integrate Facebook social plugin in your site, you must enter Facebook API key into this field. To register this key, please follow the guide link.
+    - Choose Yes to enable Facebook comment for your stores. To integrate Facebook social plugin in your site, you must enter Facebook API key into this field. To register this key, please follow the guide link.<br/>
 - **Store Search**:
 
 ![SP](./Store%20Pickup%20Image/image040.png)
