@@ -15,31 +15,35 @@ Magestore Inventory Report extension for Magento provides you with a detailed ov
 **Note**: Magestore Inventory Management extension is required to make Inventory Report extension work properly.
 
 To view Sales and Inventory report, you go to tab **Retailer Report**, then choose **Manage Report**. All 11 types of report can be exported as CSV file.
-i4
+
+![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image004.jpg)
 
 -----------------------------
 ## Sales Reports
 
 Sales Reports are shown with 6 types of report including: Product report, Warehouse report, Shipping method report, Payment method report, Order Status and Customer report.
-i6
+
+![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image006.jpg)
 
 
 Then click to open the report you want to show. To run report with real-time statistics, you need to pay attention to these 3 factors:
 
 -	**Factor 1: Real-time statistics**
-i8
+
+![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image008.jpg)
 
 
 If you do not set Auto update for sales report (read 4. Settings), you need to refresh the latest data when running report. On the left side of each sales report, there is a notice about the last update and the latest statistics, click **Here** to refresh data.
 
 -	**Factor 2: Time period**
-i10
+
+![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image010.jpg)
 
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
 -	**Factor 3: Warehouse(s)**
 
-i12
+![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image012.jpg)
 
 Choose one or all the warehouses then click on Show Report to run the report.
 
