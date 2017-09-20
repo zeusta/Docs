@@ -5,7 +5,7 @@
 
 *Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 ## Introduction
-Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s **Magento 2 POS** integration extension, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you   will   be   fascinated   by   its   convenience   and   the   amount   of   time   saved.
+Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s **Magento 2 POS** integration module, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you   will   be   fascinated   by   its   convenience   and   the   amount   of   time   saved.
 We would love to discuss your specific needs but we think you might like some of our customer favorite features below.
 ## How to configure
 Before using Web POS to check out, admin needs to configure it in backend first. Please read the user guide carefully to know how to configure information you want.
@@ -113,7 +113,7 @@ In field Resource Access, you can choose **Custom or All**. Choose All if you wa
 
 When finishing editing, please click on **Save** or **Save And Continue Edit** button to save the change.
 ### How to connect Web POS with peripheral devices
-Magestore Web POS extension can connect with **Barcode readers, Card swiper, Receipt printer & Customer pole display**.
+Magestore Web POS module can connect with **Barcode readers, Card swiper, Receipt printer & Customer pole display**.
 - 	Barcode readers: any devices that connect with ipad/laptop/pc (no matter through usb port, wifi or bluetooth) - as long as the scanner can read barcodes & fill encoded information into Web POS search box.
 - 	Card readers: only devices connected through USB port.
 - 	Receipt printers: any devices that connect with iPad/laptop/PC (no matter through usb port, wifi or bluetooth).
@@ -164,7 +164,7 @@ Then, click on **Account** tab and the user can see his/her information. The use
 ### How a Web POS user deletes/ reloads data in local manually
 - 	**When to use**:
 
-In the first time a user log in to Web POS Checkout screen, the extension will load data like products, customers, tax calculations, etc. to his local. Then the system will automatically update new data about products, customers... when having any changes in admin panel.
+In the first time a user log in to Web POS Checkout screen, the module will load data like products, customers, tax calculations, etc. to his local. Then the system will automatically update new data about products, customers... when having any changes in admin panel.
 In some cases, a user's local data is not 100% synced with data in the back-end. If the user notices any discrepancy, he can delete and reload data manually.
 - 	**How to use**:
 
@@ -474,7 +474,7 @@ If customers want the orders to be shipped in 2 or more consignments, sales staf
 ![WebPOS](./Web%20POS%20Image/image070.png)
 
 ####  How to issue refund
-Customers can get refund in either points or in cash. With Magento 2 Web POS extension, you can enable refund by reward points default of Magento 2. 
+Customers can get refund in either points or in cash. With Magento 2 Web POS module, you can enable refund by reward points default of Magento 2. 
 To issue refund, go to **Orders** tab in POS screen, you choose the order that is required to refund. Click on **Submit Refund** button in the end.
 
 ![WebPOS](./Web%20POS%20Image/image071.png)
