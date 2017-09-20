@@ -69,7 +69,7 @@ This function consists of 3 tabs to help you manage your inventory successfully:
 #### 1.1. Stock in Warehouse
 
 This tab provides an overview of stocks in all warehouses. Here you can view stock SKU, Name, Price, Qty in Warehouse(s), Qty to Ship, Available Qty, Products in Warehouse(s), Stock Movement and Product Status. 
-The extension provides an in-depth control over your **composite products** (configurable, bundle and grouped products).  You can see 3 quantity types of each variation or component of the composite product in a specific warehouse. 
+The module provides an in-depth control over your **composite products** (configurable, bundle and grouped products).  You can see 3 quantity types of each variation or component of the composite product in a specific warehouse. 
 For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. 
 
 ![enter image description here](./image_IM%20Rebuilt/image002.png)
@@ -180,7 +180,7 @@ Manage each warehouse’s sales status at a glance with visual charts. You can a
 
 ### 2. Stock Control
 
-This extension is a powerful assistance to help you keep track of any changes in the existing stock. It combines 5 functions in 1:
+This module is a powerful assistance to help you keep track of any changes in the existing stock. It combines 5 functions in 1:
 
  - **New Stock Adjustment**: manually adjusts stock quantity;
  - **New Stocktaking**: assists in a complete stocktaking process;
