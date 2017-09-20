@@ -10,18 +10,18 @@ This document and the information it contains constitute a trade secret of Mages
 ## INTRODUCTION
 According to ComScore, 61% of shoppers would rather use free in-store pickup than pay for shipping. Thus, 72% of retailers start allowing Customers to purchase online before coming to a store and receive purchased products. If there is a chain of stores available, undoubtedly Customers will choose the nearest one as well as an appropriate time to arrive. How can the store-owner make that happen? The answer is Magento 2 Store Pickup extension – the most professional Magento shipping extension, which allows setting up multiple Magento stores, showing addresses and opening time of each store for the Customers’ convenience.
 
-![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image003.png)
+![SP](./Store20%Pickup20%Image/image003.png)
 
 ## HOW TO USE
 Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the **Store Pickup** module.
 ### View Store Information
 Store Pickup module creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **arrow button** on Top-Link (the top right of the page)
 
-![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image004.png)
+![SP](./Store20%Pickup20%Image/image004.png)
 
 The Store Listing page includes 4 sections: **Store list**, **Search form**, **Google Map** and **Tags list**.
 
-![SP](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%202/Store%20Pickup%20Image/image005.png)
+![SP](./Store20%Pickup20%Image/image005.png)
 
 •	The list of all stores is shown on the bottom of Google Map. Customers can view store names and base images on this list. 
 
