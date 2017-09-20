@@ -27,27 +27,30 @@ Many times customers want to visit your physical store to pick up products order
 Store Pickup extension creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **Our Stores** on Top-Link (the top right of the page) or Footer-Link (the bottom of the page).
 
 ![Top-Link](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image002.png?raw=true) 
+Top-Link
 
-( Anh 3) [Footer-Link]
+
+![enter image description here]( https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image003.png?raw=true) 
+Footer-Link
 
 The Store Listing page includes 4 sections: **Store list, Search form, Google Map** and **Tags list.**
 
-(anh 4)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image004.png?raw=true)
 
 - 	The list of all stores is shown on the bottom of Google Map. Customers can view store names and base images on this list. 
-Click on the icon (Anh 5)   on the bottom right corner on the G-Map to show store list or click on the (anh 6)  to hide store list
+Click on the icon ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image005.png?raw=true)   on the bottom right corner on the G-Map to show store list or click on the ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image006.png?raw=true)  to hide store list
 - 	Store locations are displayed on Google Map. Customers can zoom in/ zoom out and choose view mode as map/ satellite as preferred. Customers can also view store address or get direction by clicking on the pin icon of any store.
-- 	Click on the icon (anh 7)  to search stores by location. Customers need to enter the key word and select criteria. Results that are matched are shown on G-Map. 
-Click on the icon (anh8)  to search stores by radius. After customers enter the the location then choose radius, related results are shown on G-Map.
+- 	Click on the icon ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image007.png?raw=true)  to search stores by location. Customers need to enter the key word and select criteria. Results that are matched are shown on G-Map. 
+Click on the icon ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image008.png?raw=true)  to search stores by radius. After customers enter the the location then choose radius, related results are shown on G-Map.
 -	Besides, customers can also filter by tags. Customers just have to click on tags they want to search. Then, list of stores which admin add these tags to will be shown.
 
 When customers click on a store on the map, they can instantly view the store location along with its name, address, phone number and store manager’s email address. Customers can also get direction on this box.
 
-(anh 9)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image009.png?raw=true)
 
 For more details of a store, customers can click on its View more info link to be navigated to the detailed page.
 
-(anh 10)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image010.png?raw=true)
 
 As you can see, this page shows all details that customers want to know about a store before arriving, such as location, contact info, working time, description and store images. 
 They can also view list of special days & holidays in **Special day & Holiday information** tab.
@@ -59,41 +62,41 @@ The main function of Store Pickup module is allowing customers to select a prefe
 
 - In the **Shipping method** tab at checkout, customers can select ***Store Pickup*** as their shipping option. Then customers can select a store from the dropdown list: 
 
-(anh 11)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image011.png?raw=true)
 
 Or customers can select on Google map as bellow:
 
-(Anh 12)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image012.png?raw=true)
 
 On the G-Map popup, customer needs to select a store on store list or search store that they want, after that click on the **Apply** button to apply or click on **Close** button to cancel.
 
 - After selecting a store, customers need to choose a specific shipping date and time for arrival, and then check out as usual by clicking on the **Continue** button.
 If the shipping date is one of store’s holidays, customers will get a message notifying them to choose another date. Thus, they can avoid arriving on the store’s days off. You can refer to section **"Manage Holidays"** to know how to set up these holidays.
 
-(im13)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image013.png?raw=true)
 
 -	In the **Payment Information** tab, applicable payment methods for **In-store Pickup** are shown as your configuration.
 
-(im14)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image014.png?raw=true)
 
 -	Before placing order, customers can also review the store address, shipping date and time along with other order information.
 
-(im15)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image015.png?raw=true)
 
 ### View Orders
 
 To view their orders with store pickup information, customers can go to **My Account** on Top-Link > **My Orders** tab > **View Order**.
 
-(im16)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image016.png?raw=true)
 
 To print orders, customers can click on **Print Order** on the top right.
 
-###Receive Order Emails
+### Receive Order Emails
 After placing orders, customers will receive the confirmation email with information about the pickup store.
 
-(anh 17)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image017.png?raw=true)
 
-##HOW TO CONFIGURE
+## HOW TO CONFIGURE
 
 You have seen how Store Pickup works in front-end for customers. The following part will guide you through how to configure and manage the extension in back-end.
 
@@ -110,37 +113,37 @@ In order to get API key, follow these steps as follows:
 **Step 1**: Visit APIs Console at 
 https://console.developers.google.com/apis/library and log into your Google Account.  Then, click **Create project** button on top of the menu. 
 
-(im18)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image018.png?raw=true)
 
 **Step 2**: Fill in the project name and click Create button
 
-(anh19)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image019.png?raw=true)
 
 **Step 3**: On the menu at the left side, you will see the **Credentials T**ab. Click this tab and after that, a box will appear with "**API key**" on it. It is where you should click in order to create API key for your browser apps.
 
-(anh20)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image020.png?raw=true)
 
 After that you will see a box with a number of choices specifying which kind of key you would like to create. Choose **Browser key** 
 
-(anh21)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image021.png?raw=true)
 
 **Step 4**: Fill in your name and domain and then click create
 
-(anh22)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image022.png?raw=true)
 
 **Step 5:** Get the key and paste it in your page 
 
-(anh 23)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image023.png?raw=true)
 
 **Step 6**: Last but not least, in **Library** tab, let’s enable the APIs in red frame as below 
 
-(anh24)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image024.png?raw=true)
 
 ### Manage Stores
 
 In the back-end, go to **Store Pickup** → **Manage stores.** The **Store Manager** grid shows all stores created in your system with their address and status. To add new stores, you can add them manually and import from CSV files.
 
-(im25)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image025.png?raw=true)
 
 #### Add Store
 
@@ -151,19 +154,19 @@ This tab has 3 sessions: Store Information, Contact Information and Google Map.
 	
 ✓Fill store’s name, shipping fee, address and description in **Store Information** session. You can select tags if you want your customers can search this store by tags.
 	
-(im26)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image026.png?raw=true)
 
 ***Tips:** You can input content for the **Description** field in HTML for better display in frontend, such as customized format, attached links.
 
 ✓In **Contact Form** session, it allows you to enter information of store’s manager such as email address, phone number, etc. so customers will know how to contact if needed. You can configure to enable automatic emails sent to the store manager when pickup orders’ status is changed.
 
-(im27)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image027.png?raw=true)
 
 You can also upload store images to show on the **Store Detailed** page. The image chosen as Base Image is used on the **Store Listing** page as well.
 
 ✓	**Google Map** session, you can fill in coordinates and set color of the store’s pin shown on Google map, which is very helpful as you can highlight any store from others just with a different pin color.
 
-(im28)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image028.png?raw=true)
 
 - **Time Schedule** tab: 
 
@@ -174,13 +177,13 @@ When customers want to pick up products at a specific store, they need to know t
 
 Similarly, you can set opening hours for each remaining day of the week. To quickly set up, click on the **Apply to other days** button on the top right corner of the Monday section. Other days will have the same working time as Monday.
 
-(im29)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image029.png?raw=true)
 
 - **Customer Messages** tab:
 
 When customers fill in the Contact Form on the Store Detailed page, all messages are saved in this tab allowing admin/ store manager to review later.
 
-(im30)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image030.png?raw=true)
 
 After entering all required information, click on the **Save Store** or **Save And Continue Edit** buttons to create the store.
 
@@ -196,7 +199,7 @@ You can download the sample “stores.csv” file to view its structure. The col
 	-	Click on button **Choose File** to select  your  CSV file
 	-	Select **Save Store** to import the CSV file
 
-(im31)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image031.png?raw=true)
 
 #### Edit Store
 
@@ -209,19 +212,19 @@ You can see it at the left upper. Click on this tab, the Google map will be disp
 
 When you edit the store address (street, city or state/province) in **General Information,** the store coordinates will be auto-updated after being saved. You can also edit the color of store’s pin shown on map and preview it.
 
-(im32)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image032.png?raw=true)
 
 - **Related Orders** tab:
 
 This tab shows you all pickup orders of this store.
 
-(im33)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image033.png?raw=true)
 
 ### Manage Holidays
 
 To set days off for your stores, go to **Store Pickup** → **Manage Holidays**. You will be navigated to the **Holiday Manager** page listing all holidays created. Click on **Add Holiday** button to create a new one.
 
-(im34)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image034.png?raw=true)
 
 On the **Add Holiday** page:
 
@@ -232,13 +235,13 @@ On the **Add Holiday** page:
 
 Remember to click on the **Save Item** button after entering required fields to save your work.
 
-(im35)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image035.png?raw=true)
 
 ###	Manage Special Days
 
 To set days with special working time for your stores, go to **Store Pickup** → **Manage Special Days**. You will be navigated to the **Special Day Manager** page listing all special days created. Click on the **Add Special Day** button to create a new one.  
 
-(im36)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image036.png?raw=true)
 
 On the **Add Special Day** page:
 
@@ -248,7 +251,7 @@ On the **Add Special Day** page:
 -	Set interval between shipping time options shown to customers at checkout, such as 15 minutes
 -	Choose opening and closing time applied to these special days
 
-(im37)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image037.png?raw=true)
 
 Remember to click on the Save Item button to save your work. 
 
@@ -257,11 +260,11 @@ Remember to click on the Save Item button to save your work.
 ###	Manage Tags
 This page shows the list of tags that you added. This tags list will be shown on the Store listing page to your customers can filter stores by them.
 
-(im38)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image038.png?raw=true)
 
 To add a new tag, please click on **Add Tag** button, the Add Tags page will be shown and you need to fill tag’s name, upload icon and select status for that tag.
 
-(im39)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image039.png?raw=true)
 
 After that, remember to save your work by clicking on **Save Tag** button or **Save And Continue Edit** button.
 
@@ -271,22 +274,22 @@ To view pickup orders in backend:
 - Go to **Sales** → **Orders** on the menu, choose the order in which the shipping name is the same as the pickup store’s name.
 - In the **Information** tab, you can see the information about shipping address changed to the address of pickup store and attached with a map location.
 
-(im40) 
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image040.png?raw=true) 
 
 -	**Store Pickup** tab shows you more detailed information of store location.
 
-(im41) 
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image041.png?raw=true) 
 
 ###	Receive Notification Emails about Pickup Orders
 After customers place orders with the in-store pickup option, notification emails will be sent to the store manager and the web administrator.
 
 - Email sent to the store manager:
 
-(im42)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image042.png?raw=true)
 
 -	 Email sent to the web administrator:
 
-(im43)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image043.png?raw=true)
 
 ### Settings
 To configure settings of the **Store Pickup** extension, go to **System > Configuration** on the menu bar, choose the **Shipping Methods** tab on the left navigation, select the **Store Pickup** method.
@@ -294,7 +297,7 @@ The configuration is divided into 4 groups including **General**, **Store List**
 
 -	**General**:
 
-(im44)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image044.png?raw=true)
 |No|	Field|	Sample|	Result|
 |-|-|-|-|
 |1|	Enable Store Pickup|	Yes|	Enable this extension on your site|
@@ -303,7 +306,7 @@ The configuration is divided into 4 groups including **General**, **Store List**
 
 
 - **Store List**: 
-(im45)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image045.png?raw=true)
 	- **Description**: enter description that will be shown on the Store Listing page
 	-	**Search Tab**: select types of search tabs that will be shown on the search form.
 	-	**Store Search**: select the information customers can select when they search by area
@@ -311,7 +314,7 @@ The configuration is divided into 4 groups including **General**, **Store List**
 	-	**Unit of distance**: select unit to measure distance between store and customer as Kilometers or Miles
 
 - 	**Checkout:**
-(im46)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image046.png?raw=true)
 	-	**Carrier Title**: The title shown in Shipping Method stage at checkout.
 	-	**Method Title**: Method title is shown in Shipping Method stage at checkout
 	-	**Default store at checkout**: Choose this store as the default store in Shipping Method at checkout when customers select the Store Pickup option
@@ -322,7 +325,7 @@ The configuration is divided into 4 groups including **General**, **Store List**
 
 - **Email Template**:
 
-(im47)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image047.png?raw=true)
 
 You can modify default email template sent to store manager and admin when pickup order is created, changed status or customers send message through the **Contact Form**.
 After configuring all fields, click on the **Save Config** button to save your work
