@@ -8,7 +8,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 ## Introduction
 
-**Purchase Management** is a Magento 2 extension, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order, Quotation and Suppliers are kept track and automatically updated in the system. The extension is:
+**Purchase Management** is a Magento 2 module, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order, Quotation and Suppliers are kept track and automatically updated in the system. The module is:
 
 •	Compatible with Magento CE 2.1.0, 2.1.1, 2.1.2
 
@@ -189,7 +189,7 @@ In this tab, you should configure all the required fields marked with a red star
 
 There are several optional fields to help you add extra information to your purchase order:
 
-•	Send Email to Supplier: By ticking the checkbox, the extension will automatically send information to the supplier via email right after creating the purchase order.
+•	Send Email to Supplier: By ticking the checkbox, the module will automatically send information to the supplier via email right after creating the purchase order.
 
 •	Comment: Add extra information for the purchase order. Suppliers will be notified about it.
 After that, click on **Prepare Product List** button to continue.
