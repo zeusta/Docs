@@ -272,13 +272,13 @@ No.|	Metrics |		Sign|	Equation|	Explain|
 4|	Purchasing cost calculated by the MAC (Moving average cost)|unit_cost| total cost after Purchase Order / total Qty after Purchase Order|Cost of purchase is calculated in average cost method. MAC = total cost / quantity that have been transferred into warehouse (based on the current purchase order status)|
 5|	Profit|	Profit|	actual_profit + potential_profit |	Profit = total revenue -total COGS
 6|	Actual Profit|	actual_profit|	unit_profit x actual_sold_qty| Actual discount value (based on the product's current order status) is shown in **row_invoiced**. This value is calculated for items that are already Invoiced|
-7|	Potential Profit|	potential_profit|	unit profit x potential_sold_qty | Projected discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are not invoiced yet|
+7|	Potential Profit|	potential_profit|	unit profit x potential_sold_qty | Projected discount value (based on the product's current order status) is shown in **row_invoiced**. This value is calculated for items that are not invoiced yet|
 8|	Tax|	Tax	|actual_tax + potential_tax|	Tax of an item on order
 9|	Actual Tax|	actual_tax|	unit_tax x actual_sold_qty|	Actual discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are already invoiced|
 10|	Potential Tax|	potential_tax|unit_tax x potential_sold_qty |	Potential discount value (based on the product's current order status) is shown in row_invoiced. This value is calculatedfor items that are not invoiced yet|
 11|	Discount|	Discount|	actual_discount + potential_discount|Discount value of an item on an order
 12|	Actual Discount| actual_discount | unit_discount x actual_sold_qty|Actual discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are already invoiced
-13|	Potential Discount |potential_disco unit| unit_discount x potential_sold_qty |Potential discount value (based on the product's current order status) is shown in row_invoiced. This value is calculated for items that are not invoiced ye
+13|	Potential Discount |potential_disco unit| unit_discount x potential_sold_qty |Potential discount value (based on the product's current order status) is shown in **row_invoiced**. This value is calculated for items that are not invoiced ye
 14|	Total sales|	Total sales|	COGS + Profit|Total sales = total COGS + total profit = (actualCOGS + potential COGS) + (actual profit + potential profit)
 **II. Inventory report**|			
 1|Moving Average Cost| MAC = unit_cost | total cost after Purchase Order / total Qty after Purchase Order / total Qty after Purchase Order| A = COGS of current unsold products (exclusive incoming stock in this Purchase Order) If COGS = 0, A = current cost on Purchase OrderB = total cost of products on the new Purchase Order (= cost x quantity of products on Purchase Order) MAC = A + B / (total product quantity of A & B)|
