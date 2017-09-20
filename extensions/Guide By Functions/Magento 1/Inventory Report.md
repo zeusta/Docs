@@ -25,27 +25,25 @@ To view Sales and Inventory report, you go to tab **Retailer Report**, then choo
 
 Sales Reports are shown with 6 types of report including: Product report, Warehouse report, Shipping method report, Payment method report, Order Status and Customer report.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image006.jpg)
-
+![Magento Inventory Report](./Image_Inventoryreport/image006.jpg)
 
 Then click to open the report you want to show. To run report with real-time statistics, you need to pay attention to these 3 factors:
 
 -	**Factor 1: Real-time statistics**
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image008.jpg)
-
+![Magento Inventory Report](./Image_Inventoryreport/image008.jpg)
 
 If you do not set Auto update for sales report (read 4. Settings), you need to refresh the latest data when running report. On the left side of each sales report, there is a notice about the last update and the latest statistics, click **Here** to refresh data.
 
 -	**Factor 2: Time period**
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image010.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image010.jpg)
 
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
 -	**Factor 3: Warehouse(s)**
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image012.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image012.jpg)
 
 Choose one or all the warehouses then click on Show Report to run the report.
 
@@ -59,12 +57,12 @@ The Product report helps Magento store owners answer these all questions:
 
 -	View orders' information (ID, status, Actual Sold Quantity, Potential Sold Quantity, discount, tax, profit, Cost of Goods Sold, total sales).
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image014.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image014.jpg)
 
 
 When viewing each product SKU, you see orders’ details of that product SKU.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image016.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image016.jpg)
 
 **Main metrics:**
 
@@ -85,17 +83,16 @@ When viewing each product SKU, you see orders’ details of that product SKU.
 
 **Secondary metrics:**
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image018.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image018.jpg)
 
 
 Click on **Select Columns** to add more metrics to your product report.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image020.jpg)
-
+![Magento Inventory Report](./Image_Inventoryreport/image020.jpg)
 
 For example, when you tick on Payment Method, the product report additionally shows the payment information.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image022.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image022.jpg)
 
 You can add more dimension and metrics to get more details from the report. The secondary metrics is available for all 6 types of Sales report.
 
@@ -111,7 +108,7 @@ This report answers these questions:
 
 Similar to Product report, you can use secondary dimensions/ metrics to get more details.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image024.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image024.jpg)
 
 **Main metrics:** Actual sold quantity; potential sold quantity; cost of goods sold; tax; total sales; profit.
 
@@ -119,11 +116,11 @@ Similar to Product report, you can use secondary dimensions/ metrics to get more
 
 This report provides a breakdown of your sales value by shipping method within a given period. It helps you answer the question: What is the most common shipping method that customers use? It also allows you to view details of each shipping methods.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image026.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image026.jpg)
 
 Click on **View** to see order list of each shipping methods.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image028.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image028.jpg)
 
 **Main metrics:** Shipping method; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total sales; Profit.
 
@@ -132,11 +129,11 @@ Click on **View** to see order list of each shipping methods.
 
 This report shows you which the most used payment methods is and the details of each payment methods (order ID, order status, etc.)
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image030.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image030.jpg)
 
 Click on **View** to see list of order using each payment methods in details.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image032.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image032.jpg)
 
 **Main metrics:** Payment method; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total Sales; Profit.
 
@@ -144,7 +141,7 @@ Click on **View** to see list of order using each payment methods in details.
 
 Store owner can view the structure of orders by status and view details of each status (Order ID, sold quantity,...) with the Order status report.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image034.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image034.jpg)
 
 **Main metrics:** Order status; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total sales; Profit.
 
@@ -152,7 +149,7 @@ Store owner can view the structure of orders by status and view details of each 
 
 The Customer report shows you your loyal customers and allows to view details of each customers (orders' ID, status, etc.).
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image036.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image036.jpg)
 
 **Main metrics:** Customer; Customer group; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total sales; Profit.
 
@@ -161,21 +158,22 @@ The Customer report shows you your loyal customers and allows to view details of
 
 
 To access Inventory Report, you go to tab **Manage Report**, there are 5 types of reports displayed. Click to view the report you want to access.
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image038.jpg)
+
+![Magento Inventory Report](./Image_Inventoryreport/image038.jpg)
 
 **Note:** You need to choose the warehouse (one or all warehouses) before running report.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image040.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image040.jpg)
 
 ### Value of Stock-on-hand
 
 This report identifies the value of stock-on-hand of each warehouse or the whole system. You will get an overview of your inventory (Manage the total quantity, the inventory value, retail value, & profit value, etc.)
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image042.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image042.jpg)
 
 You can choose to remove fields from report. Click on **Select Columns** then untick the fields that you don’t want to show on the report.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image044.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image044.jpg)
 
 **Main metrics:**
 
@@ -200,7 +198,7 @@ You can choose to remove fields from report. Click on **Select Columns** then un
 
 The Stock Quantity report provides store owners details of each product quantities (quantity in warehouse, quantity to ship, quantity on purchase order, etc.) It helps you answer these questions: Which products are available to be kept selling? Which products need supply?
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image046.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image046.jpg)
 
 **Main metrics:** Quantity in warehouse; Supplier; Quantity to ship; Available quantity; Quantity on purchase order; Shelf location.
 
@@ -208,11 +206,11 @@ The Stock Quantity report provides store owners details of each product quantiti
 
 This report allows you to compare stock metrics in multiple locations by each product. You need to choose the warehouse and the metric that you want to compare, then click on **Show report.**
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image048.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image048.jpg)
 
 The report will be displayed as below:
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image050.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image050.jpg)
 
 **Main metrics to compare:** Available quantity; Quantity to ship; Quantity in warehouse; Incoming stock; Inventory value; Retail value; Profit value; Profit margin.
 
@@ -220,7 +218,7 @@ The report will be displayed as below:
 
 This report provides store owners details of incoming stock by each product SKU.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image052.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image052.jpg)
 
 **Main metrics:** Supplier; Purchase Order; Quantity in warehouse; Incoming stock; Overdue incoming stock; Total cost of incoming stock.
 
@@ -229,7 +227,7 @@ This report provides store owners details of incoming stock by each product SKU.
 
 You can view inventory statistics of each warehouse by day and keep the reports in a specific period of time (last 7 days, last 30 days or last 3 months as you set up in Settings). The inventory operating activities are recorded to daily generate a report which you can download as a CSV file.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image054.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image054.jpg)
 
 ----------------
 ## Settings
@@ -239,14 +237,14 @@ In Magento backend, you go to tab **Retail Report**, then choose **Settings** to
 
 -	**Sales Report Configuration**
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image056.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image056.jpg)
       - Use cron to auto update: Choose **Yes** if you want to auto update data from Magento to Sales Report every minute. Otherwise, you need to go to **System >Index Management > Report Success** to generate and view report manually.
 
 **Note:** It takes time when you synchronize data from Magento to Inventory Report the first time.
 
 -	**Inventory Report History Configuration**
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image058.jpg)
+![Magento Inventory Report](./Image_Inventoryreport/image058.jpg)
       -    Duration: The period in which your Inventory reports are recorded (last 7 days, last 30 days, last 3 months). To store the report, you should download it in zip file before the period times out as the report is deleted.
       -	Use Cron to auto update: Choose **Yes** if you want to auto update data from Magento to Inventory Report History every minute. Otherwise, you need to go to **System > Index Management > Report Success** to generate and view report manually.
       -	Auto Update Time: Set a specific time when the history report is auto generated.
