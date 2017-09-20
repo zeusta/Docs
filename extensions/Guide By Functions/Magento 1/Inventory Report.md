@@ -1,4 +1,6 @@
-# MAGENTO INVENTORY REPORT
+# INVENTORY REPORT - MAGENTO 1
+
+Version 1.0
 
 Confidential Information Notice
 
@@ -12,7 +14,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 Magestore Inventory Report module for Magento provides you with a detailed overview of your sales, stock, warehouse, suppliers. You get access to 11 types of report which are divided into 2 categories of **Sales** and **Inventory report**. They help you easily keep track your inventory system as well as your business performance.
 
-**Note**: Magestore Inventory Management module is required to make Inventory Report extension work properly.
+**Note**: Magestore Inventory Management module is required to make Inventory Report module work properly.
 
 To view Sales and Inventory report, you go to tab **Retailer Report**, then choose **Manage Report**. All 11 types of report can be exported as CSV file.
 
@@ -239,7 +241,7 @@ In Magento backend, you go to tab **Retail Report**, then choose **Settings** to
 
 ![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image056.jpg)
 
-     -	Use cron to auto update: Choose **Yes** if you want to auto update data from Magento to Sales Report every minute. Otherwise, you need to go to **System >Index Management > Report Success** to generate and view report manually.
+   - Use cron to auto update: Choose **Yes** if you want to auto update data from Magento to Sales Report every minute. Otherwise, you need to go to **System >Index Management > Report Success** to generate and view report manually.
 
 **Note:** It takes time when you synchronize data from Magento to Inventory Report the first time.
 
@@ -247,9 +249,9 @@ In Magento backend, you go to tab **Retail Report**, then choose **Settings** to
 
 ![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image058.jpg)
 
-     -	Duration: The period in which your Inventory reports are recorded (last 7 days, last 30 days, last 3 months). To store the report, you should download it in zip file before the period times out as the report is deleted.
-     -	Use Cron to auto update: Choose **Yes** if you want to auto update data from Magento to Inventory Report History every minute. Otherwise, you need to go to **System > Index Management > Report Success** to generate and view report manually.
-     -	Auto Update Time: Set a specific time when the history report is auto generated.
+   -	Duration: The period in which your Inventory reports are recorded (last 7 days, last 30 days, last 3 months). To store the report, you should download it in zip file before the period times out as the report is deleted.
+   -	Use Cron to auto update: Choose **Yes** if you want to auto update data from Magento to Inventory Report History every minute. Otherwise, you need to go to **System > Index Management > Report Success** to generate and view report manually.
+   -	Auto Update Time: Set a specific time when the history report is auto generated.
 
 ------------------
 ## List of inventory metrics
