@@ -13,7 +13,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 ## INTRODUCTION
 
-Purchase Management is a Magento 1 extension, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order and Quotation are kept track and automatically updated in the system.
+Purchase Management is a Magento 1 module, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order and Quotation are kept track and automatically updated in the system.
 
 ----------
 
@@ -98,7 +98,7 @@ In this step, there are 6 ways for you to prepare product list:
 
 ![Import Products](./Image_Purchase%20Management/image022.jpg)
 
-- **Scan Barcode** to prepare product (if Barcode Management extension is also installed);
+- **Scan Barcode** to prepare product (if Barcode Management module is also installed);
 
 ![Scan Barcode](./Image_Purchase%20Management/image024.jpg)
 
@@ -121,7 +121,7 @@ In this step, there are 6 ways for you to prepare product list:
 
  - Prepare **Back Order Products**. Back order products are those that have been ordered by customers but currently not available in stock;
  
- - Prepare **Low Stock Products**. If Inventory Management extension is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
+ - Prepare **Low Stock Products**. If Inventory Management module is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
 
 ![Prepare **Low Stock Products](./Image_Purchase%20Management/image028.jpg)
 
@@ -189,7 +189,7 @@ In this step, there are 6 ways for you to prepare product list:
  
 ![Import Products via a CSV file](./Image_Purchase%20Management/image041.jpg)
 
-- **Scan Barcode** to prepare product (if Barcode Management extension is also installed);
+- **Scan Barcode** to prepare product (if Barcode Management module is also installed);
 
 ![Scan Barcode** to prepare product](./Image_Purchase%20Management/image043.jpg)
 
@@ -211,7 +211,7 @@ need quantity.
 
 - Prepare **Back Order Products**. Back order products are those that have been ordered by customers but currently not available in stock;
 
-- Prepare **Low Stock Products**. If Inventory Management extension is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
+- Prepare **Low Stock Products**. If Inventory Management module is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
 
 ![Prepare Low Stock Products](./Image_Purchase%20Management/image047.jpg)
 
@@ -249,7 +249,7 @@ This tab displays all the PO’s information you have entered in the previous st
 
 ##### Received Item:
 
-This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management extension, you can also enter the product’s barcode and update its delivery status.
+This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management module, you can also enter the product’s barcode and update its delivery status.
 
 ![enter the product’s barcode and update delivery status](./Image_Purchase%20Management/image055.jpg)
 
