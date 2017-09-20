@@ -12,7 +12,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 No|Terms|Explanation
 ---|---|---
-|1| Gift code|Gift codes are not only generated from Gift Card products but can also be added by Admin:<br/> - Gift codes of Gift Card products are generated in **Settings**<br> - You can import/add gift codes in **Manage Gift Code**s, or auto generate random gift codes in Generate Gift codes|
+1| Gift code|Gift codes are not only generated from Gift Card products but can also be added by Admin:<br/> - Gift codes of Gift Card products are generated in **Settings**<br> - You can import/add gift codes in **Manage Gift Code**s, or auto generate random gift codes in Generate Gift codes
 2|Gift code pattern|Template to auto-generate random gift codes 
 3|Gift Card product|Gift Card can be created as a product in your store. Like other products, it will have details like: Product page, Price, Weight…
 4|Gift Card value|The value of Gift Card that can be used to purchase products at your store. For example: Customer may buy a Gift Card whose value is $100 at just $90. His friend later can buy a product of $100 in your store. 
