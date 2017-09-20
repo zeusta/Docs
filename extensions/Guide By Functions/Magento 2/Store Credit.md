@@ -110,7 +110,7 @@ At the same time, the sender can also see the sent credit code in the **Credit C
 ![Storecredit](./SC%20Image/image019.png)
 
 In this section, Customers can follow the status of the credit codes they sent. While the recipient has not redeemed a credit code, Customers are allowed to cancel it by clicking on the **Cancel** link in the **Action** column. After the cancellation, the recipient cannot redeem that credit code any more.
-Otherwise, once the credit code has been redeemed, the status will be updated and the **Cancel** link will be disabled. Please refer to the section **2.2.3. Redeem** Credit for more information.
+Otherwise, once the credit code has been redeemed, the status will be updated and the **Cancel** link will be disabled. Please refer to the section **Redeem Credit** for more information.
 Customers can check their current balances and transactions of sharing credit in the **Transaction History** section.
 
 ![Storecredit](./SC%20Image/image020.png)
@@ -274,7 +274,7 @@ This page can be divided into two main sections including **Life-time Reports an
        - **Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.<br/>
        - **Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
 
-•	**Period-of-time Report Charts**: This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month**, etc.
+- **Period-of-time Report Charts**: This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month**, etc.
 
 ### Using Credit to checkout in backend:
 
