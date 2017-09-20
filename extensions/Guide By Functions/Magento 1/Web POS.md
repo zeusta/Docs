@@ -11,7 +11,7 @@ This document and the information it contains constitute a trade secret of Mages
 ---------------
 ## INTRODUCTION
 
-Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s **Magento POS** integration extension, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you will be fascinated by its convenience and the amount of time saved.
+Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s **Magento POS** integration module, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you will be fascinated by its convenience and the amount of time saved.
 
 ---------------
 
@@ -138,7 +138,7 @@ To add a new role, click on **Add Role** button in the top right corner. You wil
 
 ### How to connect Web POS with peripheral devices
 
-Magestore Web POS extension can connect with **Barcode readers, Card swiper, Receipt printer & Customer pole display.**
+Magestore Web POS module can connect with **Barcode readers, Card swiper, Receipt printer & Customer pole display.**
 
 -	Barcode readers: any devices that connect with iPad/laptop/PC (no matter through usb port, wifi or bluetooth) - as long as the scanner can read barcodes & fill encoded information into Web POS search box.
 
@@ -200,7 +200,7 @@ Then, click on **My Account** link and the user can see his information. He can 
 
 -	**When to use:**
 
-In the first time a user log in to Web POS Checkout screen, the extension will load data like products, customers, tax calculations, etc. to his local. Then the system will automatically update new data about products, customers... when having any changes in admin panel.
+In the first time a user log in to Web POS Checkout screen, the module will load data like products, customers, tax calculations, etc. to his local. Then the system will automatically update new data about products, customers... when having any changes in admin panel.
 
 In some cases, a user's local data is not 100% synced with data in the back-end. If the user notices any discrepancy, he can delete and reload data manually.
 
@@ -528,7 +528,7 @@ A pop-up will appear so you can enter the quantity of item or the order amount t
 
 ![invoice popup](./Image_Web%20POS/image132.jpg)
 
-**_Note_**: From version 3.0.4, WebPOS extension is well integrated with Magestore PDF Invoice extension. This helps store owners create invoice much more easily and faster.
+**_Note_**: From version 3.0.4, WebPOS module is well integrated with Magestore PDF Invoice module. This helps store owners create invoice much more easily and faster.
 
 ### How to create shipment or issue refund for an order
 
@@ -562,7 +562,7 @@ After placing order successfully, you find that order in Order History. Then you
 
 #### How to issue refund
 
-Some certain staffs have permission to issue refund (which is set by admin in backend. See **How to differentiate access permissions of Web POS users** for more details). Customers can get refund in either Store Credits, points or in cash. To enable refund by **Store Credit** and **Reward Points**, these two extensions must be installed in your website.
+Some certain staffs have permission to issue refund (which is set by admin in backend. See **How to differentiate access permissions of Web POS users** for more details). Customers can get refund in either Store Credits, points or in cash. To enable refund by **Store Credit** and **Reward Points**, these two modules must be installed in your website.
 
 To issue refund, go to Orders tab in POS screen, you choose the order that is required to refund. Click on **Refund** button in the end.
 
