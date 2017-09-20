@@ -13,7 +13,7 @@ This document and the information it contains constitute a trade secret of Mages
 ----------
 
 
-According to ComScore, 61% of shoppers would rather use free in-store pickup than pay for shipping. Thus, 72% of retailers start allowing Customers to purchase online before coming to a store and receive purchased products. If there is a chain of stores available, undoubtedly Customers will choose the nearest one as well as an appropriate time to arrive. How can the store-owner make that happen? The answer is Magento Store Pickup extension – the most professional Magento shipping extension, which allows setting up multiple Magento stores, showing addresses and opening time of each store for the Customers’ convenience.
+According to ComScore, 61% of shoppers would rather use free in-store pickup than pay for shipping. Thus, 72% of retailers start allowing Customers to purchase online before coming to a store and receive purchased products. If there is a chain of stores available, undoubtedly Customers will choose the nearest one as well as an appropriate time to arrive. How can the store-owner make that happen? The answer is Magento Store Pickup module – the most professional Magento shipping module, which allows setting up multiple Magento stores, showing addresses and opening time of each store for the Customers’ convenience.
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image001.png?raw=true)
 
@@ -21,10 +21,10 @@ According to ComScore, 61% of shoppers would rather use free in-store pickup tha
 
 ----------
 
-Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the **Store Pickup** extension.
+Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the **Store Pickup** module.
 
 ### View Store Information
-Store Pickup extension creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **Our Stores** on Top-Link (the top right of the page) or Footer-Link (the bottom of the page).
+Store Pickup module creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **Our Stores** on Top-Link (the top right of the page) or Footer-Link (the bottom of the page).
 
 ![Top-Link](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image002.png?raw=true) 
 Top-Link
@@ -98,7 +98,7 @@ After placing orders, customers will receive the confirmation email with informa
 
 ## HOW TO CONFIGURE
 
-You have seen how Store Pickup works in front-end for customers. The following part will guide you through how to configure and manage the extension in back-end.
+You have seen how Store Pickup works in front-end for customers. The following part will guide you through how to configure and manage the module in back-end.
 
 ***New release:** One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was that **required future product updates are only available for requests made with an API key.**
   
@@ -292,7 +292,7 @@ After customers place orders with the in-store pickup option, notification email
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image043.png?raw=true)
 
 ### Settings
-To configure settings of the **Store Pickup** extension, go to **System > Configuration** on the menu bar, choose the **Shipping Methods** tab on the left navigation, select the **Store Pickup** method.
+To configure settings of the **Store Pickup** module, go to **System > Configuration** on the menu bar, choose the **Shipping Methods** tab on the left navigation, select the **Store Pickup** method.
 The configuration is divided into 4 groups including **General**, **Store List**, **Checkout** and **Email Template** 
 
 -	**General**:
@@ -300,7 +300,7 @@ The configuration is divided into 4 groups including **General**, **Store List**
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image044.png?raw=true)
 |No|	Field|	Sample|	Result|
 |-|-|-|-|
-|1|	Enable Store Pickup|	Yes|	Enable this extension on your site|
+|1|	Enable Store Pickup|	Yes|	Enable this module on your site|
 |2|	Store List link shown in frontend|Top Link/Footer Link/ Not Shown|	Show **Our stores** link on the top link/ footer link in frontend or not|
 |3|	Google Map key	||	Fill the Google map key into this field to use Google API. You can get this key by following the guide link or going to Store Pickup > Guide|
 
