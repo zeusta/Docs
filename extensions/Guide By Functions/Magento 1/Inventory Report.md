@@ -1,6 +1,6 @@
 # INVENTORY REPORT - MAGENTO 1
 
-Version 1.0
+**Version 1.0**
 
 Confidential Information Notice
 
@@ -240,18 +240,16 @@ In Magento backend, you go to tab **Retail Report**, then choose **Settings** to
 -	**Sales Report Configuration**
 
 ![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image056.jpg)
-
-   - Use cron to auto update: Choose **Yes** if you want to auto update data from Magento to Sales Report every minute. Otherwise, you need to go to **System >Index Management > Report Success** to generate and view report manually.
+      - Use cron to auto update: Choose **Yes** if you want to auto update data from Magento to Sales Report every minute. Otherwise, you need to go to **System >Index Management > Report Success** to generate and view report manually.
 
 **Note:** It takes time when you synchronize data from Magento to Inventory Report the first time.
 
 -	**Inventory Report History Configuration**
 
 ![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image058.jpg)
-
-   -	Duration: The period in which your Inventory reports are recorded (last 7 days, last 30 days, last 3 months). To store the report, you should download it in zip file before the period times out as the report is deleted.
-   -	Use Cron to auto update: Choose **Yes** if you want to auto update data from Magento to Inventory Report History every minute. Otherwise, you need to go to **System > Index Management > Report Success** to generate and view report manually.
-   -	Auto Update Time: Set a specific time when the history report is auto generated.
+      -    Duration: The period in which your Inventory reports are recorded (last 7 days, last 30 days, last 3 months). To store the report, you should download it in zip file before the period times out as the report is deleted.
+      -	Use Cron to auto update: Choose **Yes** if you want to auto update data from Magento to Inventory Report History every minute. Otherwise, you need to go to **System > Index Management > Report Success** to generate and view report manually.
+      -	Auto Update Time: Set a specific time when the history report is auto generated.
 
 ------------------
 ## List of inventory metrics
