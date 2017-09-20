@@ -149,7 +149,7 @@ After finishing, click on **Save POS** or **Save And Continue Edit** button to s
 
 After finishing, click on **Save POS** or **Save and Continue Edit** button to save your work.
 ### 	How to connect Retailer POS with peripheral devices
-Magestore Retailer POS extension can connect with **Barcode readers, Card Swipe, Wireless Cash Drawer & Receipt printers**
+Magestore Retailer POS module can connect with **Barcode readers, Card Swipe, Wireless Cash Drawer & Receipt printers**
 
 •	Card Swipe (via Audio jack)
 
