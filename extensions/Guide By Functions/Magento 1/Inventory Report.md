@@ -18,7 +18,7 @@ Magestore Inventory Report module for Magento provides you with a detailed overv
 
 To view Sales and Inventory report, you go to tab **Retailer Report**, then choose **Manage Report**. All 11 types of report can be exported as CSV file.
 
-![Magento Inventory Report](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/Image_Inventory%20Report/image004.jpg)
+![Magento Inventory Report](./Image_Inventory%Report/image004.jpg)
 
 -----------------------------
 ## Sales Reports
