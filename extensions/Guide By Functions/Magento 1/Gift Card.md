@@ -168,7 +168,7 @@ Customers can choose to use Gift Card or Gift Card credit and enter the amount o
 
 ### Settings
 
-To configure default configurations and settings of the extension, please log in to **backend**, and then choose **Gift Card** tab under **Settings** menu. Administrators can change parameters as follows:
+To configure default configurations and settings of the module, please log in to **backend**, and then choose **Gift Card** tab under **Settings** menu. Administrators can change parameters as follows:
 
  - **General** tab :
 
@@ -380,7 +380,7 @@ Different from normal products, there is another required field, **Select Gift C
 In **Prices** tab, Admin can configure prices and values of a Gift Card Product.
 ![Configure prices and values of a Gift Card Product](./Image_GiftcardM1/image090.png)
 
-The extension provides 3 **types of Gift Card value**, including **fixed value, range of values and dropdown values**. You can base on the type chosen to set Gift Card value(s) accordingly such as 50-100 (USD) for the **range of values** type.
+The module provides 3 **types of Gift Card value**, including **fixed value, range of values and dropdown values**. You can base on the type chosen to set Gift Card value(s) accordingly such as 50-100 (USD) for the **range of values** type.
 
 The next step you need to do is selecting the type of Gift Card price, which could be 1 in 3 following options:
 
