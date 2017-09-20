@@ -171,9 +171,9 @@ You can also upload store images to show on the **Store Detailed** page. The ima
 - **Time Schedule** tab: 
 
 When customers want to pick up products at a specific store, they need to know the suitable time to arrive. This tab helps you set store’s opening time for that purpose. Let’s take Monday for example:
--	If your store opens on Monday, choose Yes for Open.
--	If your store opens from 6 am to 11 am and 1pm to 22 pm, set **Opening Time** as 6:00, **Lunch break starts at** 11:00, **Lunch break ends** at 13:00 and **Closing Time** as 22:00.
--	When customers select their pickup time at checkout, you can set the interval between options, such as 30 minutes. Then the shipping time options shown in the dropdown box are 7:00, 7:30, 8:30, etc.
+-If your store opens on Monday, choose Yes for Open.
+-If your store opens from 6 am to 11 am and 1pm to 22 pm, set **Opening Time** as 6:00, **Lunch break starts at** 11:00, **Lunch break ends** at 13:00 and **Closing Time** as 22:00.
+-When customers select their pickup time at checkout, you can set the interval between options, such as 30 minutes. Then the shipping time options shown in the dropdown box are 7:00, 7:30, 8:30, etc.
 
 Similarly, you can set opening hours for each remaining day of the week. To quickly set up, click on the **Apply to other days** button on the top right corner of the Monday section. Other days will have the same working time as Monday.
 
@@ -298,6 +298,7 @@ The configuration is divided into 4 groups including **General**, **Store List**
 -	**General**:
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image044.png?raw=true)
+
 |No|	Field|	Sample|	Result|
 |-|-|-|-|
 |1|	Enable Store Pickup|	Yes|	Enable this module on your site|
