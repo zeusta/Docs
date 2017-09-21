@@ -691,15 +691,20 @@ There are four discount types:
    ✓ To Percentage of the original price
 
 Let's take an example, to give a discount of $10 or to $10 for every X points and apply the discount 5 times maximum per product, you can configure as below:
-o	Choose "Discount Type": "By a fixed amount" or "To a fixed amount" 
+
+o	Choose "Discount Type": "By a fixed amount" or "To a fixed amount"
+
 o	Fill in field "Discount Amount": 10 
+
 o	Fill in field "Uses Allowed Per Product": 5
+
 => With the discount "By a fixed amount" of $10.00 and "Uses Allowed Per Product" equal to 5, a $200.00 product will have its price down to $90.00 for the first time of spending points, to$180.00 for the second time and so on until reaching $150.00 for the last time (5th time).
 
 After being saved, the rule which has just been created will be shown as below:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image099.png?raw=true)
 
  - **Edit/ Delete an existing rule**
+ 
 In case you want to edit any catalog spending rule, please click on the **Edit** link in the **Action** column. Then you will be redirected to the **Edit Rule** page.
 
 After editing the rule as you want, remember to click on the **Save Rule** or **Save and Continue Edit** button to save your work.
@@ -713,37 +718,32 @@ Go to **backend > Reward Points > Spending > Shopping Cart Spending Rules**
 
 Then you will be redirected to the Shopping Cart Spending Rule Manager page.
 
- - **Add a new Rule:**
+- **Add a new Rule:**
 First you should click on the **Add Rule** button. And then you should configure information in 3 tabs:
-- **General Information** Tab:
-
+    - **General Information** Tab:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image101.png?raw=true)
-
-- **Conditions** tab:
+     - **Conditions** tab:
 This tab allows you to configure the conditions of shopping carts to which the rule is applicable.
 For example, you want to apply this rule only for shopping carts of subtotals equal to or greater than $300, you can configure the condition as in the image below:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image102.png?raw=true)
-
 If you do not set up this field, the rule will be applied for all carts.
 Also, you can configure how Customers can spend points in the **Action** field. There are two options for you to choose:
-		- **Give discount for fixed X points**: Customer can ONLY spend X points on whatever order they place.
+         - **Give discount for fixed X points**: Customer can ONLY spend X points on whatever order they place.
 For example, If you want to allow Customers to spend 5 points only on a shopping cart to get the discount, then you can configure as below:
 o	Choose "Action": "Give discount for fixed X points" 
 o	Fill in field "Points (X)": 5
 => If Customers place an order of $500.00 or $800.00, they can spend only 5 points in both cases.
-
-- **Give discount for every X points**: Customers can receive discounts proportionally to the number of points they spent.
+         - **Give discount for every X points**: Customers can receive discounts proportionally to the number of points they spent.
 If you want to give discount for every 5 points Customers spend on the order and limit the number of points that can be used to 15, then:
 o	Choose "Action": "Give discount for every X points" 
 o	Fill in field "Points (X)": 5 
 o	Fill in field " Max points spent by this rule": 15 
 => With every 5 points customers spent, they can receive a corresponding discount. For example, 5 points can be spent to get $1, 10 points can get $2.00 and so on. But they cannot use more than 15 points as that is the max points that can be spent by this rule.
-
-- **Actions** tab:
+      - **Actions** tab:
 In the **Action** tab, you can configure how prices of products are discounted after Customers use points:
 There are two discount types:
-		-	 Fixed amount discount for whole cart
-		- Percentage amount discount for whole cart
+          -	Fixed amount discount for whole cart
+          -	Percentage amount discount for whole cart
 
 Let's take an example, if you want to give a discount of $10 or 10% for X points (configured in the **Conditions** tab), then you can configure as below:
 
