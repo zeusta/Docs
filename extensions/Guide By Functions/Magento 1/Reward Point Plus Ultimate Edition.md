@@ -268,11 +268,8 @@ Our module shows all the current special offers of your website. The special off
 Customers can see special referral programs with information including offer title, effective date, description and policy of the offer.
 
 - **Sharing Options**
-
 This section contains links/coupons and channels for sharing such as email, Facebook, Twitter and Google+.
-
-   - Link: The invited friends will click on this link from social channels or email messages and start shopping. The system will automatically apply offer discount on checkout following this link.
-     
+   - Link: The invited friends will click on this link from social channels or email messages and start shopping. The system will automatically apply offer discount on checkout following this link.  
    - Coupon: Customers can send their friends the coupon code so that the invited friends can fill in the coupon code box on checkout and get discount.
       
 **Note**: Our module offers a new feature, your customers will be able to change their link or coupon for sharing. After entering new url and new coupon, just need to click **Save** button to replace old link and coupon and new link and coupon will be sent to friends via Email, Facebook, Twitter or Google+.
@@ -382,6 +379,7 @@ This report shows the number of points rewarded for Customers' newsletter subscr
 This report shows the number of points rewarded for Customers' product reviews vs. the number of reviews.
 
 #### Order Report
+
 This report shows all orders having point rewarding information with many data including Time, Number of Orders, Earned Points, Spent Points, Discount for Using Points, Total of Orders Using Points.
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image068.png?raw=true)
@@ -408,7 +406,7 @@ You can filter to easily search for any information you want and export this tab
 
 This report shows the total points earned by your Customers from all kinds of activities such as Purchase Order, Admin Sign-up, Newsletter, Review, etc. You can choose to show report by day, month and so on.
 
-![](/image_Reward%20Points%20Plus%20Ultimate%20Edition/image071.png?raw=true)
+![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image071.png?raw=true)
 
 You can filter to easily search for any information you want and export this table to CSV/XML/Excel file.
 
@@ -420,7 +418,7 @@ This report shows the total points spent by your Customers with many other data 
 
 You can filter to easily search for any information you want and export this table to CSV/XML/Excel file
 
----------------------------
+--------------------------------------
 
 ## How to configure
 
@@ -470,15 +468,13 @@ In order to add a new catalog rule, click on the **Add Rule** button and fill ou
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image079.png?raw=true)
 
 You should pay attention to these following fields:
-	- **Rule Name and Description**: These two fields will be shown on the **My Reward** page on frontend.
-	- **Validate from and Validate to**: These fields are used to configure the effective time of the rule.
-	- **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first
 
+ - **Rule Name and Description**: These two fields will be shown on the **My Reward** page on frontend.
+- **Validate from and Validate to**: These fields are used to configure the effective time of the rule.
+- **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
 	- **Conditions** tab: 
 This tab allows you to configure the products to which the rule is applicable. For example, if you want to apply this rule for cell phones, you can configure the condition as in the image below:
-
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image080.png?raw=true)
-
 If you leave this tab blank, the rule will be applied for all products.
 	- **Actions** tab:
 
