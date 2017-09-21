@@ -2,7 +2,11 @@
 
 **Version 2.5**
 
-Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+Confidential Information Notice. 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
  
 ---------------------------
 
@@ -26,7 +30,7 @@ Our Standard edition makes sure that Customers are well aware of your reward poi
 
 Also, after clicking on the **Add to Cart** button, on **Mini Cart**, Customers will see another notification "**Check out now to earn points**".
 
-![]./image_Reward%20Points%20Plus%20Ultimate%20Edition/image003.png?raw=true)
+![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image003.png?raw=true)
 
 If Customers have not logged in yet, a notification message "**Login and checkout to earn points**" will be shown on mini cart:
 
@@ -34,7 +38,7 @@ If Customers have not logged in yet, a notification message "**Login and checkou
 
 On **Checkout** page, Customers can see exactly the number of points they earned from buying that product in the **Grand Total** box:
 
-![]./image_Reward%20Points%20Plus%20Ultimate%20Edition/image005.png?raw=true)
+![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image005.png?raw=true)
 
 If Customers have not logged in yet, a notification message "**Login and checkout to earn points**" will be shown on **Grand Total** box of checkout page:
 
@@ -49,6 +53,7 @@ After placing an order successfully, Customers can check their point balance rig
 When placing an order, Customers can earn points depending on the rule set by Admins. 
 
  - **Earning points based on Catalog Earning Rule**
+ 
 Catalog Earning Rule enables your Customers to earn points based on specific products. That means you can give your Customers chances of earning more points from some items than from others. This point information will be shown on the **Product Listing** and **Product Detail** pages:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image008.png?raw=true)
@@ -60,6 +65,7 @@ After adding products to the shopping cart, Customers can also see the point amo
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image010.png?raw=true)
 
  - **Earning points based on Shopping Cart Rule**
+ 
 Shopping Cart Earning Rule enables your Customers to earn points based on specific values of orders. That will help you to organize programs such as "Earn 20 points for orders equal to or higher than $500". If Customers' shopping carts meet the condition of the shopping cart rule that you set up on backend, the System will show the points they will earn. After Customers add products to the shopping cart, they can see the point amount as below:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image011.png?raw=true)
@@ -67,6 +73,7 @@ Shopping Cart Earning Rule enables your Customers to earn points based on specif
 ### How to earn points for every action on site
 
  - **Sign up & Log in**:
+ 
  When Customers access the **Login** page or **Create an Account** page, they can see a notification about the collectible points they will receive when signing up as below:
 	
 	- On the **Login** page:
@@ -74,13 +81,14 @@ Shopping Cart Earning Rule enables your Customers to earn points based on specif
 	- On the **Create an Account** page:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image013.png?raw=true)
 
-After Customers sign up successfully, they can see the number of points earned and the transaction information on the My Rewards page as follows:
+After Customers sign up successfully, they can see the number of points earned and the transaction information on the **My Rewards** page as follows:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image014.png?raw=true)
 
  - **Subscribe to Newsletters**
  
 Customers can subscribe to newsletters on the **Create an Account** page, **Newsletter** block and **Newsletter Subscription** page.
+
 On the **Newsletter** block, for example, Customers can see a notification about the collectible points they will receive:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image015.png?raw=true)
@@ -112,7 +120,7 @@ In order to see the current balance and transaction information, they can go to 
  - **Rate and Review Products**:
 Customers can see a notification about the collectible points they will receive when rating or reviewing a product on the **Product Detail** page and the **Product Reviews** page as below:  
      - On the **Product Detail** page:
-![](/image_Reward%20Points%20Plus%20Ultimate%20Edition/image021.png?raw=true)
+![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image021.png?raw=true)
      - On the **Product Reviews** page:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image022.png?raw=true)
 
@@ -129,10 +137,12 @@ Our module allows Customers to like, share or send links of the Home page, **Cat
  - **Like/Share via Facebook**
  
 	- **Like via Facebook:**
+	
 In order to like a page via Facebook, Customers just click on the **Like** button. After that, our module will show a message to notify them about the number of collectible points and show a box for sharing your site via their Facebook as below:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image025.png?raw=true)
 Customers can check the current balance and transaction information on the **My Reward** page:
 	- **Share via Facebook:**
+	
 In order to share a page to friends via Facebook, Customers can click on the **Share** button. Our module will show a new tab for sharing as below:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image026.png?raw=true)
 
@@ -162,6 +172,7 @@ In order to receive points for Pin via Pinterest, Customers can click on the **P
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image031.png?raw=true)
 
 After customers click on Pin it button, points will be added to their account but the page isn't reloaded to show number of points earned for that account because Pinterest doesn't support API Callback.
+
 When they reload the page, Pin counter will be updated:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image032.png?raw=true)
@@ -259,13 +270,12 @@ Customers can see special referral programs with information including offer tit
 - **Sharing Options**
 
 This section contains links/coupons and channels for sharing such as email, Facebook, Twitter and Google+.
-	- Link: The invited friends will click on this link from social channels or email messages and start shopping. The system will automatically apply offer discount on checkout following this link.
-	- Coupon: Customers can send their friends the coupon code so that the invited friends can fill in the coupon code box on checkout and get discount.
-	
+      - Link: The invited friends will click on this link from social channels or email messages and start shopping. The system will automatically apply offer discount on checkout following this link.
+      - Coupon: Customers can send their friends the coupon code so that the invited friends can fill in the coupon code box on checkout and get discount.
 **Note**: Our module offers a new feature, your customers will be able to change their link or coupon for sharing. After entering new url and new coupon, just need to click **Save** button to replace old link and coupon and new link and coupon will be sent to friends via Email, Facebook, Twitter or Google+.
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image047.png?raw=true)
-	- Sharing via Email: In order to share a referring link or coupon via email, Customers can click on the **Email** tab, fill out their recipients' email addresses and the verification code, edit email subject and message then click on the **Send Email** button. Our module will automatically send that message to the provided addresses with the provided subject and message.
+     - Sharing via Email: In order to share a referring link or coupon via email, Customers can click on the **Email** tab, fill out their recipients' email addresses and the verification code, edit email subject and message then click on the **Send Email** button. Our module will automatically send that message to the provided addresses with the provided subject and message.
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image048.png?raw=true)
 
