@@ -24,7 +24,7 @@ With Reward Points –Standard Edition, your Customers can receive reward points
 ## How to use
 
 
-### 2.1.	How to earn points
+### How to earn points
 
 When placing an order, Customers can earn points based on the rate set by admin.
 Our Standard edition makes sure that Customers are well aware of your reward point policy by showing messages on many pages. For example, on Product Detail pages, there will be a notification for Customers that says “You could receive some Points for purchasing this product”.
