@@ -84,11 +84,13 @@ Remember to click on the **Save** or **Save and Continue Edit** button to save y
 
 To create a new quotation, please go to the **Quotation** menu and choose **Create Quotation**.
 
+
 #### Input General Information
 
 Fill in all required information including Created Time, Supplier, Currency, Currency Exchange Rate and Commen#t (optional); then click **Prepare Product List** to go to the next step.
 
 ![Input General Information ](./Image_Purchase%20Management/image020.jpg)
+
 
 #### Prepare Product List
 
@@ -134,6 +136,7 @@ You can manually enter the Purchase Cost, Tax, Discount and Ordered Qty for each
 After enter all required fields, click **Save** button and Order Totals is automatically calculated.
 
 ![Save](./Image_Purchase%20Management/image032.jpg)
+
 
 #### Edit Shipping and Payment method
 
