@@ -251,4 +251,208 @@ Next, you can choose the products to be stock taken by clicking the “**Prepare
  - Stage 2: **Prepare Products**
 You can select the products you want to stock take here or import products using a CSV file.
 
-![enter image description here](./image_IM%20Rebuilt/image03
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image031.png?raw=true)
+
+**Save** to stay with your selected products for further edits, or click “**Start Stocktaking**” to proceed Stage 3.
+
+- Stage 3: **Stock Counting**
+
+Select and type in the product quantity that you have recently counted.
+
+Click “**Complete Data Entry**” to proceed to Stage 4 and have a review of the changes, click “**Complete Stocktaking**” to finish the process or “**Save**” to continue editing.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image032.png?raw=true)
+
+- Stage 4: **Complete Data Entry**
+
+This Stage allows you to have a final review of your recent quantity counts. Click either “**Re-entry Data**” or “**Complete Stocktaking**” to move to Stage 5. If you are not an admin, your counting results will be submitted to the admin/ manager for approval before the new quantity is officially updated and the process is marked Completed.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image033.png?raw=true)
+
+- Stage 5: **Complete Stocktaking**
+
+This page shows you all details of the stocktaking process including the product quantity before and after the stocktaking process. Make a **New Stock Adjustment** by hitting the “**Adjust Stock**” button or download a CSV copy of the grid using the “**Download Difference List”**.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image034.png?raw=true)
+
+##### Stocktaking History
+All Stocktaking details are listed here. Different status shows to which stage the stocktaking process is done:
+
+- Status “**Pending**” means Stage 1: **General Information** is done
+- Status “**Processing**” means Stage 2: **Prepare Products** is done
+- Status “**Verified**” means Stage 3: **Stock Counting** is done
+- Status “**Completed**” means the whole stocktaking process is done
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image035.png?raw=true)
+
+Click on each stocktaking record to view all details of the process.
+
+#### Stock Movement History
+
+This menu records all movements of the stock in each warehouse. The table shows the number of products added/subtracted from the warehouse, product SKU, product movement type, warehouse name, reference number, movement date. Filtering a SKU will help you track the product’s movements and changed quantity in each warehouse in no time.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image036.png?raw=true)
+
+### Prediction
+#### Supply Needs (FEATURED)
+
+There’s no need an assistant to analyze and show you whether you should order additional items for a specific product in the next Order Purchasing or not. **Inventory Management rebuilt** allows you to get the prediction of supply needs until the certain time stamp.
+
+To process a prediction, choose the warehouse(s) you would like to analyze, select the time range to collect sales data and then pick the date that you want to see forecast results. Click to **Show Supply Needs** button to finally view the prediction.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image037.png?raw=true)
+
+The forecast data will be shown in the table as below:
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image038.png?raw=true)
+
+Here, you can view the average quantity sold per day of the product during the chosen sales period. The prediction will show you **Available Date** which performs the forecast day of product’s running out of stock. The **Supply Needs** column demonstrates the quantity of product that expected to be sold until the time stamp you set. 
+
+For instance, the product msj000 has been sold 6 items in total during the last 30 days. It is estimated that the remaining quantity will be enough to be sold until 9/7/2017. It also suggests you to add further 11 items if you want to meet the customers’ demand until 31/8/2017.
+
+To export the supply needs file, you can choose to export into CSV or XML file and click to Export. To start another prediction, you may edit criteria for supply forecasting and hit Show Supply Needs again to refresh the prediction result.
+
+#### Low Stock Rules & Low Stock Notification
+
+**Low Stock Notifications** are as its name, system emails or notifications to inform admin, warehouse managers when some products are going to be out of stock. To have Low Stock Notification, you need to set up rules in the **Low Stock Rules** section.
+
+##### Low Stock Rules
+Admin can create unlimited rules to notify low stock status. One rule contains: Rule Information, Conditions & Action. There is no limitation in the quantity of rules set. 
+
+- **Rule Information**: includes general data such as Rule Name, Status, and Update Time. You can set up the period of time in which the Low Stock Notification is activated.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image039.png?raw=true)
+
+- **Condition**: allows you to set up Product Conditions & Low Stock Condition. In the Product Conditions section, you can set the limitation for applying rules. For example, the Low Stock Rule is applied for category Decorative Accents or a specific product.
+As for Low Stock Condition, there are 2 rule types for you to select: Available Days and Available Quantity. With **Available Days** option, the system will estimate how many days the product is available for purchasing based on its sales history.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image040.png?raw=true)
+
+For instant, if you set sales period equals to 30 and the threshold day is 3, the notification will appear 3 days before the product is out of stock which are predicted following the sales history in 30 days up to now.
+
+With **Available Quantity** option, it only request for threshold quantity that you would like to receive low stock notification. If you set the threshold is 5, the system will notify you when the quantity of product(s) reach that number.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image041.png?raw=true)
+
+- **Action**: confirms who will receive the low stock notification by listing the email in Notification recipient list and the message which will appear.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image042.png?raw=true)
+Remember to select **Save and Apply** to start running the Low Stock Rule.
+
+##### Low Stock Notifications
+
+The list displays all notification following the low stock rules. Notifications are noted with Created Date, Warning Message, Notification recipients. Click to **Action > View** to accessthe detail.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image043.png?raw=true)
+
+Each notification allows you to track the low stock products’ information such as SKU, Name, and Current Qty.
+
+The Low Stock Notification will be sent to recipients’ email as well as be displayed on the Inventory Management panel.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image044.png?raw=true)
+
+### Stock Transfer & Stock Transfer History
+#### Stock Transfer
+There are **four major operations** in Stock Transfer section: Send Stock, Request Stock, and Transfer to External Location & Transfer from External Location. All actions leads to the same purpose: to move stock immediately. This is helpful if you want to update the quantity in the system:
+
+-  Quickly without going through a step by-step process 
+-  Or following closely to the process and allowing the admin in destination warehouse check how the quantity is transferred in reality.
+
+##### Send Stock 
+You can use Send Stock to move items from one warehouse to another warehouse. The quantity will be updated in each warehouse after you complete sending stock while the total quantity in the inventory is unchanged.
+
+To start sending stock, go to **Inventory > Transfer Stock > Send Stock.**
+
+- Choose a **Source Warehouse** and a **Destination Warehouse**
+-  Fill in the **Reason(s) for sending stock** field. It is required for reviewing the
+transfer later.
+
+You can also change the **Transfer Code** as preferred.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image045.png?raw=true)
+
+- Click on **Prepare Product List**
+-  You can import the product list via CSV files following the sample format.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image046.png?raw=true)
+
+Or, you can select products to send manually
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image047.png?raw=true)
+
+- Once finished, click on **Direct Transfer** to start the stock sending instantly. The transfer will be recorded as **completed** if you choose to Direct Transfer. The transfer will be recorded as **pending** if you only click to **Save**. 
+-  Or, you can keep track on the transfer process by clicking on **Start Sending**. The transfer will move to **processing** status if you start sending. 
+
+Here, the admin staff in Destination Warehouse can check the quantity that they actual receive. For some reasons (the shipping is delayed, some products in broken, incorrect counting before sending...), the quantity that destination warehouse received is less than the quantity sent. In that case, the admin notes down the actual quantity and select Save Receiving.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image048.png?raw=true)
+
+The admin can keep updating the receiving quantity until all quantity is sent completely. Then, complete the transfer by select **Mark as Completed.** Please note whatever the status of the transfer is, they are all listed in **Stock Sending History.**
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image049.png?raw=true)
+
+##### Request Stock
+A warehouse can place a request stock for another warehouse. When the request is marked as completed, the quantity will be updated automatically in both warehouse and the total quantity in Inventory remains unchanged. 
+
+You can assign a user to have the right to Send/Request Stock by setting up in the Permission section.
+
+To create new Stock Request, go to **Transfer Stock > Request Stock**
+
+-  Choose a **Source Warehouse** and a **Destination Warehouse**. Source Warehouse is where you would like to send the request to.
+-  Fill in the **Reason(s) for sending stock** field. It is required for reviewing the transfer later. You can also change the **Transfer Code** as preferred.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image050.png?raw=true)
+
+- Click on **Prepare Product List**
+-  You can import the product list via CSV files following the sample format. Or, you can select products for requesting manually.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image051.png?raw=true)
+
+- Once finished, click on **Start Request** to start the stock requesting. The transfer will be recorded as pending if you only click to **Save.**
+
+Here, the admin staff in Source Warehouse can check the quantity that they send in the **Delivery History.**
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image052.png?raw=true)
+
+For some reasons (e.g. shortage of quantity...), the quantity that source warehouse send might be less than the quantity requested. In that case, the admin notes down the actual quantity for sending and select **Save Delivery**.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image053.png?raw=true)
+
+The admin in Source Warehouse can keep updating the sending quantity until all quantity is sent completely.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image054.png?raw=true)
+
+Meanwhile, the admin in Destination Warehouse can track the quantity that they receive in **Receiving History** tab. Then, complete the transfer by select **Mark as Completed.**
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image055.png?raw=true)
+
+Please note whatever the status of the transfer is, they are all listed in **Stock Request History.**
+
+##### Transfer from/to External Location
+
+- **Transfer stock to External Location**: this feature allows you to note all transactions sending stock from a warehouse to other destinations (not warehouse).
+-  **Transfer stock from External Location**: this feature allows you to note all transactions receiving stock from a location (not warehouse) to a specific warehouse.
+
+Both of these actions can be processed by 3 steps: select product list, insert quantity for transferring and click on Start Transferring.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image056.png?raw=true)
+
+All transfer relating to external location are recorded in **History of Stock Transfer to External Location** or **History of Stock Transfer from External Location.**
+
+#### Stock Transfer History
+
+The record of stock transfer is separated into 4 lists corresponding to 4 operations of stock transfer as mentioned above. For example, **Stock Request History** will show you a list of all stock requests created in the system.
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image057.png?raw=true)
+
+### Settings
+
+Go to **Settings** tab, the configuration page contains several criteria as below:
+
+![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image058.png?raw=true)
+
+|Settings| Description |Example|
+|---|---|---|
+|Link Warehouse to Magento front store view | Allows admin to set corresponding store front to a specific warehouse|Link **English Store** View to **Primary Warehouse**| 
+|Adjust Stock by entering the change Qty|Instead of insert new quantity of the products, this setting allow the admin to insert its change quantity|Change Quantity of msj777 is 5 meaning that you add 5 more items to the current quantity when adjusting the stock of msj777|
+
