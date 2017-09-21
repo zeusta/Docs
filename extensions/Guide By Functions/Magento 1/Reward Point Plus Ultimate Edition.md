@@ -596,6 +596,7 @@ After editing the rule as you want, remember to click on the **Save Rule** or **
 To delete a catalog rule, you can go to the **Edit Rule** page and click on the **Delete** button on the top of the page. 
 
 #### Manage earning points by product
+
 Go to **Backend > Reward Points > Earning > Manage** **earning points by product:**
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image088.png?raw=true)
@@ -607,6 +608,7 @@ Then you will be redirected to the **Manage Earning Points By Product** page:
 On this page, you can change the number of earning points for each product by 2 ways:
 
 -	Tick the product, choose **Change Point** in dropdown menu of **Action** box. Then, fill in the number of points you want to set.
+
 -	Double click on **Earning Points** column of the product you want to edit. Insert the number of points as you prefer, then click on **Ok**
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image090.png?raw=true)
@@ -776,6 +778,7 @@ Then you will be redirected to the **Manage Spending Points By Product** page:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image106.png?raw=true)
 
 On this page, you can change the number of spending points to purchase each product by 2 ways:
+
 -	Tick the product, choose **Change Point** in dropdown menu of **Action** box. Then, fill in the number of points you want to set.
 -	Double click on **Spending Points** column of the product you want to edit. Insert the number of points as you want, then click on **Ok**.
 
@@ -788,6 +791,7 @@ You can also set products to buy with points by going to **Catalog > Manage Prod
 Please note that your customers only purchase these products by using point but cannot using money to purchase them.
 
 ### Manage transactions
+
 Go to **Backend > Reward Points > Transactions**
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image109.png?raw=true)
@@ -798,6 +802,7 @@ Then all the transactions related to reward points will be shown as below:
 
 On this **Transaction Manager** page, you can view a list of all point transactions together with many general information including **Customer, Transaction Type, Points Used, etc.**
 Moreover, you can filter and search for the information you want as well as export this table to CSV/XML/Excel files.
+
 You can **Complete**, **Cancel** or make transactions **expire** by choosing the status in the **Action** dropdown list and checking checkboxes of those transactions you like before clicking on the **Submit** button.
 
 To view details of each transaction, you can click on the corresponding row: 
@@ -827,15 +832,17 @@ Moreover, you can also import/export customers' points to your system via csv fi
 -	Another way to manage point balances is to go to **Customers > Manage Customers**
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image116.png?raw=true)
 On the **Customer Manager** page, you can choose the Customer you want to change balance by clicking on the **Edit link** in the **Action** column.
+
 After clicking on the **Reward Points** tab, all of that Customer's information will appear as below:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image117.png?raw=true)
-	- **Reward Points Information**: In this session, you can change the Customer's balance by filling an integer in the **Change Balance** field. For example, if you enter 5, then 5 points will be added to that customer's balance and vice versa, "-5" means that Customer's balance will be deducted 5 points.
+	✓ **Reward Points Information**: In this session, you can change the Customer's balance by filling an integer in the **Change Balance** field. For example, if you enter 5, then 5 points will be added to that customer's balance and vice versa, "-5" means that Customer's balance will be deducted 5 points.
 Also, you can configure other information like **Update Points Subscription** or **Expire Transaction** **Subscription**
-	- **Transaction history**: This part lists all of that Customer's transactions:
+	✓ **Transaction history**: This part lists all of that Customer's transactions:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image118.png?raw=true)
 
 #### Change Point Balances
+
 There are two ways to change point balances of customers.
 
 -	You can change point balances for each customer by entering the **Change Balance** in the **Reward Point** session of Customer information page. After you save, the **Available Points Balance** will be updated. 
@@ -860,7 +867,9 @@ Go to **Sales > Orders**
 Then the System will display all Customers' orders. Now, let's see how Reward Points - Standard edition is used in creating and refunding orders.
 
  - **Create Orders**
+ 
 First, please click on the Create new Order button to see the Order form.
+
 After selecting a Customer, a store and adding Products, you will see the **Use Customer Reward Points** box in which you can set up the number of points the Customer will spend for his order.
 
 ![](./image123.png?raw=true)
@@ -872,7 +881,9 @@ The **Order Totals** box will also display the number of points that Customer wi
 After filling out all the required fields, please click on the **Submit Order** button to finish creating the new order. Then the **Order** **totals** box shows the total spent point 
 
  - **Refund orders**
+ 
 When Customers refund orders, you can decide how many points to refund them as well as how many points to get back from them. By default, the System will set those values as the number of points that Customer spent and the number of points that Customer earned respectively.
+
 First, please choose the order your Customer wants to refund by clicking on the **View** link in the **Action** column. Then the order will appear as below:
 
 ![](./image125.png?raw=true)
@@ -883,6 +894,7 @@ After that, please click on the **Refund Offline** button to finish your refundi
 ![](./image126.png?raw=true)
 
 ### Customer Behavior Earning Rules
+
 Go to **Reward Points > Earning Rates > Behavior Earning Rules**
 
 ![](./image127.png?raw=true)
