@@ -351,9 +351,11 @@ This is the ratio beween the total value of orders after Customers spent points 
 	 Customers can earn points from many activities on your site such as **Order, Sign-Up, Newsletter, Birthday, Review, Product Tag, Facebook like, Refer Friend** or even from Admin. 
 This graph shows the percentage of each source from which Customers earn points.
       - *Average value of money per point spent:*
+      
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image060.png?raw=true)	
 This number shows the average value of 1 point spent by Customers.
      - *Total points in Customers' balances:* 
+     
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image061.png?raw=true)
 
 This number shows the total number of points which is currently available in all Customers' balances. 
@@ -363,26 +365,33 @@ This number shows the total number of points which is currently available in all
 Period-of-time reports are the ones you can choose to view in specific periods of time you like. Besides many charts such as charts of Loyal Customers, Points Earned and Spent, Avg. order value vs number of points earned from orders, when installing the Behavior plugin, you can access 3 more charts including Sign-ups, Newsletter Subcription, Product Review. 
 
 To track information in a specific period of time, you can select the time range in the  dropdown box:
-     - *Loyal Customers*
+
+   - *Loyal Customers*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image062.png?raw=true)
 
 This graph shows the number of loyal Customers in your store in the chosen time period.
-     - *Points Earned and Spent:*
+
+   - *Points Earned and Spent:*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image063.png?raw=true)
 
-This report shows the numbers of points your Customers earned and spent
-     - *Avg. order value vs avg. number of points earned from orders*
+This report shows the numbers of points your Customers earned and spent.
+
+   - *Avg. order value vs avg. number of points earned from orders*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image064.png?raw=true)
 
 This report shows you the average order value and the number of points earned from purchasing orders. It enables you to see a correlation between the avg. number of points given to Customers per order and the avg. order value. What you will expect to see is an increase in the order value as you increase the number of points given to Customers for their orders.
-     - *Sign-ups*
+
+   - *Sign-ups*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image065.png?raw=true)
 
 This report shows the number of points rewarded for Customers' sign-ups on your store vs. the number of sign-ups.
-     - *Newsletter Subcription*
+
+   - *Newsletter Subcription*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image066.png?raw=true)
+
 This report shows the number of points rewarded for Customers' newsletter subscription vs. the number of newsletter subscriptions.
-     - Product review
+
+   - Product review
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image067.png?raw=true)
 
 This report shows the number of points rewarded for Customers' product reviews vs. the number of reviews.
