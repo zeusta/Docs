@@ -270,12 +270,13 @@ Customers can see special referral programs with information including offer tit
 - **Sharing Options**
 
 This section contains links/coupons and channels for sharing such as email, Facebook, Twitter and Google+.
-      - Link: The invited friends will click on this link from social channels or email messages and start shopping. The system will automatically apply offer discount on checkout following this link.
-      - Coupon: Customers can send their friends the coupon code so that the invited friends can fill in the coupon code box on checkout and get discount.
+     - Link: The invited friends will click on this link from social channels or email messages and start shopping. The system will automatically apply offer discount on checkout following this link.
+     - Coupon: Customers can send their friends the coupon code so that the invited friends can fill in the coupon code box on checkout and get discount.
+      
 **Note**: Our module offers a new feature, your customers will be able to change their link or coupon for sharing. After entering new url and new coupon, just need to click **Save** button to replace old link and coupon and new link and coupon will be sent to friends via Email, Facebook, Twitter or Google+.
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image047.png?raw=true)
-     - Sharing via Email: In order to share a referring link or coupon via email, Customers can click on the **Email** tab, fill out their recipients' email addresses and the verification code, edit email subject and message then click on the **Send Email** button. Our module will automatically send that message to the provided addresses with the provided subject and message.
+    - Sharing via Email: In order to share a referring link or coupon via email, Customers can click on the **Email** tab, fill out their recipients' email addresses and the verification code, edit email subject and message then click on the **Send Email** button. Our module will automatically send that message to the provided addresses with the provided subject and message.
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image048.png?raw=true)
 
@@ -288,7 +289,7 @@ After selecting contacts and click on the **Select Contacts** button, our module
 - Sharing via Facebook: Customers can customize their message before clicking on the Post on Facebook button. 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image050.png?raw=true)
 
-- Sharing via Twitter: Customers can customize their message before clicking on the Tweet button.
+- Sharing via Twitter: Customers can customize their message before clicking on the **Tweet** button.
 	
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image051.png?raw=true)
 
@@ -335,56 +336,53 @@ This page has 2 parts including **Reward Information** and **Recent transactions
 First please go to **Backend > Reward Points > Reports > Dashboard.**
 On this page, you can access many data to analyze the situation of earning and spending points on your site. To make it easy to follow, the data has been divided into 3 types: Life-time report, period-of-time report.
 
- - **Life-time Reports**
+- **Life-time Reports**
+
 You can see all the Life - Time Report about the Reward Points system to the left of the **Dashboard** page.
-	 - *Spending/ Earning Ratio*
-![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image057.png?raw=true)
-	 
- This ratio can tell you how many points are spent for every 100 points rewarded.  
-	 - *Cost for a loyal member*
-	 
+     - *Spending/ Earning Ratio*
+![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image057.png?raw=true)	 
+This ratio can tell you how many points are spent for every 100 points rewarded.
+     - *Cost for a loyal member*	 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image058.png?raw=true)
 	
 This is the ratio beween the total value of orders after Customers spent points to pay and the total number of points spent. 
-	 - *Earning Distribution* 
-	 
+     - *Earning Distribution* 
 ![](/image_Reward%20Points%20Plus%20Ultimate%20Edition/image059.png?raw=true)
 	 Customers can earn points from many activities on your site such as **Order, Sign-Up, Newsletter, Birthday, Review, Product Tag, Facebook like, Refer Friend** or even from Admin. 
 This graph shows the percentage of each source from which Customers earn points.
-	 - *Average value of money per point spent:*
+      - *Average value of money per point spent:*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image060.png?raw=true)	
-
-This number shows the average value of 1 point spent by Customers. 
-	 - *Total points in Customers' balances:* 
+This number shows the average value of 1 point spent by Customers.
+     - *Total points in Customers' balances:* 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image061.png?raw=true)
 
 This number shows the total number of points which is currently available in all Customers' balances. 
-
- - **Period-of-Time Reports**
+	 
+- **Period-of-Time Reports**
  
 Period-of-time reports are the ones you can choose to view in specific periods of time you like. Besides many charts such as charts of Loyal Customers, Points Earned and Spent, Avg. order value vs number of points earned from orders, when installing the Behavior plugin, you can access 3 more charts including Sign-ups, Newsletter Subcription, Product Review. 
 
-To track information in a specific period of time, you can select the time range in the  dropdown box: 
-	- *Loyal Customers*
+To track information in a specific period of time, you can select the time range in the  dropdown box:
+     - *Loyal Customers*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image062.png?raw=true)
 
 This graph shows the number of loyal Customers in your store in the chosen time period.
-	- *Points Earned and Spent:*
+     - *Points Earned and Spent:*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image063.png?raw=true)
 
-This report shows the numbers of points your Customers earned and spent.
-	- *Avg. order value vs avg. number of points earned from orders*
+This report shows the numbers of points your Customers earned and spent
+     - *Avg. order value vs avg. number of points earned from orders*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image064.png?raw=true)
 
 This report shows you the average order value and the number of points earned from purchasing orders. It enables you to see a correlation between the avg. number of points given to Customers per order and the avg. order value. What you will expect to see is an increase in the order value as you increase the number of points given to Customers for their orders.
-	- *Sign-ups*
+     - *Sign-ups*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image065.png?raw=true)
 
 This report shows the number of points rewarded for Customers' sign-ups on your store vs. the number of sign-ups.
-	- *Newsletter Subcription*
+     - *Newsletter Subcription*
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image066.png?raw=true)
 This report shows the number of points rewarded for Customers' newsletter subscription vs. the number of newsletter subscriptions.
-	- Product review
+     - Product review
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image067.png?raw=true)
 
 This report shows the number of points rewarded for Customers' product reviews vs. the number of reviews.
