@@ -82,7 +82,7 @@ Besides, in the **Settings** tab of the **Reward Points** navigation, Customers 
 
 ----------------------------
 
-## 3.	HOW TO CONFIGURE
+## HOW TO CONFIGURE
 
 ###	Manage earning rates
 Go to **Backend > Reward Points > Earning Rates**
