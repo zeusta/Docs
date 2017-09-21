@@ -99,7 +99,7 @@ In order to add a new earning rate, you can click on the **Add Rate** button and
 Please note that with **priority**, the rate with the highest level of priority will be applied first. In case there are two rates with the same priority, the rate created sooner will be applied.
 After you finish filling out all the required data, remember to click on the **Save** or **Save and Continue Edit** button to save your work. If you click on the Save button, you’ll be navigated to the **Earning rates** page and your rate will be shown as below:
 
-![enter image description here](/image_Reward%20Point%20Plus%20Standard%20Edition/image015.png?raw=true)
+![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Reward%20Point%20Plus%20Standard%20Edition/image015.png?raw=true)
 
  - **Edit/ Delete an existing rate**
 In case you want to edit a rate, please click on the **Edit link** in the **Action** column.
