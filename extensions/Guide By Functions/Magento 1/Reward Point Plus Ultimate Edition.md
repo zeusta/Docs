@@ -469,9 +469,11 @@ In order to add a new catalog rule, click on the **Add Rule** button and fill ou
 
 You should pay attention to these following fields:
 
- - **Rule Name and Description**: These two fields will be shown on the **My Reward** page on frontend.
-- **Validate from and Validate to**: These fields are used to configure the effective time of the rule.
-- **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+   ✓ **Rule Name and Description**: These two fields will be shown on the **My Reward** page on frontend.
+
+   ✓ **Validate from and Validate to**: These fields are used to configure the effective time of the rule.
+
+   ✓ **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
 	- **Conditions** tab: 
 This tab allows you to configure the products to which the rule is applicable. For example, if you want to apply this rule for cell phones, you can configure the condition as in the image below:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image080.png?raw=true)
@@ -543,9 +545,12 @@ In order to add a new **Shopping Cart** rule, you can click on the Add rule butt
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image084.png?raw=true)
 
 You should pay attention to these following fields:
-	 - **Rule Name** and **Description**: These two fields will be shown on the My Reward page on frontend.
-	- **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
-	- **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+
+   ✓ **Rule Name** and **Description**: These two fields will be shown on the My Reward page on frontend.
+      
+   ✓ **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
+      
+   ✓ **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
 	- **Conditions** tab:
 This tab allows you to configure the condition of shopping carts to which the rule is applicable. 
 For example, if you want to apply this rule only for carts which have **Subtotals** equal to or greater than $300, you can configure the condition as in the image below:
@@ -619,11 +624,13 @@ Then the **Spending Rates** page will be shown, allowing you to do many tasks:
  - **Add a new rate**
 
 In order to add a new spending rate, you can click on the **Add Rate** button and then fill out all the required data such as **Points spent, Discount received, Status, Limit spending points based on, Websites, Customer groups and Priority.**
+
 For example, if you want to allow your Customers to exchange 2 points for $1 to spend on their orders, you can enter data as in the image below:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image092.png?raw=true)
 
 Besides, you can also configure priority for rates. The rate with the highest priority will be applied first. In case there are two rates with the same priority, the one created sooner will be applied.
+
 After you finish filling out all the required data, remember to click on the **Save** or the **Save and Continue Edit** button to save your work. If you click on the **Save** button, you'll be navigated to the **Spending Rates** manager page and your rate will be shown as below:
 
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image093.png?raw=true)
@@ -635,6 +642,7 @@ Then you will be redirected to the Edit Spending Rate page:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image094.png?raw=true)
 
 After finish editing, remember to click on the **Save** or the **Save and Continue Edit** button to save your work.
+
 To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of that page.
 
 ### Manage Spending Rules
@@ -649,42 +657,39 @@ Then you will be redirected to the Catalog Spending Rule Manager page.
 
  - **Add a new Rule:**
 First you should click on the Add Rule button. And then you should configure information in 3 tabs:
-
-- **General Information** Tab:
+     - **General Information** Tab:
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image096.png?raw=true)
-
-- **Conditions** tab:
+     - **Conditions** tab:
 This tab allows you to configure the conditions of products to which the rule is applicable.
 For example, you want to apply this rule only for products named Ottoman; you can configure the condition as in the image below:
-
 ![](./image_Reward%20Points%20Plus%20Ultimate%20Edition/image097.png?raw=true)
-
 If you do not configure this field, the rule will be applied for all products.
 Also, you can configure how Customers can spend points in the **Action** field. There are two options for you to choose:
-
-- **Discount for every X points:**
+       - **Discount for every X points:**
 For example, if you want to configure that Customers need to spend at least 5 points on products:
 o	Choose "Action": "Discount for every X points" 
 o	Fill in field "Points (X)": 5 
 => With every 5 points customers spent, they can receive a corresponding discount. For example, 5 points can be spent to get $1, 10 points can get $2 and so on
-
-   - **Spend X points for every Y amount of Price:** 
+       - **Spend X points for every Y amount of Price:** 
 For example, if you want to configure that Customers need to spend 5 points on every $200.00 of product price and limit the required number of points to 15, then:
 			o	Choose "Action": "Spend X Points for every Y amount of price"
 			o	Fill in field "Points (X)": 5 
 			o	Fill in field "Money Step (Y)": 200 
 			o	Fill in field "Max points required to spend": 15 
 			=> If the price of the product is $800.00, Customers can use 15 or 30 or 45 points for 1 or 2 or 3 times of discount to buy it.
-
-- **Actions** tab:
+      - **Actions** tab:
 In the Action tab, you can configure how prices of products are discounted after Customers use points:
-
 ![](/image_Reward%20Points%20Plus%20Ultimate%20Edition/image098.png?raw=true)
 There are four discount types:
-		- By Fixed Amount
-		- To Fixed Amount
-		- By Percentage of the original price
-		- To Percentage of the original price
+
+   ✓ By Fixed Amount
+   
+   ✓ To Fixed Amount
+   
+   ✓ By Percentage of the original price
+   
+   ✓ To Percentage of the original price
+
 Let's take an example, to give a discount of $10 or to $10 for every X points and apply the discount 5 times maximum per product, you can configure as below:
 o	Choose "Discount Type": "By a fixed amount" or "To a fixed amount" 
 o	Fill in field "Discount Amount": 10 
