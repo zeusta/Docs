@@ -8,12 +8,13 @@ Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this docum
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
+-------------------
 
 ## Introduction
 
 **QuickBooks Integration for Magento 1** by Magestore is a powerful tool which helps you automatically synchronize all accounting information like customer’s information, products (items in QuickBooks Online), categories, orders, invoices, product quantity **from your Magento 1 store to your QuickBooks Online**. 
 
-------
+-------------------
 
 ## How to setup QuickBooks Integration 
 
@@ -73,7 +74,7 @@ Navigate to **QuickBooks Integration > Sync Logs**. In the QuickBooks API log ma
 
 ![](./image_quickbooks/quickbook8.png)
 
--------
+-------------------
 
 ## How does it work
 
