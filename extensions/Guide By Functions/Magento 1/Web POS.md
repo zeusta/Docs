@@ -344,6 +344,7 @@ Editing discount for each product is similar to edit by Custom Price. Click on *
 ![applying discount](./Image_Web%20POS/image078.jpg)
 
    •	If you edit discount by fixed number, the price will decrease by the exact value you have entered
+   
    •	If you edit by percentage, the price will decrease by the percent you have entered (it is similar to Custom Price by percentage).
 
 Then, the product price will be updated in the cart.
