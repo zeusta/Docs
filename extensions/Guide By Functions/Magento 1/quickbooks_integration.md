@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-*Confidential Information Notice 
+Confidential Information Notice 
 
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
