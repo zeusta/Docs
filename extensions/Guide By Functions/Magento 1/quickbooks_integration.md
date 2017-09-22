@@ -1,28 +1,27 @@
-**QUICKBOOKS INTEGRATION - MAGENTO 1**
-===
+# QUICKBOOKS INTEGRATION - MAGENTO 1
+
 **Version 1.0.0**
+
 *Confidential Information Notice 
+
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
------
-**Tip:** To discover all functions more easily, turn on your Bookmark bar in PDF reader software (**View** → **Navigation Panels** → **Bookmarks**) to view the navigation of this manual
 
-![](./image_quickbooks/quickbook1.png)
-
-## 1. Introduction
+## Introduction
 
 **QuickBooks Integration for Magento 1** by Magestore is a powerful tool which helps you automatically synchronize all accounting information like customer’s information, products (items in QuickBooks Online), categories, orders, invoices, product quantity **from your Magento 1 store to your QuickBooks Online**. 
 
 ------
 
-## 2. How to setup QuickBooks Integration 
+## How to setup QuickBooks Integration 
 
-### 2.1. Installation 
+### Installation 
 
 First of all, you need to install Magestore QuickBooks Integration extension by following all steps that we describe at Installation Guide for you. In case, you cannot do it yourself, please purchase our installation service. 
 
-### 2.2. Integration with QuickBooks Online
+### Integration with QuickBooks Online
 
 After installing successfully, you will have QuickBooks Integration tab in your Magento backend. The tab includes 3 functions which are Sync Entities Management, Sync Logs, and Settings. 
 
@@ -53,7 +52,7 @@ When your Magento 1 store is successfully connected with QuickBooks Online, clic
 
 ![](./image_quickbooks/quickbook6.png)
 
-### 2.3. Sync Entities Management
+### Sync Entities Management
 
 Go to **QuickBooks Integration > Sync Entities Management**. This is a page where manages all data synchronized from Magento to QuickBooks Online including Customers, Category, Product, Order, Invoice, Tax, Payment method, Credit memo, Product quantity. You can choose the way to synchronize data either **Update on Save** or **Manual Update**. 
 
@@ -68,7 +67,7 @@ Go to **QuickBooks Integration > Sync Entities Management**. This is a page wher
 
 In addition, with these data synchronized, there will be error notifications which happen during the data synchronizing process. You can view error details by clicking the notification.
 
-### 2.4. Sync Logs
+### Sync Logs
 
 Navigate to **QuickBooks Integration > Sync Logs**. In the QuickBooks API log management, you can check all the errors that occur during the data synchronizing process. The error is shown with error message and code if the API request has errors.
 
@@ -76,9 +75,9 @@ Navigate to **QuickBooks Integration > Sync Logs**. In the QuickBooks API log ma
 
 -------
 
-## 3. How does it work
+## How does it work
 
-### 3.1. Automatically sync Customers from Magento 1 to QuickBooks online
+### Automatically sync Customers from Magento 1 to QuickBooks online
 
 In order to manage customers in Magento store, you go to **Customers > Manage customers**. When a new account is registered in frontend of Magento 1 or an existing customer is updated, for example: 
 
@@ -88,7 +87,7 @@ QuickBooks Integration extension will allow synchronizing this record automatica
 
 ![](./image_quickbooks/quickbook10.png)
 
-### 3.2. Automatically sync Products from Magento 1 to Quickbooks online
+### Automatically sync Products from Magento 1 to Quickbooks online
 
 When admins create or update information of products in Magento 1 store in **Catalog > Manage Products**:
 
@@ -112,9 +111,10 @@ Note that there is a difference between product types of Magento and QuickBooks.
 
 ![](./image_quickbooks/quickbook14.png)
 
-### 3.3. Automatically sync Product Quantity from Magento 1 to QuickBooks online and vice versa
+### Automatically sync Product Quantity from Magento 1 to QuickBooks online and vice versa
 
 QuickBooks Integration will allow automatically synchronizing Product Quantity in QuickBooks if there is any change from your Magento 1 store. This will help you manage the inventory in the best way. You can choose sync mode for Product quantity sync either **Manual update** or **Update on Save**. 
+
 In order to track product quantities, from QuickBooks homepage click on the Gear icon. Next select **Account and Settings**.
 
 ![](./image_quickbooks/quickbook15.png)
@@ -123,7 +123,7 @@ To make sure your settings are ready for Inventory tracking. From the **Account 
 
 ![](./image_quickbooks/quickbook16.png)
 
-### 3.4. Automatically sync Categories and Sub-categories from Magento 1 to QuickBooks Online
+### Automatically sync Categories and Sub-categories from Magento 1 to QuickBooks Online
 
 Categories allow you to more easily find your products. You can create categories and sub-categories from **Catalog > Manage Categories**. When admins create or update information of categories in Magento 1 store:
 
@@ -137,7 +137,7 @@ This is a page where manages all product categories in QuickBooks online:
 
 ![](./image_quickbooks/quickbook19.png)
 
-### 3.5. Automatically sync Orders from Magento 1 to QuickBooks Online 
+### Automatically sync Orders from Magento 1 to QuickBooks Online 
 
 When an order is created in your web store (to check Orders on Magento store, you go to **Sales > Orders**):
 
@@ -149,17 +149,17 @@ After that, QuickBooks Integration will help automatically synchronize all order
 
 Note that if an order is canceled in your Magento store, the order status is Voided in your QuickBooks
 
-### 3.6. Automatically sync Invoices from Magento 1 to QuickBooks Online 
+### Automatically sync Invoices from Magento 1 to QuickBooks Online 
 
 Besides customers, categories, products, orders, QuickBooks Integration also will help automatically synchronize an invoice in your Magento store to QuickBooks page.
 
 ![](./image_quickbooks/quickbook22.png)
 
-This invoice is automatically synced in **QuickBooks** page. To check this record, you navigate to **All Sales** in QuickBooks. **Invoices** in your Magento store will be automatically transferred into **Payment** in QuickBooks
+This invoice is automatically synced in **QuickBooks** page. To check this record, you navigate to **All Sales** in QuickBooks. **Invoices** in your Magento store will be automatically transferred into **Payment** in QuickBooks.
 
 ![](./image_quickbooks/quickbook23.png)
 
-### 3.7. Automatically sync Tax from Magento 1 to QuickBooks online 
+### Automatically sync Tax from Magento 1 to QuickBooks online 
 
 When Tax rate applied for each product in Magento 1 is updated:
 
@@ -169,9 +169,10 @@ Then, tax amount will be automatically updated in QuickBooks online:
 
 ![](./image_quickbooks/quickbook25.png)
 
-### 3.8. Automatically sync Credit memo from Magento 1 to QuickBooks Online 
+### Automatically sync Credit memo from Magento 1 to QuickBooks Online 
 
 A credit memo is a document that lists the amount that is owed to the customer. The amount can be applied toward a purchase, or refunded to the customer.
+
 When a credit-memos is created in your Magento store (**Sales > Credit memo**):
 
 ![](./image_quickbooks/quickbook26.png)
