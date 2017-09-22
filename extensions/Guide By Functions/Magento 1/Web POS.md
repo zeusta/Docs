@@ -500,8 +500,7 @@ In POS screen, you can review orders by choosing **Order History** tab. Here you
 
 ![Order History tab](./Image_Web%20POS/image122.jpg)
 
--	**Order status**
-
+-	**Order status**: 
 In order list, the status of order is distinguished by color
      -	Complete: Green (When you ship order AND create invoice
      -	Processing: Blue (When you  ship order OR create invoice)
@@ -511,6 +510,7 @@ In order list, the status of order is distinguished by color
      -	Closed: Black (When order has been refunded)
 
 - **Order searching**
+
 To quickly find an order to review, you can search it by Order ID or Customer’s Name/Email
 
 ![Search bar](./Image_Web%20POS/image124.jpg)
@@ -588,8 +588,9 @@ Magento Web POS provides you 10 types of reports which help you get deeper into 
 ![Report panel](./Image_Web%20POS/image147.jpg)
 
 **Note**:
-     -	You can export each report into Excel XML or CSV file.
-     -	You can view report in any custom time period.
+
+   -	You can export each report into Excel XML or CSV file.
+   -	You can view report in any custom time period.
 
 #### Staff Report
 
