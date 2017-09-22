@@ -163,6 +163,7 @@ In order to go to the **Redeem Credit** page, Customers can click on the **Redee
 ![enter image description here](./image_Store%20Credit%20M1/image024.png?raw=true)
 
 On this page, Customers can redeem the credit code they received to their credit balance by entering the code in the text field before clicking on the **Redeem** button. Another way is just to click on the link in the email.
+
 After redeeming code, Customers can check their current balance and transaction in the **Transaction History** section.
 
 ![enter image description here](./image_Store%20Credit%20M1/image025.png?raw=true)
@@ -175,7 +176,9 @@ Customers can use credit to checkout on both **Shopping Cart** and **Checkout pa
 ![enter image description here](./image_Store%20Credit%20M1/image026.png?raw=true)
 
 On the **Shopping Cart** page, our module will add a **Customer Credit** block for Customers to use their credit balances to checkout.
+
 To use a credit amount, Customers can first enter that number in the field and then click on the **Apply** button. Our module will auto-update and calculate the grand total of order.
+
 Please note that Customers cannot use credit to buy credit products. If their carts have one or more credit products, our module will show a notification in the **Customer Credit** block as below:
 
 ![enter image description here](./image_Store%20Credit%20M1/image027.png?raw=true)
@@ -185,6 +188,7 @@ On the **Checkout page**, in the **Payment Information** tab, Customers can also
 ![enter image description here](./image_Store%20Credit%20M1/image028.png?raw=true)
 
 When Customers click on the **Continue** button, our module will auto-update the Grand Total of the order.
+
 After order has been placed, Customers’ credit balances will be updated immediately. They can check the current balances and transactions in the **Transaction History** section.
 
 ![enter image description here](./image_Store%20Credit%20M1/image029.png?raw=true)
@@ -229,7 +233,9 @@ Then the **Credit Product Manager** page will be shown:
 
 
 This page shows you all credit **products with a lot of information such as product ID, name, SKU, quantity, status,** etc.
+
 In order to add a new credit product, you can click on the **Add Credit Product** button on the right top of the page.
+
 You can add a credit product just in a similar way to adding a normal product. You should pay attention to these following tabs: 
 
 
@@ -245,6 +251,7 @@ In this tab, you can configure the price of the credit product. There are three 
 ![enter image description here](./image_Store%20Credit%20M1/image039.png?raw=true)
 
 In this tab, by default, our module sets up the field **Manage Stock** as **No**. It means that you do not need to manage the quantity of credit products.
+
 Besides the **Credit Product Manager** page, you can also create a new credit product by clicking on the **Add Product** button on the **Manage Product** page:
 
 ![enter image description here](./image_Store%20Credit%20M1/image040.png?raw=true)
@@ -254,6 +261,7 @@ Then you will be navigated to the **New Product** page. In the **Settings** tab,
 ![enter image description here](./image_Store%20Credit%20M1/image041.png?raw=true)
 
 ### Manage Credit Transactions and Report Charts
+
 #### Credit Transactions
 Go to **Store Credit > Credit Transactions > Credit Transactions**
 
@@ -264,7 +272,9 @@ Then the **Credit Transactions** page will be shown:
 ![enter image description here](./image_Store%20Credit%20M1/image043.png?raw=true)
 
 This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction and **transaction time**.
+
 You can search any transaction by using filter boxes in each column.
+
 If you click on a Customer’s email, you will be navigated to the Customer Manager page.
 
 #### Credit Report Charts
@@ -292,6 +302,7 @@ This page can be divided into two main sections including **Life-time Reports** 
    month,** etc.
 
 ### Using Credit to checkout in backend:
+
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
 
 ![enter image description here](./image_Store%20Credit%20M1/image046.png?raw=true)
@@ -307,11 +318,13 @@ After submitting the order, the Customer’s credit balance will also auto updat
 ### Refund Orders into Credit Balance
 
 When Customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, Customers can use the credit for future purchases and you do not have to lose money for the refund at the same time.
+
 After clicking on the **Credit Memo** button, our module shows a text field for you to enter the amount you want to refund into credit:
 
 ![enter image description here](./image_Store%20Credit%20M1/image049.png?raw=true)
 
 After that, when you click on the **Refund Offline** button, the amount you entered as well as the credit that the Customer used for paying for the order will be refunded to his current credit balance. 
+
 Once the refund is finished, you can check the transaction on the **Manage Transaction** page:
 
 ![enter image description here](./image_Store%20Credit%20M1/image050.png?raw=true)
