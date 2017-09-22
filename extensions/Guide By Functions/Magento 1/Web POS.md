@@ -331,8 +331,9 @@ After adding products to cart, besides editing the quantity of each product (ref
 ![Custom Price button](./Image_Web%20POS/image074.jpg)
 
 In this popup, please choose type you want to adjust for the price, according to fixed number or percentage.
-     •	If you edit fixed price, the price will be changed to the price you have entered.
-     •	If you edit by percentage, the price will be shown by the percent you have entered (it is similar to Discount by percentage)
+
+   •	If you edit fixed price, the price will be changed to the price you have entered.     
+   •	If you edit by percentage, the price will be shown by the percent you have entered (it is similar to Discount by percentage)
 
 Then, products in cart will be automatically updated with the price you edit.
 
@@ -342,8 +343,8 @@ Editing discount for each product is similar to edit by Custom Price. Click on *
 
 ![applying discount](./Image_Web%20POS/image078.jpg)
 
-     •	If you edit discount by fixed number, the price will decrease by the exact value you have entered
-     •	If you edit by percentage, the price will decrease by the percent you have entered (it is similar to Custom Price by percentage).
+   •	If you edit discount by fixed number, the price will decrease by the exact value you have entered
+   •	If you edit by percentage, the price will decrease by the percent you have entered (it is similar to Custom Price by percentage).
 
 Then, the product price will be updated in the cart.
 
@@ -435,7 +436,8 @@ After choosing payment method, click on Place Order button to complete checkout 
 You can use more than 1 payment method for split payments when checkout with Web POS. Let me give you an example.
 
 **Customer’s order value is $606.04**
-     -	Your customer wants to pay $400 in Cash In. Then, you fill in the blank space **Cash In** with the value of $400.
+
+-	Your customer wants to pay $400 in Cash In. Then, you fill in the blank space **Cash In** with the value of $400.
      
 ![Cash in & Remain money fields](./Image_Web%20POS/image102.jpg)
 
@@ -459,10 +461,11 @@ With Web POS, you can also apply partial payment that allows customers to pay pa
 
 -	After finishing creating order, in the next step, when customers come back to pay the rest of order value, you open that order’s details in **Order History** tab.
 
+![Hold order](./Image_Web%20POS/image108.jpg)
 
 -	You can check the total due is $306.04 and the total paid is $300. To complete the order payment, you click on **Take payment** button. Tick to choose the payment option or pay with multiple ones.
 
-
+![Hold order](./Image_Web%20POS/image110.jpg)
 -	After filling in the due amount, click on **Submit** button to complete the payment action. Then the total paid is equal to the whole order’s value.
 
 ### How to keep orders on hold for further processing
