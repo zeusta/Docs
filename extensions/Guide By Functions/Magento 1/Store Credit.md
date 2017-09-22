@@ -193,7 +193,8 @@ After order has been placed, Customers’ credit balances will be updated immedi
 
 ![enter image description here](./image_Store%20Credit%20M1/image029.png?raw=true)
 
-## HOW TO CONFIGURE
+## How to configure
+
 ### Manage Customers Using Credit
 Go to **Store Credit > Manage Customers Using Credit**
 
