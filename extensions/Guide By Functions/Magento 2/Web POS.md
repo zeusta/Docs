@@ -24,7 +24,7 @@ If you want to set Credit Card to be the default payment method for instance, yo
 
 ![WebPOS](./Web%20POS%20Image/image004.png)
 
-### How to set up a shipping method for Web POS
+### How to Set up a Shipping Method for Web POS
 To set up Shipping Methods for Web POS, go to **Sales> Web POS > Settings**, then choose **Shipping for POS**, the following page will be shown as below:
 
 ![WebPOS](./Web%20POS%20Image/image005.png)
@@ -62,7 +62,7 @@ To add new user using **Web POS, go to Sales > Web POS > Manage POS Staffs**. He
 ![WebPOS](./Web%20POS%20Image/image008.png)
 
 
-You can also export user list to csv/xml file or add new Web POS user.
+You can also export user list to csv/xml file or add new Web POS user.<br/>
 - Click on **Add Staff** button then you will be directed to the following page:
 
 ![WebPOS](./Web%20POS%20Image/image009.png)
@@ -87,17 +87,14 @@ To edit a user, click on the **Edit** link in **POS Staff** page. Then you can e
 
 
 - To add a new role, click on Add Role button in the top right corner. You will see the New Role page. Here there are three tabs, including General, Permission and Staff List.
->> In **General** tab, please make sure you fill in enough information
+-> In **General** tab, please make sure you fill in enough information
 
-![WebPOS](./Web%20POS%20Image/image013.png)
-
-    
-<>    
+![WebPOS](./Web%20POS%20Image/image013.png)<br/> 
           -	**Role Name**: Enter a specific name for the role in order to find it easily<br/>
         -	**Maximum discount percent (%)**: limit the highest discount percent that each user role can offer customers<br/>
         -	**Description**: Enter text that describes the role<br/>
     
->> In **Permission** tab, tick on users who will have corresponding permission in Web POS system.
+-> In **Permission** tab, tick on users who will have corresponding permission in Web POS system.
 
 ![WebPOS](./Web%20POS%20Image/image014.png)
 
@@ -113,10 +110,10 @@ In field Resource Access, you can choose **Custom or All**. Choose All if you wa
 
 When finishing editing, please click on **Save** or **Save And Continue Edit** button to save the change.
 ### How to connect Web POS with peripheral devices
-Magestore Web POS module can connect with **Barcode readers, Card swiper, Receipt printer & Customer pole display**.
-- 	Barcode readers: any devices that connect with ipad/laptop/pc (no matter through usb port, wifi or bluetooth) - as long as the scanner can read barcodes & fill encoded information into Web POS search box.
-- 	Card readers: only devices connected through USB port.
-- 	Receipt printers: any devices that connect with iPad/laptop/PC (no matter through usb port, wifi or bluetooth).
+Magestore Web POS module can connect with **Barcode readers, Card swiper, Receipt printer & Customer pole display**.<br/>
+- 	Barcode readers: any devices that connect with ipad/laptop/pc (no matter through usb port, wifi or bluetooth) - as long as the scanner can read barcodes & fill encoded information into Web POS search box.<br/>
+- 	Card readers: only devices connected through USB port.<br/>
+- 	Receipt printers: any devices that connect with iPad/laptop/PC (no matter through usb port, wifi or bluetooth).<br/>
 - 	Pole display: only devices connected through USB port
 
 **How to integrate Customer pole display with Magento Web POS**
@@ -132,13 +129,13 @@ Secondly, you need to install the desktop application to connect your PC/ Laptop
 
 
 Then follow these steps: 
-- **Step** 1: Install the .NET Framework 4.5.2
-    + Open the folder .NET Framework 4.5.2
-    + Run NDP452-KB2901907-x86-x64-AllOS-ENU.exe file and install it to your computer.
-- **Step** 2: Intall the USB to Serial COM setup:
-    + Open the folder USB to Serial COM
-    + Run CDM21224_Setup.exe and install it to your computer
-- **Step** 3: Run the Pole Integration.exe file:
+- **Step** 1: Install the .NET Framework 4.5.2<br/>
+    + Open the folder .NET Framework 4.5.2<br/>
+    + Run NDP452-KB2901907-x86-x64-AllOS-ENU.exe file and install it to your computer.<br/>
+- **Step** 2: Intall the USB to Serial COM setup:<br/>
+    + Open the folder USB to Serial COM<br/>
+    + Run CDM21224_Setup.exe and install it to your computer<br/>
+- **Step** 3: Run the Pole Integration.exe file:<br/>
 
 ![WebPOS](./Web%20POS%20Image/image019.png)
 
@@ -165,7 +162,7 @@ Then, click on **Account** tab and the user can see his/her information. The use
 - 	**When to use**:
 
 In the first time a user log in to Web POS Checkout screen, the module will load data like products, customers, tax calculations, etc. to his local. Then the system will automatically update new data about products, customers... when having any changes in admin panel.
-In some cases, a user's local data is not 100% synced with data in the back-end. If the user notices any discrepancy, he can delete and reload data manually.
+In some cases, a user's local data is not 100% synced with data in the back-end. If the user notices any discrepancy, he can delete and reload data manually.<br/>
 - 	**How to use**:
 
 To reload data, go to Setting > Synchronization then choose Reload (to reload each category) or Reload All (to reload all data).
@@ -177,7 +174,7 @@ To reload data, go to Setting > Synchronization then choose Reload (to reload ea
 For data storage, in case the user closes his browser or restarts the system, Web POS still keeps all previous data so he can continue working without any problem.
 
 ### How to filter & search products quickly
-In POS screen, you can configure to search products by going to **Setting > General**
+In POS screen, you can configure to search products by going to **Setting > General**<br/>
 - 	In tab **Catalog**: Enable **Display out-of-stock products in search results** by choosing Yes option.
 
 ![WebPOS](./Web%20POS%20Image/image024.png)
@@ -200,7 +197,7 @@ To search by product attributes, click on Search icon, then a search bar will be
 ![WebPOS](./Web%20POS%20Image/image027.png)
 
 - 	Use barcode
-    -	Connect Web POS with barcode reader devices (Please refer to 2.8. How to  connect Web POS with peripheral devices for more details)
+    -	Connect Web POS with barcode reader devices (Please refer to **How to  connect Web POS with peripheral devices** for more details)
     -	Scan barcode and then the barcode attribute will be filled automatically in the search box (To set barcode attribute, go to 3.3. How to filter & search  products quickly to know more)
     -	The matching product will be shown in the list.
 
@@ -233,9 +230,9 @@ In frontend, click on **Custom Sale** button if you want to add the custom produ
 ![WebPOS](./Web%20POS%20Image/image031.png)
 
 A screen will be shown for you to configure this custom product
--	**Name**: Enter the name of custom product
--	**Price**: Enter the price of this product
--	**None/ Taxable Goods**: Choose whether the product is subject to sales tax or not.
+-	**Name**: Enter the name of custom product<br/>
+-	**Price**: Enter the price of this product<br/>
+-	**None/ Taxable Goods**: Choose whether the product is subject to sales tax or not.<br/>
 -	**Shippable**: Choose whether the product will be shipped or not by turning on/off this option
 
 After finishing configuration, click on **Add to Cart** button and check out as normally. Please note that this custom sale product will not be saved for the next checkout. 
@@ -248,14 +245,14 @@ Then, a popup will display as below:
 
 ![WebPOS](./Web%20POS%20Image/image033.png)
 
-You can choose between using **Discount** or **Promotion**
-- 	In Discount tab:
-    -	Name: Enter a name for this discount as you will easily check it again
-    -	Discount Type: Select discount by fixed amount or percentage
-    -	Amount: Fill in discount value as you offer for your customers.
+You can choose between using **Discount** or **Promotion**<br/>
+- 	In Discount tab:<br/>
+    -	Name: Enter a name for this discount as you will easily check it again<br/>
+    -	Discount Type: Select discount by fixed amount or percentage<br/>
+    -	Amount: Fill in discount value as you offer for your customers.<br/>
 
 Then, the cart will be updated automatically after you click on **Apply** button.
-- 	In Promotion tab:
+- 	In Promotion tab:<br/>
 Just fill in available coupon you want to offer for your customers. The cart will be updated automatically after you click on Apply button.
 
 ![WebPOS](./Web%20POS%20Image/image034.png)
@@ -323,7 +320,7 @@ Click on the Note icon in the top right corner and choose **Add Order Note**. Th
 ![WebPOS](./Web%20POS%20Image/image044.png)
 ![WebPOS](./Web%20POS%20Image/image045.png)
 
-####	How to check order comment
+#### How to check order comment
 **In Web POS screen**<br/>
 To view comment of order, you can go to **Orders** tab in Web POS screen, choose an order then scroll down to see Comment History. 
 
@@ -335,8 +332,8 @@ Go to Sales > Orders > click on a specific order. In order details page, scroll 
 
 ![WebPOS](./Web%20POS%20Image/image047.png)
 
-###	How to process at checkout for a customer
-You have been through steps to add products to cart and add customer, let’s move to the checkout  process.
+### How to process at checkout for a customer
+You have been through steps to add products to cart and add customer, let’s move to the checkout  process.<br/>
 - When products are added to cart, click on **Checkout** button at the end of the cart page
 
 ![WebPOS](./Web%20POS%20Image/image048.png)
@@ -348,7 +345,7 @@ You will be redirected to the next page with information of Shipping & Payment M
 - In Shipping method tab: Tick to choose the shipping method
 - In Payment method tab:
 
-For Web POS checkout, you can choose among applicable payment methods. There are 2 online and 3 offline payment methods for Web POS checkout, which are:
+For Web POS checkout, you can choose among applicable payment methods. There are 2 online and 3 offline payment methods for Web POS checkout, which are:<br/>
     -	**Credit Card Direct Post (Stripe & PayPal)**: Sale staff can fill in card information manually or swipe card (if the POS system is connected with a card swiper).
 
 ![WebPOS](./Web%20POS%20Image/image050.png)<br/>
@@ -382,8 +379,8 @@ You can use more than 1 payment method for split payments when checkout with Web
     -	Not require Cash in method as compulsory
 
 **Process part of order payment and keep orders on hold**
-With Web POS, you can also apply split payment when keeping orders on hold to process part of order for your customers. For example, your customer wants to reserve the good before it will be launched. His order value is $195. He pays $100 as reservation.
--  When processing payment, choose **Web POS – Cash In** with the value of $100 and the rest with COD (or other payment methods as you wish).
+With Web POS, you can also apply split payment when keeping orders on hold to process part of order for your customers. For example, your customer wants to reserve the good before it will be launched. His order value is $195. He pays $100 as reservation.<br/>
+-  When processing payment, choose **Web POS – Cash In** with the value of $100 and the rest with COD (or other payment methods as you wish).<br/>
 -  After finishing creating order, in the next step, don’t create invoice or shipment for this order. To do this, you need to turn off **Mark as shipped** and **Mark as paid** as in the following screenshot.
 
 ![WebPOS](./Web%20POS%20Image/image054.png)
@@ -449,7 +446,7 @@ A pop-up will appear so you can enter the quantity of item or the order amount t
 
 ###  How to create shipment or issue refund for an order
 #### How to create shipment
-There are two ways to create shipment using Web POS: **before placing an order** and **when reviewing order**
+There are two ways to create shipment using Web POS: **before placing an order** and **when reviewing order**<br/>
 - **Before placing order**
 Before an order is created by clicking **Place Order**, you can create shipment by turn it on as below:
 
@@ -549,7 +546,7 @@ The Sales by payment method for location displays the number of orders and sales
 
 
 ### How to manage working shift
-In version for Magento 2, Web POS dives deeper into working shift management with Z-report after each working shift.
+In version for Magento 2, Web POS dives deeper into working shift management with Z-report after each working shift.<br/>
 - Open working shift
 
 To open a new working shift, you need to go to tab Register Shifts. 
