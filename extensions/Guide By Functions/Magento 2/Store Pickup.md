@@ -80,14 +80,13 @@ To print orders, customers can click on **Print Order** on the top right. The fo
 ![SP](./Store%20Pickup%20Image/image014.png)
 
 ## HOW TO CONFIGURE
- You have seen how Store Pickup works in front-end for customers. The following part will guide you through how to configure and manage the module in back-end.
- 
+ You have seen how Store Pickup works in front-end for customers. The following part will guide you through how to configure and manage the module in back-end.<br/> 
 ***Tips**: For quick instructions on where to set up each function and how to get Google Map API Key, you can go to the **Stores > Settings > Configuration > Magestore > Store Pickup**. Under **Service API** section, click on the link for Google Map API Key Registration Guide
 
 ![SP](./Store%20Pickup%20Image/image015.png)
 ![SP](./Store%20Pickup%20Image/image016.png)
-
-***New release**: One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was that **required future product updates are only available for [requests made with an API key](https://developers.google.com/maps/faq#using-google-maps-apis)**.
+<br/>
+***New release**:One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was that **required future product updates are only available for [requests made with an API key](https://developers.google.com/maps/faq#using-google-maps-apis)**.
 
 This means active domains created before June 22, 2016, continue to be able to access the Google Maps JavaScript API, Static Maps API, and Street View Image API without an API key. They are not affected by keyless access being unavailable for new domains.
 
@@ -99,7 +98,7 @@ In the back-end, go to **Store Pickup** > **Manage Stores**. The **Store Manager
 
 ![SP](./Store%20Pickup%20Image/image017.png)
 #### Add Store
-Click on the **Add Store** button on the top right corner of the **Store Manager** page. You will be navigated to the **Add Store** page, which includes 7 tabs: **General Information, Google Map Location, Image Gallery, Store’s Schedule, Store’s Tag, Store’s Holiday, Store’s Special Days**
+Click on the **Add Store** button on the top right corner of the **Store Manager** page. You will be navigated to the **Add Store** page, which includes 7 tabs: **General Information, Google Map Location, Image Gallery, Store’s Schedule, Store’s Tag, Store’s Holiday, Store’s Special Days**<br/>
 - **General Information** tab: 
 
 This tab has 3 sessions: **General Information, Contact Information** and **Meta Information**.<br/>
@@ -113,7 +112,7 @@ Besides important information such as Store name, Description, Status, here are 
 
 **Tips**: You can input content for the **Description field** in HTML for better display in frontend, such as customized format, attached links, etc.<br/>
     - In **Contact Information** session, it allows you to enter information of store’s manager such as email address, phone number, etc. so customers will know how to contact if needed. You can configure to enable automatic emails sent to the store manager when pickup orders’ status is changed.<br/>
-    - **Meta Information** session, you can fill in URL key, meta title, meta keywords, meta description for better SEO
+    - **Meta Information** session, you can fill in URL key, meta title, meta keywords, meta description for better SEO<br/>
 - **Google Map Location** tab: 
 
 Fill your store’s address in this field or pin from the map, remember to click on the **Save Store** or **Save And Continue Edit** button to save your work. After that, store’s location will be updated automatically on Google Map.
@@ -164,8 +163,7 @@ To edit a specific store, go to **Manage Store** > select **Action (Edit)**.
 
 ![SP](./Store%20Pickup%20Image/image025.png)
 
-***Note**:<br/>
-When a store is created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map Location** tab allows you to edit store coordinates manually.
+**Note**: When a store is created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map Location** tab allows you to edit store coordinates manually.
 
 You can see it at the left upper. Click on this tab, the Google map will be displayed. You can reset store position by clicking on specific point on the map, then select **Save Store**.
 
@@ -215,7 +213,7 @@ On the **Add Special Day** page:<br/>
 ![SP](./Store%20Pickup%20Image/image032.png)
 
 Remember to click on the **Save Item** button to save your work.<br/>
-***Note**: Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.
+**Note**: Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.
 
 On the **Stores of Holiday** page: tick all stores that you want this special day to be applied, then Save Special Day
 
@@ -245,7 +243,7 @@ When there is an order using store pickup, notification email will be sent to st
 ### Settings
 To configure settings of the Store Pickup module, go to **Store Pickup > Settings**
 
-The configuration is divided into 3 groups including **General, Service API, Store Search**
+The configuration is divided into 3 groups including **General, Service API, Store Search**<br/>
 - **General**:
 
 ![SP](./Store%20Pickup%20Image/image038.png)
