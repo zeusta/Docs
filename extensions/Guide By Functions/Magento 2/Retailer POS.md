@@ -58,7 +58,7 @@ To change logo of Retailer POS, go to **Sales > Web POS > Settings > Web POS Log
 ![RetailerPOS](./Retailer%20POS%20image/image008.png)
 
 - **Allow synchronizing from Web POS if there are out-of-stock items**: If you want to show out-of-stock products in search results, choose “Yes”. If not, select “No”.
-- **Web POS logo: Upload your logo here**. Please note that recommended size is 250x50px & supported files are jpeg, png
+- **Web POS logo: Upload your logo here**. Please note that recommended size is 250x50px & supported files are jpg, png
 After finishing, click on **Save** or **Save And Continue Edit** button to save your work.
 
 ### 	How to add a Retailer POS user
@@ -78,7 +78,7 @@ Fill in all information of the user, including **User Name, Password, Password C
 
 Enter all information of the user settings such as **Customer Group, Location, Roles, Status, POS**
 
-Please note that to select the role for user, you need to add a role first. Please go to the section: **How to differentiate access permissions of Retailer POS users_** for more details.
+Please note that to select the role for user, you need to add a role first. Please go to the section: **How to differentiate access permissions of Retailer POS users** for more details.
 
 - To edit a user, click on the **Edit** link in **Staff manager** page. 
 
@@ -306,14 +306,14 @@ The information of customer in the system will be auto updated in checkout step.
 
 ![RetailerPOS](./Retailer%20POS%20image/image045.png)
 
-In the popup, just edit which information you want. 
+In the popup, just edit which information you want.<br/>
 - Create new customer
 
 If customer hasn’t been added in your system before, instead of searching, click on **Create New Customer** button.
 
 ![RetailerPOS](./Retailer%20POS%20image/image046.png)
 
-Fill enough information of the customer such as **First Name, Last Name, Email, Phone, Group of Customer**. Remember to tap **Save** button to save the customer information for the next checkout. 
+Fill enough information of the customer such as **First Name, Last Name, Email, Phone, Group of Customer**. Remember to tap **Save** button to save the customer information for the next checkout.<br/>
 - Fill in the information for Shipping Address such as Phone, Street, City, etc
 
 ![RetailerPOS](./Retailer%20POS%20image/image047.png)
@@ -346,7 +346,7 @@ Go to Sales > Orders > click on a specific order. In order details page, scroll 
 ![RetailerPOS](./Retailer%20POS%20image/image051.png)
 
 ### 	How to process at checkout for a customer
-You have been through steps to add products to cart and add customer, let’s move to checkout process. 
+You have been through steps to add products to cart and add customer, let’s move to checkout process.<br/>
 - When products are added to cart, select **Checkout** button at the end of the cart page
 
 ![RetailerPOS](./Retailer%20POS%20image/image052.png)
@@ -436,7 +436,7 @@ Another way is to go to **Orders History** tab in Retailer POS screen. Choose th
 
 ![RetailerPOS](./Retailer%20POS%20image/image063.png)
 
-There will be a message shown to notify you that shipment is created successfully. Please note that to use this way, you need to have permission and be in online mode. 
+There will be a message shown to notify you that shipment is created successfully. Please note that to use this way, you need to have permission and be in online mode.<br/>
 - Partial Shipment
 
 If you chose to enable Partial Shipment, a box of Items to Ship will appear when you tap **Ship** in **Order** tab. Enter the quantity of each product customers want to ship, select **Ship**.
@@ -500,15 +500,15 @@ After you choose “Yes” in Back-end to require to open a session before worki
 ![RetailerPOS](./Retailer%20POS%20image/image073.png)
 
 Cashiers will carry out to open a new session before getting started their shift. Fill in necessary information for each session
-- Responsible: Role of POS user (Cashier, Order management, etc)
-- Point of sales: Select POS you are working
-- pening Balance: Enter the total amount of cash at the beginning of a new session in your drawer
+- Responsible: Role of POS user (Cashier, Order management, etc)<br/>
+- Point of sales: Select POS you are working<br/>
+- Pening Balance: Enter the total amount of cash at the beginning of a new session in your drawer
 
 Then clicking **Open Session** to begin your shift. 
 
 #### 	 How to Record Cash in and Cash out 
 
-After you start a new session, you will see basic information on the current session and may make adjustment of cash in/out during your shift, record deposits and withdrawals from your cash drawer. Cash in and out appears in the drawer history on the iPad, with both the description you enter and the total amount in the drawer.
+After you start a new session, you will see basic information on the current session and may make adjustment of cash in/out during your shift, record deposits and withdrawals from your cash drawer. Cash in and out appears in the drawer history on the iPad, with both the description you enter and the total amount in the drawer.<br/>
 - Put Money In: Enter the cash amount you add to your drawer and a description
 
 ![RetailerPOS](./Retailer%20POS%20image/image074.png)
