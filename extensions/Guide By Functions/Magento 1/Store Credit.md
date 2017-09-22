@@ -12,15 +12,11 @@ Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 ## Introduction
 
-
-
 How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit module, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with our Magento Store Credit module, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
 
 ![enter image description here](./image_Store%20Credit%20M1/image001.png?raw=true)
 
 ## How to use 
-
-
 
 ### Buy Credit Product
 After Customers login to your website, they can access the **Store Credit** page in two ways.
@@ -79,8 +75,10 @@ The sender always gets email notifications as below:
 ![enter image description here](./image_Store%20Credit%20M1/image012.png?raw=true)
 
 ### Manage Credit on My Credit page
+
 In order to access the **My Credit** page, Customers can click on the **My Credit** tab on the left navigation.
 #### Manage Credit Balance
+
 On the **My Credit** page, Customers can view information about their current credit balances and transaction history.
 
 In the section **Transaction History**, our module shows Customers all of their credit transactions with a lot of information including ***date, type, details, added/deducted value in transaction*** and ***credit balance.***
@@ -88,6 +86,7 @@ In the section **Transaction History**, our module shows Customers all of their 
 ![enter image description here](./image_Store%20Credit%20M1/image013.png?raw=true)
 
 #### Send Credit to Friends
+
 First, Customers should click on the **Send Credit** tab on the left navigation to go to the **Send Credit to Friends** page.
 
 This page has 2 parts including **Send Credit To Friends** and **Credit Code List**.
@@ -196,6 +195,7 @@ After order has been placed, Customers’ credit balances will be updated immedi
 ## How to configure
 
 ### Manage Customers Using Credit
+
 Go to **Store Credit > Manage Customers Using Credit**
 
 ![enter image description here](./image_Store%20Credit%20M1/image030.png?raw=true)
@@ -224,6 +224,7 @@ After you save, our module will auto update the Customer’s credit balance, sen
 ![enter image description here](./image_Store%20Credit%20M1/image035.png?raw=true)
 
 ### Manage Credit Products
+
 Go to **Store Credit > Manage Credit Products**
 
 ![enter image description here](./image_Store%20Credit%20M1/image036.png?raw=true)
@@ -264,6 +265,7 @@ Then you will be navigated to the **New Product** page. In the **Settings** tab,
 ### Manage Credit Transactions and Report Charts
 
 #### Credit Transactions
+
 Go to **Store Credit > Credit Transactions > Credit Transactions**
 
 ![enter image description here](./image_Store%20Credit%20M1/image042.png?raw=true)
@@ -331,6 +333,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 ![enter image description here](./image_Store%20Credit%20M1/image050.png?raw=true)
 
 ### Settings
+
 Go to **Store Credit > Settings**
 
 ![enter image description here](./image_Store%20Credit%20M1/image051.png?raw=true)
