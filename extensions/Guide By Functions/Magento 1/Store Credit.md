@@ -10,6 +10,7 @@ Copyright 2016. All Rights Reserved.
 Any unauthorized reproduction of this document is prohibited. 
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
 ## INTRODUCTION
 
 How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit module, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with our Magento Store Credit module, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
