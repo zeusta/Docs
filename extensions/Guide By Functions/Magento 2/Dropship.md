@@ -28,7 +28,7 @@ Dropship for Magento 2 is one module from Order Success solution, which allows y
 •	User-friendly interface
 
 
-##  How to prepare and ship items for sales order
+##  How to Prepare and Ship Items for Sales Order
 
 
 ### Drop-ship
