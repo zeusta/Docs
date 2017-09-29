@@ -24,7 +24,7 @@ Thanks and Best regards,
 Magestore Team 
 
 ## Business Workflow ##
-###General Sales Process ##
+### General Process ##
 
 ![](./Image_POS/image001.png?raw=true)
 
@@ -41,9 +41,10 @@ Magestore Team
 ----------
 ## Permission Matrix ##
 The working process of POS System from Magestore is divided into 3 sections:
-•	General Sales Process 
-•	POS Order 
-•	POS Return Order 
+
+ - General Sales Process
+ - POS Order
+ - POS Return Order
 
 In each part, the responsibility for each position in your store is different. 
 Here is the detailed assignment: 
@@ -53,11 +54,15 @@ Inventory Staffs will take charge of these missions:
 In the step of “Session Management”: not involved 
 
 In the step of “POS Order”: 
-•	Check product and quantity on hand 
-•	Delivery Product 
+
+ - Check product and quantity on hand
+ - Delivery Product
+
+================
 
 In the step of “POS Return Order”: 
-•	Receive Product 
+
+ - Receive Product
 
 In the step of “POS Report”: not involved 
 ### Store Manager ##
@@ -76,17 +81,21 @@ This position will undertake those tasks:
 In the step of  “Session Management” : not involved 
 
 In the step of “POS Order”: 
-•	Search Product and check quantity on hand 
-•	Create Order 
-•	Apply Promotion 
-•	Apply Coupon Code 
-•	Apply Gift Card 
-•	Apply Reward Point 
-•	Select Shipping Method 
+	
+
+ - Search Product and check quantity on hand
+ - Create Order
+ - Apply Promotion
+ - Apply Coupon Code
+ - Apply Gift Card
+ - Apply Reward Point
+ - Select Shipping Method
 
 In the Step of “POS Return Order” 
-•	Search old orders and check return rules 
-•	Create return order 
+	
+
+ - Search old orders and check return rules
+ - Create return order
 
 In the step of “POS Report”: not involved 
 
@@ -97,13 +106,15 @@ In the step of “Session Management”: involved in all the actions.
 In the step of “POS Order”: involved in all the actions except “Delivery Product”
 
 In the step of “POS Return Order”: 
-•	Check old order and return rules 
-•	Create Return Order
-•	Check out and Payment 
+
+ - Check old order and return rules
+ - Create Return Order
+ - Check out and Payment
 
 In the “POS Report”:
-•	X Report 
-•	Z Report 
+
+ - X Report
+ - Z Report
 
 ![](./Image_POS/image007.png?raw=true)
 
@@ -111,10 +122,10 @@ In the “POS Report”:
 ----------
 ## How to use  ##
 The general workflow of POS System includes 3 parts: 
-•	General Sale Process 
-•	POS Order 
-•	POS Return Order 
 
+ - General Sale Process
+ - POS Order
+ - POS Return Order
 
 And here are the detailed instruction for each section which could help users adapt to this system quickly and effectively. 
 
