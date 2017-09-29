@@ -24,7 +24,7 @@ Thanks and Best regards,
 ### Inventory Adjustment 
 ![](./image_Inventory%20Management/image001.png?raw=true)
 
-
+![](/image_Inventory%20Management/image001.png?raw=true)
 
 ### Transfer Stock - Send Stock
 
