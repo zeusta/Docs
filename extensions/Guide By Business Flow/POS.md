@@ -180,19 +180,26 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 				Otherwise, Staffs have to Put the money in or Take Money out (with reason) 
 				![](./Image_POS/image021.png?raw=true)
 				
-		(1)	Amount of cash that staff will put in
+(1)	Amount of cash that staff will put in
+
 (2)	Reason
+
 (3)	Name of Staff will do this action**
+
 ![](./Image_POS/image023.png?raw=true)
 (1)	Amount of cash that staff will take out
+
 (2)	Reason
+
 (3)	Name of Staff will do this action
 
 
 After all, when the Theory Balance’s equal to the Real one, POS Managers are able to “Set Closing Balance”. Then, it ends of the “General Sale Process” Workflow. 
 ![](./Image_POS/image025.png?raw=true)
 (1)	The value of currency in the drawer
+
 (2)	Number of those 
+
 (3)	Click “Confirm” to agree with the information displayed above 
 
 ### POS Order  ##
