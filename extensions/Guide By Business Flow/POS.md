@@ -170,7 +170,8 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 ![](./Image_POS/image015.png?raw=true)
 
 - 	And now, it’s time for Managers checked Closing Balance. 2 situations could happen in this step: 
-	-	  If the Theory and Real Balance are the same, Managers could directly move to the step of Set Closing Balance, then end this workflow (Session Management) 
+	- 		If the Theory and Real Balance are the same, Managers could directly move to the step of Set Closing Balance, then end this workflow (Session Management) 
+
 
 	![](./Image_POS/image017.png?raw=true)
 
