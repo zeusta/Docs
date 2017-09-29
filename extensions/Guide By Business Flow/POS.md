@@ -58,8 +58,6 @@ In the step of “POS Order”:
  - Check product and quantity on hand
  - Delivery Product
 
-================
-
 In the step of “POS Return Order”: 
 
  - Receive Product
@@ -68,53 +66,50 @@ In the step of “POS Report”: not involved
 ### Store Manager ##
 This position takes part in almost actions on this POS Sytem throughout 4 steps: 
 
-In the step of “Sesstion Management”: involved in all the actions 
-
-In the step of “POS Order”: involved in all the actions except Select Customer, Apply Store Credit & Delivery Product. 
-
-In the step “POS Return Order”: involved in all the actions of this step except 
-“Receive the product”. 
-In the “POS Order”: Involved in all the actions. 
+ - In the step of “Sesstion Management”: involved in all the actions
+ - In the step of “POS Order”: involved in all the actions except Select
+   Customer, Apply Store Credit & Delivery Product.
+ - In the step “POS Return Order”: involved in all the actions of this
+   step except  “Receive the product”.
+ - In the “POS Order”: Involved in all the actions.
 
 ### Store Saler
 This position will undertake those tasks: 
-In the step of  “Session Management” : not involved 
 
-In the step of “POS Order”: 
+ - In the step of  “Session Management” : not involved
+ 
+ - In the step of “POS Order”:
+
 	
 
- - Search Product and check quantity on hand
- - Create Order
- - Apply Promotion
- - Apply Coupon Code
- - Apply Gift Card
- - Apply Reward Point
- - Select Shipping Method
+	 - Search Product and check quantity on hand
+	 - Create Order
+	 - Apply Promotion
+	 - Apply Coupon Code
+	 - Apply Gift Card
+	 - Apply Reward Point
+	 - Select Shipping Method
 
-In the Step of “POS Return Order” 
-	
-
- - Search old orders and check return rules
- - Create return order
-
-In the step of “POS Report”: not involved 
+ - In the Step of “POS Return Order”
+	 - Search old orders and check return rules
+	 - Create return order
+ - In the step of “POS Report”: not involved
 
 ### Store Cashier ##
 Store Cashier will take the following tasks: 
-In the step of “Session Management”: involved in all the actions. 
 
-In the step of “POS Order”: involved in all the actions except “Delivery Product”
-
-In the step of “POS Return Order”: 
-
- - Check old order and return rules
- - Create Return Order
- - Check out and Payment
-
-In the “POS Report”:
-
- - X Report
- - Z Report
+ - In the step of “Session Management”: involved in all the actions.
+ 
+ - In the step of “POS Order”: involved in all the actions except
+   “Delivery Product”
+   
+ - In the step of “POS Return Order”:
+	 - Check old order and return rules
+	 - Create Return Order
+	 - Check out and Payment
+ - In the “POS Report”:
+	 - X Report
+	 - Z Report
 
 ![](./Image_POS/image007.png?raw=true)
 
