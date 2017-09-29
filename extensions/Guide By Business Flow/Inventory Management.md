@@ -22,7 +22,9 @@ Thanks and Best regards,
 
 ## WORKFLOW
 ### Inventory Adjustment 
-Anh 1 ![enter image description here]()
+![](./image_Inventory%20Management/image001.png?raw=true)
+
+
 
 ### Transfer Stock - Send Stock
 
