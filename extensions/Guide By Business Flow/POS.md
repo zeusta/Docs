@@ -51,18 +51,15 @@ Here is the detailed assignment:
 
 ### Inventory Staff ##
 Inventory Staffs will take charge of these missions: 
-In the step of “Session Management”: not involved 
 
-In the step of “POS Order”: 
+ - In the step of “Session Management”: not involved
+ - In the step of “POS Order”:
+	 - Check product and quantity on hand
+	 - Delivery Product
+ - In the step of “POS Return Order”:
+	 - Receive Product
+ - In the step of “POS Report”: not involved
 
- - Check product and quantity on hand
- - Delivery Product
-
-In the step of “POS Return Order”: 
-
- - Receive Product
-
-In the step of “POS Report”: not involved 
 ### Store Manager ##
 This position takes part in almost actions on this POS Sytem throughout 4 steps: 
 
@@ -135,12 +132,17 @@ We will explain this workflow according to the timing circle: Opening the store,
 
 	![](./Image_POS/image009.png?raw=true)
 	(1) Name of the staff in this session 
+	
 	(2) Location of POS 
+	
 	(3) Opening Balance before starting new session
+	
 	(4) Value of the currency contrbuting to Opening Balance (such as: $100 ) 
 
 	(5) Number of the currency unit (for example : 2) 
+	
 	(6) Subtotal (you will have: $100 * 2 = $200) 
+	
 	(7) After checking all the information above, click this button to Open New       Session
 
 	 Type the **coin/bill value** > Put in **the number** of those
