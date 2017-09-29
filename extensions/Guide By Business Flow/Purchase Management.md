@@ -21,4 +21,12 @@ Purchase management is always a headache to retailers. As the businesses grow up
 ![](Image-Purchase-Management/image001.png)
 
 
-## HOW TO USE 
+# Purchase Management Processing
+## A. Purchase Order
+###  1. Purchase Staff Create Request for Quotation
+
+*"**A quotation** (or **a request for quotation**) is the proposal of price and quantity of goods that store owners send to suppliers. The quotation will become purchase order when a seller sends confirmation of price and availability of products stated in the quotation.”*
+
+To create a new request for quotation, purchase staff can follow this path: **Purchase Management** > **Quotation Management** > **Create Quotation
+![](Image-Purchase-Management/image003.png)
+
