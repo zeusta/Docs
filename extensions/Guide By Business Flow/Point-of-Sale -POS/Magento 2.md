@@ -63,25 +63,25 @@ Inventory Staffs will take charge of these missions:
 ### Store Manager ##
 This position takes part in almost actions on this POS Sytem throughout 4 steps: 
 
-..* In the step of “Sesstion Management”: involved in all the actions
-..* In the step of “POS Order”: involved in all the actions except Select Customer, Apply Store Credit & Delivery Product.
-..* In the step “POS Return Order”: involved in all the actions of this step except  “Receive the product”.
-..* In the “POS Order”: Involved in all the actions.
+* In the step of “Sesstion Management”: involved in all the actions
+* In the step of “POS Order”: involved in all the actions except Select Customer, Apply Store Credit & Delivery Product.
+* In the step “POS Return Order”: involved in all the actions of this step except  “Receive the product”.
+* In the “POS Order”: Involved in all the actions.
 
 ### Store Saler
 This position will undertake those tasks: 
 
-..* In the step of  “Session Management” : not involved
+* In the step of  “Session Management” : not involved
  
-..* In the step of “POS Order”:
+* In the step of “POS Order”:
 
-..- Search Product and check quantity on hand
-..- Create Order
-..- Apply Promotion
-..- Apply Coupon Code
-..- Apply Gift Card
-..- Apply Reward Point
-..- Select Shipping Method
+	- Search Product and check quantity on hand
+	- Create Order
+	- Apply Promotion
+	- Apply Coupon Code
+	- Apply Gift Card
+	- Apply Reward Point
+	- Select Shipping Method
 
  - In the Step of “POS Return Order”
 	 - Search old orders and check return rules
@@ -127,6 +127,7 @@ We will explain this workflow according to the timing circle: Opening the store,
 	Particularly, when you log in to any POS, a window of opening session will pop-up automatically. 
 
 	![](./Image_POS/image009.png?raw=true)
+	
 	(1) Name of the staff in this session 
 	
 	(2) Location of POS 
@@ -139,7 +140,7 @@ We will explain this workflow according to the timing circle: Opening the store,
 	
 	(6) Subtotal (you will have: $100 * 2 = $200) 
 	
-	(7) After checking all the information above, click this button to Open New       Session
+	(7) After checking all the information above, click this button to Open New Session
 
 	 Type the **coin/bill value** > Put in **the number** of those
 	   coins/bills  > Click “**Open Session**”
@@ -166,7 +167,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 ![](./Image_POS/image015.png?raw=true)
 
 - 	And now, it’s time for Managers checked Closing Balance. 2 situations could happen in this step: 
-	- 		If the Theory and Real Balance are the same, Managers could directly move to the step of Set Closing Balance, then end this workflow (Session Management) 
+	- If the Theory and Real Balance are the same, Managers could directly move to the step of Set Closing Balance, then end this workflow (Session Management) 
 
 
 	![](./Image_POS/image017.png?raw=true)
@@ -184,6 +185,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 (3)	Name of Staff will do this action**
 
 ![](./Image_POS/image023.png?raw=true)
+
 (1)	Amount of cash that staff will take out
 
 (2)	Reason
@@ -192,7 +194,9 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 
 
 After all, when the Theory Balance’s equal to the Real one, POS Managers are able to “Set Closing Balance”. Then, it ends of the “General Sale Process” Workflow. 
+
 ![](./Image_POS/image025.png?raw=true)
+
 (1)	The value of currency in the drawer
 
 (2)	Number of those 
@@ -216,9 +220,10 @@ Like the flow we explain above, this section is also instructed according to the
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
 	 - If this buyer were a brand new customer, Cashier would create a new
    one.  Here is the detailed instruction:
+   
 	   ![](./Image_POS/image031.png?raw=true)
 	
-		![](./Image_POS/image033.png?raw=true)
+	![](./Image_POS/image033.png?raw=true)
 
 	Tap the human icon > “Create Customer”
   
@@ -231,6 +236,7 @@ Like the flow we explain above, this section is also instructed according to the
    retailers install specialized extensions for their own POS System.
    For instance, they are Coupon Code, Gift Card, Reward Point and Store
    Credit.
+   
     ![](./Image_POS/image035.png?raw=true)
     ![](./Image_POS/image037.png?raw=true)
     ![](./Image_POS/image039.png?raw=true)
@@ -241,6 +247,7 @@ Like the flow we explain above, this section is also instructed according to the
 
  - Then, Cashiers have to choose payment method
 	 - In this step, if customers require invoice, Cashiers will take the output of Customer Invoice. 
+	 
 	 ![](./Image_POS/image041.png?raw=true)
 	![](./Image_POS/image043.png?raw=true)
 	![](./Image_POS/image045.png?raw=true)
@@ -283,16 +290,12 @@ If this Return Order is valid, all those steps below need accomplishing:
 
 > 	**Step 2**: Implement Refund Process 
 > 
-> To issue refund, go to Orders tab in POS screen, choose Orders
-> History, select the order that is required to refund.  Tap on Refund
-> button at the end of the popup.
+> To issue refund, go to Orders tab in POS screen, choose Orders History, select the order that is required to refund.  Tap on Refund button at the end of the popup.
 
 ![](./Image_POS/image049.png?raw=true)
 
 
-> A popup will display so that you can fill in the information before
-> making refund.  Tick “Return to stock” if you want to return those
-> items back to your stock.
+> A popup will display so that you can fill in the information before making refund.  Tick “Return to stock” if you want to return those items back to your stock.
 
 ![](./Image_POS/image051.png?raw=true)
 
@@ -301,20 +304,12 @@ If this Return Order is valid, all those steps below need accomplishing:
 [3] Adjust Fee:
 [4] Refund by Credits.
 
-> Instead of refund by cash, you can refund for customer a certain
-> amount of credits to keep them around your store and purchase next
-> time. 
+> Instead of refund by cash, you can refund for customer a certain amount of credits to keep them around your store and purchase next time. 
 > 
-> Hit “**Submit Refund**”. After that, you will get the message informing
-> that credit memo is created successfully.  Please make sure you have
-> permission to issue refund.
+> Hit “**Submit Refund**”. After that, you will get the message informing that credit memo is created successfully.  Please make sure you have permission to issue refund.
 > 
 > **Step 3**: Exchange the product in the order
 > 
-> If the customer want to exchange the product, create a refund like the
-> same steps above at Make Order(s).  Then create the same order, with
-> the exchange product. After that,  proceed with the order and check
-> out.  
+> If the customer want to exchange the product, create a refund like the same steps above at Make Order(s).  Then create the same order, with the exchange product. After that,  proceed with the order and check out.  
 > 
 > End the exchange product.
-> Written with [StackEdit](https://stackedit.io/).
