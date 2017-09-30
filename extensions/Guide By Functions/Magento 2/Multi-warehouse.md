@@ -1,4 +1,4 @@
-# INVENTORY MANAGEMENT - MAGENTO 2
+# MULTI-WAREHOUSE - MAGENTO 2
 
 
 *Confidential Information Notice*<br/>
