@@ -42,9 +42,9 @@ Magestore Team
 ## Permission Matrix ##
 The working process of POS System from Magestore is divided into 3 sections:
 
-..* General Sales Process
-..* POS Order
-..* POS Return Order
+* General Sales Process
+* POS Order
+* POS Return Order
 
 In each part, the responsibility for each position in your store is different. 
 Here is the detailed assignment: 
@@ -52,13 +52,13 @@ Here is the detailed assignment:
 ### Inventory Staff ##
 Inventory Staffs will take charge of these missions: 
 
-..* In the step of “Session Management”: not involved
-..* In the step of “POS Order”:
-	 ..- Check product and quantity on hand
-	 ..- Delivery Product
-..* In the step of “POS Return Order”:
-	 ..- Receive Product
-..* In the step of “POS Report”: not involved
+* In the step of “Session Management”: not involved
+* In the step of “POS Order”:
+	 - Check product and quantity on hand
+	 - Delivery Product
+* In the step of “POS Return Order”:
+	 - Receive Product
+* In the step of “POS Report”: not involved
 
 ### Store Manager ##
 This position takes part in almost actions on this POS Sytem throughout 4 steps: 
