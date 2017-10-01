@@ -8,7 +8,7 @@ Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this docum
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
--------------
+
 
 ## INTRODUCTION
 
@@ -21,7 +21,7 @@ Thanks and Best regards,
 **Magestore Team** 
 
 
-----------
+
 
 
 ## PERMISSION MATRIX
@@ -34,7 +34,7 @@ Thanks and Best regards,
 ![enter image description here](./Warehouse%20Manager/image003.png?raw=true) 
 
 
-----------
+
 
 
 ## FOR INVENTORY MANAGER
@@ -570,7 +570,7 @@ When supplier created Shipments and confirmed email to the customer. Then we wil
 
 
 
-----------
+
 ## FOR INVENTORY STAFF
 
 
