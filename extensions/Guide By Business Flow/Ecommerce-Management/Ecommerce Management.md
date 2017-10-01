@@ -24,7 +24,8 @@ This guide is specially written according to business flow which happens reguarl
 ### Customers place online orders
 #### View Store Information
 
-I4
+![](./Ecommerce-Management/image004.png)
+
 Top-Link
 
 Store Pickup extension creates a separated page to list all of your stores in the front-end. 
