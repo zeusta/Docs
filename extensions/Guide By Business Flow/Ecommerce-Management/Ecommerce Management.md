@@ -24,7 +24,7 @@ This guide is specially written according to business flow which happens reguarl
 ### Customers place online orders
 #### View Store Information
 
-![](./Ecommerce-Management/image004.png)
+![](./Image_EcommerceManagement/image004.png)
 
 Top-Link
 
@@ -32,7 +32,7 @@ Store Pickup extension creates a separated page to list all of your stores in th
 
 1.	Click on **arrow button** on Top-Link (the top right of the page)
 
-I6
+![](./Image_EcommerceManagement/image006.png)
 
 The Store Listing page includes 4 sections: Store list, Search form, **Google Map** and **Tags list**.
 
@@ -46,13 +46,15 @@ The Store Listing page includes 4 sections: Store list, Search form, **Google Ma
 
 2.	Click on a store on the map to view the store location along with its name, address, phone number and store manager’s email address. Customers can also get direction on this box.
 
-Im8
+![](./Image_EcommerceManagement/image008.png)
+
 3.	To view more details of a store, click on its name link to be navigated to the detailed page.
-Im10
+
+![](./Image_EcommerceManagement/image010.png)
 
 As you can see, this page shows all details that customers want to know about a store before arriving, such as location, contact info, working time, description and store images.
 
-Im12
+![](./Image_EcommerceManagement/image0012.png)
 
 They can also view list of special days & holidays in **Special day & Holiday information** tab. They can conveniently give comment to stores by filling in the Facebook comment box.
 
@@ -61,6 +63,7 @@ They can also view list of special days & holidays in **Special day & Holiday in
 The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the extension works for customers.
 
 ##### Choose shipping method: Delivery in Store
+
 The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the extension works for customers. 
 
 1.	In the **Shipping method** tab at checkout, select **Store Pickup** as shipping option. 
@@ -73,7 +76,7 @@ On the G-Map popup, select a store on store list or search store
 
 •	After selecting a store, customers need to choose a specific shipping date and time for arrival, and then check out as usual.
 
-Im14
+![](./Image_EcommerceManagement/image014.png)
 
 To do that, select the pickup date and time in **Pickup Date** and **Pickup Time** box. 
 
@@ -81,13 +84,13 @@ If the shipping date is one of store’s holidays, customers won’t be able to 
 
 ##### Choose payment method
 
-Im16
+![](./Image_EcommerceManagement/image016.png)
 
 1) After choosing shipment method, click **Next** to continue choosing payment method. 
 
 In the **Payment Information** tab, applicable payment methods for In-store Pickup are shown as your configuration.
 
-I18
+![](./Image_EcommerceManagement/image018.png)
 
 2) Select a payment method 
 
@@ -96,7 +99,7 @@ I18
 To place the order , customers will click on the **Place Order** button.
 #### View Orders
 
-I20
+![](./Image_EcommerceManagement/image020.png)
 
 To view their orders with store pickup information, customers can go to **My Account** on Top-Link > **My Orders** tab > **View Order**
 
@@ -107,38 +110,38 @@ To print orders, click on **Print Order** on the top right.
 
 ✓	**Path:  Inventory Management -> Warehouses.**
 
-I22
+![](./Image_EcommerceManagement/image022.png)
 
 The **Manage Warehouses** page will display a list of warehouses and you need to find the warehouse that customers place their pickup-in-store order and click on View to view the chosen warehouse. 
 
-I24
+![](./Image_EcommerceManagement/image024.png)
 
 1)	In the **View Warehouses** page - section **Orders**, find the order that customer want to pick up in store. 
 
 2)	Click on **View** to see the detail of the order. 
 
-I26
+![](./Image_EcommerceManagement/image026.png)
 
-	The order page will be opened and you can see all the information of the order as above.
+The order page will be opened and you can see all the information of the order as above.
 	
 #### Process Shipment for customers
 ##### Create shipment
 
 ✓	**Path: Sales > Orders**
 
-I28
+![](./Ecommerce-Management/image028.png)
 
 1)	In the **Information** tab, click on **Ship** 
 
 The **New Shipment** page will open and include a customer’s information such as sales info, account, address, payment and shipping method. 
 
-I30
+![](./Image_EcommerceManagement/image030.png)
 
 2)	Click on **Submit Shipment** button to complete.
 
 When a new shipment is created, you will see the notification: ** “ The shipment has been created”**
 
-I32
+![](./Image_EcommerceManagement/image032.png)
 
 ##### Print Packing Slips
 
@@ -146,11 +149,11 @@ I32
 
 After a new shipment has been created, if you want to print packing slips:
 
-I34
+![](./Image_EcommerceManagement/image034.png)
 
 1)	In the **Information** tab of the chosen order page, click on Invoice.
 
-I36
+![](./Image_EcommerceManagement/image036.png)
 
 2) Click on** Print** button to print out packing slips. 
 
@@ -160,15 +163,15 @@ I36
 
 Continually, to send confirm email to customers: 
 
-I38
+![](./Image_EcommerceManagement/image038.png)
 
 In the **Information** tab, click on **Send Email.**	
 
-I40
+![](./Image_EcommerceManagement/image040.png)
 
 •	Then a popup will appear to make sure that you want to send confirm email to customers. Click on **OK** to complete.
 
-I42
+![](./Image_EcommerceManagement/image042.png)
 
 •	After that, you will see the notification as above.
 
@@ -176,52 +179,52 @@ I42
 
 If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses, firstly go to** Inventory Management > Transfer Stock > Request Stock.**
 
-I44
+![](./Image_EcommerceManagement/image044.png)
 
 In the **Add a New Request Stock** tab, let’s fill the **Transfer Code** choose **Source Warehouse** and **Destination Warehouse**.  Besides, you can fill in the **Reason** box for resquesting stock. 
 
-I46
+![](./Image_EcommerceManagement/image046.png)
 
 Then, to prepare product list, click on the **Prepare Product List** button as the image above. 
 
 To add new list of products:
 
-I48
+![](./Image_EcommerceManagement/image048.png)
 
 1)	Click on the product needed 
 
 2)	**Add Selected Products**
 
-I50
+![](./Image_EcommerceManagement/image050.png)
 
 3)	Choose the quantity to transfer and click on **Start Request Stock**
 
 4)	Click on **Remove** to delete product line
 
-I52
+![](./Image_EcommerceManagement/image052.png)
 
-	The **request transfer** is completed.
+The **request transfer** is completed.
 	
 #### Receive Transfer stock 
 
 After the staff of the requested warehouse confirmed transferring their stocks and these stocks are ready to import into your store, it’s time to receive them. 
 To receive stock from other warehouses, click on **Select Products in Receiving history section:
 
-I54
+![](./Image_EcommerceManagement/image054.png)
 
 1.	Click on the request created for receiving
 
 2.	Click on **Add Selected Products**
 
-I56
+![](./Image_EcommerceManagement/image056.png)
 
 3.	Write the quantity received in receiving history
 
-I58
+![](./Image_EcommerceManagement/image058.png)
 
 4.	Click on **Save Receive**
-5.	
-I60
+	
+![](./Image_EcommerceManagement/image060.png)
 
 ### Store Staff delivers orders 
 #### Find pickup-in-store orders
@@ -230,30 +233,30 @@ I60
 	
 In the **Manage Warehouses** page, tick to the warehouse of store in which your customer want to pick up his/her order.
 
-I62
+![](./Image_EcommerceManagement/image062.png)
 
 Then click **View** to see the order in the chosen warehouse.  
 
-I63
+![](./Image_EcommerceManagement/image063.png)
 
 **View Warehouse** page will open and in the **Orders** section, you can find the order of customer picking up in your store. **Apply Filters** to find that order easily by following steps in the image above.
 
 #### Print invoice 
 
-I65 
+![](./Image_EcommerceManagement/image065.png)
 
 1)	In the **View Warehouse** page - section Orders, click View to see the detailed information of the customer’s order.	
 
-I67
+![](./Image_EcommerceManagement/image067.png)
 
 2)	Click on **Invoice** to create a new invoice for customer: 
 	A** New Invoice** page will appear with all information of the customer ‘ s order. 
 	
-I69
+![](./Image_EcommerceManagement/image069.png)
 
 3)	Click on **Submit Invoice** button. Then a new invoice has been created. 
 
-. i71
+![](./Image_EcommerceManagement/image071.png)
 
 4)	To print it, click on **Print** button. 
 -------------------------------------------------------
@@ -263,7 +266,7 @@ I69
 #### How to configure reward points
 #####  Add new rate
 
-I73
+![](./Image_EcommerceManagement/image073.png)
 
 1)	Click on reward points
 
@@ -271,15 +274,15 @@ I73
 
 3)	Click on  add new spending rate
 
-I75
+![](./Image_EcommerceManagement/image075.png)
 
 Fill all the data needed in the boxes
 
-I77
+![](./Image_EcommerceManagement/image077.png)
 
 Click on **Save spending rate** after finishing filling in all the boxes
 
-I79
+![](./Image_EcommerceManagement/image079.png)
 
 The new earning rate will be shown as the beside image.
 
@@ -287,11 +290,11 @@ The new earning rate will be shown as the beside image.
 
 ✓	**Path: Reward Point > Spending Rates**
 
-I81
+![](./Image_EcommerceManagement/image081.png)
 
 Click on **Edit** on action column of the rate needed to be edited
 
-I83
+![](./Image_EcommerceManagement/image083.png)
 
 Edit the rate, then click Save spending rate, or **Delete** it.
 
@@ -299,32 +302,33 @@ Edit the rate, then click Save spending rate, or **Delete** it.
 
 1.	**Path: Reward points > Transactions**
 
-I85
+![](./Image_EcommerceManagement/image085.png)
 
 Click on **Add new transaction** to add new transaction
 
-I87
+![](./Image_EcommerceManagement/image087.png)
 
 Fill in the required information and click on **Save**.
 
 ##### Manage point balances of customers
 
 ✓	**Path: Customers > All customers**
-I89
+
+![](./Image_EcommerceManagement/image087.png)
 
 Click on **Edit** of the customer needed to be managed.
 
-I91
+![](./Image_EcommerceManagement/image091.png)
 
 Click on reward points to manage the customer’s balance by filling the change balance, change title, points expire on box.
 
 Also, update points subscription and expire transaction subscription can be configured in reward points
 
-I93 
+![](./Image_EcommerceManagement/image093.png)
 
 Click on **Save customer** to save the changes
 
-I95
+![](./Image_EcommerceManagement/image095.png)
 
 All transactions of a customer are also listed in reward points
 
@@ -337,21 +341,21 @@ The first way is to enter the **Change Balance** in the **Reward Points** sessio
 
 The second way to change points, which can be done to many customers at the same time, is illustrated below:
 
-I97
+![](./Image_EcommerceManagement/image097.png)
 
 A list of customers will be shown with point balance column.
 
-I99
+![](./Image_EcommerceManagement/image099.png)
 
 Click on **Import** to import from computer
 
-I101
+![](./Image_EcommerceManagement/image101.png)
 
-1)	Click on ** “Chọn tệp” ** to upload file
+1)	Click on ** “Chọn tệp”** to upload file
 
 2)	Click on **Import** to import it
 
-I103
+![](./Image_EcommerceManagement/image103.png)
 
 The list of customers in **Reward Point Balances** Information page can also be exported by clicking on **Export**
 
@@ -359,29 +363,31 @@ The list of customers in **Reward Point Balances** Information page can also be 
 
 ✓	**Path: Sales > Orders**
 
-I105
+![](./Image_EcommerceManagement/image105.png)
+
 1)	Click on **Sales**
 
 2)	**Orders**
 
 3)	Click on **Create new order**
 
-I107
+![](./Image_EcommerceManagement/image107.png)
 
 Select customer from the list
-I109
+
+![](./Image_EcommerceManagement/image109.png)
 
 Click on **Add products** to add products to the order
 
-I111
+![](./Image_EcommerceManagement/image111.png)
 
 Click on the product and enter the quantity, then click on **add selected product(s) to order**
 
-I113
+![](./Image_EcommerceManagement/image113.png)
 
 Set the number of point customer will use in the order in the use customer reward points
 
-I115
+![](./Image_EcommerceManagement/image115.png)
 
 Fill in the required fields, click on submit order to finish creating new order
 ##### Refund Orders into points balance
@@ -390,22 +396,23 @@ Fill in the required fields, click on submit order to finish creating new order
 
 ✓	**Path: Sales > Orders**
 
-I117
+![](./Image_EcommerceManagement/image117.png)
 
 1)	Click on **View** to see the details of an order 
 
-I119
+![](./Image_EcommerceManagement/image119.png)
 
 2) On the top bar, click on **Credit Memo** label to create a refund order 
 
-I121
+![](./Image_EcommerceManagement/image121.png)
 
-On the pop-up screen named I123, scroll down, then:
+On the pop-up screen named ![](./Image_EcommerceManagement/image123.png), scroll down, then:
 
 1)	Enter the earned points that will be refunded to customer’s balance
 
-2)	Click on I125  to finish
-I127
+2)	Click on ![](./Image_EcommerceManagement/image125.png) to finish.
+
+![](./Image_EcommerceManagement/image127.png)
 
 After the credit memo has been created:
 
@@ -415,32 +422,34 @@ After the credit memo has been created:
 ##### How customers earn points
 
 When placing an order, customers can earn points based on the rate set by admin.
-I129
+
+![](./Image_EcommerceManagement/image129.png)
 
 Customers are well aware of your reward point policy thanks to messages on many pages. For example, on **Product Detail** pages, there will be a notification for customers that says “You could receive some Points for purchasing this product”.
 
-I131
+![](./Image_EcommerceManagement/image131.png)
 
 Also, after clicking on the **Add to Cart** button, on **Mini Cart**, customers will see another notification **“Check out now to earn points”**.
 
-I133
+![](./Image_EcommerceManagement/image133.png)
 
 If customers have not logged in yet, a notification message ** “Login and checkout to earn points”** will be shown on mini cart:
 
-I135
+![](./Image_EcommerceManagement/image135.png)
 
 On **Checkout** page, customers can see exactly the number of points they earned from buying that product in the **Grand Total** box
 
-I137
+![](./Image_EcommerceManagement/image137.png)
 
 If Customers have not logged in yet, a notification message **”Login and checkout to earn points”** will be shown on **Grand Total** box of checkout page as above.
 
-I139
+![](./Image_EcommerceManagement/image139.png)
 
 After placing an order successfully, Customers can check their point balance right next to the **My Account** top link or can go directly to that link.
 
 ##### How customers spend points
-I141
+
+![](./Image_EcommerceManagement/image141.png)
 
 On **Shopping Cart** and **Checkout** pages, to spend points, there are 3 ways for customers to modify points they want to spend:
 
@@ -450,19 +459,18 @@ On **Shopping Cart** and **Checkout** pages, to spend points, there are 3 ways f
 
 3)	Tick the checkbox **“Maximize my discount with points”** to spend the maximum number of points.
 
-
-I143
+![](./Image_EcommerceManagement/image143.png)
 
 On the Checkout page, System shows a similar form for Customers to edit the number of points they want to spend for their orders.
 
 ##### How customers manage reward points 
 Customers can follow and manage their current points in 2 places:
 
-I145
+![](./Image_EcommerceManagement/image145.png)
 
 i.	View their current points on the top link as above.
 
-I147
+![](./Image_EcommerceManagement/image147.png)
 
 ii. Go to **My Account > My Rewards** to view more information.
 
@@ -473,8 +481,7 @@ As you can see, this page can be divided into two parts: **Reward Information** 
 •	**Recent Transactions**: This part provides Customers with information on their transactions of reward points including ID, points, action, date and status.
 If Customers want to see all transactions, they can click on the **View all** links or the **Point Transactions** tab.
 
-I149
-
+![](./Image_EcommerceManagement/image149.png)
 
 Besides, in the **Settings** tab of the **Reward Points** navigation, Customers can set up their **Reward Points Subscriptions**
 
@@ -482,10 +489,11 @@ Besides, in the **Settings** tab of the **Reward Points** navigation, Customers 
 #### How to configure Store credit
 #####  Manage Customers Using Credit.
 
-I151
+![](./Image_EcommerceManagement/image151.png)
+
 ✓	**Path Store Credit > Manage Customers Using Credit**
 
-I153
+![](./Image_EcommerceManagement/image153.png)
 
 Then the **Customers Using Credit Manager** page will be displayed as above.
 
@@ -493,30 +501,31 @@ This page shows a list of all customers using credit and their information such 
 
 To view more details about a customer, click on the **Edit** link in the **Action** column. 
 
-I155
+![](./Image_EcommerceManagement/image155.png)
 
 Then, you will be navigated to the **Customer Information** page. By selecting **Store Credit** tab, you can view all of that customer’s transaction history and credit balance.
 
-I157
+![](./Image_EcommerceManagement/image157.png)
 
 1)	Entering an integer (a positive or negative number) 
 
 2)	Add an comment such as why you add credit for customers. 
 
-I159
+![](./Image_EcommerceManagement/image159.png)
 
 Our module will auto send email to customer to announce about this transaction if you tick on **Send email to customer** checkbox. The email will be sent to the customer as above.
 
-I161
+![](./Image_EcommerceManagement/image161.png)
 
 After you save, our module will auto update the customer’s credit balance, send an email to that customer and create a transaction as above.
 
 ##### Manage Credit Products
 
-I163
+![](./Image_EcommerceManagement/image163.png)
+
 ✓	**Path:  Store Credit > Manage Credit Products**
 
-I165
+![](./Image_EcommerceManagement/image165.png)
 
 Then the **Credit Product Manager** page will be shown.
 
@@ -527,32 +536,34 @@ To add a new credit product, click on the **Add Credit Product** button on the r
 You can add a credit product just in a similar way to adding a normal product.
 
 - **	Prices Tab:**
-I167
+
+![](./Image_EcommerceManagement/image167.png)
 
 In this tab, you can configure the value of the credit product. There are three types of credit products including **fixed value, range of values and drop-down value.**
 
 **•	Inventory Tab:**
 
-I169
+![](./Image_EcommerceManagement/image169.png)
 
 In this tab, by default, our module sets up the field **Manage Stock** as **Yes**. It means that you need to manage the quantity of credit products.
 
-I171
+![](./Image_EcommerceManagement/image171.png)
 
 Besides the **Credit Product Manager** page, you can also create a new credit product by clicking on the **Add Product** button on the **Manage Product** page:
 
-I173
+![](./Image_EcommerceManagement/image173.png)
 
 Then you will be navigated to the **New Product** page. In the **Settings** tab, you need to select **Credit Product** for the **Product Type** field before going on to configure the credit product information. 
+
 ##### Manage Credit Transactions and Report Charts
 
 *_a. Credit Transactions_*
 
-i175
+![](./Image_EcommerceManagement/image175.png)
 
 ✓	**Path: Store Credit > Manage Credit Transactions**
 
-I177
+![](./Image_EcommerceManagement/image177.png)
 
 Then the **Credit Transactions** page will be shown as above.
 
@@ -564,15 +575,16 @@ If you click on a customer’s email, you will be navigated to the **Customer In
 
 *_b. Credit Report Charts_*
 
-i179
+![](./Image_EcommerceManagement/image179.png)
 
 ✓	**Path: Store Credit > Customer Credit Report**
 
-I181
+![](./Image_EcommerceManagement/image181.png)
 
 Then the **Report Charts** page will be shown as above.
 
 This page can be divided into two main sections including **Life-time Reports** and **Period-of-time Report Charts**.
+
 •	**Life-time Reports**: There are 2 types of reports.
      -	**Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.
      -	**Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
@@ -583,15 +595,15 @@ This page can be divided into two main sections including **Life-time Reports** 
 
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for customers.
 
-I183
+![](./Image_EcommerceManagement/image183.png)
 
 Enter a credit amount and click on the **Gray Arrow** button.
 
-I185
+![](./Image_EcommerceManagement/image185.png)
 
 Our module will auto-update and calculate the grand total of the order.
 
-I187
+![](./Image_EcommerceManagement/image187.png)
 
 After submitting the order, the customer’s credit balance will also auto updated and you can check the transaction on the **Credit Transaction** page.
 
@@ -599,7 +611,7 @@ After submitting the order, the customer’s credit balance will also auto updat
 
 When customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, customers can use the credit for future purchases and you do not have to lose money for the refund at the same time. 
 
-I189
+![](./Image_EcommerceManagement/image189.png)
 
 After clicking on the **Credit Memo** button, 
 
@@ -611,17 +623,17 @@ The amount you entered as well as the credit that the customer used for paying f
 
 For any order that includes only Credit Product, the option **Refund Order to Credi**t is not available. 
 
-I190
+![](./Image_EcommerceManagement/image190.png)
 
 Once the refund is finished, you can check the transaction on the **Manage Transaction** page.
 
 ##### Settings
 
-I192
+![](./Image_EcommerceManagement/image192.png)
 
 ✓	**Path: Store Credit > Settings > Magestore Extension tab > Store Credit**
 
-I194
+![](./Image_EcommerceManagement/image194.png)
 
 •	**General Configuration** Tab:
 
@@ -635,13 +647,13 @@ I194
 
 •	**Spend Credit On** Tab
 
-I196
+![](./Image_EcommerceManagement/image196.png)
 
 1)	Select **After tax** to apply customer credit discount to customer’s order value after tax calculated. Select **Before tax** to apply customercredit discount to customer’s order value before tax calculated.
 
 2)	Select **Yes** to allow customers to pay for shipping Fee by their credit balance.
 
-I198
+![](./Image_EcommerceManagement/image198.png)
 
 •	**Email Configuration** Tab
 1)	Choose email template to send credit code to recipients.  Our module sets up the field **Email Template Credit Code** by default. 
@@ -652,7 +664,7 @@ I198
 
 4) Choose email template to send message to customer after credit sent to their friends. Our module sets up the field **Send message to customer when credit sent to friends**. by default. 
 
-I200
+![](./Image_EcommerceManagement/image200.png)
 
 •	**Adjust time for Customer credit reports on total used and total received credit** Tab.
 
@@ -660,7 +672,7 @@ I200
 
 2)  Select the start date for current month to record customer credit reports
 
-I202
+![](./Image_EcommerceManagement/image202.png)
 
 •	**Style Configuration** tab:
 
@@ -671,7 +683,8 @@ I202
 #### How customers manage their store credit
 ##### How customers buy Credit Product 
 
-i204
+![](./Image_EcommerceManagement/image204.png)
+
 After customers login to your website, they can access the **Store Credit Products** page in two ways:
 
 •	**Option 1**: on the top navigation bar, click to **Buy Store Credit** 
@@ -679,37 +692,38 @@ After customers login to your website, they can access the **Store Credit Produc
 •	**Option 2**: click on the **Store Credit** on the left navigation of the **Account Dashboard** page
 
 **Option 1:**
-I206
+
+![](./Image_EcommerceManagement/image206.png)
 
 After that, the **Store Credit** page will be shown as above.
 
 As you can see, this page lists all **Credit Products** of your website. There are three types of credit products for customers to choose: fixed values, range of values and drop-down values. 
 
-I208¬¬
+![](./Image_EcommerceManagement/image208.png)
+
 •	**Fixed Value**: These credit products have fixed value. 
 
-I210
+![](./Image_EcommerceManagement/image210.png)
 
 •	**Drop-down Values**: With this type, customers can select a specific value in the drop-down list.
 
-I212
+![](./Image_EcommerceManagement/image212.png)
 
 •	**Range of Values**: With this type, customers can choose a desired credit amount within the range configured by admin in backend. 
 
-I214
+![](./Image_EcommerceManagement/image214.png)
 
 After selecting credit products they like, customers can add them to cart and checkout normally.
 
 When the order is complete, our module will auto-add that credit amount to the customer’s credit balance.
 
-I216
+![](./Image_EcommerceManagement/image216.png)
 
 Customers can also send Credits to their friends
 
 1)	Tick **Send credit to friend** checkbox 
 
 2)	Enter the name of the recipient 
-
 
 3)	Enter the email address of the recipient. The system will send an email to this address
 
@@ -721,13 +735,13 @@ In this second way, they will be navigated to the **My Credit** page on which th
 
 When the order is completed, there will be two cases happening based on signup status of the recipient email address. 
 
-I218
+![](./Image_EcommerceManagement/image218.png)
 
 •	**Case 1**: if the recipient do not have an account in the system, an email as above will be sent.
 
 •	**Case 2**: if the recipient has already had an account in the system, the system will automatically add that credit amount to the Recipient’s credit balance.
 
-I220
+![](./Image_EcommerceManagement/image220.png)
 
 In both cases, the sender always gets email notifications as above.
 ##### How customers manage Credit on My Credit page
@@ -736,7 +750,7 @@ In order to access the **My Credit** page, customers can click on the **Store Cr
 
 *_a.	Manage Credit Balance_*
 
-I222
+![](./Image_EcommerceManagement/image222.png)
 
 On the **My Credit** page, customers can view information about their current credit balances and transaction history.
 
@@ -744,7 +758,7 @@ In the section **Transaction History**, our module shows customers all of their 
 
 *_b.	Send Credit to Friends_*
 
-I224
+![](./Image_EcommerceManagement/image224.png)
 
 First, customers should click on the Send Credit tab on the left navigation to go to the **Send Credit to Friends** page as above. 
 
@@ -754,12 +768,13 @@ This page has 2 parts including **Send Credit to Friends** and** Credit Code Lis
 
 •	**Credit Code List**: shows all information about the credit codes that customers sent to their friends including **code, recipient’s email, amount, sent date and status of code.** Credit codes are not displayed fully for security purpose. When customers click on, they will be shown clearly.
 
-I226
+![](./Image_EcommerceManagement/image226.png)
 
 Please note that our module allows you to configure whether to require your customers to verify their credit sharing or not. We will consider the two cases separately.
 
 **i.**	**Case 1: Customers are not required to verify their credit sharing**.
-I228
+
+![](./Image_EcommerceManagement/image228.png)
 
 1)	Enter recipient’s email
 
@@ -772,15 +787,15 @@ Notice that after entering recipient’s email,  our module will check that emai
 
 •	**If the recipient’s email has not been registered on the website**: 
 
-I230
+![](./Image_EcommerceManagement/image230.png)
 
 In this case, our module will show a notification for the customer that his friend will receive the credit code via that email. After that, the sender’s credit balance will be deducted immediately and an email will be auto-sent to the recipient’s email address.
 
-I232
+![](./Image_EcommerceManagement/image232.png)
 
 As you can see, this email informs the recipient about the credit amount, message and a credit code which can be used to redeem credit to his balance.
 
-I234
+![](./Image_EcommerceManagement/image234.png)
 
 At the same time, the sender can also see the sent credit code in the **Credit Code List** section as above.
 
@@ -788,27 +803,27 @@ In this section, customers can follow the status of the credit codes they sent. 
 
 Otherwise, once the credit code has been redeemed, the status will be updated and the **Cancel** link will be disabled. Please refer to the section   **Redeem Credit** for more information. 
 
-I236
+![](./Image_EcommerceManagement/image236.png)
 
 Customers can check their current balances and transactions of sharing credit in the **Transaction History** section.
 
 •	**If the recipient’s email has been registered on the website**
 
-I238
+![](./Image_EcommerceManagement/image238.png)
 
 If the recipient’s email address has been registered on your website, our module will send credit directly to his credit balance instead of sending credit code to his email. 
 
-I240
+![](./Image_EcommerceManagement/image240.png)
 
 Customers can check their current balances and transactions in the **Transaction History** section.
 
-I242
+![](./Image_EcommerceManagement/image242.png)
 
 At the same time, recipients can get information about this transaction.
 
 **ii.	Case 2: Customers are required to verify their credit sharing.**
 
-I244
+![](./Image_EcommerceManagement/image244.png)
 
 If you configure that customers have to verify before sharing credit, after clicking on the **Send** button, they will receive an email as above.
 
@@ -816,7 +831,7 @@ At the same time, they will be navigated to the **Verify** page as follows.
 
 On this page, our module shows them a notification about the verification requirement. In the **Credit Code List**, that code is put under the **“Awaiting verification”** status with a **Verify** link. 
 
-I246
+![](./Image_EcommerceManagement/image246.png)
 
 To verify, customers can:
 
@@ -832,7 +847,7 @@ To go to the **Redeem Credit** page, customers can click on the **Redeem Credit*
 
 On this page, customers can redeem the credit code they received to their credit balance as following steps:
 
-I248
+![](./Image_EcommerceManagement/image248.png)
 
 1)	Enter the code in the text field 
 
@@ -840,7 +855,7 @@ I248
 
  Another way is just to click on the link in the email. 
  
-I250
+![](./Image_EcommerceManagement/image250.png)
 
 After redeeming code, customers can check their current balance and transaction in the **Transaction History** section.
 
@@ -848,7 +863,7 @@ After redeeming code, customers can check their current balance and transaction 
 
 Customers can use credit to checkout on both **Shopping Cart and Checkout** page.
 
-I252
+![](./Image_EcommerceManagement/image252.png)
 
 On the **Shopping Cart** page, our module will add **Apply Credit Discount** block for customers to use their credit balances to checkout.
 
@@ -860,17 +875,17 @@ To use a credit amount, customers can:
 
 Our module will auto-update and calculate the grand total of order.
 
-I252
+![](./Image_EcommerceManagement/image254.png)
 
 Please note that customers cannot use credit to buy credit products. If their carts have one or more credit products, our module will show a notification in the **Customer Credit** block as above.
 
-I254
+![](./Image_EcommerceManagement/image256.png)
 
 On the **Checkout** page, in the **Payment Information** tab, apply credit discount the same as in the **Shopping Cart** page. 
 
 When customers click on the **Continue** button, our module will auto-update the order’s Grand Total.
 
-I256
+![](./Image_EcommerceManagement/image258.png)
 
 After order has been placed, customers’ credit balances will be updated immediately. They can check the current balances and transactions in the **Transaction History** section.
 
@@ -882,13 +897,13 @@ After order has been placed, customers’ credit balances will be updated immedi
 	
 To configure default configurations and settings of the extension, please log in to backend screen, and then do the following stages as below.
 
-I260
+![](./Image_EcommerceManagement/image260.png)
 
 **GENERAL**
 
 **Gift code**
 
-1)	Select ** “YES” ** in the dropdown list to enable Gift Card
+1)	Select **“YES”** in the dropdown list to enable Gift Card
 
 2)	Configure the pattern to auto-generate gift codes for Gift Card products when customers purchase in WebPOS frontend
 
@@ -896,7 +911,7 @@ I260
 
 4)	Enter one letter to replace hidden characters
 
-I262
+![](./Image_EcommerceManagement/image262.png)
 
 **Gift Card Usage**
 
@@ -904,19 +919,17 @@ I262
 
 2)	Enter the maximum time(s) that allows users to enter gift code incorrectly.
 
-
 3)	Enter the maximum number of users per gift code.
 
-4)	Select ** “YES” ** to allow customer to apply gift card for shipping fee
+4)	Select **“YES”** to allow customer to apply gift card for shipping fee
 
-5)	Select ** “YES” ** to allow customers to use both Gift Card codes and Coupon codes at once. 
+5)	Select **“YES”** to allow customers to use both Gift Card codes and Coupon codes at once. 
 
 6)	Select **“YES”** to allow customers to check status of Gift Cards after entering Gift Codes, and vice versa.
 
-
 7)	Select **“YES”**  to show the expiration date of Gift Cards on website, and vice versa.
 
-I264
+![](./Image_EcommerceManagement/image264.png)
 
 **Tax Configuration**
 
@@ -926,7 +939,7 @@ Select:
 
 2)	**Before Tax**:  to allow applying Gift Card w/o tax
 
-I266
+![](./Image_EcommerceManagement/image266.png)
 
 **ON PRODUCT PAGE**
 
@@ -935,22 +948,23 @@ I266
 1)	Enter the default gift card value (follow the below instruction)
 
 2)	Enter the description of gift card value (follow the below instruction)
-I268
+
+![](./Image_EcommerceManagement/image268.png)
 
 **Gift Card Template**
 
--	Select “YES” to allow customers to change the image inserted in the template
+-	Select **“YES”** to allow customers to change the image inserted in the template
 
 -	Limit the maximum size of images uploaded by customers to 500KB
 Gift Card Shipping Information
 
--	Select **“YES” **: Gift card can be sent through the post office
+-	Select **“YES”**: Gift card can be sent through the post office
 
 -	After Customers order Gift Cards for friends and choose Send through post office option, Gift Cards will be sent to recipients within 5 days
 
 -	Limit the maximum length of a custom message on Gift Card. Select **“YES”**  to allow users to schedule gift card delivery date.
 
-I270
+![](./Image_EcommerceManagement/image270.png)
 
 **ON SHOPPING CART PAGE**
 
@@ -960,19 +974,19 @@ I270
 
 3)	Select **“YES”**  to allow showing Gift Card printout preview as product image on shopping cart page
 
-I272
+![](./Image_EcommerceManagement/image272.png)
 
 **ON CHECKOUT PAGE**
 
 Select **“YES”** to show Gift Card box on the checkout pagE
 
-I274
+![](./Image_EcommerceManagement/image274.png)
 
 **EMAIL NOTIFICATION** 
 
 **General**
 
-1)	Select **“YES ** to allow sending notification emails to customers and recipients
+1)	Select **“YES** to allow sending notification emails to customers and recipients
 
 2)	Select **“Active”**, only a gift card which is activated can be sent to a friend
 
@@ -980,7 +994,7 @@ I274
 
 4)	Select **“YES”** to allow sending a copy of gift card via email if customers choose to ship through post office.
 
-I276
+![](./Image_EcommerceManagement/image276.png)
 
 Notification email sent to purchasers
 
@@ -1000,21 +1014,23 @@ Notification email sent to recipient
 
 7)	Enter the number of days to send notification to customers before the expiration date of a Gift card. 
 
-I278
+![](./Image_EcommerceManagement/image278.png)
 
 **GIFT CARD PRINTOUT**
 
 Click **Choose File** to upload an image used as a logo when Gift Cards are printed or sent via email. 
 
 ##### Manage Gift Card Templates
+
 a.	Add new template
 
 ✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
-I280
+
+![](./Image_EcommerceManagement/image280.png)
 
 1)	Click Add New Template
 
-I282
+![](./Image_EcommerceManagement/image282.png)
 
 On the popup screen
 
@@ -1028,7 +1044,7 @@ On the popup screen
 
 5)	Choose link/ special text color
 
-I284
+![](./Image_EcommerceManagement/image284.png)
 
 6)	Upload a background image. 
 
@@ -1038,7 +1054,7 @@ b.	Preview Existing Template
 
 ✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
 
-I286
+![](./Image_EcommerceManagement/image286.png)
 
 Click **Preview**  to see the gift card template
 
@@ -1046,7 +1062,7 @@ C.	Edit and Delete Existing Template
 
 ✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
 
-I288
+![](./Image_EcommerceManagement/image288.png)
 
 1)	Mark the template checkbox
 
@@ -1056,7 +1072,7 @@ I288
  
 3)	Click “**Edit**” to update templates data
 
-I290
+![](./Image_EcommerceManagement/image290.png)
 
 On the popup screen
 
@@ -1070,11 +1086,11 @@ On the popup screen
 
 ✓	**Path: Marketing > Gift Card > Generate Gift Code**
 
-I292
+![](./Image_EcommerceManagement/image292.png)
 
 1)	Click on “**Add Gift Code Pattern**” to create new pattern code
 
-I294
+![](./Image_EcommerceManagement/image294.png)
 
 On the popup screen
 
@@ -1090,7 +1106,7 @@ On the popup screen
 
 7)	Select a gift card template
 
-I296
+![](./Image_EcommerceManagement/image296.png)
 
 8)	Enter the quantity of gift code issued
 
@@ -1101,26 +1117,28 @@ I296
 -	“**Save and Generate**” to save and generate the gift code at the same time
 
 -	“**Save**” to finish
-I298
+-	
+![](./Image_EcommerceManagement/image298.png)
 
 A status “**the pattern has been generated succes sfully** “ would be shown on the pop-up screen.
 
-I300
+![](./Image_EcommerceManagement/image300.png)
 
 11)	A list a generated Gift Codes would be shown at the botton of the pop-up screen 
 
 #####  Manage Gift Codes
+
 a.	Create a new Gift Code
-b.	
+	
 ✓	**Path: Marketing > Gift Card > Manage Gift Code**
 
-I302
+![](./Image_EcommerceManagement/image302.png)
 
 2)	Click on “**Add Gift Code” to create a new gift code
 
 Moreover, click on “**Import Gift Codes**” to import data from your device to the system.
 
-I304
+![](./Image_EcommerceManagement/image304.png)
 
 On the popup screen:
 
@@ -1132,7 +1150,7 @@ On the popup screen:
 
 6)	Select a gift code template
 
-I306
+![](./Image_EcommerceManagement/image306.png)
 
 7)	Select “**Active**” to enable/ activate the gift code
 
@@ -1142,11 +1160,11 @@ I306
 
 10)	Write a comment (optional)
 
-I308
+![](./Image_EcommerceManagement/image308.png)
 
-I310
+![](./Image_EcommerceManagement/image310.png)
 
-Scroll down, on the **Message Information** tab, click I312 to expand.
+Scroll down, on the **Message Information** tab, click ![](./Image_EcommerceManagement/image310.png) to expand.
 
 1)	Enter the sender name and email
 
@@ -1156,7 +1174,7 @@ Scroll down, on the **Message Information** tab, click I312 to expand.
 
 4)	Enter the message to the recipient
 
-I314
+![](./Image_EcommerceManagement/image314.png)
 
 Finally, scroll up, tab the arrow on the right hand-side of “**Save**” button: 
 
@@ -1168,11 +1186,11 @@ Finally, scroll up, tab the arrow on the right hand-side of “**Save**” butto
  
 ✓	**Path: Customers > All Customers**
 
-I316
+![](./Image_EcommerceManagement/image316.png)
 
 1)	Click “**Edit**” to view an existing customer’s detailed information 
 
-I318
+![](./Image_EcommerceManagement/image318.png)
 
 On the popup screen:
 
@@ -1184,7 +1202,7 @@ On the popup screen:
 
 On **Create New Order**  page, after selecting a customer and adding a product to an order, the system will show the Gift Card box, which allowing you to use Gift Card credit balance or Gift Card code(s) of the Customer to pay for this order. Select the method(s) as you want and then remember to click on Apply Gift Card button. 
 
-I320
+![](./Image_EcommerceManagement/image320.png)
 
 1)	Mark the check box to use gift card to checkout
 
@@ -1193,7 +1211,7 @@ I320
 
 3)	Click on the arrow to apply the gift code
 
-I322
+![](./Image_EcommerceManagement/image322.png)
 
 Scroll down to view “Order Totals” label, then click on (4) “Submit Order” to finish.
 
@@ -1201,19 +1219,19 @@ Scroll down to view “Order Totals” label, then click on (4) “Submit Order�
 
 ✓	**Path: Sales > Orders**
 
-I324
+![](./Image_EcommerceManagement/image324.png)
 
 1)	On the dashboard screen of admin, click **“Sales” > “Orders”**
 
-I326
+![](./Image_EcommerceManagement/image326.png)
 
 2)	Click “**View”**
 
-I328
+![](./Image_EcommerceManagement/image328.png)
 
 3)	On the “Order View” tab, click on **“Credit Memos”** to refund
 
-I330
+![](./Image_EcommerceManagement/image330.png)
 
 4)	Enter the number of money to refund to gift credit 
 
@@ -1223,7 +1241,7 @@ I330
 
 ✓	**Path: Marketing > Gift Card > Gift Code History**
 
-I332
+![](./Image_EcommerceManagement/image332.png)
 
 On Gift Card History page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status. 
 
@@ -1237,7 +1255,7 @@ Gift Card can be ordered as a normal product. Customers can enter or choose the 
 
 The price of Gift Card product may differ from Gift Card value. It depends on Admin’s configuration in backend, which could be a fixed value or a percentage of Gift Card value. If the price type is “percentage”, Customers will see the corresponding Gift Card prices when they choose different Gift Card values
 
-I334
+![](./Image_EcommerceManagement/image334.png)
 
 1)	Select a template
 
@@ -1253,7 +1271,7 @@ Customers can also see the expiration date of the Gift Card on Gift Card image
 
 - 	Customers can also send Gift Cards to their friends by ticking Send Gift Card to friend checkbox and enter all the required fields:
 - 	
-I336
+![](./Image_EcommerceManagement/image336.png)
 
 1)	Enter the name of the sender 
 
@@ -1269,11 +1287,12 @@ Tick the **Get notification email when your friend receives Gift Card** checkbox
 6)	Set up the time zone that a Gift Card will be sent.
 
 7)	Click on the Gift Card thumbnail image or the Preview Gift Card button to preview how the Gift Card actually looks like when recipients receive, Customers can. 
-8)	
-A popup of Gift Card interface will be shown as below:
-I338
 
-I340
+A popup of Gift Card interface will be shown as below:
+
+![](./Image_EcommerceManagement/image338.png)
+
+![](./Image_EcommerceManagement/image340.png)
 
 After Customers add a Gift Card to cart, they can go to shopping cart page to review the cart by following steps: 
 
@@ -1282,29 +1301,32 @@ After Customers add a Gift Card to cart, they can go to shopping cart page to re
 2)	Edit and update quantity of the Gift card if customers want. Click Update to complete the edit. 
 
 3)	Choose **View and edit cart**. 
-I342
+
+![](./Image_EcommerceManagement/image342.png)
 
 The details of Gift Card when Customers send the Gift Card to their friend as above. 
 
-I344
+![](./Image_EcommerceManagement/image344.png)
 
 The details of Gift Card when Customers buy the Gift Card for themselves:
 
-I346
+![](./Image_EcommerceManagement/image346.png)
+
 -	Then Gift Cards products can be checked out as normal products. Customers will receive a Gift Card code if they buy for themselves. In case Customers purchase the Gift Card to send to their friends, the code will be delivered to their friends’ email with the above form.
 -	
-	I348
+![](./Image_EcommerceManagement/image348.png)
 
 If the Sender has ticked the checkbox Get notification email when your friend receives Gift Card, a notification will be sent to his email address immediately after the Gift Card is delivered to the friend’s email as above.
 
-I350
+![](./Image_EcommerceManagement/image350.png)
 
 If Customers purchase Gift Card for themselves, the notification email that they receive is as above. 
 
 #####  How customers use Gift Card as discount method
 
 When Customers have Gift Card codes, they can use them as a discount coupon when ordering a product at the Checkout page:
-i352
+
+![](./Image_EcommerceManagement/image352.png)
 
 1)	Tick Use Gift Card to check out
 
