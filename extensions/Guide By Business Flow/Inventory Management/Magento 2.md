@@ -85,13 +85,16 @@ The process is divided into these steps below:
 
 *On the pop-up screen:*
 There are 2 ways to prepare a product list:
+
 7.	Click on “**Add Products to stocktake**” to select products. 
+
 8.	Or Click on “**Import Products**” to import a products list from your device.
+
 9.	Click on “**Start Stocktake**” to activate the process.
 
 ➢	**Step 2**: *Inventory Staff counts quantity of product in stock -> Update Stock Taking (input data)*
 
-anh 10 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image019.png?raw=true)
 
 10.	Enter the amount of items physically counted
 11.	Click on “**Complete Data Entry**” 
