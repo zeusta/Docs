@@ -92,6 +92,7 @@ There are 2 ways to prepare a product list:
 
 9.	Click on “**Start Stocktake**” to activate the process.
 
+
 ➢	**Step 2**: *Inventory Staff counts quantity of product in stock -> Update Stock Taking (input data)*
 
  ![enter image description here](./image_Inventory%20Management/image019.png?raw=true)
@@ -99,26 +100,27 @@ There are 2 ways to prepare a product list:
 10.	Enter the amount of items physically counted
 11.	Click on “**Complete Data Entry**” 
 
-anh 11 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image021.png?raw=true)
 
 12.	Click on “**Re-data Entry**” to re-select the product list (if any).
 13.	Click on “**Complete Stocktake**” to fulfil the stocktaking process.
 14.	Click on “**Export Counted Products**” to transfer the data of physical counted products to an excel file (optional).
 
+
 ➢	**Step 3**: *Inventory Manager creates Adjust Stock -> Complete Adjust Stock -> Update the inventory records* 
 
-anh 12 ![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image023.png?raw=true)
 
 15.	Click on “**Adjust Stock**” to update the inventory records 
 16.	Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
-Anh 13 ![enter image description here]() 
+ ![enter image description here](./image_Inventory%20Management/image025.png?raw=true) 
 
 *On the pop-up screen:*
 17.	Enter the adjust quantity
 18.	Click on **Adjust** to update the inventory records
 
-Anh 14 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image027.png?raw=true)
 
 *On the pop-up screen:*
 This final pop-up screen summarises the data of your recently inventory adjustment, including: old quantity, change quantity (discrepancies) and adjust quantity. 
@@ -137,52 +139,52 @@ When admin wants to send stock from his warehouse to another warehouse, the proc
 	-  Not meet enough quality -> Return Stock  -> Complete Transfer Stock
 
 ➢	**Step 1 + 2**: 
-anh 15 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image029.png?raw=true)
 
 Fill the **Transfer Code**, choose **Source Warehouse** and **Destination Warehouse**
 Fill in the **Reason** box
 
-anh 16 ![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image031.png?raw=true)
 
 To prepare product list, click on the **Prepare Product List** button
 
-anh 17 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image033.png?raw=true)
 
 Add new list (click on **Select Products**) or import a list of product prepared before (click on **Import**)
 
-anh 18 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image035.png?raw=true)
 
 To add new list of products, 
 1. Click on the product needed 
 2. **Add Selected Products**
 
-Anh 19 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image037.png?raw=true)
 
 3. Choose the quantity to transfer and click on **Start Send Stock**
 4. Click on **Remove** to delete product line
 
-Anh 20 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image039.png?raw=true)
 
 The send transfer is completed
 
 ➢ **Step 3**:
 
-Anh 21 ![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image041.png?raw=true)
 
 1. Click on the send created for receiving
 2. Click on **Add Selected Products**
 
-Anh 22 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image043.png?raw=true)
 
 Write the quantity received in receiving history 
 
-Ahn 23 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image045.png?raw=true)
 
 Click on **Save Receive**
 
-Anh 24 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image047.png?raw=true)
 
-Anh 25 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image049.png?raw=true)
 
 Create receiving successfully
 
@@ -201,7 +203,7 @@ If a warehouse lacks of stock, admin can create a Stock request to get stock fro
 **Step 1+2:**
 
 
-Anh 26 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image051.png?raw=true)
 
 Fill the **Transfer Code,** choose **Source Warehouse** and **Destination Warehouse**
 Fill in the **Reason** box
