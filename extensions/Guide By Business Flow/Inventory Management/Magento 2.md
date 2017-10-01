@@ -130,6 +130,7 @@ This final pop-up screen summarises the data of your recently inventory adjustme
 19.	Click on **Export Products** to transfer the data to an excel file on your device.
 
 
+
 ### Transfer Stock - Send Stock
 - *Path: Inventory Management > Transfer Stock > Send Stock* 
 
@@ -146,9 +147,11 @@ When admin wants to send stock from his warehouse to another warehouse, the proc
  ![enter image description here](./image_Inventory%20Management/image029.png?raw=true)
 
 Fill the **Transfer Code**, choose **Source Warehouse** and **Destination Warehouse**
+
 Fill in the **Reason** box
 
 ![enter image description here](./image_Inventory%20Management/image031.png?raw=true)
+
 To prepare product list, click on the **Prepare Product List** button
 
  ![enter image description here](./image_Inventory%20Management/image033.png?raw=true)
@@ -195,7 +198,9 @@ Click on **Save Receive**
  
  ![enter image description here](./image_Inventory%20Management/image049.png?raw=true)
  ![enter image description here](./image_Inventory%20Management/image051.png?raw=true)
+
 Create receiving successfully
+
 
 ### Transfer Stock - Request Stock
 
@@ -212,31 +217,31 @@ If a warehouse lacks of stock, admin can create a Stock request to get stock fro
 **Step 1+2:**
 
 
- ![enter image description here](./image_Inventory%20Management/image051.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image053.png?raw=true)
 
 Fill the **Transfer Code,** choose **Source Warehouse** and **Destination Warehouse**
 Fill in the **Reason** box
 
-![enter image description here](./image_Inventory%20Management/image053.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image055.png?raw=true)
 
 To prepare product list, click on the **Prepare Product List** button
 
- ![enter image description here](./image_Inventory%20Management/image055.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image057.png?raw=true)
 
 Add new list (click on **Select Products**) or import a list of product prepared before ( click on **Import**)
 
-![enter image description here](./image_Inventory%20Management/image057.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image059.png?raw=true)
 
 To add new list of products, 
 1. Click on the product needed 
 2. **Add Selected Products**
 
- ![enter image description here](./image_Inventory%20Management/image059.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image061.png?raw=true)
 
 3. Choose the quantity to transfer and click on **Start Request Stock**
 4. Click on **Remove** to delete product line
 
- ![enter image description here](./image_Inventory%20Management/image061.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image063.png?raw=true)
 
 The request transfer is completed
 
@@ -244,49 +249,50 @@ The request transfer is completed
 
  - **DELIVERY STOCK**
 
- ![enter image description here](./image_Inventory%20Management/image063.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image065.png?raw=true)
 
 Click on **Select Products** in delivery history
 
-![enter image description here](./image_Inventory%20Management/image065.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image067.png?raw=true)
 
 1. Click on the request created for the transfer
 2. **Add Selected Products**
 
- ![enter image description here](./image_Inventory%20Management/image067.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image069.png?raw=true)
 
 Write the quantity deliveried in delivery history
 
-  ![enter image description here](./image_Inventory%20Management/image069.png?raw=true)
+  ![enter image description here](./image_Inventory%20Management/image071.png?raw=true)
 
 Click on **Save Delivery**
 
-![enter image description here](./image_Inventory%20Management/image071.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image073.png?raw=true)
 
 Create delivery sucessfully
 
  - **RECEIVE STOCK**
 
- ![enter image description here](./image_Inventory%20Management/image073.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image075.png?raw=true)
 
 Click on **Select Products** in receiving history
 
- ![enter image description here](./image_Inventory%20Management/image075.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image077.png?raw=true)
 
 1. Click on the request created for receiving
 2. Click on **Add Selected Products**
 
- ![enter image description here](./image_Inventory%20Management/image077.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image079.png?raw=true)
 
 Write the quantity received in receiving history
 
- ![enter image description here](./image_Inventory%20Management/image079.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image081.png?raw=true)
 
 
 Click on **Save Receive**
  ![enter image description here](./image_Inventory%20Management/image083.png?raw=true)
 
-![enter image description here](./image_Inventory%20Management/image081.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image085.png?raw=true)
+
 Create receiving successfully.
 
 ### Goods Receipt from Customer Return
