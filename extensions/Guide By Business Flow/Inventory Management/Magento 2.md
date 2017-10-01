@@ -18,11 +18,12 @@ With the latest upgraded version and its convenience and the amount of time save
 Thanks and Best regards,
 
 **Magestore Team** 
+
 -----------
 
 ## WORKFLOW
 ### Inventory Adjustment 
-![](./image_Inventory%20Management/image001.png?raw=true)
+Anh 1 ![enter image description here]()
 
 ### Transfer Stock - Send Stock
 
@@ -369,3 +370,210 @@ Anh 57 ![]()
 
 #### Pick Items
 Anh 58 ![]()
+1. Click on tab **Pick Items** on the top sidebar
+2. Click on **View Details**
+
+Anh 59 ![]()
+
+*On the pop-up screen*
+3. Use **scanning barcode** to scan items to pick
+4. Enter the **picked quantity**
+
+Anh 60 ![]()
+5. Click on **Mark as Picked** to finalise
+6. Or click on **Mark all items picked** to pick all items ordered above
+
+Anh 61 ![]()
+
+On the pop-up screen, scroll down then
+7. Click on **Print Picked Items** to print a picking slip
+
+#### Pack Items 
+
+Anh 62 ![]()
+1. Click on **Pack Items** 
+2. Click on **View Details**
+
+Anh 63 ![]()
+On **Pack Request Information tab**
+3. Use **scanning barcode** to scan packing items
+4. Enter the **quantity of products packed**
+
+Anh 64 ![]()
+5. Write a comment about this package 
+6. Mark checkboxes to:
+- 	**Notify customer** about Packing Items List 
+- **Display your comment on the storefront**
+7. **Set the carrier** 
+8. Click on **Pack** to finalise
+
+Your recently package will be displayed as below
+
+Anh 65 ![]()
+
+#### Delivery Packages
+#### Invoices
+
+ - *Path: Fulfillment > Orders Lisitng > All Orders*
+
+Anh 66 ![]()
+1. Click on **View** to see detailel information
+
+Anh 67 ![]()
+2. Click on **Invoice** tabs 
+
+Anh 68 ![]()
+
+*On the pop-up screen*
+3. Enter the **quantity to Invoice** 
+4. Click on **Update Qty’s** if there is any changes in quantities
+
+Anh 69 ![]()
+5. Mark the checkbox to send a copy of invoice to customer via email
+6. Click on Submit Invoice to finalise
+
+### Drop Shipping 
+
+Below is a step-by-step guide on how to handle a sales order that will be drop shipped to a customer. If you do not have enough in stock to complete the sales order, then a drop-ship request should be made and sent to the suppliers. The process contains these steps:
+
+ - **Step 1**: *Admin creates and sends Dropship request to the supplier* 
+ - **Step 2**: *The supplier receives Dropship requests*
+   + Don’t have enough items in stock -> Cancel Dropship
+   + If the item is available in stock -> Creates Shipments -> Ships items to customers and confirm the shipped Qty after shipping.  
+  
+Then move to **Step 3**: *Admin receives Tracking Information from Supplier -> Export Payment Transaction and creates Invoice.*
+
+**Step 1**: *Admin creates and sends Dropship request to the supplier*
+
+-	*Path: Sales > Orders* 
+
+Anh 70 ![]()
+
+Click on “**Create new order**” in sales
+
+Anh 71 ![]()
+
+Click on the customers chosen to make new orders
+
+Anh 72 ![]()
+
+Click on **Add Products** to choose products for the sale order
+
+Anh 73 ![]()
+
+Choose the products to sell and set the quantity in the **Select** and **Quantity** column, after that, click on **Add Selected Product(S) Order**
+
+Anh 74 ![]()
+
+Choose the rate in the shipping method
+
+Anh 75 ![]()
+
+Click on **Submit Order** to submit order
+
+Anh 76 ![]()
+
+Click on **Mark As Verified**
+
+Anh 77 ![]()
+
+Click on **Fulfill** to continue the process
+
+Anh 78 ![]()
+1. Click on **Request Dropship**
+2. Click on **Add Products To Request**
+
+Anh 79 ![]()
+1. Click on the product and set the quantity
+2. Click on **Add Selected Product(s) To Request**
+3. Click on **Save**
+
+The Dropship request is saved in **Dropship Request**. The status of this dropshipment in backend is **Pending**.
+
+**Step 2**: *The supplier receives Dropship requests*
+
+Each supplier selected will receive a notification email about the drop-ship request as below: 
+
+Anh 80 ![]()
+
+As being instructed in the email, the supplier follows the login link to access the **Supplier Manager** page and then fills in the Qty. that he can ship.
+
+**Note:** When adding/ editing a supplier, the **Password Management** section will be shown. You can set password and email it to the supplier. The email will be shown as below:
+
+Anh 81 ![]()
+
+In case the supplier forget the password, the can request to reset the password. After the request is send, the supplier will receive a notification email as below:
+
+Anh 82 ![]()
+
+The supplier can use his email address and password to log in on the **Supplier** page and create drop-ship. 
+
+-  **In case supplier don’t have enough items in stock -> Cancel Dropship**
+
+If the supplier can’t meet your demand, they would refuse to create shipment. You will receive a notification email as below:
+
+Anh 83 ![]()
+
+-  **If the item is available in stock -> Creates Shipments -> Ships items to customers and confirm the shipped Qty after shipping.** 
+
+The supplier need to enter the carrier information and shipped Qty to create shipment. After a supplier create shipment, you will receive a notification email as below:            
+
+Anh 84 ![]()
+
+When supplier created Shipments and confirmed email to the customer. Then we will move to **Step 3**.
+
+➢	**Step 3**: *Admin receives Tracking Information from Supplier -> Export Payment Transaction and creates Invoice.*
+
+### Reports 
+*(Coming soon)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
