@@ -28,7 +28,7 @@ Thanks and Best regards,
 
 ### Transfer Stock - Send Stock
 
-Anh2 ![enter image description here]()
+![enter image description here](Docs/extensions/Guide By Business Flow/Inventory Management/image_Inventory Management/image002.png)
 
 ### Transfer Stock - Request Stock
 
