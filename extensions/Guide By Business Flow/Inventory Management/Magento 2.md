@@ -208,26 +208,26 @@ If a warehouse lacks of stock, admin can create a Stock request to get stock fro
 Fill the **Transfer Code,** choose **Source Warehouse** and **Destination Warehouse**
 Fill in the **Reason** box
 
-Anh 27 ![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image053.png?raw=true)
 
 To prepare product list, click on the **Prepare Product List** button
 
-Anh 28 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image055.png?raw=true)
 
 Add new list (click on **Select Products**) or import a list of product prepared before ( click on **Import**)
 
-Anh 29 ![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image057.png?raw=true)
 
 To add new list of products, 
 1. Click on the product needed 
 2. **Add Selected Products**
 
-Anh 30 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image059.png?raw=true)
 
 3. Choose the quantity to transfer and click on **Start Request Stock**
 4. Click on **Remove** to delete product line
 
-Anh 31 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image061.png?raw=true)
 
 The request transfer is completed
 
@@ -235,44 +235,49 @@ The request transfer is completed
 
  - **DELIVERY STOCK**
 
-Anh 32 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image063.png?raw=true)
 
 Click on **Select Products** in delivery history
 
-Anh 33 ![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image065.png?raw=true)
 
 1. Click on the request created for the transfer
 2. **Add Selected Products**
 
-Anh 34 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image067.png?raw=true)
 
 Write the quantity deliveried in delivery history
 
-Anh 35  ![enter image description here]()
+  ![enter image description here](./image_Inventory%20Management/image069.png?raw=true)
 
 Click on **Save Delivery**
 
-Anh 36 ![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image071.png?raw=true)
 
 Create delivery sucessfully
 
  - **RECEIVE STOCK**
 
-Anh 37 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image073.png?raw=true)
 
 Click on **Select Products** in receiving history
 
-ANH 38  ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image075.png?raw=true)
 
 1. Click on the request created for receiving
 2. Click on **Add Selected Products**
 
-Anh 39 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image077.png?raw=true)
+
+Write the quantity received in receiving history
+
+ ![enter image description here](./image_Inventory%20Management/image079.png?raw=true)
+
 
 Click on **Save Receive**
+ ![enter image description here](./image_Inventory%20Management/image083.png?raw=true)
 
-Anh 40 ![enter image description here]()
-Anh 41![enter image description here]()
+![enter image description here](./image_Inventory%20Management/image081.png?raw=true)
 Create receiving successfully.
 
 ### Goods Receipt from Customer Return
