@@ -404,7 +404,9 @@ The order has been created successfully.
  ![](./image_Inventory%20Management/image115.png?raw=true)
 
 *On the pop-up screen*
+
 3. Select a **shipping channel** on the dropdown list 
+
 4. Click on **Add products** to request
 
  ![](./image_Inventory%20Management/image117.png?raw=true)
@@ -423,7 +425,9 @@ The order has been created successfully.
  ![](./image_Inventory%20Management/image121.png?raw=true)
 
 *On the pop-up screen*
+
 3. Use **scanning barcode** to scan items to pick
+
 4. Enter the **picked quantity**
 
  ![](./image_Inventory%20Management/image123.png?raw=true)
@@ -478,7 +482,9 @@ Your recently package will be displayed as below
  ![](./image_Inventory%20Management/image139.png?raw=true)
 
 *On the pop-up screen*
+
 3. Enter the **quantity to Invoice** 
+
 4. Click on **Update Qty’s** if there is any changes in quantities
 
  ![](./image_Inventory%20Management/image141.png?raw=true)
