@@ -220,6 +220,7 @@ If a warehouse lacks of stock, admin can create a Stock request to get stock fro
  ![enter image description here](./image_Inventory%20Management/image053.png?raw=true)
 
 Fill the **Transfer Code,** choose **Source Warehouse** and **Destination Warehouse**
+
 Fill in the **Reason** box
 
 ![enter image description here](./image_Inventory%20Management/image055.png?raw=true)
@@ -287,13 +288,15 @@ Write the quantity received in receiving history
 
  ![enter image description here](./image_Inventory%20Management/image081.png?raw=true)
 
-
 Click on **Save Receive**
+
  ![enter image description here](./image_Inventory%20Management/image083.png?raw=true)
 
 ![enter image description here](./image_Inventory%20Management/image085.png?raw=true)
 
 Create receiving successfully.
+
+
 
 ### Goods Receipt from Customer Return
 
@@ -308,7 +311,7 @@ Now let’s go to the detailed steps:
  - First, Go to **Sales > Order** > Select to the refund order requested
    from customer.
 
-Anh 42 ![enter image description here]()
+ ![enter image description here](./image_Inventory%20Management/image087.png?raw=true)
 
  - If the order was invoiced and shipped to the customers, the refund request will be accepted. Then go to the next step.  
  If the order didn’t meet the refund policy (exceed a certain time limit etc), then the staff can end the refund process and complete the order without further adjustment.
@@ -323,17 +326,17 @@ When the refund order is accepted, follow this step to complete the refund proce
 
  - **Step 1**:  Go to Sales > Order > Create Credit Memo
 
-Anh 43 ![]()
+ ![](./image_Inventory%20Management/image089.png?raw=true)
 
  - **Step 2:** 
    1. Select Warehouse where refund goods will be restored. 
    2. Input the quality to refund.
 
-Anh 44 ![]()
+ ![](./image_Inventory%20Management/image091.png?raw=true)
 
  - **Step 3**: End the refund offline process.
 
-Anh 45 ![]()
+ ![](./image_Inventory%20Management/image093.png?raw=true)
 
 ### Goods Delivery
 #### Create New Order 
@@ -342,31 +345,37 @@ Anh 45 ![]()
 
 -  *Or Sales > Orders*
 
-Anh 46 ![]() 
+ ![](./image_Inventory%20Management/image095.png?raw=true) 
 
  1. Click on **Create New Order**
     
- Anh 47 ![]()
+![](./image_Inventory%20Management/image097.png?raw=true)
     
  2.  Double click on a customer line to select a customer  
     
- Anh 48 ![]()
+  ![](./image_Inventory%20Management/image099.png?raw=true)
+ 
  3. Click on **Add Products** 
- Anh 49 ![]()
+ 
+ ![](./image_Inventory%20Management/image101.png?raw=true)
+ 
  4. Click on **Search** and use filter to search expected products 
  5. Mark the checkbox to **select products** 
  6. Enter the **quantity** to order
  7. Click on **Add Selected Products** to order 
 
-Anh 50 ![]()
+![](./image_Inventory%20Management/image103.png?raw=true)
+
 8. Mark the checkbox **Custom Price** to customize a price 
 9. Mark the checkbox to **Apply discount** (if any)
 10. **Apply coupon code** and **Use gift card to checkout** 
 
-Anh 51 ![]()
+ ![](./image_Inventory%20Management/image105.png?raw=true)
+ 
 11. Select a **shipping method**
 
-Anh 52 ![]()
+ ![](./image_Inventory%20Management/image107.png?raw=true)
+ 
 12. Mark the checkbox to **append comments** or **email order confirmation** to the customer
 13. Click on **Submit Order.**
 
@@ -377,64 +386,71 @@ The order has been created successfully.
 
  - *Path: Fulfillment > Order Fulfillment > Verify Orders*
 
-Anh 53 ![]()
+ ![](./image_Inventory%20Management/image109.png?raw=true)
 
 1. Click on **Process Verify** to verify the order
 
-Anh 54 ![]()
+ ![](./image_Inventory%20Management/image111.png?raw=true)
 
 2. Click on **Mark as Verified**, then the order has been verified successfully
 
 #### Prepare Fulfil
 
-Anh 55 ![]()
+ ![](./image_Inventory%20Management/image113.png?raw=true)
 
 1. Click on tab **Prepare Fulfill** on the top sidebar
 2. Click on Fulfill
 
-Anh 56 ![]()
+ ![](./image_Inventory%20Management/image115.png?raw=true)
 
 *On the pop-up screen*
 3. Select a **shipping channel** on the dropdown list 
 4. Click on **Add products** to request
 
-Anh 57 ![]()
+ ![](./image_Inventory%20Management/image117.png?raw=true)
+ 
 5. Mark the checkbox to **select products**
 6. Enter the **quantities to pick**
 7. Click on **Add Selected Products** to request
 
 #### Pick Items
-Anh 58 ![]()
+
+ ![](./image_Inventory%20Management/image119.png?raw=true)
+ 
 1. Click on tab **Pick Items** on the top sidebar
 2. Click on **View Details**
 
-Anh 59 ![]()
+ ![](./image_Inventory%20Management/image121.png?raw=true)
 
 *On the pop-up screen*
 3. Use **scanning barcode** to scan items to pick
 4. Enter the **picked quantity**
 
-Anh 60 ![]()
+ ![](./image_Inventory%20Management/image123.png?raw=true)
+ 
 5. Click on **Mark as Picked** to finalise
 6. Or click on **Mark all items picked** to pick all items ordered above
 
-Anh 61 ![]()
+ ![](./image_Inventory%20Management/image125.png?raw=true)
 
 On the pop-up screen, scroll down then
 7. Click on **Print Picked Items** to print a picking slip
 
 #### Pack Items 
 
-Anh 62 ![]()
+ ![](./image_Inventory%20Management/image127.png?raw=true)
+ 
 1. Click on **Pack Items** 
 2. Click on **View Details**
 
-Anh 63 ![]()
+ ![](./image_Inventory%20Management/image129.png?raw=true)
+ 
 On **Pack Request Information tab**
 3. Use **scanning barcode** to scan packing items
 4. Enter the **quantity of products packed**
 
-Anh 64 ![]()
+ ![](./image_Inventory%20Management/image131.png?raw=true)
+ 
 5. Write a comment about this package 
 6. Mark checkboxes to:
 - 	**Notify customer** about Packing Items List 
@@ -444,26 +460,29 @@ Anh 64 ![]()
 
 Your recently package will be displayed as below
 
-Anh 65 ![]()
+ ![](./image_Inventory%20Management/image133.png?raw=true)
 
 #### Delivery Packages
 #### Invoices
 
  - *Path: Fulfillment > Orders Lisitng > All Orders*
 
-Anh 66 ![]()
+ ![](./image_Inventory%20Management/image135.png?raw=true)
+ 
 1. Click on **View** to see detailel information
 
-Anh 67 ![]()
+ ![](./image_Inventory%20Management/image137.png?raw=true)
+ 
 2. Click on **Invoice** tabs 
 
-Anh 68 ![]()
+ ![](./image_Inventory%20Management/image139.png?raw=true)
 
 *On the pop-up screen*
 3. Enter the **quantity to Invoice** 
 4. Click on **Update Qty’s** if there is any changes in quantities
 
-Anh 69 ![]()
+ ![](./image_Inventory%20Management/image141.png?raw=true)
+ 
 5. Mark the checkbox to send a copy of invoice to customer via email
 6. Click on Submit Invoice to finalise
 
@@ -482,43 +501,45 @@ Then move to **Step 3**: *Admin receives Tracking Information from Supplier -> E
 
 -	*Path: Sales > Orders* 
 
-Anh 70 ![]()
+ ![](./image_Inventory%20Management/image143.png?raw=true)
 
 Click on “**Create new order**” in sales
 
-Anh 71 ![]()
+ ![](./image_Inventory%20Management/image145.png?raw=true)
 
 Click on the customers chosen to make new orders
 
-Anh 72 ![]()
+ ![](./image_Inventory%20Management/image147.png?raw=true)
 
 Click on **Add Products** to choose products for the sale order
 
-Anh 73 ![]()
+ ![](./image_Inventory%20Management/image149.png?raw=true)
 
 Choose the products to sell and set the quantity in the **Select** and **Quantity** column, after that, click on **Add Selected Product(S) Order**
 
-Anh 74 ![]()
+ ![](./image_Inventory%20Management/image151.png?raw=true)
 
 Choose the rate in the shipping method
 
-Anh 75 ![]()
+![](./image_Inventory%20Management/image153.png?raw=true)
 
 Click on **Submit Order** to submit order
 
-Anh 76 ![]()
+ ![](./image_Inventory%20Management/image155.png?raw=true)
 
 Click on **Mark As Verified**
 
-Anh 77 ![]()
+![](./image_Inventory%20Management/image157.png?raw=true)
 
 Click on **Fulfill** to continue the process
 
-Anh 78 ![]()
+ ![](./image_Inventory%20Management/image159.png?raw=true)
+ 
 1. Click on **Request Dropship**
 2. Click on **Add Products To Request**
 
-Anh 79 ![]()
+ ![](./image_Inventory%20Management/image161.png?raw=true)
+ 
 1. Click on the product and set the quantity
 2. Click on **Add Selected Product(s) To Request**
 3. Click on **Save**
@@ -529,17 +550,17 @@ The Dropship request is saved in **Dropship Request**. The status of this dropsh
 
 Each supplier selected will receive a notification email about the drop-ship request as below: 
 
-Anh 80 ![]()
+![](./image_Inventory%20Management/image163.png?raw=true)
 
 As being instructed in the email, the supplier follows the login link to access the **Supplier Manager** page and then fills in the Qty. that he can ship.
 
 **Note:** When adding/ editing a supplier, the **Password Management** section will be shown. You can set password and email it to the supplier. The email will be shown as below:
 
-Anh 81 ![]()
+ ![](./image_Inventory%20Management/image165.png?raw=true)
 
 In case the supplier forget the password, the can request to reset the password. After the request is send, the supplier will receive a notification email as below:
 
-Anh 82 ![]()
+ ![](./image_Inventory%20Management/image167.png?raw=true)
 
 The supplier can use his email address and password to log in on the **Supplier** page and create drop-ship. 
 
@@ -547,13 +568,13 @@ The supplier can use his email address and password to log in on the **Supplier*
 
 If the supplier can’t meet your demand, they would refuse to create shipment. You will receive a notification email as below:
 
-Anh 83 ![]()
+ ![](./image_Inventory%20Management/image169.png?raw=true)
 
 -  **If the item is available in stock -> Creates Shipments -> Ships items to customers and confirm the shipped Qty after shipping.** 
 
 The supplier need to enter the carrier information and shipped Qty to create shipment. After a supplier create shipment, you will receive a notification email as below:            
 
-Anh 84 ![]()
+ ![](./image_Inventory%20Management/image171.png?raw=true)
 
 When supplier created Shipments and confirmed email to the customer. Then we will move to **Step 3**.
 
