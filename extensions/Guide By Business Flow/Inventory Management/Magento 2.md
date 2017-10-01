@@ -117,13 +117,16 @@ There are 2 ways to prepare a product list:
  ![enter image description here](./image_Inventory%20Management/image025.png?raw=true) 
 
 *On the pop-up screen:*
+
 17.	Enter the adjust quantity
+
 18.	Click on **Adjust** to update the inventory records
 
  ![enter image description here](./image_Inventory%20Management/image027.png?raw=true)
 
 *On the pop-up screen:*
-This final pop-up screen summarises the data of your recently inventory adjustment, including: old quantity, change quantity (discrepancies) and adjust quantity. 
+This final pop-up screen summarises the data of your recently inventory adjustment, including: old quantity, change quantity (discrepancies) and adjust quantity.
+
 19.	Click on **Export Products** to transfer the data to an excel file on your device.
 
 
@@ -139,13 +142,13 @@ When admin wants to send stock from his warehouse to another warehouse, the proc
 	-  Not meet enough quality -> Return Stock  -> Complete Transfer Stock
 
 ➢	**Step 1 + 2**: 
+
  ![enter image description here](./image_Inventory%20Management/image029.png?raw=true)
 
 Fill the **Transfer Code**, choose **Source Warehouse** and **Destination Warehouse**
 Fill in the **Reason** box
 
 ![enter image description here](./image_Inventory%20Management/image031.png?raw=true)
-
 To prepare product list, click on the **Prepare Product List** button
 
  ![enter image description here](./image_Inventory%20Management/image033.png?raw=true)
@@ -164,28 +167,34 @@ To add new list of products,
 4. Click on **Remove** to delete product line
 
  ![enter image description here](./image_Inventory%20Management/image039.png?raw=true)
-
+ 
 The send transfer is completed
 
 ➢ **Step 3**:
 
 ![enter image description here](./image_Inventory%20Management/image041.png?raw=true)
 
-1. Click on the send created for receiving
-2. Click on **Add Selected Products**
+Click on **Select Products** in receiving history
+
 
  ![enter image description here](./image_Inventory%20Management/image043.png?raw=true)
 
-Write the quantity received in receiving history 
+1. Click on the send created for receiving
+2. Click on **Add Selected Products**
+
 
  ![enter image description here](./image_Inventory%20Management/image045.png?raw=true)
 
+Write the quantity received in receiving history 
+
+
+![enter image description here](./image_Inventory%20Management/image047.png?raw=true)
+
 Click on **Save Receive**
 
- ![enter image description here](./image_Inventory%20Management/image047.png?raw=true)
-
+ 
  ![enter image description here](./image_Inventory%20Management/image049.png?raw=true)
-
+ ![enter image description here](./image_Inventory%20Management/image051.png?raw=true)
 Create receiving successfully
 
 ### Transfer Stock - Request Stock
