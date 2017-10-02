@@ -21,7 +21,9 @@ This guide is specially written according to business flow which happens reguarl
 -----------------------------------
  
 ## Validating Order and Store Pickup Processing
+
 ### Customers place online orders
+
 #### View Store Information
 
 ![](./Image_EcommerceManagement/image004.png)
@@ -108,7 +110,7 @@ To print orders, click on **Print Order** on the top right.
 ###  Order Fulfill Staff validates orders
 #### Check orders in store
 
-✓	**Path:  Inventory Management -> Warehouses.**
+✓ **Path:  Inventory Management -> Warehouses.**
 
 ![](./Image_EcommerceManagement/image022.png)
 
@@ -127,7 +129,7 @@ The order page will be opened and you can see all the information of the order a
 #### Process Shipment for customers
 ##### Create shipment
 
-✓	**Path: Sales > Orders**
+✓ **Path: Sales > Orders**
 
 ![](./Ecommerce-Management/image028.png)
 
@@ -145,7 +147,7 @@ When a new shipment is created, you will see the notification: ** “ The shipme
 
 ##### Print Packing Slips
 
-✓	**Path: Sales > Orders**
+✓ **Path: Sales > Orders**
 
 After a new shipment has been created, if you want to print packing slips:
 
@@ -227,9 +229,10 @@ To receive stock from other warehouses, click on **Select Products in Receiving 
 ![](./Image_EcommerceManagement/image060.png)
 
 ### Store Staff delivers orders 
+
 #### Find pickup-in-store orders
 
-✓	**Path: Inventory Management > Warehouse.**
+✓ **Path: Inventory Management > Warehouse.**
 	
 In the **Manage Warehouses** page, tick to the warehouse of store in which your customer want to pick up his/her order.
 
@@ -259,11 +262,16 @@ Then click **View** to see the order in the chosen warehouse.
 ![](./Image_EcommerceManagement/image071.png)
 
 4)	To print it, click on **Print** button. 
+
+
 -------------------------------------------------------
 
 ##  Running Loyalty Program
+
 ### 	Reward Points
+
 #### How to configure reward points
+
 #####  Add new rate
 
 ![](./Image_EcommerceManagement/image073.png)
@@ -390,7 +398,8 @@ Set the number of point customer will use in the order in the use customer rewar
 
 ![](./Image_EcommerceManagement/image115.png)
 
-Fill in the required fields, click on submit order to finish creating new order
+Fill in the required fields, click on submit order to finish creating new orders.
+
 ##### Refund Orders into points balance
 
 **Note:** Customers is allowed to refund an order into their points balance when they have used points to buy the products in this order. 
@@ -420,6 +429,7 @@ After the credit memo has been created.
 3)	Click on **Credit Memo** tab on the left hand-side to view credit memos data.
 
 #### How customers join reward points programs
+
 ##### How customers earn points
 
 When placing an order, customers can earn points based on the rate set by admin.
@@ -465,6 +475,7 @@ On **Shopping Cart** and **Checkout** pages, to spend points, there are 3 ways f
 On the Checkout page, System shows a similar form for Customers to edit the number of points they want to spend for their orders.
 
 ##### How customers manage reward points 
+
 Customers can follow and manage their current points in 2 places:
 
 ![](./Image_EcommerceManagement/image145.png)
@@ -487,7 +498,9 @@ If Customers want to see all transactions, they can click on the **View all** li
 Besides, in the **Settings** tab of the **Reward Points** navigation, Customers can set up their **Reward Points Subscriptions**
 
 ### 	Store Credit
+
 #### How to configure Store credit
+
 #####  Manage Customers Using Credit.
 
 ![](./Image_EcommerceManagement/image151.png)
@@ -621,7 +634,6 @@ In this tab, by default, our module sets up the field **Manage Stock** as **Yes*
 
 ![](./Image_EcommerceManagement/image185.png)
 
-
 ✓	**Path: Store Credit > Credit Transactions Section > Manage Credit Transactions**
 
 Then the **Credit Transactions** page will be shown as below
@@ -637,6 +649,7 @@ You can search any transaction by using filter boxes in each column.
 If you click on a customer’s email, you will be navigated to the **Customer Information** page.
 
 ###### Credit Report Charts
+
 ![](./Image_EcommerceManagement/image189.png)
 
 ✓ **Path: Store Credit > Credit Transactions Section > Customer Credit Report**
@@ -746,6 +759,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 2)	**Color of Title**: enter Hexadecimal code or choose a color as above.
 
 #### How customers manage their store credit
+
 ##### How customers buy Credit Product 
 
 ![](./Image_EcommerceManagement/image214.png)
@@ -809,6 +823,7 @@ When the order is completed, there will be two cases happening based on signup s
 ![](./Image_EcommerceManagement/image230.png)
 
 In both cases, the sender always gets email notifications as above.
+
 ##### How customers manage Credit on My Credit page
 
 In order to access the **My Credit** page, customers can click on the **Store Credit** tab on the left navigation.
@@ -955,10 +970,12 @@ When customers click on the **Continue** button, our module will auto-update the
 After order has been placed, customers’ credit balances will be updated immediately. They can check the current balances and transactions in the **Transaction History** section.
 
 ###	Gift Cards
+
 #### How to configure Gift Card
+
 ##### Setting
 
-✓	**Path: Marketing > Gift Card > Settings**
+✓ **Path: Marketing > Gift Card > Settings**
 	
 To configure default configurations and settings of the extension, please log in to backend screen, and then do the following stages as below.
 
@@ -1089,7 +1106,7 @@ Click **Choose File** to upload an image used as a logo when Gift Cards are prin
 
 ######	Add new template
 
-✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
+✓ **Path: Marketing > Gift Card > Manage Gift Card Templates**
 
 ![](./Image_EcommerceManagement/image290.png)
 
@@ -1117,7 +1134,7 @@ On the popup screen
 
 ###### Preview Existing Template
 
-✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
+✓ **Path: Marketing > Gift Card > Manage Gift Card Templates**
 
 ![](./Image_EcommerceManagement/image296.png)
 
@@ -1125,7 +1142,7 @@ Click **Preview**  to see the gift card template
 
 ######	Edit and Delete Existing Template
 
-✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
+✓ **Path: Marketing > Gift Card > Manage Gift Card Templates**
 
 ![](./Image_EcommerceManagement/image298.png)
 
@@ -1149,7 +1166,7 @@ On the popup screen
 
 ##### Generate Gift Code
 
-✓	**Path: Marketing > Gift Card > Generate Gift Code**
+✓ **Path: Marketing > Gift Card > Generate Gift Code**
 
 ![](./Image_EcommerceManagement/image302.png)
 
@@ -1195,7 +1212,7 @@ A status “**the pattern has been generated succes sfully** “ would be shown 
 
 ######	Create a new Gift Code
 	
-✓	**Path: Marketing > Gift Card > Manage Gift Code**
+✓ **Path: Marketing > Gift Card > Manage Gift Code**
 
 ![](./Image_EcommerceManagement/image312.png)
 
@@ -1271,7 +1288,6 @@ On **Create New Order**  page, after selecting a customer and adding a product t
 
 1)	Mark the check box to use gift card to checkout
 
-
 2)	Enter the Gift card code
 
 3)	Click on the arrow to apply the gift code
@@ -1282,7 +1298,7 @@ Scroll down to view “Order Totals” label, then click on (4) “Submit Order�
 
 ##### Refund Orders into Gift Card Credit Balance
 
-✓	**Path: Sales > Orders**
+✓ **Path: Sales > Orders**
 
 ![](./Image_EcommerceManagement/image334.png)
 
@@ -1304,7 +1320,7 @@ Scroll down to view “Order Totals” label, then click on (4) “Submit Order�
 
 ##### History
 
-✓	**Path: Marketing > Gift Card > Gift Code History**
+✓ **Path: Marketing > Gift Card > Gift Code History**
 
 ![](./Image_EcommerceManagement/image342.png)
 
