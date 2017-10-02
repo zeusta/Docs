@@ -17,7 +17,9 @@ This guide will help you – an IT Manager – to configure a successful strong 
 ## II. HOW TO INSTALL
 
 
+
 ### 1.	Generate License Certificate
+
 
 After purchasing an module, you will receive an email that includes the link to access **My License Certificates** on Magestore website.
 
@@ -47,7 +49,9 @@ You also can go to **MageStore Check License Information** page, enter your Lice
 You **do not need to insert this license serial into your module back-end**. Simply provide it in your ticket/ email when you request for our support.
 
 
+
 ### 2.Download Solution Package
+
 
 Go to **My Downloadable Products**. Click on the version of that you want to install to download it. The file that you download is normally a zip file.
 
@@ -56,7 +60,9 @@ Here you also can find related documents, such as user guide.
 ![](./img102/it_img003.png?raw=true)
 
 
+
 ### 3.	Install the Package Downloaded
+
 
 If you are new to Magento 2, you probably need a little help to get started before installing an module:
 
@@ -118,11 +124,15 @@ Finally, coming back to Magento 2 admin to check if the module is installed prop
 
 ## III.	HOW TO CONFIGURE
 
+
 ### 1.	Multi-companies (Coming soon)
+
 
 ### 2.	Inventory
 
+
 #### 2.1.	Stock Control Configuration
+
 
 Path: **Stores > Settings** section> **Configuration > MageStore Module > Inventory Management Configuration**
 
@@ -134,7 +144,9 @@ Path: **Stores > Settings** section> **Configuration > MageStore Module > Invent
 
 (3)	Click **Save Config** to finish
 
+
 #### 2.2.	Pricelist Configuration
+
 
 ***Note: Pricelist** is a list of current prices of items on sale*
 
@@ -153,7 +165,9 @@ Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
 ***Note:** If you want to configure based on your own features, then unmark box **Use System value**.*
 
+
 ##### 2.3.1.	Stock Option
+
 
 ![](./img102/it_img010.png?raw=true)
 
@@ -169,7 +183,9 @@ Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
 (6)	Tap **Save** to finish. 
 
+
 ##### 2.3.2.	Product Stock Options
+
 
 Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
@@ -202,7 +218,9 @@ Next,
 (8)	Select **Yes** to return the item to inventory by default when a credit memo is issued for the item.
 Finally, click on **Save Config** to save changes.
 
+
 #### 2.4.	Low Stock Notification Rules
+
 
 ***Note: Low Stock Alert** is when a type of product is on the verge of low-stock, Low Stock Alert will alert the Inventory manager to import more items. This feature avoids lack of items to supply for stores.* 
 
