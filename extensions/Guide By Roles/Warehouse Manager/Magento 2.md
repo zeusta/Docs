@@ -568,7 +568,8 @@ When supplier created Shipments and confirmed email to the customer. Then we wil
 
 
 
-## FOR INVENTORY STAFF
+## FOR WAREHOUSE STAFF
+----------
 
 
 
