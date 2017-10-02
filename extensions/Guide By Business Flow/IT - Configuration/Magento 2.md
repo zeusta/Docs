@@ -2546,3 +2546,406 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 (4)	Enter the **Supplier SKU, Cost, Tax**
 
 (5)	Click **Save** to finish
+
+-------
+
+### 2.	Customers
+#### 2.1.	How to manage customers
+
+Path: **Customer > All customers**
+
+##### 2.1.1.	Manage customers
+
+![](./imgpart3/it_img582.png?raw=true)
+
+(1)	Click **Add New Customer** to create new customer.
+
+(2)	Click **Filters** or fill out key word to search customer information.
+
+(3)	**Action:** First, select a customer, then you can:
+•	Delete
+•	Subscribe to Newsletter.
+•	Unsubscribe from Newsletter.
+•	Assign a Customer Group.
+•	Edit
+
+(4)	Click **Edit** to view customer’s details and edit.
+
+
+#### 2.1.2.	Create a new customer
+
+![](./imgpart3/it_img583.png?raw=true)
+
+Click **Add New Customer.**
+
+![](./imgpart3/it_img584.png?raw=true)
+
+Fill out all the required fields with information of a customer.
+
+•	Associate to Website.
+
+•	Group.
+
+•	First Name.
+
+•	Last Name.
+
+•	Email.
+
+![](./imgpart3/it_img585.png?raw=true)
+
+Click **Save Customer** to complete the process.
+
+### 3.	Partner (Vendor/Delivery)
+
+#### 3.1.	How to manage supplier
+
+##### 3.1.1.	How to create a new supplier
+
+Path: **Purchase Management > Supplier** section **> Manage Suppliers**
+
+![](./imgpart3/it_img586.png?raw=true)
+
+*On the screen listing suppliers:*
+
+(1)	Click on **Add New Suppliers** to create a new supplier’s contact
+
+![](./imgpart3/it_img587.png?raw=true)
+
+(2)	Fill in all the required fields, including: 
+
+•	**Supplier Code** (self-customized)
+
+•	**Supplier Name**
+
+•	**Contact Person** (who represents the supplying firm)
+
+•	 **Supplier’s Email**
+
+(3)	Choose **Enable** to activate the suppliers.
+
+![](./imgpart3/it_img588.png?raw=true)
+
+*Scroll down to fulfil the following stages:*
+
+(4)	Fill in detailed information of supplier in **Supplier Address** tab.
+
+(5)	If you enable Drop-ship function in Settings, the **Password Management** section will be automatically synchronised and shown in the **New Password** blank. You can set password and **email it to the supplier.** The supplier can use his email address and this password to log in on the **Supplier** page in frontend to update drop shipments’ status.
+
+(6)	Click on **Save** to finish.
+
+
+##### 3.1.2.	Add products to suppliers 
+
+![](./imgpart3/it_img589.png?raw=true)
+
+On the extended screen named **Products**:
+
+(1)	Click on **Add Product** to select and assign specific products to suppliers.
+
+(2)	Besides that, you can either Click on **Import Product** to sync your products data with Magento systems.
+
+(3)	Enter **Supplier SKU** for each product line.
+
+(4)	Enter **Cost** – purchase cost from the suppliers.
+
+(5)	Enter **Tax** *(if any)*
+
+(6)	Click on **Delete** to remove unexpected products
+
+(7)	Click on **Save** to finish
+
+
+##### 3.1.3.	Edit an existing supplier
+
+Path:  **Purchase Management > Supplier** section **> Manage Suppliers**
+
+![](./imgpart3/it_img590.png?raw=true)
+
+Click on **View** to access the supplier’s detailed information. Then start editing.
+
+
+##### 3.1.4.	Manage Pricelist 
+
+Path: **Purchase Management > Supplier** section **> Manage Pricelist**
+
+Pricelist Management provides users lots of benefits mentioned as below:
+
+•	Easily keep track of all users’ prices
+
+•	Create group pricelists 
+
+•	Create pricelists for each supplier
+
+•	Special prices are applied when creating purchase orders
+
+•	Create pricelists in multiple currencies
+
+![](./imgpart3/it_img591.png?raw=true)
+
+(1)	Click on **Add Pricelist** to make a document listing multiple prices.
+
+***Note:** You also can prepare a Pricelist on your device then import it to system by tabbing **Import Pricelist.***
+
+![](./imgpart3/it_img592.png?raw=true)
+
+(2)	Select a supplier (require)
+
+(3)	Click on **Select Product** then on the pop-up screen, choose which products you want to manage pricelist
+
+(4)	Enter the Minimal Quantity 
+
+(5)	Enter the cost for each product line
+
+(6)	Set a specific opening and closing date (term of validity)
+
+(7)	Click on **Add Selected Product(s)** to finishing
+
+***Note:*** *Before completing, you can click on “Remove” to scratch out unexpected products.*
+
+
+##### 3.1.5.	Edit a pricelist 
+
+Path: **Purchase Management > Supplier** section **> Manage Pricelist**
+
+![](./imgpart3/it_img593.png?raw=true)
+
+(1)	Make double clicks on the label **Product SKU**
+
+(2)	Edit the data you want to re-new
+
+(3)	Click on **Save** to finalize
+
+
+#### 3.2.	How to manage delivery partner 
+
+Path: **Stores > Setting** section > **Configuration > Sales > Shipping Method**
+
+![](./imgpart3/it_img594.png?raw=true)
+
+Click on the button and start to configure the data needed (flat rate, delivery partners, …)
+
+![](./imgpart3/it_img595.png?raw=true)
+
+Edit each line in **flat rate**, then click on the box next to that line after finishing (E.g: choose **Yes** in the first line to enable flat rate, change the price in the fifth line)
+
+![](./imgpart3/it_img596.png?raw=true)
+
+Edit each line in **web POS shipping**, (E.g: choose **Yes** in the first line to enable web POS shipping, change the price in the bottom line)
+
+ ![](./imgpart3/it_img597.png?raw=true)
+
+Edit each line in **free shipping**, then click on the box next to that line after finishing (E.g: choose **Yes** in the first line to enable flat rate, Choose the country to apply free shipping in the 6th and 7th  line)
+
+![](./imgpart3/it_img598.png?raw=true)
+
+Edit each line in the **table rate**, then click on the box next to that line after finishing. 
+Eg: choose **Yes** in the first line to active the function
+
+![](./imgpart3/it_img599.png?raw=true)
+
+Edit each line of the session of each Delivery partner ( UPS, UPSS, FedEx, DHL)
+
+![](./imgpart3/it_img600.png?raw=true)
+
+Click on **Save Config** to save all the changes and configurations
+
+### 4.	Warehouse
+#### 4.1.	How to create a new warehouse 
+
+Path: **Inventory Management > Stock Listing** section **> Warehouses**
+
+![](./imgpart3/it_img601.png?raw=true)
+
+The admin user with full **access permissions** in Role Resources 
+**(System → Permissions →Roles)** creates new warehouses.
+
+Click on **Add a new warehouse** at the top-right corner
+
+![](./imgpart3/it_img602.png?raw=true)
+
+![](./imgpart3/it_img603.png?raw=true)
+
+**General Information**
+
+Fill in all the required fields with information of a warehouse.
+
+•	Fill in the **Warehouse Name**
+
+•	Fill in the **Warehouse Code** to distinguish your current warehouse from other Warehouses created before. 
+
+•	Choose:
+
+(1)	**Create a new location** to link POS Location to a warehouse.
+
+(2)	And vice versa **Don’t associate to Location** 
+
+Click on the **Arrow Button**, then choose **Save and Continue**
+
+![](./imgpart3/it_img604.png?raw=true)
+
+*On the pop-up screen:*
+
+•	Click on **Delete Warehouse** to delete the warehouse (only applied for inactive warehouse)
+
+•	Click on **Back** to go back to previous page
+
+### 4.2.	Warehouse Master Data
+
+Path: **Inventory Management > Stock Listing** section **> Warehouses**
+
+![](./imgpart3/it_img605.png?raw=true)
+
+Admin Users want to check the master data. 
+
+Follow the path then on the pop-up screen, click on **View** to see the warehouse’s detailed information.
+
+![](./imgpart3/it_img606.png?raw=true)
+
+On the right side of each master data tab, click on the Arrow button 
+to access the data:
+
+(1) **General information** about the Warehouse
+
+(2) Illustrating the amount of goods that the warehouse has available at that time.
+
+(3) Showing the opening and closing data between dates, such as: purchases made, sales order totals, external transfer and internal transfer (send stock) and returned items.
+
+(4) Managing the warehouse permission 
+
+(5) Reports are illustrated as table and lines diagrams.
+
+#### 4.3.	Warehouse Permission
+
+Path: **Inventory Management > Stock Listing** section **> Warehouses**
+
+![](./imgpart3/it_img607.png?raw=true)
+
+After created a warehouse, Admin Users give different warehouse access permissions to different (admin) users.
+
+Click on **View** to see the warehouse’s detail information 
+
+![](./imgpart3/it_img608.png?raw=true)
+
+(9) On the right side of **the   Warehouse Permission** tab, click on **(0) Assign Staff** to give different warehouse access permissions.
+
+*Then will be a new pop-up screen shown as below:*
+
+![](./imgpart3/it_img609.png?raw=true)
+
+Select Staff users to assign permission
+
+(1)Select Staff by marking the checkbox
+
+(2)Click on **Filters** to search Staff information *(if any)*
+
+(3)Click on **Add Selected Staff**
+
+![](./imgpart3/it_img610.png?raw=true)
+
+(4)Then click on **Save Staff Permissions**
+
+
+#### 5.	Location
+
+### 5.1.	Add a new location
+
+Path: **Sales > Web POS** section > **Manage Locations**
+
+![](./imgpart3/it_img611.png?raw=true)
+
+(1)Click on **Add Location** to create new locations
+
+(2)*Additional Guidance:* Click on **Edit** to amend existing locations’ information.
+
+![](./imgpart3/it_img612.png?raw=true)
+
+*On the pop-up screen:*
+
+ - Fill in the Location Name (required) 
+ - Fill in the location Address field 
+ - Fill in the location Description field
+ - Choose the corresponsive Warehouse
+ - *Additional Guidance:* In the 4th stage, you can either choose an existing warehouse or create a new warehouse.
+
+Click on **Save**
+
+#### 5.2.	Mapping Locations – Warehouses
+
+Path: **Sales > Web POS** section **> Manage Locations**
+
+In this phase, you can change the link between your current locations and current warehouses by mapping your locations to other warehouses.
+
+![](./imgpart3/it_img613.png?raw=true)
+
+On the pop-up screen, click on **Mapping Locations – Warehouses**
+
+![](./imgpart3/it_img614.png?raw=true)
+
+(1)Click on **Choose Location**
+
+![](./imgpart3/it_img615.png?raw=true)
+
+*On the pop-up screen:*
+
+(2)Use **Filters** to search location data.
+
+(3)Select the location by mark the checkbox.
+
+(4)Click on **Add Selected Locations**
+
+![](./imgpart3/it_img616.png?raw=true)
+
+(5)Select an appropriate Warehouse
+
+(6)Click on **Remove** to delete the location
+
+(7)Finally, **Save** all the changed information
+
+## 6. Store (POS)
+
+### 6.1.	Create a new Web POS
+
+![](./imgpart3/it_img617.png?raw=true)
+
+Click **Add POS**
+
+![](./imgpart3/it_img618.png?raw=true)
+
+Fill out or select all the required fields.
+
+(1)**POS Name:** POS’s name. *(required)*
+
+(2)**Location:** POS’s location. *(required)*. Here, admin can choose the location created and mapped to Warehouse. So that, the admin can control both warehouse and location easily.
+
+(3)**Store View:** *(required)*
+
+(4)**Current Staff:** Staff is working on the POS.
+
+(5)**Status:** you Enable or Disable this POS
+
+(6)**When checked:** another staff can use the POS when it is available.
+
+![](./imgpart3/it_img619.png?raw=true)
+
+Click **Save** to complete the process.
+
+***Note:*** *Even when you set the warehouse to a certain location, with online store, admin can see clearly any warehouse information in any locations. HOWEVER, with offline store, only Sale Manager can view the warehouse information only in the mapped location.*
+
+*IT Admin can give other admin permission to view the Inventory information in any location by going to System > User Roles > Add new role or Edit role > Role Resource, then choosing Order Success > Inventory Management > View Warehouse Information (this is the most basic step. With each business, the process will be expanded)*
+
+
+## 6.2.	Manage Web POS
+
+Path: **Sale > Web POS** section **> Manage POS**
+
+![](./imgpart3/it_img620.png?raw=true)
+
+(1)	Click **Add POS** to create new POS.
+
+(2)	Click **Filters** to search POS information.
+
+(3)	If you want to delete a POS, first select a POS, then click **Actions: choose Delete.**
+
+(4)	Click **Detail** to view a POS’s details or edit.
+
