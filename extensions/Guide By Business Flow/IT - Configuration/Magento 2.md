@@ -180,7 +180,9 @@ Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 (2)	Set Backorders to one of the following status: 
 
 •	**No Backorders Allow Qty. Below 0:** To reject backorders when product is out of stock.
+
 •	**Allow Qty. Below 0:** To accept backorders when the quantity falls below zero. 
+
 •	**Notify Customer:** To accept backorders when the quantity falls below zero, and notify the customer that the order can still be placed.
 
 (3)	Enter the **Maximum Qty.** allowed in Shopping Cart.
@@ -225,6 +227,7 @@ Path: **Inventory Management > Prediction** section **> Low Stock Rules**
 (6)	Select an **update time**:
 
 •	Daily
+
 •	Monthly
 
 The system periodically check stock availability and automatically send email notifications admin and warehouse managers.
@@ -278,7 +281,9 @@ On **Actions** Tab:
 (19)	Click **Save** or **Save and Apply** to finish
 
 •	**Save and Continue Edit**: to save the process and continue edit on the current page. 
+
 •	**Save and Apply**: you can apply rule immediately
+
 •	**Save**: you can save the rule but it will not be applied, in case you need to ask for permission before applying or double-check with other people. 
 
 ***Note:** You can edit the rule that you **Save and Apply** or **Save** by going to **Inventory Management > Prediction** section **> Low Stock Rules >** clicking on **Edit***
