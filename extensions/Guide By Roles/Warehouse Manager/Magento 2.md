@@ -1,5 +1,5 @@
 
-# INVENTORY MANAGEMENT 
+# WAREHOUSE MANAGER - USERGUIDE FOR MAGENTO 2
 
 
 Confidential Information Notice. 
@@ -12,7 +12,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 ## INTRODUCTION
 
-Having an **Inventory Management** solution is a must-have for retail businesses that want to be more efficient and keep data accurate. If your inventory is not enough to supply, you may lose customer. But if the inventory you keep is more than needed, it will cost you lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification... in your warehouses in the most efficient way.  Moreover, this guide is specially written by  business flow which divided into processes so you can quickly access to the part you need.
+Having an **Inventory Management** solution is a must-have for a Warhouse Manager to efficiently control up-to-thousands of inventory and keep data accurate. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification... in your warehouses in the most efficient way.  Moreover, this guide is specially written by  business flow which divided into processes so you can quickly access to the part you need.
 
 With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
@@ -25,11 +25,11 @@ Thanks and Best regards,
 
 
 ## PERMISSION MATRIX
-### For Inventory Manager
+### For Warehouse Manager
 
 ![enter image description here](./Warehouse%20Manager/image001.png?raw=true) 
 
-### For Inventory Staff
+### For Warehouse Staff
 
 ![enter image description here](./Warehouse%20Manager/image003.png?raw=true) 
 
@@ -37,7 +37,7 @@ Thanks and Best regards,
 
 
 
-## FOR INVENTORY MANAGER
+## FOR WAREHOUSE MANAGER
 
 ### Inventory Adjustment
 
