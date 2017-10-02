@@ -137,7 +137,7 @@ The **New Shipment** page will open and include a customer’s information such 
 
 2)	Click on **Submit Shipment** button to complete.
 
-When a new shipment is created, you will see the notification: ** “ The shipment has been created”**
+When a new shipment is created, you will see the notification: **“ The shipment has been created”**
 
 ![](./Image_EcommerceManagement/image032.png)
 
@@ -153,7 +153,7 @@ After a new shipment has been created, if you want to print packing slips:
 
 ![](./Image_EcommerceManagement/image036.png)
 
-2) Click on** Print** button to print out packing slips. 
+2) Click on **Print** button to print out packing slips. 
 
 ##### Send confirm email to customers
 
@@ -175,7 +175,7 @@ In the **Information** tab, click on **Send Email.**
 
 #### Request Transfer Stock from other warehouses
 
-If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses, firstly go to** Inventory Management > Transfer Stock > Request Stock.**
+If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses, firstly go to **Inventory Management > Transfer Stock > Request Stock.**
 
 ![](./Image_EcommerceManagement/image044.png)
 
@@ -206,7 +206,7 @@ The **request transfer** is completed.
 #### Receive Transfer stock 
 
 After the staff of the requested warehouse confirmed transferring their stocks and these stocks are ready to import into your store, it’s time to receive them. 
-To receive stock from other warehouses, click on **Select Products in Receiving history section:
+To receive stock from other warehouses, click on **Select Products in Receiving history** section:
 
 ![](./Image_EcommerceManagement/image054.png)
 
@@ -243,7 +243,7 @@ Then click **View** to see the order in the chosen warehouse.
 
 ![](./Image_EcommerceManagement/image065.png)
 
-1)	In the **View Warehouse** page - section Orders, click View to see the detailed information of the customer’s order.	
+1)	In the **View Warehouse** page - section **Orders**, click View to see the detailed information of the customer’s order.	
 
 ![](./Image_EcommerceManagement/image067.png)
 
@@ -334,7 +334,8 @@ All transactions of a customer are also listed in reward points
 
 ✓	**Path: Reward points > Manage points balances**
 
-	There are two ways to change the point balance of a customer. 	
+There are two ways to change the point balance of a customer:
+
 The first way is to enter the **Change Balance** in the **Reward Points** session as mentioned above.
 
 The second way to change points, which can be done to many customers at the same time, is illustrated below:
@@ -349,13 +350,13 @@ Click on **Import** to import from computer
 
 ![](./Image_EcommerceManagement/image101.png)
 
-1)	Click on ** “Chọn tệp”** to upload file
+1)	Click on **“Chọn tệp”** to upload file
 
 2)	Click on **Import** to import it
 
 ![](./Image_EcommerceManagement/image103.png)
 
-The list of customers in **Reward Point Balances** Information page can also be exported by clicking on **Export**
+The list of customers in **Reward Point Balances** Information page can also be exported by clicking on **Export**.
 
 ##### Use points when creating orders 
 
@@ -431,7 +432,7 @@ Also, after clicking on the **Add to Cart** button, on **Mini Cart**, customers 
 
 ![](./Image_EcommerceManagement/image133.png)
 
-If customers have not logged in yet, a notification message ** “Login and checkout to earn points”** will be shown on mini cart:
+If customers have not logged in yet, a notification message **“Login and checkout to earn points”** will be shown on mini cart:
 
 ![](./Image_EcommerceManagement/image135.png)
 
@@ -533,13 +534,13 @@ To add a new credit product, click on the **Add Credit Product** button on the r
 
 You can add a credit product just in a similar way to adding a normal product.
 
-- **	Prices Tab:**
+- **Prices Tab:**
 
 ![](./Image_EcommerceManagement/image167.png)
 
 In this tab, you can configure the value of the credit product. There are three types of credit products including **fixed value, range of values and drop-down value.**
 
-**•	Inventory Tab:**
+- **Inventory Tab:**
 
 ![](./Image_EcommerceManagement/image169.png)
 
@@ -555,7 +556,7 @@ Then you will be navigated to the **New Product** page. In the **Settings** tab,
 
 ##### Manage Credit Transactions and Report Charts
 
-*_a. Credit Transactions_*
+###### Credit Transactions
 
 ![](./Image_EcommerceManagement/image175.png)
 
@@ -571,7 +572,7 @@ You can search any transaction by using filter boxes in each column.
 
 If you click on a customer’s email, you will be navigated to the **Customer Information** page.
 
-*_b. Credit Report Charts_*
+###### Credit Report Charts
 
 ![](./Image_EcommerceManagement/image179.png)
 
@@ -746,7 +747,7 @@ In both cases, the sender always gets email notifications as above.
 
 In order to access the **My Credit** page, customers can click on the **Store Credit** tab on the left navigation.
 
-*_a.	Manage Credit Balance_*
+######	Manage Credit Balance
 
 ![](./Image_EcommerceManagement/image222.png)
 
@@ -754,7 +755,7 @@ On the **My Credit** page, customers can view information about their current cr
 
 In the section **Transaction History**, our module shows customers all of their credit transactions with a lot of information including **date, type, details, added/deducted value in transaction** and **credit balance**.
 
-*_b.	Send Credit to Friends_*
+######	Send Credit to Friends
 
 ![](./Image_EcommerceManagement/image224.png)
 
@@ -839,7 +840,7 @@ To verify, customers can:
 
 After customers finish verifying, our module will send credit to the recipient.
 
-*_c.	Redeem Credit_*
+######	Redeem Credit
 
 To go to the **Redeem Credit** page, customers can click on the **Redeem Credit** tab on the left navigation.
 
@@ -1002,7 +1003,7 @@ Notification email sent to purchasers
 
 Notification email sent to recipient
 
-3)	Select “YES” to allow email notification being sent to recipient when sender refunds Gift Card.
+3)	Select **“YES”** to allow email notification being sent to recipient when sender refunds Gift Card.
 
 4)	Select the email template sent to the gift card’s recipient. 
 
@@ -1020,7 +1021,7 @@ Click **Choose File** to upload an image used as a logo when Gift Cards are prin
 
 ##### Manage Gift Card Templates
 
-a.	Add new template
+######	Add new template
 
 ✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
 
@@ -1048,7 +1049,7 @@ On the popup screen
 
 7)	Click “Save and Continue” or “Save”
 
-b.	Preview Existing Template
+######	Preview Existing Template
 
 ✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
 
@@ -1056,7 +1057,7 @@ b.	Preview Existing Template
 
 Click **Preview**  to see the gift card template
 
-C.	Edit and Delete Existing Template
+######	Edit and Delete Existing Template
 
 ✓	**Path: Marketing > Gift Card > Manage Gift Card Templates**
 
@@ -1126,7 +1127,7 @@ A status “**the pattern has been generated succes sfully** “ would be shown 
 
 #####  Manage Gift Codes
 
-a.	Create a new Gift Code
+######	Create a new Gift Code
 	
 ✓	**Path: Marketing > Gift Card > Manage Gift Code**
 
@@ -1180,7 +1181,7 @@ Finally, scroll up, tab the arrow on the right hand-side of “**Save**” butto
 
 2)	Select “**Save & Continue Edit**” to finish.
 
- b. Manage Gift Card History per customer
+###### Manage Gift Card History per customer
  
 ✓	**Path: Customers > All Customers**
 
@@ -1203,7 +1204,6 @@ On **Create New Order**  page, after selecting a customer and adding a product t
 ![](./Image_EcommerceManagement/image320.png)
 
 1)	Mark the check box to use gift card to checkout
-
 
 2)	Enter the Gift card code
 
@@ -1268,7 +1268,7 @@ Customers can also see the expiration date of the Gift Card on Gift Card image
 - For Gift Card products that have usage conditions, the conditions will NOT be displayed below the product name as in Magento 1 version. However, the admin can write the conditions in the description if it is necessary for customersto see. If anyone want to redeem the gift cards (enter the gift code to purchase one or many products) but does not meet  the condition(s), then the system will show an “Invalid” notice
 
 - 	Customers can also send Gift Cards to their friends by ticking Send Gift Card to friend checkbox and enter all the required fields:
-- 	
+
 ![](./Image_EcommerceManagement/image336.png)
 
 1)	Enter the name of the sender 
@@ -1278,6 +1278,7 @@ Customers can also see the expiration date of the Gift Card on Gift Card image
 3)	Enter the email address of the recipient. The system will send an email which contains a Gift Card code to this address
 
 4)	Fill in the message is delivered along with the Gift Card code
+
 Tick the **Get notification email when your friend receives Gift Card** checkbox to get the notification email when customers’ friend receives Gift Card.
 
 5)	Set up the date that a Gift Card will be sent.
@@ -1311,7 +1312,7 @@ The details of Gift Card when Customers buy the Gift Card for themselves:
 ![](./Image_EcommerceManagement/image346.png)
 
 -	Then Gift Cards products can be checked out as normal products. Customers will receive a Gift Card code if they buy for themselves. In case Customers purchase the Gift Card to send to their friends, the code will be delivered to their friends’ email with the above form.
--	
+
 ![](./Image_EcommerceManagement/image348.png)
 
 If the Sender has ticked the checkbox Get notification email when your friend receives Gift Card, a notification will be sent to his email address immediately after the Gift Card is delivered to the friend’s email as above.
@@ -1332,5 +1333,5 @@ When Customers have Gift Card codes, they can use them as a discount coupon when
 
 3)	Click on Add Gift Card button to apply.
 
-**Note**: Gift Card codes cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin‟s settings.
+**Note**: Gift Card codes cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin's settings.
 
