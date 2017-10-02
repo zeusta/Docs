@@ -1354,4 +1354,54 @@ Path: **Magento Extension > Store Credit**
 #### 4.8.	Membership (Coming Soon)
 
 
+### 5.	Shipment method
+
+Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
+
+
+![](./imgpart2/it_img132.png?raw=true)
+
+![](./imgpart2/it_img133.png?raw=true)
+
+If you want to apply all shipping methods, choose **All Allowed Payments in Applicable Shipping Methods** field.
+
+![](./imgpart2/it_img134.png?raw=true)
+
+If you want to apply some typical payment methods only, choose **Specific Shipping.** Then in **Specific Shipping Methods** field, select payment method as your preference. Hold **Ctrl + Click** to choose more than one.
+
+![](./imgpart2/it_img135.png?raw=true)
+
+**Default Payment Method:** Choose the payment method that you would want to set as default payment method. This payment method must be in **Specific Shipping Methods.**
+
+![](./imgpart2/it_img136.png?raw=true)
+
+You can enable **Mark as shipped** by default.
+
+![](./imgpart2/it_img137.png?raw=true)
+
+Click **Save Config** to complete the process.
+
+
+#### 6.	Payment
+
+Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
+
+![](./imgpart2/it_img138.png?raw=true)
+
+![](./imgpart2/it_img139.png?raw=true)
+
+If you want to apply all shipping methods, choose **All Allowed Payments in Applicable Shipping Methods** field.
+
+![](./imgpart2/it_img140.png?raw=true)
+
+If you want to apply some payment methods only, choose **Specific Shipping**. Then in Specific Shipping Methods field, select payment method as your preference. Hold **Ctrl + Click** to choose more than one.
+
+![](./imgpart2/it_img141.png?raw=true)
+
+**Default Payment Method:** Choose the payment method that you would want to set as default payment method. This payment method must be in **Specific Shipping Methods.**
+
+
+#### 7.	Magento – Odoo connector (Coming soon)
+
+----------
 
