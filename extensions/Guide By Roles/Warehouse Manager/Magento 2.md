@@ -7,10 +7,11 @@
 *Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
 
 *This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
+
 -----
 
 ## INTRODUCTION
----
+
 
 Having an **Inventory Management** solution is a must-have for a Warhouse Manager to efficiently control up-to-thousands of inventory and keep data accurate. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification... in your warehouses in the most efficient way.  Moreover, this guide is specially written by  business flow which divided into processes so you can quickly access to the part you need.
 
