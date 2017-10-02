@@ -26,7 +26,6 @@ This guide is specially written according to business flow which happens reguarl
 
 ![](./Image_EcommerceManagement/image004.png)
 
-Top-Link
 
 Store Pickup extension creates a separated page to list all of your stores in the front-end. 
 
@@ -300,7 +299,7 @@ Edit the rate, then click Save spending rate, or **Delete** it.
 
 ##### Manage transaction
 
-1.	**Path: Reward points > Transactions**
+**Path: Reward points > Transactions**
 
 ![](./Image_EcommerceManagement/image085.png)
 
