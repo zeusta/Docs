@@ -194,7 +194,9 @@ A **New Invoice** page will appear with all information of the customer ‘ s or
 4)	To print it, click on **Print** button. 
 
 ### Loyalty programs 
+
 #### Reward Points
+
 #####  Add new rate
 
 ![](./Image_EcommerceManager/image057.png)
@@ -608,6 +610,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 2)	**Color of Title**: enter Hexadecimal code or choose a color as above.
 
 #### Gift Cards
+
 ##### Setting
 
 ✓ **Path: Marketing > Gift Card > Settings**
@@ -843,6 +846,7 @@ A status “the pattern has been generated successfully” would be shown on the
 11)	A list a generated Gift Codes would be shown at the botton of the pop-up screen 
 
 #####  Manage Gift Codes
+
 ######  Create a new Gift Code
 
 ✓ **Path: Marketing > Gift Card > Manage Gift Code**
@@ -959,6 +963,8 @@ Scroll down to view “Order Totals” label, then click on **(4) “Submit Orde
 On Gift Card History page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status. 
 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience. 
+
+----------------------
 
 ## For Ecommerce Staff
 
