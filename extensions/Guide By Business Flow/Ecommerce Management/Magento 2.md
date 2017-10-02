@@ -612,20 +612,19 @@ In this tab, by default, our module sets up the field **Manage Stock** as **Yes*
 
 ![](./Image_EcommerceManagement/image183.png)
 
-
-
 ##### Manage Credit Transactions and Report Charts
 ###### Credit Transactions
 
-✓	**Path: Store Credit > Credit Transactions Section > Manage Credit Transactions**
 ![](./Image_EcommerceManagement/image185.png)
+
+
+✓	**Path: Store Credit > Credit Transactions Section > Manage Credit Transactions**
 
 Then the **Credit Transactions** page will be shown as below
 
 ![](./Image_EcommerceManagement/image187.png)
 .
 	**Path: Store Credit > Manage Credit Transactions**
-
 
 This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction.
 
@@ -634,11 +633,9 @@ You can search any transaction by using filter boxes in each column.
 If you click on a customer’s email, you will be navigated to the **Customer Information** page.
 
 ###### Credit Report Charts
-	**Path: Store Credit > Credit Transactions Section > Customer Credit Report**
-
 ![](./Image_EcommerceManagement/image189.png)
 
-✓	**Path: Store Credit > Customer Credit Report**
+	**Path: Store Credit > Credit Transactions Section > Customer Credit Report**
 
 ![](./Image_EcommerceManagement/image191.png)
 
@@ -674,7 +671,7 @@ After submitting the order, the customer’s credit balance will also auto updat
 
 When customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, customers can use the credit for future purchases and you do not have to lose money for the refund at the same time. 
 
-![](./Image_EcommerceManagement/image189.png)
+![](./Image_EcommerceManagement/image199.png)
 
 After clicking on the **Credit Memo** button, 
 
@@ -695,8 +692,6 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 ![](./Image_EcommerceManagement/image202.png)
 
 ✓	**Path: Store Credit > Settings > Magestore Extension tab > Store Credit**
-
-![](./Image_EcommerceManagement/image194.png)
 
 •	**General Configuration** Tab:
 
