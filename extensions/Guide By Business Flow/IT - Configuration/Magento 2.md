@@ -1404,4 +1404,1145 @@ If you want to apply some payment methods only, choose **Specific Shipping**. Th
 #### 7.	Magento – Odoo connector (Coming soon)
 
 ----------
+## HOW TO MANAGE USER PERMISSION
 
+ ![](./imgpart2/it_img401.png?raw=true)
+ 
+**Only admin accessing Web POS can set up Staff permission**
+
+###	How to manage User Roles and Users
+
+**Note**: *Users are the one who get permission to access in the Backend*    
+
+####	Decentralize User Roles
+
+   Path: **System > Permission** section > **User Roles**
+   	
+#####	 **Manage user role**
+ 
+![](./imgpart2/it_img402.png?raw=true)
+ 
+(1)	Click **Add New Role** to create new user role.
+
+(2)	Fill out the blank with a value to search, after click **Search.**
+
+(3)	Search user role information with keyword.
+
+View or edit a role’s detail by clicking on each line.
+
+#####	**Create a new user role**
+ 
+![](./imgpart2/it_img403.png?raw=true)
+
+Click **Add New Role**
+ 
+![](./imgpart2/it_img404.png?raw=true)
+
+In tab **Role Info**
+
+Fill in all required fields 
+![](./imgpart2/it_img406.png?raw=true)
+
+In tab **Role Resources**
+
+(1)	**Resource Access**: You can choose **Custom** or **All**. Choose **All** if you want users having this role will have access to all resources, click on **Save** or **Save And Continue Edit** button to save your work.
+
+(2)	If you choose **Custom**, you can tick to assign specific permissions for that role.
+
+Click **Save** to complete the process.
+
+####	Decentralize Users
+
+#####	Manage user
+ 
+![](./imgpart2/it_img407.png?raw=true)
+
+(1)	Click **Add New User** to create new user.
+
+(2)	Fill out the blank with a value to search, after click **Search**.
+
+(3)	Search user information with keyword.
+
+View or edit a user’s detail by clicking on each line.
+
+#####	Create a new user
+ 
+![](./imgpart2/it_img408.png?raw=true)
+
+To create new user, click **Add New User**
+
+ 
+![](./imgpart2/it_img409.png?raw=true)
+
+In tab **User Info**, fill in the blank:
+
+(1)	**User Name** (required)
+
+(2)	**First Name** (required)
+
+(3)	**Last Name** (required)
+
+(4)	**Email** (required)
+
+(5)	**Password** (required)
+
+(6)	**Password Confirmation** (required)
+
+(7)	**Interface Locale**: you can select different location.
+
+(8)	**This account is**: Active or Inactive.
+
+(9)	**Your Password**: fill out your password. (required).
+
+ 
+![](./imgpart2/it_img410.png?raw=true)
+
+In tab **User Role**, select a role for user.
+ 
+![](./imgpart2/it_img411.png?raw=true)
+
+In tab Warehouse, click **Assign Warehouses** to assign warehouses to this user.
+ 
+![](./imgpart2/it_img412.png?raw=true)
+
+Click **Save User** to complete the process.
+
+###	How to manage staff
+
+####	Decentralize access permission of Web POS users
+
+Path: **Sales > Web POS** section **> Manage Roles**
+
+#####	Manage role
+ 
+![](./imgpart2/it_img413.png?raw=true)
+
+(1)	**Add Role**: Click to add a new role.
+
+(2)	**Filters**: You can find role information by click it and fill out values.
+
+(3)	**Action**: If you want to delete a role record, you need choose a role, then click Action and select Delete.
+
+(4)	**Edit**: You can view role’s details (edit) by click Edit or click each line.
+
+#####	Add a new role
+ 
+![](./imgpart2/it_img414.png?raw=true)
+
+Click **Add Role** to add a new role.
+ 
+![](./imgpart2/it_img415.png?raw=true)
+
+In **General** tab, fill out the blank.
+
+(1)	**Role Name**: Enter a name for the role. (required)
+
+(2)	**Maximum discount percent (%)**: Limit the highest discount percent that each user role can offer customers.
+
+(3)	**Description**: Enter text that describes the role.
+
+ 
+![](./imgpart2/it_img416.png?raw=true)
+
+In **Permission** tab.
+
+(1)	**Resource Access**: You can choose **Custom** or **All**. Choose **All** if you want users having this role will have access to all resources, click on **Save** or S**ave And Continue Edit** button to save your work.
+
+(2)	If you choose **Custom**, you can tick to assign specific permissions for that role.
+
+####	Decentralize staff
+
+#####	Manage Staff
+
+Path: **Sales > Web POS** section **> Manage Staff**
+ 
+![](./imgpart2/it_img417.png?raw=true)
+
+(1)	Click **Add Staff** to create a new staff.
+
+(2)	Click **Filters** to search staff information.
+
+(3)	If you want to **Delete** or **Change status** a staff, first select a staff, then click **Actions**: choose **Delete** or **Change status**.
+
+Click **Detail** to view a staff’s details or edit.
+
+#####	Create a new staff
+
+Path: **Sales > Web POS** section **> Manage Staff**
+ 
+![](./imgpart2/it_img418.png?raw=true)
+
+Click **Add Staff**.
+ 
+![](./imgpart2/it_img419.png?raw=true)
+
+Fill out all the required fields or select: 
+
+(1)	**User Name**.
+
+(2)	**Password.**
+
+(3)	**Password Confirmation**.
+
+(4)	**Display Name**.
+
+(5)	**Email Address.**
+
+(6)	**PIN Code (App only)**.
+ 
+![](./imgpart2/it_img420.png?raw=true)
+
+(7)	**Customer Group**.
+
+(8)	**Location**: Hold **Ctrl + Click** to choose more than one
+ 
+![](./imgpart2/it_img421.png?raw=true)
+
+(9)	**Role**.
+
+(10)	**Status**: You can **Enabled** or **Disabled** this staff.
+
+(11)	**POS**: Assign POS for user. To choose more than one, hold **Ctrl + Click.** 
+
+Finally, click **Save** to complete the process.
+
+**Brief**: IT Admin can create a new role and decentralize for all admins and staffs.
+Other admins (which can be called as business managers) can only create and decentralize staffs on Sales Section (a Default Feature from Web POS). 
+ 
+![](./imgpart2/it_img422.png?raw=true)
+
+Moreover, **if** IT admin activates the **Permissions** button on **Role Resources** these admins (managers) can create roles and users within their permission. 
+ 
+![](./imgpart2/it_img423.png?raw=true)
+
+*Notice that: Roles on Sales Section and Roles on System Section ARE NOT synchronized.* 
+
+**For more basic details how to set up role – user and role-staff, you can read the section below:**  
+
+###	Basic role for each admin in the System
+
+**Note**: For reference only! With each business feature has different roles for users. 
+
+####	Store Manager
+
+ 
+![](./imgpart2/it_img425.png?raw=true)
+
+Moreover, Store Manager can access to **Sales** Tab and decentralize roles for Sale Staff
+
+####	Inventory Manager
+ 
+![](./imgpart2/it_img426.png?raw=true)
+
+Moreover, Inventory Manager can access to **Sales** Tab and decentralize Inventory Staff
+
+####	Purchase Manager
+ 
+![](./imgpart2/it_img427.png?raw=true)
+
+Moreover, Purchase Manager can access to **Sales** Tab and decentralize Purchase Staff
+
+####	eCommerce Manager
+ 
+![](./imgpart2/it_img428.png?raw=true)
+
+####	Accountant
+ 
+![](./imgpart2/it_img429.png?raw=true)
+
+##	HOW TO MANAGE MASTER DATA
+
+###Product
+
+#### Attribute
+
+Path: **Stores > Attributes** section **> Product**
+
+#####	Manage attribute
+ 
+![](./imgpart2/it_img501.png?raw=true)
+
+(1)	Click **Add New Attribute** to create new user.
+
+(2)	Fill out the blank with a value to search, after click **Search**.
+
+(3)	Search attribute information with keyword.
+
+You can view or edit attribute’s details by clicking on each line.
+
+#####	Create a new attribute
+
+Attributes can be created while working on a product, or from the Product **Attributes** pages. The following example show how to create attributes from the Stores menu. Any attribute that is used as a drop-down list of values for a configurable product must have the following properties:
+
+
+|Property|	Value| 
+|---|--| 
+|Catalog Input Type for Store Owner|	Dropdown|
+|Scope|	Global|
+
+ 
+![](./imgpart2/it_img502.png?raw=true)
+
+Click **Add New Attribute**
+ 
+![](./imgpart2/it_img503.png?raw=true)
+
+**Basic Properties**
+
+(1)	Enter a **Default Label** to identify the attribute
+
+(2)	Set **Catalog Input Type** for Store Owner to the type in input control to be used for data entry
+
+3)	Select **Yes** to require the customer choose an attribute value option
+
+For Dropdown and Multiple Select input types, do the following:
+
+ - Under Manage Options, click **Add Option**. 
+ - Enter the first value that you want to appear in the list.
+	 - Enter one value for the **Admin**, and a translation of the value for each store view.
+	 - Enter only the Admin value, if you have only one store view, you can enter only the Admin value.	
+ - Click **Add Option** and repeat the previous step for each option that
+   you want to include in the list.
+ - Select **Is Default** to use the option as the default value.
+
+ 
+![](./imgpart2/it_img506.png?raw=true)
+
+**Advanced Properties** (if needed).
+
+(1)	Enter a unique **Attribute Code** in lowercase characters, and without space.
+
+(2)	Set **Scope** to indicate where in your store system the attribute can be used.
+
+(3)	If you want to prevent duplicate values from being entered, set **Unique Value** to **Yes**
+
+(4)	To run a validity test of any data entered in the text field, set **Input Validation for Store Owner** to the type of data that the field should contain. This field is not available for input types with values that are selected. The test can validate any of the following:
+
+ - Decimal Number. 
+ - Integer Number. 
+ - Email.  
+ - URL.  
+ - Letters.  
+ - Letters (a-z, A-Z) or Numbers (0-9).
+
+(5)	**Add to Column Options**: Include the attribute as a column in the Products grid.
+
+(6)	**Use in Filter Option**: Adds a filter a control to the column header in the Products grid.
+ 
+![](./imgpart2/it_img507.png?raw=true)
+
+**Input Validation**.
+ 
+![](./imgpart2/it_img508.png?raw=true)
+
+In tab **Manage Labels**: Enter a **Title** to be used as a label for the field. If your store is available in different languages, you can enter a translated title for each view.
+ 
+![](./imgpart2/it_img509.png?raw=true)
+
+In tab **Storefront Properties**
+
+(1)	If the attribute is to be available for search, set Use in Search to **Yes** 
+
+(2)	To include the attribute in Product Compare, set Comparable on Storefront to **Yes**
+
+For dropdown, multiple select and price fields, do the following: 
+
+(3)	To use the attribute as a filter in layered navigation, set **Use in Layered Navigation** to **Yes**
+
+(4)	To use the attribute in layered navigation on search results pages, set **Use in Search Results Layered Navigation** to **Yes**
+
+(5)	In the **Position** field, enter a number to indicate the relative position of the attribute in the layered navigation block.
+
+(6)	Set **Use for Promo Rule Conditions** to **Yes** to use the attribute in price rule.
+
+(7)	To allow the text to be formatted with HTML, set **Allow HTML Tags on Frontend** to **Yes**. This setting makes the WYSIWYG editor available for the field. 
+
+(8)	To include the attribute in catalog page listings, set **Visible on Catalog Pages on Storefront** to **Yes**
+
+(9)	Complete the following settings if supported by your theme:
+
+ - To include the attribute on the product detail page, set Visible on
+   Catalog Pages on Storefront to **Yes**
+ - To include the attribute in product listings, set Used in Product
+   Listing to **Yes**
+
+To use attribute as a sort parameter for product listings, set Used for Sorting in Product Listing to **Yes**
+
+ 
+![](./imgpart2/it_img510.png?raw=true)
+
+When complete, click **Save Attribute**.
+
+####	Attribute set
+
+Path: **Stores > Attributes** section **> Attribute set**
+
+#####	Manage attribute set
+ 
+![](./imgpart2/it_img511.png?raw=true)
+
+(1)	Click **Add Attribute Set** to create new attribute set.
+
+(2)	Fill out the blank with a value to search, after click **Search.**
+
+(3)	Search attribute set information with keyword.
+
+You can view or edit details of attribute set by clicking on each line.
+
+#####	Create a new attribute set
+ 
+![](./imgpart2/it_img512.png?raw=true)
+
+Click **Add Attribute Set** to create new attribute set.
+ 
+![](./imgpart2/it_img513.png?raw=true)
+
+(1)	In the **Name** field, enter a name for the attribute set (required)
+
+(2)	In the **Based On** field, select an existing attribute set to be used as a template:
+
+-	Bag
+-	Bottom
+-	Default
+-	Downloadable	
+-	Gear
+-	Sprite Static Ball
+-	Sprite Yoga Strap
+-	Top
+
+(3)	Click **Save** button and continue
+
+![](./imgpart2/it_img514.png?raw=true)
+
+To add a new attribute to the set, drag the attribute from the Unassigned Attribute list to the appropriate folder in the General group.
+
+Click **Save** to complete the process.
+
+####	Categories
+
+Path: **Products > Categories**
+
+#####	Manage categories
+
+When selecting a category on the left, all the information will be displayed on the left.
+ 
+![](./imgpart2/it_img515.png?raw=true)
+
+#####	Create a new category
+
+ 
+![](./imgpart2/it_img516.png?raw=true)
+
+**Create a Category**
+ 
+![](./imgpart2/it_img517.png?raw=true)
+
+Path: **Products > Inventory** section **> Categories**
+
+Set Store View to determine where the new category is to be available. In the category tree, tap the parent category of the new category. The parent is one level above the new category.
+
+If you’re starting from the beginning without any data, there might be only two categories in the list: **Default Category**, which is the root, and an **Example Category**. 
+
+Click **Add Sub-category** to add a new category.
+ 
+![](./imgpart2/it_img518.png?raw=true)
+
+**Complete the Basic information**
+
+(1)	If you want the category to be immediately available in the store, set **Enable Category** to the **Yes** position.
+
+(2)	To include the category in the top navigation, set Include in Menu to the **Yes** position.
+
+(3)	Enter the **Category Name**.
+
+(4)	Click **Save**.
+ 
+![](./imgpart2/it_img519.png?raw=true)
+
+Complete the Category Content
+
+(1)	To display a Category Image at the top of the page, tap **Upload**. Then, choose the image that you want to represent the category.
+
+(2)	In the **Description** box, enter the text that you want to appear on the category landing page. Then, format the text as needed.
+
+(3)	To include a content block on the category landing page, choose the CMS Block that you want to appear. 
+
+(4)	Click **Save**.
+ 
+![](./imgpart2/it_img520.png?raw=true)
+
+Complete the **Display Settings**
+
+Expand the **Display Settings** section.
+
+(1)	Set Display Mode to one of the following:
+
+ - Products Only.
+ - Static Block Only.
+ - Static Block and Products.
+
+(2)	If you want the category page to include the **Filter by Attribute** section of layered navigation, set Anchor to the **Yes** position.
+
+(3)	To change the Available Product Listing Sort By options, do the following: 
+ - Clear the **Use All checkbox**. 
+ - Select one or more of the available values to be available for customers to sort the list. By default, all available values are included. For example, the values might include:
+ - Position.
+ - Product Name.
+ - Price 5
+ 
+(4)	To set the default sort order for the category, choose the **Default Product Listing Sort By value**.
+
+(5)	To change the default layered navigation price step setting, do the following:
+-	Clear the **Use Config Settings** checkbox.
+-	Enter the value to be used as an incremental price step for layered navigation.
+
+6)	Click **Save**.
+ 
+![](./imgpart2/it_img521.png?raw=true)
+
+Complete the **Search Engine Optimization Settings**
+
+Expand the Search Engine Optimization Settings section.
+
+(1)	Enter a URL Key for the category, or let the system automatically create one that is based on the category name.
+
+Complete the following meta data for the category:
+
+(2)	Meta Title.
+(3)	Meta Keywords.
+(4)	Meta Description.
+
+Click **Save**.
+ 
+![](./imgpart3/it_img522.png?raw=true)
+
+Choose the **Products** in **Category**
+Expand the Products in Category section. Then, use one of the following methods to add products to the category. 
+
+To find the products:
+
+(1)	Fill out the blank with a value.
+
+(2)	Click Search to find the products.
+
+To include a product in the category. 
+
+(3)	Mark the checkbox of each product, in the first column.
+
+(4)	Click **Save**.
+
+#### Product types
+
+Path: **Products > Catalog**
+
+#####	Product Types
+
+|Product Types|	Description|
+|----|---|
+|Simple Product|	A simple product is a physical item with a single SKU. Simple products have a variety of pricing and of input controls which makes it possible to sell variations of the product. Simple products can be used in association with grouped, bundle, and configurable products.|
+|Configurable Product|	A configurable product appears to be a single product with lists of options for each variation. However, each option represents a separate, simple product with a distinct SKU, which makes it possible to track inventory for each variation.|
+|Grouped Product|	A grouped product presents multiple, standalone products as a group. You can offer variations of a single product, or group them for a promotion. The products can be purchased separately, or as a group.|
+|Virtual Product|	Virtual products are not tangible products, and are typically used for products such as services, memberships, warranties, and subscriptions. Virtual products can be used in association with grouped and bundle products.|
+|Bundle Product|	A bundle product let customers “build their own” from an as sort of options. The bundle could be a gift basket, computer, or any things else that can be customized. Each item in the bundle is a separate, standalone product.|
+|Downloadable Product|	A digitally downloadable product that consists of one or more files that are downloaded. The files can reside on your server or be provided as URLs to any other server.|
+
+
+#####	Manage products
+
+Path: **Products > Catalog**
+ 
+![](./imgpart3/it_img523.png?raw=true)
+
+**Workspace Controls**
+
+|Control|	Description|
+|---|--|
+|-	Add Product|	Initiates the process to create a new simple product. To choose a specific product type, click the down arrow. There are two options: **Simple Product** and **Configurable Product** (Grouped Product, Virtual Product,	Bundle Product,	Downloadable Product)|
+|-	Action|	Lists all actions that can be applied to selected products in the list. To apply an action to a product or group of products, mark the check box in the first column of each product. Options:	Delete, Change,  Status, Update Attributes.|
+|-	Filters|	Initiates a catalog search based on the current filters.|
+|-	Edit|	Opens the product in edit mode or view product’s detail.  You can accomplish the same thing by clicking any where on the row.|
+
+ 
+
+#####	Create a new product
+
+**Simple product**
+ 
+![](./imgpart3/it_img524.png?raw=true)
+
+In the upper-right corner on the Add Product    menu, choose Simple Product.
+ 
+![](./imgpart3/it_img525.png?raw=true)
+
+Choose the attribute set that is used as a template for the product.
+
+![](./imgpart3/it_img526.png?raw=true)
+
+**Complete the required setting.**
+
+(1)	Enter **Product Name**. (required)
+
+(2)	The default SKU that is based on the product name, or enter another.
+
+(3)	**Price**: enter the product price.
+
+Then, Click **Save** to continue.
+ 
+![](./imgpart3/it_img527.png?raw=true)
+
+**Complete the basic settings**
+
+Set Tax Class to one of the following:
+
+(1)	Taxable Goods/None
+
+(2)	Enter the Quantity of the product that is currently in stock. 
+
+(3)	By default, Stock Status is set to In **Stock**
+
+(4)	Enter the Weight of the product.
+
+(5)	Assign Categories to the product. Tap the Select to select available category or you can create new category by click **New Category**
+
+(6)	Accept the default Visibility setting, **Catalog, Search**.
+
+(7)	Mark the Set Product as New checkbox to add the product in the list of new products.
+
+(8)	Choose the Country of Manufacture.
+
+(9)	Enable On Web POS
+
+Then, click **Save** to continue
+ 
+![](./imgpart3/it_img528.png?raw=true)
+
+Complete the product information
+
+Scroll down and complete the information in the following sections as needed:
+
+ - Content
+ - Configurations
+ - Images and Videos
+ - Search Engine Optimization
+ - Related Products, Up-Sells, and Cross-Sells
+ - Customizable Options
+ - Products in Websites
+ - Design
+ - Schedule Design Update
+ - Gift Options
+ - Downloadable Information
+ - Barcode
+ - Suppliers
+
+**Configurable product**
+
+Create a new configurable product
+
+ 
+![](./imgpart3/it_img529.png?raw=true)
+
+In the upper-right corner on the **Add Product** menu, choose **Configurable Product**.
+ 
+![](./imgpart3/it_img530.png?raw=true)
+
+Choose the attribute set that is used as a template for the product.
+ 
+![](./imgpart3/it_img531.png?raw=true)
+
+Complete the required setting
+(1)	Enter **Product Name.** (required)
+
+(2)	The default SKU that is based on the product name, or enter another.
+
+(3)	Enter the product Price.
+
+Then, Click **Save** to continue.
+
+ 
+![](./imgpart3/it_img532.png?raw=true)
+
+Complete the basic settings
+
+(1)	Set Tax Class to one of the following:
+
+ - None.
+ - Taxable Goods.
+
+(2)	Enter the Quantity of the product that is currently in stock. 
+
+(3)	By default, Stock Status is set to In **Stock.**
+
+(4)	Enter the Weight of the product.
+
+(5)	Assign Categories to the product. Tap the Select to select available category or you can create new category by click **New Category**
+
+(6)	Accept the default Visibility setting, **Catalog, Search**.
+
+(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
+
+(8)	Choose the Country of Manufacture.
+
+(9)	Enable on Web POS
+
+Then, click **Save to continue**.
+
+ 
+![](./imgpart3/it_img533.png?raw=true)
+
+Complete the product information.
+
+**Adding configurations**
+ 
+![](./imgpart3/it_img534.png?raw=true)
+
+After creating a product, scroll down the **Configuration** section **>** Click **Create Configurations**.
+ 
+![](./imgpart3/it_img535.png?raw=true)
+
+Choose the attributes
+
+(1)	Mark the checkbox of each attribute that you want to include as a configuration.
+
+(2)	Add a new attribute.
+
+(3)	Click to continue.
+ 
+![](./imgpart3/it_img536.png?raw=true)
+
+For each attribute, mark the checkbox of the values that apply to the product.
+
+Click **Next to continue**
+ 
+![](./imgpart3/it_img537.png?raw=true)
+
+Configure the Images, Price, and Quantity.
+
+Click **Next** to continue.
+
+You will see list product.
+ 
+![](./imgpart3/it_img538.png?raw=true)
+
+Click **Next** to finish the process.
+
+**Grouped product**
+
+![](./imgpart3/it_img539.png?raw=true)
+
+In the upper-right corner on the **Add Product** menu, choose **Grouped Product.**
+ 
+![](./imgpart3/it_img540.png?raw=true)
+Choose the attribute set that is used as a template for the product.
+ 
+![](./imgpart3/it_img541.png?raw=true)
+
+Complete the required setting
+
+(1)	Enter **Product Name**. (required)
+
+(2)	The default SKU that is based on the product name, or enter another.
+
+(3)	Enter the product Price.
+
+Then, Click **Save to continue**.
+ 
+![](./imgpart3/it_img542.png?raw=true)
+
+Complete the basic settings
+
+(1)	Set Tax Class to one of the following:
+
+ - None
+ - Taxable Goods.
+
+(2)	Enter the Quantity of the product that is currently in stock. 
+
+(3)	By default, Stock Status is set to **In Stock**
+
+(4)	Enter the Weight of the product.
+
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click  **New Category**
+
+(6)	Accept the default Visibility setting, **Catalog, Search.**
+
+(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
+
+(8)	Choose the Country of Manufacture.
+
+Then, click **Save to continue.**
+
+ 
+![](./imgpart3/it_img543.png?raw=true)
+**Add product to Group**.
+
+![](./imgpart3/it_img544.png?raw=true)
+
+(1)	Select product that you want to include in the group.
+
+(2)	Click to add them to group.
+ 
+![](./imgpart3/it_img545.png?raw=true)
+
+(1)	Enter a quantity.
+
+(2)	Remove a product from group.
+
+Click **Save** to finish the process.
+
+ 
+![](./imgpart3/it_img546.png?raw=true)
+
+Complete the product information
+
+**Virtual product**
+
+Aside from the absence of the Weight field, the process of creating a virtual product and a simple product is the same.
+ 
+**Bundle product**
+
+ 
+![](./imgpart3/it_img547.png?raw=true)
+
+In the upper-right corner on the Add Product menu, choose Grouped Product.
+ 
+![](./imgpart3/it_img548.png?raw=true)
+
+Choose the attribute set that is used as a template for the product
+ 
+![](./imgpart3/it_img549.png?raw=true)
+
+Complete the required setting
+
+(1)	Enter Product Name. (required)
+
+(2)	The default SKU that is based on the product name, or enter another.
+
+(3)	Enter the product Price.
+
+Then, Click **Save to continue**.
+
+ 
+![](./imgpart3/it_img550.png?raw=true)
+
+Complete the basic settings
+(1)	Set Tax Class to one of the following:
+
+ - None.
+ - Taxable Goods.
+
+(2)	Enter the Quantity of the product that is currently in stock. 
+
+(3)	By default, Stock Status is set to **In Stock**
+
+(4)	Enter the **Weight** of product.
+
+(5)	Assign **Categories** to the product. Tap the **Select** to select available category or you can create new category by clicking on **New Category** 
+
+(6)	Accept the default **Visibility** setting, **Catalog, Search**
+
+(7)	To feature Mark the **Set Product as New** checkbox to add the product in the list of new products.
+
+(8)	Choose the **Country of Manufacture.**
+
+(9)	**Enable on Web POS**
+
+Finally, click **Save** to continue.
+ 
+![](./imgpart3/it_img551.png?raw=true)
+
+Add **Bundle items**
+
+Scroll down to the **Bundle Items** section. Then, set **Ship Bundle Items** one of the following:
+
+1.	Separately
+2.	Together
+
+Click **Add Option**
+ 
+![](./imgpart3/it_img552.png?raw=true)
+
+(1)	**Option Title** to be used field label.
+
+(2)	Set **Input Type** to one of the following:
+
+•	Drop-down.
+•	Radio buttons.
+•	Checkbox.
+•	Multiple Select.
+
+(3)	Mark to make the field a **required** entry.
+
+(4)	Tap **Add Products to Option**, then mark the checkbox of each product that you want to include in this option.
+ 
+![](./imgpart3/it_img553.png?raw=true)
+
+Mark the checkbox of each product.
+
+Click **Add Selected Products**, you will see.
+ 
+![](./imgpart3/it_img554.png?raw=true)
+
+(1)	Mark the checkbox of a product that you want it is default.
+
+(2)	Enter **Default Quantity**.
+
+Finally, click **Save**.
+ 
+![](./imgpart3/it_img555.png?raw=true)
+
+Complete products information
+
+
+**Downloadable product**
+ 
+![](./imgpart3/it_img556.png?raw=true)
+
+In the upper-right corner on the Add Product menu, choose Grouped Product.
+
+ 
+![](./imgpart3/it_img557.png?raw=true)
+
+Choose **Downloadable** as the **attribute set**
+ 
+![](./imgpart3/it_img558.png?raw=true)
+
+Complete the required setting
+
+(1)	Enter **Product Name**. (required)
+
+(2)	The default **SKU** that is based on the product name, or enter another
+
+(3)	Enter the product **Price**
+
+Then, Click **Save** to continue.
+ 
+![](./imgpart3/it_img559.png?raw=true)
+
+Complete the basic settings
+
+(1)	Set **Tax Class** to one of the following:
+
+ - None.
+ - Taxable Goods
+
+(2)	Enter the **Quantity** of the product that is currently in stock. 
+
+(3)	By default, **Stock Status** is set to **Out of Stock.**
+
+(4)	The **Weight** is not used, because downloadable products are not shipped.
+
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by clicking on **New Category**
+
+(6)	Accept the default **Visibility** setting, **Catalog, Search**.
+
+(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
+
+(8)	Choose the **Country of Manufacture**.
+
+(9)	Enable on Web POS
+
+Then, click **Save** to continue.
+
+ 
+![](./imgpart3/it_img560.png?raw=true)
+
+Complete **downloadable product.**
+
+ 1. Mark the checkbox “**Is this downloadable product**”
+ 2. Enter the **Title** - to use as a heading for the download links.
+ 3. Click **Add Link**, then:
+
+   Enter **Title** and **Price**. For both File and Sample files, choose:
+                
+ - Upload File: To upload the the distribution file to the server.
+   Browse to the file, and select it for upload.
+ - URL: To access the distribution file from a URL. Enter the full URL
+   to the download file.
+
+ 
+![](./imgpart3/it_img561.png?raw=true)
+
+Complete the **Sample**.
+
+(1) Enter the **Title** - to use as a heading for the samples.
+
+(2) Enter the **Title** of the individual sample.
+
+(3) Choose distribution methods.
+
+(4) Click to add another sample.
+
+When complete, click **Save**.
+ 
+![](./imgpart3/it_img562.png?raw=true)
+
+Complete the product information
+
+##### Product settings
+
+**a)	Content**
+ 
+![](./imgpart3/it_img563.png?raw=true)
+
+(1)	Click on **Products**
+
+(2)	Click on **Catalog**
+
+(3)	Click on **Edit**
+ 
+![](./imgpart3/it_img564.png?raw=true)
+
+Scroll down to **Content**, and click on  , then write the description for the product, and the click **Save** on top right of the screen
+
+**b)	Images and Videos**
+ 
+![](./imgpart3/it_img565.png?raw=true)
+
+ - Click on **products**
+ - Click on **catalog**
+ - Click on **edit** of product
+
+![](./imgpart3/it_img566.png?raw=true)
+
+Scroll down to **Images And Videos**, and click on  , then click on **Browse to find or drag image here to upload new image**
+ 
+![](./imgpart3/it_img567.png?raw=true)
+
+Click on **Add Video** to add new video
+ 
+![](./imgpart3/it_img568.png?raw=true)
+
+Fill in the box and the click on **Choose File** to upload new video
+ 
+**c)	Search Engine Optimization**
+ 
+![](./imgpart3/it_img569.png?raw=true)
+
+ - Click on **Products**
+ - Click on **Catalog**
+ - Click on **Edit** of product
+
+![](./imgpart3/it_img570.png?raw=true)
+
+Scroll down to search **Engine Optimization,** and click on  , then fill in the box
+
+**d)	 Related Products, Up-sells and Cross-sells** 
+ 
+![](./imgpart3/it_img571.png?raw=true)
+
+o	Click on respectively
+1.	**Add Related Products**
+2.	**Add Up-sell Products**
+3.	**Add Cross-sell Products**
+
+ 
+![](./imgpart3/it_img572.png?raw=true)
+
+(2)Mark the checkbox to select products
+
+(3)Click on **Add Selected Product**
+ 
+![](./imgpart3/it_img573.png?raw=true)
+
+Click on **Save** to finish
+ 
+**e)	Customizable Options**
+ 
+![](./imgpart3/it_img574.png?raw=true)
+
+This function allows users to set and manage extra price for each product's variant separately.
+
+Users can simply set the extra price to be applied on a product's variant, regardless of its attribute and attribute value.
+
+(1)	Click on **Add Option**
+
+(2)	Enter the **option tittle**
+
+(3)	Select an **option type** 
+
+(4)	Mark the checkbox to require 
+
+(5)	Click on **Add Value**
+
+(6)	Enter a title for the value
+
+(7)	Enter an **extra price**
+
+(8)	Select a **price type**
+
+(9)	Enter an **SKU** for each product’s variant
+
+To remove a value, click  on the right hand-side of the column 
+
+**f)	Gift Option**
+ 
+![](./imgpart3/it_img575.png?raw=true)
+
+ - Click on **Products**
+ - Click on **Catalog**
+ - Click on **Edit of a product**
+
+ 
+![](./imgpart3/it_img576.png?raw=true)
+
+Scroll down to **Gift Option**, and click  on  , then set the allow gift massage to **Yes**
+
+**g)	Downloadable Information**
+ 
+![](./imgpart3/it_img577.png?raw=true)
+
+(1)	Mark the checkbox
+
+(2)	Enter a title for the download link
+
+(3)	Mark the checkbox (if applicable)
+
+(4)	Click “**Add Link**”, then do the following:
+
+(5)	Enter a title for the download
+
+(6)	Enter a number as a price for the download
+
+(7)	Select an upload method for a file **(Upload File/ Use URL)**
+
+(8)	Select an upload method for a file **(Upload File/ Use URL)**
+
+(9)	Select a label in the dropdown list: 
+
+ - **No**: to requires customers to log in to their accounts to access the
+   download link.
+ - **Yes**: Sends the link by email, which customers can share with others.
+
+**Uses Config**: Uses the method that is specified in the Dowloadable Product Options configuration. 
+
+(10)	Enter the number of **Max. downloads** to limit downloads per customer. 
+
+Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
+
+**h)	Barcode**
+ 
+![](./imgpart3/it_img578.png?raw=true)
+
+-	Enter barcode 
+-	Select a barcode template and see the preview as below 
+-	Enter the quantity to print out
+-	Click on **Save** to finish
+
+**i)	Suppliers**
+ 
+![](./imgpart3/it_img579.png?raw=true)
+
+ 
+![](./imgpart3/it_img580.png?raw=true)
+
+(1)	Click on **Add Supplier**
+
+(2)	Mark the checkbox to select suppliers
+
+(3)	Click on **Add Selected Supplier**
+ 
+![](./imgpart3/it_img581.png?raw=true)
+
+(4)	Enter the **Supplier SKU, Cost, Tax**
+
+(5)	Click **Save** to finish
