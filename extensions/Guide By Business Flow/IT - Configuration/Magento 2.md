@@ -490,7 +490,8 @@ The shopping cart price rule actions describe how prices are updated when the co
 (3)	**Maximum Qty. Discount is Applied:** Enter the maximum quantity of the same product that can qualify for the discount in the same purchase.
 
 (4)	**Discount Qty. Step (Buy X):** For a **Buy X get Y Free** discount, enter a quantity that the customer must purchase to receive the discount.
-5)	**Apply to Shipping Amount**: If you choose **Yes** - Applies the discount amount to the subtotal and shopping amounts separately. Vice versa, applies the discount amount only to the subtotal.
+
+(5)	**Apply to Shipping Amount**: If you choose **Yes** - Applies the discount amount to the subtotal and shopping amounts separately. Vice versa, applies the discount amount only to the subtotal.
 
 (6)	**Discard Subsequent Rules:** Stop processing other rules after this rule is applied.
 
@@ -867,7 +868,8 @@ Moreover, click on I**mport Gift Codes** to import data from your device to the 
 (1)	Select **Save & Send Email** to save and send Gift Codes via emails to both sender and recipient
 
 (2)	Select **Save & Continue Edit** to finish.
-
+
+
 **2/	Manage Gift Card History per customer**
 
 Path: **Customers > All Customers**
@@ -940,7 +942,9 @@ You can filter data with the above criteria to get more accurate reports. Inform
 ![](./img102/it_img075.png?raw=true)
 
 (1)	Click on **Reward Points**
+
 (2)	Click on **Spending rates** 
+
 (3)	Click on **Add new spending rate**
 
 ![](./img102/it_img076.png?raw=true)
@@ -1036,7 +1040,9 @@ Path: **Sales > Orders**
 ![](./img102/it_img090.png?raw=true)
 
 (1)	Click on **Sales**
+
 (2)	Choose **Orders**
+
 (3)	Click on **Create new order**
 
 ![](./img102/it_img091.png?raw=true)
@@ -1135,13 +1141,13 @@ To add a new credit product, you can click on the **Add Credit Product** button 
 
 You can add a credit product just in a similar way to adding a normal product. You should pay attention to these following tabs:
 
-a)	**Prices** Tab:
+**a)**	**Prices** Tab:
 
 ![](./imgpart2/it_img108.png?raw=true)
 
 In this tab, you can configure the value of the credit product. There are three types of credit products including **fixed value, range of values and drop-down value.**
 
-b)	**Setting** Section:
+**b)**	**Setting** Section:
 
 ![](./imgpart2/it_img109.png?raw=true)
 
@@ -1171,7 +1177,7 @@ b)	**Setting** Section:
 
 (10)	**Visible on Web POS:** activate the Store Credit on the Web POS
 
-c)	**Advanced Inventory**
+**c)**	**Advanced Inventory**
 
 Path: **New Product > Quantity > Advanced Inventory**
 
@@ -1185,7 +1191,7 @@ Path: **New Product > Quantity > Advanced Inventory**
 
 (3)	**Out-of-stock Threshold:** our module sets up the field as **0**. It means the product will be notified **Out-of-stock** when the number of items is **0**. You can edit it by uncheck box **Use Config Settings**
 
-(4)	**Minimum Qty. Allowed in Shopping Cart:** our modules set up the field as **1**. It means a customer must have at least 1 product in a single order to purchase Store Credit Product. You can edit it by non- checking box **Use Config Setting**s.
+(4)	**Minimum Qty. Allowed in Shopping Cart:** our modules set up the field as **1**. It means a customer must have at least 1 product in a single order to purchase Store Credit Product. You can edit it by non- checking box **Use Config Settings**.
 
 (5)	**Maximum Qty. Allowed in Shopping Cart:** as mentioned in No.4
 
@@ -1196,8 +1202,11 @@ Path: **New Product > Quantity > Advanced Inventory**
 (7)	**Allow Multiple Boxes for Shipping:** select **NO** if the Qty. purchased CAN NOT be shipping in separate boxed
 
 (8)	**Backorders:** **Backorder** means funds are still authorized or captured immediately when the order is placed, regardless of whether the product is in stock. Product will be shipped as they become available
+
 •	**No backorders:** Do not accept backorders when product is out stock
+
 •	**Allow Qty. below 0:** Accept backorders when the Qty. falls below zero
+
 •	**Allow Qty. below 0 and notify customer:** accept backorders when the Qty. falls below zero, but notifies customers that orders can still be placed
 
 (9)	**Use Deferred Stock Updated**
@@ -1231,7 +1240,7 @@ You can search any transaction by using filter boxes in each column.
 
 If you click on a Customer’s email, you will be navigated to the **Customer Information** page.
 
-b) **Credit Report Charts**
+**b)** **Credit Report Charts**
 
 Path: **Store Credit > Credit Transactions** Section **> Customer Credit Report**
 
@@ -1291,7 +1300,7 @@ Path: **Store Credit > Settings**
 
 ![](./imgpart2/it_img126.png?raw=true)
 
-a)	**General Configuration** Tab:
+**a)**	**General Configuration** Tab:
 
 Path: **Magento Extension > Store Credit**
 
@@ -1303,7 +1312,7 @@ Path: **Magento Extension > Store Credit**
 
 (3)	**Groups can use edit:** allow only general/wholesaler/retailer or all customers able to use credits
 
-b)	**Spend Credit On** Tab
+**b)**	**Spend Credit On** Tab
 
 ![](./imgpart2/it_img128.png?raw=true)
 
@@ -1311,7 +1320,7 @@ b)	**Spend Credit On** Tab
 
 (2)	**Shipping fee:** If you choose **No**, credit balance cannot be used to pay for Shipping Fee
 
-c)	**Email Configuration** Tab:
+**c)**	**Email Configuration** Tab:
 
 ![](./imgpart2/it_img129.png?raw=true)
 
@@ -1323,7 +1332,7 @@ c)	**Email Configuration** Tab:
 
 (4)	**Send-to-customer email template when recipient receives credit:** default
 
-d)	**Adjust time for Customer credit reports on total used and total received credit** Tab:
+**d)**	**Adjust time for Customer credit reports on total used and total received credit** Tab:
 
 ![](./imgpart2/it_img130.png?raw=true)
 
@@ -1331,7 +1340,7 @@ d)	**Adjust time for Customer credit reports on total used and total received cr
 
 (2)	**Select date for current month:** choose Date
 
-e)	**Style configuration** tab: on this tab, you will be able to change background and color of Title
+**e)**	**Style configuration** tab: on this tab, you will be able to change background and color of Title
 
 ![](./imgpart2/it_img131.png?raw=true)
 
