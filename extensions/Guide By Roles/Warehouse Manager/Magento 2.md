@@ -218,7 +218,7 @@ To add new list of products,
 3. Choose the quantity to transfer and click on **Start Request Stock**
 4. Click on **Remove** to delete product line
 
- ![enter image description here](./image_Inventory%20Management/image063.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image053.png?raw=true)
 
 The request transfer is completed
 
@@ -226,49 +226,49 @@ The request transfer is completed
 
  - **DELIVERY STOCK**
 
- ![enter image description here](./image_Inventory%20Management/image065.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image055.png?raw=true)
 
 Click on **Select Products** in delivery history
 
-![enter image description here](./image_Inventory%20Management/image067.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image057.png?raw=true)
 
 1. Click on the request created for the transfer
 2. **Add Selected Products**
 
- ![enter image description here](./image_Inventory%20Management/image069.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image059.png?raw=true)
 
 Write the quantity deliveried in delivery history
 
-  ![enter image description here](./image_Inventory%20Management/image071.png?raw=true)
+  ![enter image description here](./image_Inventory%20Management/image061.png?raw=true)
 
 Click on **Save Delivery**
 
-![enter image description here](./image_Inventory%20Management/image073.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image063.png?raw=true)
 
 Create delivery sucessfully
 
  - **RECEIVE STOCK**
 
- ![enter image description here](./image_Inventory%20Management/image075.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image065.png?raw=true)
 
 Click on **Select Products** in receiving history
 
- ![enter image description here](./image_Inventory%20Management/image077.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image067.png?raw=true)
 
 1. Click on the request created for receiving
 2. Click on **Add Selected Products**
 
- ![enter image description here](./image_Inventory%20Management/image079.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image069.png?raw=true)
 
 Write the quantity received in receiving history
 
- ![enter image description here](./image_Inventory%20Management/image081.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image071.png?raw=true)
 
 Click on **Save Receive**
 
- ![enter image description here](./image_Inventory%20Management/image083.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image073.png?raw=true)
 
-![enter image description here](./image_Inventory%20Management/image085.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image075.png?raw=true)
 
 Create receiving successfully.
 
@@ -287,7 +287,7 @@ Now let’s go to the detailed steps:
  - First, Go to **Sales > Order** > Select to the refund order requested
    from customer.
 
- ![enter image description here](./image_Inventory%20Management/image087.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image077.png?raw=true)
 
  - If the order was invoiced and shipped to the customers, the refund request will be accepted. Then go to the next step.  
  If the order didn’t meet the refund policy (exceed a certain time limit etc), then the staff can end the refund process and complete the order without further adjustment.
@@ -302,17 +302,17 @@ When the refund order is accepted, follow this step to complete the refund proce
 
  - **Step 1**:  Go to Sales > Order > Create Credit Memo
 
- ![](./image_Inventory%20Management/image089.png?raw=true)
+ ![](./image_Inventory%20Management/image079.png?raw=true)
 
  - **Step 2:** 
    1. Select Warehouse where refund goods will be restored. 
    2. Input the quality to refund.
 
- ![](./image_Inventory%20Management/image091.png?raw=true)
+ ![](./image_Inventory%20Management/image081.png?raw=true)
 
  - **Step 3**: End the refund offline process.
 
- ![](./image_Inventory%20Management/image093.png?raw=true)
+ ![](./image_Inventory%20Management/image083.png?raw=true)
 
 ### Goods Delivery
 #### Create New Order 
@@ -321,36 +321,36 @@ When the refund order is accepted, follow this step to complete the refund proce
 
 -  *Or Sales > Orders*
 
- ![](./image_Inventory%20Management/image095.png?raw=true) 
+ ![](./image_Inventory%20Management/image085.png?raw=true) 
 
  1. Click on **Create New Order**
     
-![](./image_Inventory%20Management/image097.png?raw=true)
+![](./image_Inventory%20Management/image087.png?raw=true)
     
  2.  Double click on a customer line to select a customer  
     
-  ![](./image_Inventory%20Management/image099.png?raw=true)
+  ![](./image_Inventory%20Management/image089.png?raw=true)
  
  3. Click on **Add Products** 
  
- ![](./image_Inventory%20Management/image101.png?raw=true)
+ ![](./image_Inventory%20Management/image091.png?raw=true)
  
  4. Click on **Search** and use filter to search expected products 
  5. Mark the checkbox to **select products** 
  6. Enter the **quantity** to order
  7. Click on **Add Selected Products** to order 
 
-![](./image_Inventory%20Management/image103.png?raw=true)
+![](./image_Inventory%20Management/image093.png?raw=true)
 
 8. Mark the checkbox **Custom Price** to customize a price 
 9. Mark the checkbox to **Apply discount** (if any)
 10. **Apply coupon code** and **Use gift card to checkout** 
 
- ![](./image_Inventory%20Management/image105.png?raw=true)
+ ![](./image_Inventory%20Management/image095.png?raw=true)
  
 11. Select a **shipping method**
 
- ![](./image_Inventory%20Management/image107.png?raw=true)
+ ![](./image_Inventory%20Management/image097.png?raw=true)
  
 12. Mark the checkbox to **append comments** or **email order confirmation** to the customer
 13. Click on **Submit Order.**
@@ -362,22 +362,22 @@ The order has been created successfully.
 
  - *Path: Fulfillment > Order Fulfillment > Verify Orders*
 
- ![](./image_Inventory%20Management/image109.png?raw=true)
+ ![](./image_Inventory%20Management/image099.png?raw=true)
 
 1. Click on **Process Verify** to verify the order
 
- ![](./image_Inventory%20Management/image111.png?raw=true)
+ ![](./image_Inventory%20Management/image101.png?raw=true)
 
 2. Click on **Mark as Verified**, then the order has been verified successfully
 
 #### Prepare Fulfil
 
- ![](./image_Inventory%20Management/image113.png?raw=true)
+ ![](./image_Inventory%20Management/image103.png?raw=true)
 
 1. Click on tab **Prepare Fulfill** on the top sidebar
 2. Click on Fulfill
 
- ![](./image_Inventory%20Management/image115.png?raw=true)
+ ![](./image_Inventory%20Management/image105.png?raw=true)
 
 *On the pop-up screen*
 
@@ -385,7 +385,7 @@ The order has been created successfully.
 
 4. Click on **Add products** to request
 
- ![](./image_Inventory%20Management/image117.png?raw=true)
+ ![](./image_Inventory%20Management/image107.png?raw=true)
  
 5. Mark the checkbox to **select products**
 6. Enter the **quantities to pick**
@@ -393,12 +393,12 @@ The order has been created successfully.
 
 #### Pick Items
 
- ![](./image_Inventory%20Management/image119.png?raw=true)
+ ![](./image_Inventory%20Management/image109.png?raw=true)
  
 1. Click on tab **Pick Items** on the top sidebar
 2. Click on **View Details**
 
- ![](./image_Inventory%20Management/image121.png?raw=true)
+ ![](./image_Inventory%20Management/image111.png?raw=true)
 
 *On the pop-up screen*
 
@@ -406,30 +406,30 @@ The order has been created successfully.
 
 4. Enter the **picked quantity**
 
- ![](./image_Inventory%20Management/image123.png?raw=true)
+ ![](./image_Inventory%20Management/image113.png?raw=true)
  
 5. Click on **Mark as Picked** to finalise
 6. Or click on **Mark all items picked** to pick all items ordered above
 
- ![](./image_Inventory%20Management/image125.png?raw=true)
+ ![](./image_Inventory%20Management/image115.png?raw=true)
 
 On the pop-up screen, scroll down then
 7. Click on **Print Picked Items** to print a picking slip
 
 #### Pack Items 
 
- ![](./image_Inventory%20Management/image127.png?raw=true)
+ ![](./image_Inventory%20Management/image117.png?raw=true)
  
 1. Click on **Pack Items** 
 2. Click on **View Details**
 
- ![](./image_Inventory%20Management/image129.png?raw=true)
+ ![](./image_Inventory%20Management/image119.png?raw=true)
  
 On **Pack Request Information tab**
 3. Use **scanning barcode** to scan packing items
 4. Enter the **quantity of products packed**
 
- ![](./image_Inventory%20Management/image131.png?raw=true)
+ ![](./image_Inventory%20Management/image121.png?raw=true)
  
 5. Write a comment about this package 
 6. Mark checkboxes to:
@@ -440,22 +440,22 @@ On **Pack Request Information tab**
 
 Your recently package will be displayed as below
 
- ![](./image_Inventory%20Management/image133.png?raw=true)
+ ![](./image_Inventory%20Management/image123.png?raw=true)
 
 #### Delivery Packages
 #### Invoices
 
  - *Path: Fulfillment > Orders Lisitng > All Orders*
 
- ![](./image_Inventory%20Management/image135.png?raw=true)
+ ![](./image_Inventory%20Management/image125.png?raw=true)
  
 1. Click on **View** to see detailel information
 
- ![](./image_Inventory%20Management/image137.png?raw=true)
+ ![](./image_Inventory%20Management/image127.png?raw=true)
  
 2. Click on **Invoice** tabs 
 
- ![](./image_Inventory%20Management/image139.png?raw=true)
+ ![](./image_Inventory%20Management/image129.png?raw=true)
 
 *On the pop-up screen*
 
@@ -463,7 +463,7 @@ Your recently package will be displayed as below
 
 4. Click on **Update Qty’s** if there is any changes in quantities
 
- ![](./image_Inventory%20Management/image141.png?raw=true)
+ ![](./image_Inventory%20Management/image131.png?raw=true)
  
 5. Mark the checkbox to send a copy of invoice to customer via email
 6. Click on Submit Invoice to finalise
@@ -483,44 +483,44 @@ Then move to **Step 3**: *Admin receives Tracking Information from Supplier -> E
 
 -	*Path: Sales > Orders* 
 
- ![](./image_Inventory%20Management/image143.png?raw=true)
+ ![](./image_Inventory%20Management/image133.png?raw=true)
 
 Click on “**Create new order**” in sales
 
- ![](./image_Inventory%20Management/image145.png?raw=true)
+ ![](./image_Inventory%20Management/image135.png?raw=true)
 
 Click on the customers chosen to make new orders
 
- ![](./image_Inventory%20Management/image147.png?raw=true)
+ ![](./image_Inventory%20Management/image137.png?raw=true)
 
 Click on **Add Products** to choose products for the sale order
 
- ![](./image_Inventory%20Management/image149.png?raw=true)
+ ![](./image_Inventory%20Management/image139.png?raw=true)
 
 Choose the products to sell and set the quantity in the **Select** and **Quantity** column, after that, click on **Add Selected Product(S) Order**
 
- ![](./image_Inventory%20Management/image151.png?raw=true)
+ ![](./image_Inventory%20Management/image141.png?raw=true)
 
 Choose the rate in the shipping method
 
-![](./image_Inventory%20Management/image153.png?raw=true)
+![](./image_Inventory%20Management/image143.png?raw=true)
 
 Click on **Submit Order** to submit order
 
- ![](./image_Inventory%20Management/image155.png?raw=true)
+ ![](./image_Inventory%20Management/image145.png?raw=true)
 
 Click on **Mark As Verified**
 
-![](./image_Inventory%20Management/image157.png?raw=true)
+![](./image_Inventory%20Management/image147.png?raw=true)
 
 Click on **Fulfill** to continue the process
 
- ![](./image_Inventory%20Management/image159.png?raw=true)
+ ![](./image_Inventory%20Management/image149.png?raw=true)
  
 1. Click on **Request Dropship**
 2. Click on **Add Products To Request**
 
- ![](./image_Inventory%20Management/image161.png?raw=true)
+ ![](./image_Inventory%20Management/image151.png?raw=true)
  
 1. Click on the product and set the quantity
 2. Click on **Add Selected Product(s) To Request**
@@ -532,17 +532,17 @@ The Dropship request is saved in **Dropship Request**. The status of this dropsh
 
 Each supplier selected will receive a notification email about the drop-ship request as below: 
 
-![](./image_Inventory%20Management/image163.png?raw=true)
+![](./image_Inventory%20Management/image153.png?raw=true)
 
 As being instructed in the email, the supplier follows the login link to access the **Supplier Manager** page and then fills in the Qty. that he can ship.
 
 **Note:** When adding/ editing a supplier, the **Password Management** section will be shown. You can set password and email it to the supplier. The email will be shown as below:
 
- ![](./image_Inventory%20Management/image165.png?raw=true)
+ ![](./image_Inventory%20Management/image155.png?raw=true)
 
 In case the supplier forget the password, the can request to reset the password. After the request is send, the supplier will receive a notification email as below:
 
- ![](./image_Inventory%20Management/image167.png?raw=true)
+ ![](./image_Inventory%20Management/image157.png?raw=true)
 
 The supplier can use his email address and password to log in on the **Supplier** page and create drop-ship. 
 
@@ -550,13 +550,13 @@ The supplier can use his email address and password to log in on the **Supplier*
 
 If the supplier can’t meet your demand, they would refuse to create shipment. You will receive a notification email as below:
 
- ![](./image_Inventory%20Management/image169.png?raw=true)
+ ![](./image_Inventory%20Management/image159.png?raw=true)
 
 -  **If the item is available in stock -> Creates Shipments -> Ships items to customers and confirm the shipped Qty after shipping.** 
 
 The supplier need to enter the carrier information and shipped Qty to create shipment. After a supplier create shipment, you will receive a notification email as below:            
 
- ![](./image_Inventory%20Management/image171.png?raw=true)
+ ![](./image_Inventory%20Management/image161.png?raw=true)
 
 When supplier created Shipments and confirmed email to the customer. Then we will move to **Step 3**.
 
@@ -584,7 +584,7 @@ The process is divided into these steps below:
 
 ➢	**Step 1:** *Inventory Manager creates Stock Taking then exports list of product*
 
-![enter image description here](./image_Inventory%20Management/image015.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image163.png?raw=true)
 
 1.	Select the warehouse to do the stocktaking.
 2.	You can customize the stocktaking code (in fact, this data is auto generated by the system).
@@ -593,7 +593,7 @@ The process is divided into these steps below:
 5.	Enter the reason why you do this stocktaking.
 6.	Click on “**Prepare Product List**” to select products.
 
- ![enter image description here](./image_Inventory%20Management/image017.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image165.png?raw=true)
 
 *On the pop-up screen:*
 There are 2 ways to prepare a product list:
@@ -607,12 +607,12 @@ There are 2 ways to prepare a product list:
 
 ➢	**Step 2**: *Inventory Staff counts quantity of product in stock -> Update Stock Taking (input data)*
 
- ![enter image description here](./image_Inventory%20Management/image019.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image167.png?raw=true)
 
 10.	Enter the amount of items physically counted
 11.	Click on “**Complete Data Entry**” 
 
- ![enter image description here](./image_Inventory%20Management/image021.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image169.png?raw=true)
 
 12.	Click on “**Re-data Entry**” to re-select the product list (if any).
 13.	Click on “**Complete Stocktake**” to fulfil the stocktaking process.
@@ -621,12 +621,12 @@ There are 2 ways to prepare a product list:
 
 ➢	**Step 3**: *Inventory Manager creates Adjust Stock -> Complete Adjust Stock -> Update the inventory records* 
 
-![enter image description here](./image_Inventory%20Management/image023.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image171.png?raw=true)
 
 15.	Click on “**Adjust Stock**” to update the inventory records 
 16.	Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
- ![enter image description here](./image_Inventory%20Management/image025.png?raw=true) 
+ ![enter image description here](./image_Inventory%20Management/image173.png?raw=true) 
 
 *On the pop-up screen:*
 
@@ -634,7 +634,7 @@ There are 2 ways to prepare a product list:
 
 18.	Click on **Adjust** to update the inventory records
 
- ![enter image description here](./image_Inventory%20Management/image027.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image175.png?raw=true)
 
 *On the pop-up screen:*
 This final pop-up screen summarises the data of your recently inventory adjustment, including: old quantity, change quantity (discrepancies) and adjust quantity.
@@ -656,60 +656,60 @@ When admin wants to send stock from his warehouse to another warehouse, the proc
 
 ➢	**Step 1 + 2**: 
 
- ![enter image description here](./image_Inventory%20Management/image029.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image177.png?raw=true)
 
 Fill the **Transfer Code**, choose **Source Warehouse** and **Destination Warehouse**
 
 Fill in the **Reason** box
 
-![enter image description here](./image_Inventory%20Management/image031.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image179.png?raw=true)
 
 To prepare product list, click on the **Prepare Product List** button
 
- ![enter image description here](./image_Inventory%20Management/image033.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image181.png?raw=true)
 
 Add new list (click on **Select Products**) or import a list of product prepared before (click on **Import**)
 
- ![enter image description here](./image_Inventory%20Management/image035.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image183.png?raw=true)
 
 To add new list of products, 
 1. Click on the product needed 
 2. **Add Selected Products**
 
- ![enter image description here](./image_Inventory%20Management/image037.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image185.png?raw=true)
 
 3. Choose the quantity to transfer and click on **Start Send Stock**
 4. Click on **Remove** to delete product line
 
- ![enter image description here](./image_Inventory%20Management/image039.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image187.png?raw=true)
  
 The send transfer is completed
 
 ➢ **Step 3**:
 
-![enter image description here](./image_Inventory%20Management/image041.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image189.png?raw=true)
 
 Click on **Select Products** in receiving history
 
 
- ![enter image description here](./image_Inventory%20Management/image043.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image191.png?raw=true)
 
 1. Click on the send created for receiving
 2. Click on **Add Selected Products**
 
 
- ![enter image description here](./image_Inventory%20Management/image045.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image193.png?raw=true)
 
 Write the quantity received in receiving history 
 
 
-![enter image description here](./image_Inventory%20Management/image047.png?raw=true)
+![enter image description here](./image_Inventory%20Management/image195.png?raw=true)
 
 Click on **Save Receive**
 
  
- ![enter image description here](./image_Inventory%20Management/image049.png?raw=true)
- ![enter image description here](./image_Inventory%20Management/image051.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image197.png?raw=true)
+ ![enter image description here](./image_Inventory%20Management/image199.png?raw=true)
 
 Create receiving successfully
 
