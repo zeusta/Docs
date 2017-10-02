@@ -307,3 +307,32 @@ On **Actions** Tab:
 ***Note:** You can edit the rule that you **Save and Apply** or **Save** by going to **Inventory Management > Prediction** section **> Low Stock Rules >** clicking on **Edit***
 
 ![](./img102/it_img020.png?raw=true)
+
+---------
+
+
+### 3.Web POS
+
+
+#### 3.1.Default Guest Checkout
+
+
+Path: **Sale > Web POS** section > **Setting > Default Guest Checkout**
+
+Default customer is the customer whose information will be used for Guest Checkout or when customer information is not enough, default value will be filled automatically.
+
+![](./img102/it_img021.png?raw=true)
+	
+Fill in all information as you want to use as default, including **First Name, Last Name, Street, Country, State/Province, City, Zip/Postal Code, Telephone** and **Email**. After finishing, click on **Save Config** button to save your work.
+
+
+#### 3.2.	How Web POS works with peripheral devices
+
+
+MageStore Web POS module can connect with Barcode readers, Card swiper & Receipt printers. 
+
+1)	**Barcode readers:** are any devices that can connect with iPad/Laptop/PC (including USB Port, Wifi or Bluetooth). The scanner can read barcodes & fill encoded information into Web POS search box.
+
+2)	**Card swiper:** only devices connected through USB port (supports Authorize.Net & Stripe).
+
+3)	**Receipt printers:** any devices that connect with iPad/laptop/PC
