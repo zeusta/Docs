@@ -21,7 +21,7 @@ This guide will help you – an IT Manager – to configure a successful strong 
 
 After purchasing an module, you will receive an email that includes the link to access **My License Certificates** on Magestore website.
 
-![](./IT%20-%20Configuration/img102/it_img001.png?raw=true)
+![](./img102/it_img001.png?raw=true)
 
 If you don’t receive the email, you can directly log in to your account dashboard at Magestore then go to **My Account/My License Certificates**.
 
