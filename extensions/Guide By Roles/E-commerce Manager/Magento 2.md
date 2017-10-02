@@ -28,6 +28,7 @@ This guide is specially written according to each role of an ecommerce business 
 ----------------------
 
 ## For Ecommerce Manager
+
 ### Validating Orders & Store Pickup Processing
 ####  Validate orders
 ##### Check orders in store
@@ -960,13 +961,17 @@ On Gift Card History page, you will know when Gift Cards were created/ updated/ 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience. 
 
 ## For Ecommerce Staff
+
 ### Validating orders and Store Pickup process 
+
 ####  Validate orders
+
 #####  Check orders in store
 
 To check online orders, you can refer to section   **Check orders in store**  - Validating Orders and Store Pickup part in Role for Ecommerce Manager above.
 
 #####  Process shipment for customers
+
 ######  Create shipment
 
 Follow the steps in section **Create shipment**  - Validating Orders and Store Pickup part in Role for Ecommerce Manager 
