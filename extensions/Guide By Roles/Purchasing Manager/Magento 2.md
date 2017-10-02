@@ -29,10 +29,10 @@ Click on **Add New Suppliers** to create a new supplier’s contact.
 ![input supplier information](./image_purchase_manager/image043.png) 
 
 Fill in all the required fields, including: 
-- Supplier Code (customise by yourself)
-- Supplier Name
-- Contact Person (who represents the supplying firm)
-- Supplier’s Email
+ - Supplier Code (customise by yourself)
+ - Supplier Name
+ - Contact Person (who represents the supplying firm)
+ - Supplier’s Email
 Choose **Enable** to activate the suppliers.
   
 *	In **Supplier Address** tab:
