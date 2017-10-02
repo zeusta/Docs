@@ -47,7 +47,7 @@ You also can go to **MageStore Check License Information** page, enter your Lice
 You **do not need to insert this license serial into your module back-end**. Simply provide it in your ticket/ email when you request for our support.
 
 
-###2.	Download Solution Package
+### 2.Download Solution Package
 
 Go to **My Downloadable Products**. Click on the version of that you want to install to download it. The file that you download is normally a zip file.
 
@@ -56,7 +56,7 @@ Here you also can find related documents, such as user guide.
 ![](./img102/it_img003.png?raw=true)
 
 
-###3.	Install the Package Downloaded
+### 3.	Install the Package Downloaded
 
 If you are new to Magento 2, you probably need a little help to get started before installing an module:
 
