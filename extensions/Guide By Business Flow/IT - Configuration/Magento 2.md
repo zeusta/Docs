@@ -25,7 +25,7 @@ After purchasing an module, you will receive an email that includes the link to 
 
 If you don’t receive the email, you can directly log in to your account dashboard at Magestore then go to **My Account/My License Certificates**.
 
-![](.img102/img002.png)
+![](./img102/it_img002.png?raw=true)
 
 Here you will select your Order number and a corresponding Product then type the **back-end domain of your live site**. It is optional to add your Development Domains right away or later.
 
@@ -53,7 +53,7 @@ Go to **My Downloadable Products**. Click on the version of that you want to ins
 
 Here you also can find related documents, such as user guide.
 
-![](.img102/img003.png)
+![](./img102/it_img003.png?raw=true)
 
 
 ###3.	Install the Package Downloaded
@@ -80,7 +80,7 @@ Unzip the module package downloaded. When you have completed, you will have a fo
 
 Now, please connect to your FTP by using FileZilla or other FTP Application to upload the files to your server:
 
-![](.img102/img004.png)
+![](./img102/it_img004.png?raw=true)
 
 After uploading all the files to your server, please login to your SSH by using Putty or SSH command line. Them, please use “cd” command to change the directory to Magento 2 root folder:
 
@@ -92,19 +92,19 @@ Run the setup:upgrade command line:
 
 Wait a second to complete installation process:
 
-![](.img102/img005.png)
+![](./img102/it_img005.png?raw=true)
 
 If your website is in the Production mode, you should re-run the Magento compile command. Please enter the command:
 
 ***php bin/magento setup:di:compile*** 
 
-![](.img102/img006.png)
+![](./img102/it_img006.png?raw=true)
 
 After that, if your website is in the Default or the Production mode, please type the command line to deploy the static content:
 
 ***php bin/magento setup:static-content:deploy***
 
-![](.img102/img007.png)
+![](./img102/it_img007.png?raw=true)
 
 Then, if your website enabled the cache, please enter this command:
 
