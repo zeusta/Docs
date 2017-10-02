@@ -1,6 +1,6 @@
 
 # WAREHOUSE MANAGER - USERGUIDE FOR MAGENTO 2
-----
+
 
 *Confidential Information Notice.* 
 
@@ -8,7 +8,7 @@
 
 *This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
------
+-------------
 
 ## INTRODUCTION
 
@@ -22,7 +22,7 @@ Thanks and Best regards,
 **Magestore Team** 
 
 
-
+-------------
 
 
 ## PERMISSION MATRIX
@@ -35,7 +35,7 @@ Thanks and Best regards,
 ![enter image description here](./image_Inventory%20Management/image003.png?raw=true) 
 
 
-
+-------------
 
 
 ## FOR WAREHOUSE MANAGER
@@ -570,7 +570,7 @@ When supplier created Shipments and confirmed email to the customer. Then we wil
 *(Coming soon)*
 
 
-
+-------------
 
 ## FOR WAREHOUSE STAFF
 
