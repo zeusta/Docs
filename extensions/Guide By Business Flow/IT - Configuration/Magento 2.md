@@ -10,15 +10,15 @@
 
 ---------
 
-## I. INTRODUCTION
+## INTRODUCTION
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business.    Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
-## II. HOW TO INSTALL
+## HOW TO INSTALL
 
 
 
-### 1.	Generate License Certificate
+### Generate License Certificate
 
 
 After purchasing an module, you will receive an email that includes the link to access **My License Certificates** on Magestore website.
@@ -50,7 +50,7 @@ You **do not need to insert this license serial into your module back-end**. Sim
 
 
 
-### 2.Download Solution Package
+### Download Solution Package
 
 
 Go to **My Downloadable Products**. Click on the version of that you want to install to download it. The file that you download is normally a zip file.
@@ -61,7 +61,7 @@ Here you also can find related documents, such as user guide.
 
 
 
-### 3.	Install the Package Downloaded
+### Install the Package Downloaded
 
 
 If you are new to Magento 2, you probably need a little help to get started before installing an module:
@@ -122,16 +122,16 @@ Finally, coming back to Magento 2 admin to check if the module is installed prop
 
 --------
 
-## III.	HOW TO CONFIGURE
+## HOW TO CONFIGURE
 
 
-### 1.	Multi-companies (Coming soon)
+### Multi-companies (Coming soon)
 
 
-### 2.	Inventory
+### Inventory
 
 
-#### 2.1.	Stock Control Configuration
+#### Stock Control Configuration
 
 
 Path: **Stores > Settings** section> **Configuration > MageStore Module > Inventory Management Configuration**
@@ -145,7 +145,7 @@ Path: **Stores > Settings** section> **Configuration > MageStore Module > Invent
 (3)	Click **Save Config** to finish
 
 
-#### 2.2.	Pricelist Configuration
+#### Pricelist Configuration
 
 
 ***Note: Pricelist** is a list of current prices of items on sale*
@@ -159,14 +159,14 @@ Path: **Stores > Settings** section **> Configuration > MageStore Module > Suppl
 (2)	Click **Save Config**.
 
 
-#### 2.3.	Stock Option
+#### Stock Option
 
 Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
 ***Note:** If you want to configure based on your own features, then unmark box **Use System value**.*
 
 
-##### 2.3.1.	Stock Option
+##### Stock Option
 
 
 ![](./img102/it_img010.png?raw=true)
@@ -184,7 +184,7 @@ Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 (6)	Tap **Save** to finish. 
 
 
-##### 2.3.2.	Product Stock Options
+##### Product Stock Options
 
 
 Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
@@ -219,7 +219,7 @@ Next,
 Finally, click on **Save Config** to save changes.
 
 
-#### 2.4.	Low Stock Notification Rules
+#### Low Stock Notification Rules
 
 
 ***Note: Low Stock Alert** is when a type of product is on the verge of low-stock, Low Stock Alert will alert the Inventory manager to import more items. This feature avoids lack of items to supply for stores.* 
@@ -311,10 +311,10 @@ On **Actions** Tab:
 ---------
 
 
-### 3.Web POS
+### Web POS
 
 
-#### 3.1.Default Guest Checkout
+#### Default Guest Checkout
 
 
 Path: **Sale > Web POS** section > **Setting > Default Guest Checkout**
@@ -326,7 +326,7 @@ Default customer is the customer whose information will be used for Guest Checko
 Fill in all information as you want to use as default, including **First Name, Last Name, Street, Country, State/Province, City, Zip/Postal Code, Telephone** and **Email**. After finishing, click on **Save Config** button to save your work.
 
 
-#### 3.2.	How Web POS works with peripheral devices
+#### How Web POS works with peripheral devices
 
 
 MageStore Web POS module can connect with Barcode readers, Card swiper & Receipt printers. 
@@ -337,16 +337,16 @@ MageStore Web POS module can connect with Barcode readers, Card swiper & Receipt
 
 3)	**Receipt printers:** any devices that connect with iPad/laptop/PC
 
-### 4.	Loyalty program
+### Loyalty program
 
 
-#### 4.1.	Catalog Price Rule
+#### Catalog Price Rule
 
 
 Path: **Marketing > Promotions** Section **> Catalog Price Rule**
 
 
-##### 4.1.1.	Manage Catalog Price Rule
+##### Manage Catalog Price Rule
 
 ![](./img102/it_img022.png?raw=true)
 
@@ -356,7 +356,7 @@ Path: **Marketing > Promotions** Section **> Catalog Price Rule**
 
 (3)	Search catalog price rules information with keyword. View or edit a rule’s detail by clicking on each line.
 
-##### 4.1.2.	Type of Pricing Rule
+##### Type of Pricing Rule
 
 | Type of pricing rule | Description|
 | ---| ---|
@@ -365,7 +365,7 @@ Path: **Marketing > Promotions** Section **> Catalog Price Rule**
 |Adjust final price to this percentage| Discount item by defining the final price based on percentage.| Adjust final price to discount value | Sets the price to a fixed amount.
 
 
-##### 4.1.3.	Create a new Catalog Price Rule
+##### Create a new Catalog Price Rule
 
 ![](./img102/it_img023.png?raw=true)
 
@@ -403,11 +403,11 @@ Click the small green button to add conditions.
 -	Set **Yes** to stop processing other rules. This prevents customers from receiving multiple discounts for the same product. 
 To finish, click **Save**
 
-#### 4.2.	Cart Price Rule
+#### Cart Price Rule
 
 ***Note: Cart price rules** apply discounts to items in the shopping cart, based on a set of conditions. When applied, the discount appears in the cart under the subtotal. A cart price rule can be used as needed for a season or promotion by changing its status and date range.*
 
-##### 4.2.1.	Manage Cart Price Rule
+##### Manage Cart Price Rule
 
 Path: **Marketing > Promotion** section **> Cart Price Rule**
 
@@ -420,7 +420,7 @@ Path: **Marketing > Promotion** section **> Cart Price Rule**
 (3)	**Search** cart price rules information with keyword. View or edit a rule’s detail by clicking on each line.
 
 
-##### 4.2.2.	Type of Account
+##### Type of Account
 
 | Type of pricing rule | Description|
 | ---| ---|
@@ -430,7 +430,7 @@ Path: **Marketing > Promotion** section **> Cart Price Rule**
 |Buy X get Y free|Defines a quantity that the customer must purchase to receive a quantity for free (The Discount Amount is Y)
 
 
-##### 4.2.3.	Create a Cart Price Rule
+##### Create a Cart Price Rule
 
 ![](./img102/it_img028.png?raw=true)
 
@@ -516,7 +516,7 @@ The label appears on the order below the subtotal to identify the discount. You 
 (2)	**Default Store View:** If your store has multiple views, or multiple websites with multiple view, enter the appropriate label text for each.
 
 
-##### 4.2.4.	Create a Specific Coupon
+##### Create a Specific Coupon
 
 ![](./img102/it_img034.png?raw=true)
 
@@ -534,7 +534,7 @@ On the **General Information** page, set Coupon to **Specific Coupon.**
 
 Click **Save** to finish.
 
-##### 4.2.5.	Generate a Batch of Coupons
+##### Generate a Batch of Coupons
 
 ![](./img102/it_img035.png?raw=true)
 
@@ -571,12 +571,12 @@ Then,
 When complete, click **Generate**. The list of generated codes appears below it.
 
 
-#### 4.3.	Free Gift Promotions (Coming soon)
+#### Free Gift Promotions (Coming soon)
 
-#### 4.4.	Gift Card
+#### Gift Card
 
 
-##### 4.4.1.	Setting
+##### Setting
 
 
 Path: **Marketing > Gift Card** section **> Settings**
@@ -708,7 +708,7 @@ Select **Yes** to show Gift Card box on the checkout page
 
 Click **Choose File** to upload an image used as a logo when Gift Cards are printed or sent via email. 
 
-##### 4.4.2.	Manage Gift Card Templates
+##### Manage Gift Card Templates
 
 **-	Add new template**
 
@@ -768,7 +768,7 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 (6)	*Additional guidance:* Click **Delete** to remove template
 
-##### 4.4.3.	Generate Gift Code
+##### Generate Gift Code
 
 Path: **Marketing > Gift Card** section **> Generate Gift Code**
 
@@ -812,7 +812,7 @@ A status ***The pattern has been generated successfully*** would be shown on the
 
 A list a generated Gift Codes would be shown at the bottom of the pop-up screen
 
-##### 4.4.4.	Manage Gift Codes
+##### Manage Gift Codes
 
 **1/	Create a new Gift Code**
 
@@ -884,7 +884,7 @@ Path: **Customers > All Customers**
 
 (2)	Click on **Gift Card History** tab to view all transactions in which gift cards were applied
 
-##### 4.4.5.	Apply Gift code when create new order
+##### Apply Gift code when create new order
 
 Path: **Customers > All Customers**
 
@@ -903,7 +903,7 @@ On **Create New Order** page, after selecting a customer and adding a product to
 Scroll down to view **Order Totals** label, then click on (4)** Submit Order** to finish.
 
 
-##### 4.4.6.	Refund Orders
+##### Refund Orders
 
 Path: **Sales > Operations**  section **> Orders**
 
@@ -925,7 +925,7 @@ Path: **Sales > Operations**  section **> Orders**
 
 (5)	Click on **Refund Offline** to finish.
 
-##### 4.4.7.	History
+##### History
 
 Path: **Marketing > Gift Card** section **> Gift Code History**
 
@@ -935,9 +935,9 @@ On **Gift Card History** page, you will know when Gift Cards were created/ updat
 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience. 
 
-#### 4.5.	Reward Point
+#### Reward Point
 
-##### 4.5.1.	Add new rate
+##### Add new rate
 
 ![](./img102/it_img075.png?raw=true)
 
@@ -959,7 +959,7 @@ Click on **Save spending rate** after finishing filling in all the boxes
 
 The new earning rate will be shown as the beside image
 
-##### 4.5.2.	Edit existing rate 
+##### Edit existing rate 
 
 Path: **Reward Point > Spending** section **> Spending Rates**
 
@@ -971,7 +971,7 @@ Click on **Edit** on action column of the rate needed to be edited
 
 Edit the rate, then click **Save** spending rate, or **Delete** it
 
-##### 4.5.3.	Manage transaction
+##### Manage transaction
 
 Path: **Reward points > Transactions** 
 
@@ -983,7 +983,7 @@ Click on **Add new transaction** to add new transaction
 
 Fill in the required information and click on **Save**
 
-##### 4.5.4.	Manage point balances of customers
+##### Manage point balances of customers
 
 Path: **Customers > All customers**
 
@@ -1004,7 +1004,7 @@ Click on **Save customer** to save the changes
 All transactions of a customer are also listed in reward points
 
 
-##### 4.5.5.	Change point balance
+##### Change point balance
 
 Path: **Reward points > Manage points balances**
 
@@ -1033,7 +1033,7 @@ Click on **Import** to import from computer
 The list of customers in **Reward Point Balances** Information page can also be exported by clicking on **Export**
 
 
-##### 4.5.6.	Create an Order
+##### Create an Order
 
 Path: **Sales > Orders**
 
@@ -1065,7 +1065,7 @@ Set the number of point customer will use in the order in the use customer rewar
 
 Fill in the required fields, click on submit order to finish creating new order
 
-##### 4.5.7.	Refund Orders
+##### Refund Orders
 
 Path: **Sales > Operations** section **> Orders** 
 
@@ -1091,9 +1091,9 @@ Path: **Sales > Operations** section **> Orders**
 
 (5)	Click on **Credit Memo** tab on the left hand-side to view credit memos data
 
-#### 4.6.	Store Credit
+#### Store Credit
 
-##### 4.6.1.	 Manage Customers Using Credit
+##### Manage Customers Using Credit
 
 Path: **Store Credit > Manage Customers Using Credit**
 
@@ -1125,7 +1125,7 @@ After you save, our module will auto update the Customer’s credit balance, sen
 ![](./imgpart2/it_img105.png?raw=true)
 
 
-##### 4.6.2.	 Manage Credit Products
+##### Manage Credit Products
 
 Path: **Store Credit > Manage Credit Products**
 
@@ -1222,7 +1222,7 @@ Besides the **Credit Product Manager** page, you can also create a new credit pr
 
 ![](./imgpart2/it_img116.png?raw=true)
 
-##### 4.6.3.	Manage Credit Transactions and Report Charts
+##### Manage Credit Transactions and Report Charts
 
 **a) Credit Transactions**
 
@@ -1261,7 +1261,7 @@ This page can be divided into two main sections including **Life-time Reports** 
 •	**Period-of-time Report Charts:** This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month,** etc.
 
 
-##### 4.6.4.	Using Credit to checkout in backend:
+##### Using Credit to checkout in backend:
 
 Path: **Sales > Operations** Section **> Orders >** enter numbers on **Customer Credit** tab
 
@@ -1277,7 +1277,7 @@ After submitting the order, the Customer’s credit balance will also auto updat
 
 ![](./imgpart2/it_img123.png?raw=true)
 
-##### 4.6.5.	 Refund Orders into Credit Balance
+##### Refund Orders into Credit Balance
 
 When Customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, Customers can use the credit for future purchases and you do not have to lose money for the refund at the same time.
 
@@ -1294,7 +1294,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 ![](./imgpart2/it_img125.png?raw=true)
 
 
-##### 4.6.6.	Settings
+##### Settings
 
 Path: **Store Credit > Settings**
 
@@ -1348,13 +1348,13 @@ Path: **Magento Extension > Store Credit**
 
 (2)	**Color of Title:** enter Hexadecimal code
 
-#### 4.7.	Wallet (Coming Soon)
+#### Wallet (Coming Soon)
 
 
-#### 4.8.	Membership (Coming Soon)
+#### Membership (Coming Soon)
 
 
-### 5.	Shipment method
+### Shipment method
 
 Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
 
@@ -1382,7 +1382,7 @@ You can enable **Mark as shipped** by default.
 Click **Save Config** to complete the process.
 
 
-#### 6.	Payment
+#### Payment
 
 Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
 
@@ -1649,6 +1649,8 @@ Moreover, Purchase Manager can access to **Sales** Tab and decentralize Purchase
 ####	Accountant
  
 ![](./imgpart2/it_img429.png?raw=true)
+
+---------
 
 ##	HOW TO MANAGE MASTER DATA
 
@@ -2027,7 +2029,7 @@ Scroll down and complete the information in the following sections as needed:
  - Related Products, Up-Sells, and Cross-Sells
  - Customizable Options
  - Products in Websites
- - Design 
+ - Design
  - Schedule Design Update
  - Gift Options
  - Downloadable Information
@@ -2547,14 +2549,12 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 
 (5)	Click **Save** to finish
 
--------
-
-### 2.	Customers
-#### 2.1.	How to manage customers
+### Customers
+#### How to manage customers
 
 Path: **Customer > All customers**
 
-##### 2.1.1.	Manage customers
+##### 	Manage customers
 
 ![](./imgpart3/it_img582.png?raw=true)
 
@@ -2572,7 +2572,7 @@ Path: **Customer > All customers**
 (4)	Click **Edit** to view customer’s details and edit.
 
 
-#### 2.1.2.	Create a new customer
+#### Create a new customer
 
 ![](./imgpart3/it_img583.png?raw=true)
 
@@ -2596,11 +2596,11 @@ Fill out all the required fields with information of a customer.
 
 Click **Save Customer** to complete the process.
 
-### 3.	Partner (Vendor/Delivery)
+### Partner (Vendor/Delivery)
 
-#### 3.1.	How to manage supplier
+#### How to manage supplier
 
-##### 3.1.1.	How to create a new supplier
+##### How to create a new supplier
 
 Path: **Purchase Management > Supplier** section **> Manage Suppliers**
 
@@ -2635,7 +2635,7 @@ Path: **Purchase Management > Supplier** section **> Manage Suppliers**
 (6)	Click on **Save** to finish.
 
 
-##### 3.1.2.	Add products to suppliers 
+##### 	Add products to suppliers 
 
 ![](./imgpart3/it_img589.png?raw=true)
 
@@ -2656,7 +2656,7 @@ On the extended screen named **Products**:
 (7)	Click on **Save** to finish
 
 
-##### 3.1.3.	Edit an existing supplier
+##### Edit an existing supplier
 
 Path:  **Purchase Management > Supplier** section **> Manage Suppliers**
 
@@ -2665,7 +2665,7 @@ Path:  **Purchase Management > Supplier** section **> Manage Suppliers**
 Click on **View** to access the supplier’s detailed information. Then start editing.
 
 
-##### 3.1.4.	Manage Pricelist 
+##### Manage Pricelist 
 
 Path: **Purchase Management > Supplier** section **> Manage Pricelist**
 
@@ -2704,7 +2704,7 @@ Pricelist Management provides users lots of benefits mentioned as below:
 ***Note:*** *Before completing, you can click on “Remove” to scratch out unexpected products.*
 
 
-##### 3.1.5.	Edit a pricelist 
+##### Edit a pricelist 
 
 Path: **Purchase Management > Supplier** section **> Manage Pricelist**
 
@@ -2717,7 +2717,7 @@ Path: **Purchase Management > Supplier** section **> Manage Pricelist**
 (3)	Click on **Save** to finalize
 
 
-#### 3.2.	How to manage delivery partner 
+#### How to manage delivery partner 
 
 Path: **Stores > Setting** section > **Configuration > Sales > Shipping Method**
 
@@ -2750,8 +2750,8 @@ Edit each line of the session of each Delivery partner ( UPS, UPSS, FedEx, DHL)
 
 Click on **Save Config** to save all the changes and configurations
 
-### 4.	Warehouse
-#### 4.1.	How to create a new warehouse 
+### Warehouse
+#### How to create a new warehouse 
 
 Path: **Inventory Management > Stock Listing** section **> Warehouses**
 
@@ -2790,7 +2790,7 @@ Click on the **Arrow Button**, then choose **Save and Continue**
 
 •	Click on **Back** to go back to previous page
 
-### 4.2.	Warehouse Master Data
+### Warehouse Master Data
 
 Path: **Inventory Management > Stock Listing** section **> Warehouses**
 
@@ -2815,7 +2815,7 @@ to access the data:
 
 (5) Reports are illustrated as table and lines diagrams.
 
-#### 4.3.	Warehouse Permission
+#### Warehouse Permission
 
 Path: **Inventory Management > Stock Listing** section **> Warehouses**
 
@@ -2846,9 +2846,9 @@ Select Staff users to assign permission
 (4)Then click on **Save Staff Permissions**
 
 
-#### 5.	Location
+#### Location
 
-### 5.1.	Add a new location
+### Add a new location
 
 Path: **Sales > Web POS** section > **Manage Locations**
 
@@ -2870,7 +2870,7 @@ Path: **Sales > Web POS** section > **Manage Locations**
 
 Click on **Save**
 
-#### 5.2.	Mapping Locations – Warehouses
+#### Mapping Locations – Warehouses
 
 Path: **Sales > Web POS** section **> Manage Locations**
 
@@ -2902,9 +2902,9 @@ On the pop-up screen, click on **Mapping Locations – Warehouses**
 
 (7)Finally, **Save** all the changed information
 
-## 6. Store (POS)
+## Store (POS)
 
-### 6.1.	Create a new Web POS
+### Create a new Web POS
 
 ![](./imgpart3/it_img617.png?raw=true)
 
@@ -2935,7 +2935,7 @@ Click **Save** to complete the process.
 *IT Admin can give other admin permission to view the Inventory information in any location by going to System > User Roles > Add new role or Edit role > Role Resource, then choosing Order Success > Inventory Management > View Warehouse Information (this is the most basic step. With each business, the process will be expanded)*
 
 
-## 6.2.	Manage Web POS
+## Manage Web POS
 
 Path: **Sale > Web POS** section **> Manage POS**
 
