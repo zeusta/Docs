@@ -2027,7 +2027,7 @@ Scroll down and complete the information in the following sections as needed:
  - Related Products, Up-Sells, and Cross-Sells
  - Customizable Options
  - Products in Websites
- - Design
+ - Design 
  - Schedule Design Update
  - Gift Options
  - Downloadable Information
