@@ -1,5 +1,4 @@
 
-
 ## INTRODUCTION
 
 POS System allows user to set different authority according to user’s roles in your store. For examples, when store manager using POS, some information will be displayed just for them while others roles can’t have authority to see it. 
@@ -273,3 +272,10 @@ In case customer wanted to return products, Cashier needs doing all those follow
 ### POS Report
 Like we said above right from the start of this section, Cashiers have the ability to access 2 types of Report which were A & Z Report. 
 
+ 
+
+ 
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
