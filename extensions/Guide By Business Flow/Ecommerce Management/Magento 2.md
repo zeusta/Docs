@@ -1,5 +1,4 @@
 # ECOMMERCE MANAGEMENT - MAGENTO 2
--------------------------
 
 Confidential Information Notice 
 
