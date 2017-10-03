@@ -7,6 +7,8 @@ Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this docum
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
+-------------------
+
 ## INTRODUCTION
 
 According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%)online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels. 
@@ -38,19 +40,19 @@ Store Pickup extension creates a separated page to list all of your stores in th
 
 The Store Listing page includes 4 sections: Store list, Search form, **Google Map** and **Tags list**.
 
-•	The list of all stores is shown on the bottom of Google Map. Customers can view store names and base images on this list. 
+* The list of all stores is shown on the bottom of Google Map. Customers can view store names and base images on this list. 
 
-•	Store locations are displayed on Google Map. Customers can zoom in/ zoom out and choose view mode as map/ satellite as preferred. Customers can also view store address or get direction by clicking on the pin icon of any store.
+* Store locations are displayed on Google Map. Customers can zoom in/ zoom out and choose view mode as map/ satellite as preferred. Customers can also view store address or get direction by clicking on the pin icon of any store.
 
-•	Switch the tab to search stores by distance or area.
+* Switch the tab to search stores by distance or area.
 
-•	Besides, customers can also filter by tags. Customers just have to click on tags they want to search. Then, list of stores which admin add these tags to will be shown.
+* Besides, customers can also filter by tags. Customers just have to click on tags they want to search. Then, list of stores which admin add these tags to will be shown.
 
-2.	Click on a store on the map to view the store location along with its name, address, phone number and store manager’s email address. Customers can also get direction on this box.
+2. Click on a store on the map to view the store location along with its name, address, phone number and store manager’s email address. Customers can also get direction on this box.
 
 ![](./Image_EcommerceManagement/image008.png)
 
-3.	To view more details of a store, click on its name link to be navigated to the detailed page.
+3. To view more details of a store, click on its name link to be navigated to the detailed page.
 
 ![](./Image_EcommerceManagement/image010.png)
 
