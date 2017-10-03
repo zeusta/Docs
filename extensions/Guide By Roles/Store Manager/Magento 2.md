@@ -75,7 +75,7 @@ In the “POS Report”:
  - X Report 
  - Z Report 
 
-![](./Images/image001.png?raw=true)
+![](./anh/image001.png?raw=true)
 
 ## FOR MANAGER MANAGER ##
 This section is the separated guide for Store Manager only. 
