@@ -70,12 +70,13 @@ The main function of Store Pickup module is allowing customers to select a prefe
 
 The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the extension works for customers. 
 
-1.	In the **Shipping method** tab at checkout, select **Store Pickup** as shipping option. 
+1. In the **Shipping method** tab at checkout, select **Store Pickup** as shipping option. 
 
-2.	Select a store from the dropdown list or select by Google map.
+2. Select a store from the dropdown list or select by Google map.
 On the G-Map popup, select a store on store list or search store 
 
-3.	Click on the  **Apply** button to apply or click on Close button to cancel.
+3. Click on the  **Apply** button to apply or click on Close button to cancel.
+
 ##### Choose time Delivery
 
 •	After selecting a store, customers need to choose a specific shipping date and time for arrival, and then check out as usual.
@@ -101,6 +102,7 @@ In the **Payment Information** tab, applicable payment methods for In-store Pick
 #####  Place Order
 
 To place the order , customers will click on the **Place Order** button.
+
 #### View Orders
 
 ![](./Image_EcommerceManagement/image020.png)
@@ -108,6 +110,8 @@ To place the order , customers will click on the **Place Order** button.
 To view their orders with store pickup information, customers can go to **My Account** on Top-Link > **My Orders** tab > **View Order**
 
 To print orders, click on **Print Order** on the top right. 
+
+-----------------------------------
 
 ###  Order Fulfill Staff validates orders
 #### Check orders in store
@@ -127,7 +131,7 @@ The **Manage Warehouses** page will display a list of warehouses and you need to
 ![](./Image_EcommerceManagement/image026.png)
 
 The order page will be opened and you can see all the information of the order as above.
-	
+
 #### Process Shipment for customers
 ##### Create shipment
 
@@ -173,11 +177,11 @@ In the **Information** tab, click on **Send Email.**
 
 ![](./Image_EcommerceManagement/image040.png)
 
-•	Then a popup will appear to make sure that you want to send confirm email to customers. Click on **OK** to complete.
+* Then a popup will appear to make sure that you want to send confirm email to customers. Click on **OK** to complete.
 
 ![](./Image_EcommerceManagement/image042.png)
 
-•	After that, you will see the notification as above.
+* After that, you will see the notification as above.
 
 #### Request Transfer Stock from other warehouses
 
@@ -229,6 +233,8 @@ To receive stock from other warehouses, click on **Select Products in Receiving 
 4.	Click on **Save Receive**
 	
 ![](./Image_EcommerceManagement/image060.png)
+
+-------------------
 
 ### Store Staff delivers orders 
 
@@ -498,6 +504,8 @@ If Customers want to see all transactions, they can click on the **View all** li
 ![](./Image_EcommerceManagement/image149.png)
 
 Besides, in the **Settings** tab of the **Reward Points** navigation, Customers can set up their **Reward Points Subscriptions**
+
+---------------------
 
 ### 	Store Credit
 
@@ -970,6 +978,8 @@ When customers click on the **Continue** button, our module will auto-update the
 ![](./Image_EcommerceManagement/image268.png)
 
 After order has been placed, customers’ credit balances will be updated immediately. They can check the current balances and transactions in the **Transaction History** section.
+
+----------------------
 
 ###	Gift Cards
 
