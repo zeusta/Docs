@@ -1,5 +1,18 @@
+# Point-of Sale (POS) - Magento 2 
 
-## INTRODUCTION
+
+----------
+Confidential Information Notice 
+
+Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
+ 
+
+
+----------
+## Introduction 
 
 POS System allows user to set different authority according to user’s roles in your store. For examples, when store manager using POS, some information will be displayed just for them while others roles can’t have authority to see it. 
 
