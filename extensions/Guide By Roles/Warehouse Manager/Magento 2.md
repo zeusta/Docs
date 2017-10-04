@@ -140,8 +140,8 @@ Add new list (click on **Select Products**) or import a list of product prepared
 
  ![enter image description here](./image_Inventory%20Management/image025.png?raw=true)
 
-To add new list of products, 
-1. Click on the product needed 
+To add new list of products<br/> 
+1. Click on the product needed<br/>
 2. **Add Selected Products**
 
  ![enter image description here](./image_Inventory%20Management/image027.png?raw=true)
@@ -429,8 +429,8 @@ On the pop-up screen, scroll down then
 
  ![](./image_Inventory%20Management/image119.png?raw=true)
  
-On **Pack Request Information tab**
-3. Use **scanning barcode** to scan packing items
+On **Pack Request Information tab**<br/>
+3. Use **scanning barcode** to scan packing items<br/>
 4. Enter the **quantity of products packed**
 
  ![](./image_Inventory%20Management/image121.png?raw=true)
@@ -954,7 +954,7 @@ The order has been created successfully.
 
  ![](./image_Inventory%20Management/image273.png?raw=true)
 
-On the pop-up screen, scroll down then
+On the pop-up screen, scroll down then<br/>
 7. Click on **Print Picked Items** to print a picking slip
 
 #### Pack Items 
@@ -966,8 +966,8 @@ On the pop-up screen, scroll down then
 
  ![](./image_Inventory%20Management/image277.png?raw=true)
  
-On **Pack Request Information tab**
-3. Use **scanning barcode** to scan packing items
+On **Pack Request Information tab**<br/>
+3. Use **scanning barcode** to scan packing items<br/>
 4. Enter the **quantity of products packed**
 
  ![](./image_Inventory%20Management/image279.png?raw=true)
