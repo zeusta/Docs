@@ -16,9 +16,9 @@ This document and the information it contains constitute a trade secret of Mages
 It’s so true to claim that POS System’s the revolution for Retailer. This system allows your online as well as offline stores to synchronize product data. Thus,  all the selling process becomes increasingly convenient in a blink for both staff and customer. 
 
 And in those following sections of this materials, the detailed explanation about using POS will be provided to you in the most simple way to get and to do. 
-All those steps in using process and  POS functions will be divided into logical parts according to Businees workflow. We hope that under this approaching aspect, users could quickly get familiar, adapt to this amazing system soon. 
+All those steps in using process and  POS functions will be divided into logical parts according to Businees workflow. We believe that under this approaching aspect, users could quickly get familiar, adapt to this amazing system soon. 
 
-With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
+With the latest upgraded version and its convenience , we kee the high hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
 Thanks and Best regards,
 Magestore Team 
