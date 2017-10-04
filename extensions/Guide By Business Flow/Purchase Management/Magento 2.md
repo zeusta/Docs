@@ -58,6 +58,7 @@ Then the page will be shown as below:
 ![](Image-Purchase/image007.png)
 
 In this step, there are 5 ways for you to prepare product list:
+
 * Import products via a CSV file
 
 * Prepare product list based on supply need forecast
@@ -221,10 +222,14 @@ You will be led to the **Create Return Request** page
 
 ![](Image-Purchase/Purchase-Management-Return-Order-1.png)
 
-1) Return progress is controlled in 4 steps:<br/>
-	* New: input general information of the return process,<br/>
-	* Pending: create the list of products to return to supplier,<br/>
-	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse.<br/>
+1) Return progress is controlled in 4 steps:
+
+	* New: input general information of the return process,
+	
+	* Pending: create the list of products to return to supplier,
+	
+	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse.
+	
 	* Completed<br/>
 2) Input the date that you create the return request
 
@@ -242,8 +247,7 @@ On **Pending** step:
 
 1) View general information of the return request that you have input in the previous step.
 
-2) There are 2 ways of preparing product list to return:
-
+2) There are 2 ways of preparing product list to return:<br/>
 	* Choose to either Import Products list via csv file (template provided)<br/>
 	* Or view and choose among all products of that supplier by clicking on All Supplier Products button.<br/>
 3) Cancel the return request
