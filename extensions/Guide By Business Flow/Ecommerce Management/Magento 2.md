@@ -135,7 +135,7 @@ The order page will be opened and you can see all the information of the order a
 
 ✓ **Path: Sales > Orders**
 
-![](./Ecommerce-Management/image028.png)
+![](./EcommerceManagement/image028.png)
 
 1)	In the **Information** tab, click on **Ship** 
 
