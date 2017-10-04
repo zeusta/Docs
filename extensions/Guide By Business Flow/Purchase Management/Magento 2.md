@@ -225,12 +225,9 @@ You will be led to the **Create Return Request** page
 ![](Image-Purchase/Purchase-Management-Return-Order-1.png)
 
 1) Return progress is controlled in 4 steps:<br/>
-	* New: input general information of the return process,
-	
-	* Pending: create the list of products to return to supplier,
-	
-	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse.
-	
+	* New: input general information of the return process<br/>	
+	* Pending: create the list of products to return to supplier<br/>
+	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse<br/>
 	* Completed<br/>
 2) Input the date that you create the return request
 
