@@ -1376,9 +1376,11 @@ The configuration is divided into 3 groups including **General, Service API,**  
 
 (3)	Select one of these three options:
 
-+ **Default:** Stores are listed based on Sort Order of each store
-+ **Distance:** Stores are listed based on the distance between customers’ location and stores. If customers don’t enter their location, stores will be listed by **Default (Sort Order)**
-+ **Alphabetical order:** Stores are listed based on alphabetical order of store name
+**+ Default:** Stores are listed based on Sort Order of each store
+
+**+ Distance:** Stores are listed based on the distance between customers’ location and stores. If customers don’t enter their location, stores will be listed by **Default (Sort Order)**
+
+**+ Alphabetical order:** Stores are listed based on alphabetical order of store name
 
 (4)	Enter the title of your page. Store listing page and store detailed are displayed as the **Page Title**
 
@@ -1446,9 +1448,9 @@ Fill **Store Name, Description, Status, Store link** and **Sort order** in **Gen
 
 Besides important information such as **Store name, Description, Status,** here are some extra fields you should use to optimize user experience:
 
--	**Store’s Link:** enter a link to the store’s official website or social channel such as Facebook fan page.
+**+ Store’s Link:** enter a link to the store’s official website or social channel such as Facebook fan page.
 
--	**Sort Order:** Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of List Store by in Settings.
+**+ Sort Order:** Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of List Store by in Settings.
 
 ![](./storepickup/i9.png?raw=true)
 
@@ -1470,11 +1472,11 @@ Fill your store’s address in this field or pin from the map, remember to click
 
 There are 4 fields you need to notice in this tab 
 
--	**Zoom Level:** It is used when previewing the store’s location on Google Map in backend and on the Store Listing page in frontend. The higher number you set, the higher zoom-in level is.
+**+ Zoom Level:** It is used when previewing the store’s location on Google Map in backend and on the Store Listing page in frontend. The higher number you set, the higher zoom-in level is.
 
--	**Store Latitude** and **Store Longitude:** You do not need to fill them out if you do not remember your store’s coordinates. If you pin a store directly from G-map, these fields will be filled automatically.
+**+ Store Latitude** and **Store Longitude:** You do not need to fill them out if you do not remember your store’s coordinates. If you pin a store directly from G-map, these fields will be filled automatically.
 
--	**Marker Icon:** You can upload an icon to use as store’s marker on G-map instead of the default pin icon. 
+**+ Marker Icon:** You can upload an icon to use as store’s marker on G-map instead of the default pin icon. 
 
 ***Note:***  When a store is created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map Location** tab allows you to edit store coordinates manually.
 
@@ -1541,15 +1543,15 @@ After all, if you finish everything, you can
 
 ![](./storepickup/i19.png?raw=true)
 
-•	**Save Store:**  save all changes and come back the Manage Store page
+**+ Save Store:**  save all changes and come back the Manage Store page
 
-•	**Save and New:** save all changes and create another new store
+**+ Save and New:** save all changes and create another new store
 
-•	**Save and Continue Edit:** save what you have changed and keep editing the store
+**+ Save and Continue Edit:** save what you have changed and keep editing the store
 
-•	**Reset:** delete all and start all over again
+**+ Reset:** delete all and start all over again
 
-•	**Back:** come back to the Manage Store page without saving anything
+**+ Back:** come back to the Manage Store page without saving anything
 
 ##### Edit store
 
