@@ -32,7 +32,7 @@ Here are the full feature-list for all roles in the package:
 
 
 # Purchase Management Processing
-## Purchase Order
+## PURCHASE ORDER
 ###  Purchase Staff Create Request for Quotation
 
 *"**A quotation** (or **a request for quotation**) is the proposal of price and quantity of goods that store owners send to suppliers. The quotation will become purchase order when a seller sends confirmation of price and availability of products stated in the quotation.”*
