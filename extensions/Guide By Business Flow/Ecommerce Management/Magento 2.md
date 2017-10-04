@@ -29,7 +29,6 @@ This guide is specially written according to business flow which happens reguarl
 
 ![](./Image_EcommerceManagement/image004.png)
 
-
 Store Pickup extension creates a separated page to list all of your stores in the front-end. 
 
 1.	Click on **arrow button** on Top-Link (the top right of the page)
@@ -128,7 +127,7 @@ The **Manage Warehouses** page will display a list of warehouses and you need to
 
 ![](./Image_EcommerceManagement/image026.png)
 
-The order page will be opened and you can see all the information of the order as above.
+The order page will opene and you can see all the information of the order as above.
 
 #### Process Shipment for customers
 ##### Create shipment
@@ -145,7 +144,7 @@ The **New Shipment** page will open and include a customer’s information such 
 
 2)	Click on **Submit Shipment** button to complete.
 
-When a new shipment is created, you will see the notification: ** “ The shipment has been created”**
+When a new shipment is created, you will see the notification: **“ The shipment has been created”**
 
 ![](./Image_EcommerceManagement/image032.png)
 
@@ -161,7 +160,7 @@ After a new shipment has been created, if you want to print packing slips:
 
 ![](./Image_EcommerceManagement/image036.png)
 
-2) Click on** Print** button to print out packing slips. 
+2) Click on **Print** button to print out packing slips. 
 
 ##### Send confirm email to customers
 
@@ -175,7 +174,7 @@ In the **Information** tab, click on **Send Email.**
 
 ![](./Image_EcommerceManagement/image040.png)
 
-* Then a popup will appear to make sure that you want to send confirm email to customers. Click on **OK** to complete.
+* Then a pop up will appear to make sure that you want to send the confirm email to customers. Click on **OK** to complete.
 
 ![](./Image_EcommerceManagement/image042.png)
 
@@ -183,7 +182,9 @@ In the **Information** tab, click on **Send Email.**
 
 #### Request Transfer Stock from other warehouses
 
-If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses, firstly go to** Inventory Management > Transfer Stock > Request Stock.**
+✓ ** Path: Inventory Management > Transfer Stock > Request Stock.**
+
+If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses, firstly go to ** Inventory Management > Transfer Stock > Request Stock.**
 
 ![](./Image_EcommerceManagement/image044.png)
 
@@ -199,13 +200,14 @@ To add new list of products:
 
 1)	Click on the product needed 
 
-2)	**Add Selected Products**
+2)	Click on **Add Selected Products**
 
 ![](./Image_EcommerceManagement/image050.png)
 
-3)	Choose the quantity to transfer and click on **Start Request Stock**
+3)	Choose the quantity to transfer
+ 4) click on **Start Request Stock**
 
-4)	Click on **Remove** to delete product line
+If you want to delete ta product you just added, click on **Remove** to delete product line.
 
 ![](./Image_EcommerceManagement/image052.png)
 
@@ -224,7 +226,7 @@ To receive stock from other warehouses, click on **Select Products in Receiving 
 
 ![](./Image_EcommerceManagement/image056.png)
 
-3.	Write the quantity received in receiving history
+3.	Enter the quantity received in receiving history
 
 ![](./Image_EcommerceManagement/image058.png)
 
@@ -258,8 +260,9 @@ Then click **View** to see the order in the chosen warehouse.
 
 ![](./Image_EcommerceManagement/image067.png)
 
-2)	Click on **Invoice** to create a new invoice for customer: 
-	A ** New Invoice** page will appear with all information of the customer ‘ s order. 
+2)	Click on **Invoice** to create a new invoice for customer.
+
+	A **New Invoice** page will appear with all information of the customer ‘ s order. 
 	
 ![](./Image_EcommerceManagement/image069.png)
 
@@ -268,7 +271,6 @@ Then click **View** to see the order in the chosen warehouse.
 ![](./Image_EcommerceManagement/image071.png)
 
 4)	To print it, click on **Print** button. 
-
 
 -------------------------------------------------------
 
@@ -282,11 +284,11 @@ Then click **View** to see the order in the chosen warehouse.
 
 ![](./Image_EcommerceManagement/image073.png)
 
-1)	Click on reward points
+1)	Click on **Reward Points**
 
-2)	Click on spending rates 
+2)	Click on **Spending rates**
 
-3)	Click on  add new spending rate
+3)	Click on  **Add New Spending Rate**
 
 ![](./Image_EcommerceManagement/image075.png)
 
@@ -298,7 +300,7 @@ Click on **Save spending rate** after finishing filling in all the boxes
 
 ![](./Image_EcommerceManagement/image079.png)
 
-The new earning rate will be shown as the beside image.
+The new earning rate will be shown as the above image.
 
 ##### Edit existing rate 
 
@@ -309,8 +311,7 @@ The new earning rate will be shown as the beside image.
 Click on **Edit** on action column of the rate needed to be edited
 
 ![](./Image_EcommerceManagement/image083.png)
-
-Edit the rate, then click Save spending rate, or **Delete** it.
+Edit the rate, then click **Save Spending Rate**, or **Delete** it.
 
 ##### Manage transaction
 
@@ -318,7 +319,7 @@ Edit the rate, then click Save spending rate, or **Delete** it.
 
 ![](./Image_EcommerceManagement/image085.png)
 
-Click on **Add new transaction** to add new transaction
+Click on **Add New Transaction** to add new transaction
 
 ![](./Image_EcommerceManagement/image087.png)
 
@@ -328,27 +329,27 @@ Fill in the required information and click on **Save**.
 
 ✓	**Path: Customers > All customers**
 
-![](./Image_EcommerceManagement/image087.png)
+![](./Image_EcommerceManagement/image089.png)
 
 Click on **Edit** of the customer needed to be managed.
 
 ![](./Image_EcommerceManagement/image091.png)
 
-Click on reward points to manage the customer’s balance by filling the change balance, change title, points expire on box.
+Click on **Reward Points** to manage the customer’s balance by filling the **change balance, change title, time when points expire** on box.
 
-Also, update points subscription and expire transaction subscription can be configured in reward points
+Also, update points subscription and expire transaction subscription can be configured in reward points.
 
 ![](./Image_EcommerceManagement/image093.png)
 
-Click on **Save customer** to save the changes
+Click on **Save Customer** to save the changes
 
 ![](./Image_EcommerceManagement/image095.png)
 
-All transactions of a customer are also listed in reward points
+All transactions of a customer are also listed in **Reward Points** session –s ection **Transaction History**
 
 ##### Change point balance
 
-✓	**Path: Reward points > Manage points balances**
+✓	**Path: Reward Points > Manage Points Balances**
 
 There are two ways to change the point balance of a customer. 
 	
@@ -366,7 +367,7 @@ Click on **Import** to import from computer
 
 ![](./Image_EcommerceManagement/image101.png)
 
-1)	Click on ** “Chọn tệp”** to upload file
+1)	Click on **“Choose File”** to upload file
 
 2)	Click on **Import** to import it
 
@@ -382,9 +383,9 @@ The list of customers in **Reward Point Balances** Information page can also be 
 
 1)	Click on **Sales**
 
-2)	**Orders**
+2)	Click on **Orders**
 
-3)	Click on **Create new order**
+3)	Click on **Create New Order**
 
 ![](./Image_EcommerceManagement/image107.png)
 
@@ -396,11 +397,11 @@ Click on **Add products** to add products to the order
 
 ![](./Image_EcommerceManagement/image111.png)
 
-Click on the product and enter the quantity, then click on **add selected product(s) to order**
+Click on the product and enter the quantity, then click on **Add Selected Product(s) to Order**
 
 ![](./Image_EcommerceManagement/image113.png)
 
-Set the number of point customer will use in the order in the use customer reward points
+Set the number of point customer will be used in the order in the use customer reward points
 
 ![](./Image_EcommerceManagement/image115.png)
 
@@ -424,7 +425,7 @@ Fill in the required fields, click on submit order to finish creating new orders
 
 On the pop-up screen named ![](./Image_EcommerceManagement/image123.png), scroll down, then:
 
-1)	Enter the earned points that will be refunded to customer’s balance
+3)   Enter the earned points that will be refunded to customer’s balance
 
 2)	Click on ![](./Image_EcommerceManagement/image125.png) to finish.
 
@@ -676,13 +677,13 @@ This page can be divided into two main sections including **Life-time Reports** 
 
 ##### Use Credit when creating orders in backend
 
-✓ Path: Sales > Operations Section > Orders > enter numbers on Customer Credit tab
+✓ **Path: Sales > Operations Section > Orders**
 
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for customers.
 
 ![](./Image_EcommerceManagement/image193.png)
 
-Enter a credit amount and click on the **Gray Arrow** button.
+Enter a credit amount in **Customer Credit** box  and click on the **Gray Arrow** button.
 
 ![](./Image_EcommerceManagement/image195.png)
 
@@ -700,13 +701,13 @@ When customers want to refund an order, our module allows you to transfer the or
 
 After clicking on the **Credit Memo** button, 
 
-1)	Enter enter the amount you want to refund into credit as above
+1)	Enter the amount you want to refund into credit as above
 
 2)	Click on the **Refund Offline** button
 
 The amount you entered as well as the credit that the customer used for paying for the order will be refunded to his current credit balance. 
 
-For any order that includes only Credit Product, the option **Refund Order to Credi**t is not available. 
+For any order that includes only Credit Product, the option **Refund Order to Credit**t is not available. 
 
 ![](./Image_EcommerceManagement/image200.png)
 
@@ -1029,7 +1030,7 @@ Select:
 
 1)	**After Tax**: to allow applying Gift Card after the tax is applied
 
-2)	**Before Tax**:  to allow applying Gift Card w/o tax
+2)	**Before Tax**:  to allow applying Gift Card before  tax
 
 ![](./Image_EcommerceManagement/image276.png)
 
@@ -1052,7 +1053,7 @@ Gift Card Shipping Information
 
 -	Select **“YES”**: Gift card can be sent through the post office
 
--	After Customers order Gift Cards for friends and choose Send through post office option, Gift Cards will be sent to recipients within 5 days
+-	After Customers order Gift Cards for friends and choose **Send through post office** option, Gift Cards will be sent to recipients within 5 days
 
 -	Limit the maximum length of a custom message on Gift Card. Select **“YES”**  to allow users to schedule gift card delivery date.
 
@@ -1120,7 +1121,7 @@ Click **Choose File** to upload an image used as a logo when Gift Cards are prin
 
 ![](./Image_EcommerceManagement/image290.png)
 
-1)	Click Add New Template
+1)	Click **Add New Template**
 
 ![](./Image_EcommerceManagement/image292.png)
 
@@ -1148,7 +1149,7 @@ On the popup screen
 
 ![](./Image_EcommerceManagement/image296.png)
 
-Click **Preview**  to see the gift card template
+1)	Click **Preview**  to see the gift card template
 
 ######	Edit and Delete Existing Template
 
@@ -1170,7 +1171,7 @@ On the popup screen
 
 4)	Edit templates data
 
-5)	Click “Save” to finish
+5)	Click “**Save**” to finish
 
 6)	Additional guidance: Click “**Delete**” to remove template
 
@@ -1184,7 +1185,10 @@ On the popup screen
 
 ![](./Image_EcommerceManagement/image304.png)
 
-On the popup screen
+![](./Image_EcommerceManagement/image306.png)
+
+
+On the popup screen above, you can: 
 
 2)	Enter the pattern name
 
@@ -1198,8 +1202,6 @@ On the popup screen
 
 7)	Select a gift card template
 
-![](./Image_EcommerceManagement/image306.png)
-
 8)	Enter the quantity of gift code issued
 
 9)	Select store views
@@ -1212,7 +1214,7 @@ On the popup screen
 
 ![](./Image_EcommerceManagement/image308.png)
 
-A status “**the pattern has been generated succes sfully** “ would be shown on the pop-up screen.
+A status “**the pattern has been generated successfully** “ would be shown on the pop-up screen.
 
 ![](./Image_EcommerceManagement/image310.png)
 
@@ -1226,7 +1228,7 @@ A status “**the pattern has been generated succes sfully** “ would be shown 
 
 ![](./Image_EcommerceManagement/image312.png)
 
-2)	Click on “**Add Gift Code” to create a new gift code
+1)	Click on “**Add Gift Code**” to create a new gift code
 
 Moreover, click on “**Import Gift Codes**” to import data from your device to the system.
 
@@ -1234,23 +1236,23 @@ Moreover, click on “**Import Gift Codes**” to import data from your device t
 
 On the popup screen:
 
-3)	Follow the example mentioned below to set a format for the gift code
+2)	Follow the example mentioned below to set a format for the gift code
 
-4)	Enter the Gift code value
+3)	Enter the Gift code value
 
-5)	Select a currency
+4)	Select a currency
 
-6)	Select a gift code template
+5)	Select a gift code template
 
 ![](./Image_EcommerceManagement/image316.png)
 
-7)	Select “**Active**” to enable/ activate the gift code
+6)	Select “**Active**” to enable/ activate the gift code
 
-8)	Select an expiration date
+7)	Select an expiration date
 
-9)	Select store views
+8)	Select store views
 
-10)	Write a comment (optional)
+9)	Write a comment (optional)
 
 ![](./Image_EcommerceManagement/image318.png)
 
@@ -1304,7 +1306,7 @@ On **Create New Order**  page, after selecting a customer and adding a product t
 
 ![](./Image_EcommerceManagement/image332.png)
 
-Scroll down to view “Order Totals” label, then click on (4) “Submit Order” to finish.
+Scroll down to view “Order Totals” label, then click on (4) “**Submit Order**” to finish.
 
 ##### Refund Orders into Gift Card Credit Balance
 
@@ -1334,7 +1336,7 @@ Scroll down to view “Order Totals” label, then click on (4) “Submit Order�
 
 ![](./Image_EcommerceManagement/image342.png)
 
-On Gift Card History page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status. 
+On **Gift Card History** page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status. 
 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience.
  
@@ -1423,7 +1425,7 @@ When Customers have Gift Card codes, they can use them as a discount coupon when
 
 2)	Enter the gift code. 
 
-3)	Click on Add Gift Card button to apply.
+3)	Click on **Add Gift Card** button to apply.
 
 **Note**: Gift Card codes cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin‟s settings.
 
