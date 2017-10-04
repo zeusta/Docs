@@ -481,16 +481,20 @@ Click **Add New Rule** to create a new Cart Price Rule
 Click  the small green button to add conditions.
 
 
-<<img32>>
+![](./img102/it_img032.png?raw=true)
 
 **Define the Actions**
 
 The shopping cart price rule actions describe how prices are updated when the conditions are met.
 
 (1)	**Apply:** Select one of the following discount options:
+
 •	Percent of product.
+
 •	Fixed amount discount.
+
 •	Fixed amount discount for whole cart.
+
 •	Buy X get Y free.
 
 (2)	**Discount Amount:** Based on the discount option selected, the number might indicate a percentage, a fixed amount or a quantity of items.
