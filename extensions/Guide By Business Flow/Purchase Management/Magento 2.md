@@ -222,8 +222,7 @@ You will be led to the **Create Return Request** page
 
 ![](Image-Purchase/Purchase-Management-Return-Order-1.png)
 
-1) Return progress is controlled in 4 steps:
-
+1) Return progress is controlled in 4 steps:<br/>
 	* New: input general information of the return process,
 	
 	* Pending: create the list of products to return to supplier,
