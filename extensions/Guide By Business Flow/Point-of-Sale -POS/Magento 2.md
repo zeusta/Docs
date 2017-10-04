@@ -26,16 +26,16 @@ Magestore Team
 ## Business Workflow ##
 ### General Process ##
 
-![](./Image_POS/image001.png?raw=true)
+![](./Image%20shadow/image002.png?raw=true)
 
 
 
 ### POS Order ##
-![](./Image_POS/image003.png?raw=true)
+![](./Image%20shadow/image004.png?raw=true)
 
 
 ### POS Return Order ##
-![](./Image_POS/image005.png?raw=true)
+![](./Image%20shadow/image006.png?raw=true)
 
 
 ----------
@@ -104,7 +104,7 @@ Store Cashier will take the following tasks:
 	 - X Report
 	 - Z Report
 
-![](./Image_POS/image007.png?raw=true)
+![](./Image%20shadow/image008.png?raw=true)
 
 
 ----------
@@ -126,7 +126,7 @@ We will explain this workflow according to the timing circle: Opening the store,
 
 	Particularly, when you log in to any POS, a window of opening session will pop-up automatically. 
 
-	![](./Image_POS/image009.png?raw=true)
+	![](./Image%20shadow/image010.png?raw=true)
 	
 	(1) Name of the staff in this session 
 	
@@ -148,7 +148,7 @@ We will explain this workflow according to the timing circle: Opening the store,
 	In case you logged in to POS but no window pop-up automatically like the picture above, then you need to make some change in the back-end system. 
 Here is the instruction: 
 
-![](./Image_POS/image011.png?raw=true)
+![](./Image%20shadow/image012.png?raw=true)
 
 Go to “**Store**” > “**Configuration**” > Select “**Magestore Extension**” > **WebPOS**
 Select “**Yes**” on this  red frame and please don’t forget to click “**Save Config**” to make it work 
@@ -160,25 +160,25 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 
 	On the screen of POS System, it will be displayed like this
 	
-![](./Image_POS/image013.png?raw=true)
+![](./Image%20shadow/image014.png?raw=true)
 
 - Finally, at the end of the day, POS Managers must undertake mission to create Closing Balance, which means they have to confirm the amount of cash in store after all transactions on that day. Then, the system would be able to provide Session Report for Manager. It reflects two things: Cash and Payment Slip
 
-![](./Image_POS/image015.png?raw=true)
+![](./Image%20shadow/image016.png?raw=true)
 
 - 	And now, it’s time for Managers checked Closing Balance. 2 situations could happen in this step: 
 	- If the Theory and Real Balance are the same, Managers could directly move to the step of Set Closing Balance, then end this workflow (Session Management) 
 
 
-	![](./Image_POS/image017.png?raw=true)
+	![](./Image%20shadow/image018.png?raw=true)
 
 	-	If the Theory and Real Balance are not the same, Managers have 2 options below to solve this problem; 
 				If accept the difference, Manager has to accept the Profit or Loss (with reason) 
-				![](./Image_POS/image019.png?raw=true)
+				![](./Image%20shadow/image020.png?raw=true)
 				
 				Otherwise, Staffs have to Put the money in or Take Money out (with reason) 
 				
-				![](./Image_POS/image021.png?raw=true)
+				![](./Image%20shadow/image022.png?raw=true)
 				
 	(1)	Amount of cash that staff will put in
 
@@ -186,7 +186,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 
 	(3)	Name of Staff will do this action**
 
-	![](./Image_POS/image023.png?raw=true)
+	![](./Image%20shadow/image024.png?raw=true)
 
 	(1)	Amount of cash that staff will take out
 
@@ -197,7 +197,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 
 After all, when the Theory Balance’s equal to the Real one, POS Managers are able to “Set Closing Balance”. Then, it ends of the “General Sale Process” Workflow. 
 
-![](./Image_POS/image025.png?raw=true)
+![](./Image%20shadow/image026.png?raw=true)
 
 (1)	The value of currency in the drawer
 
@@ -215,17 +215,17 @@ Like the flow we explain above, this section is also instructed according to the
 
  - Then, Cashier could add them to carts.
  
- 	![](./Image_POS/image027.png?raw=true)
+ 	![](./Image%20shadow/image028.png?raw=true)
  	
-	![](./Image_POS/image029.png?raw=true)
+	![](./Image%20shadow/image030.png?raw=true)
 	
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
 - If this buyer were a brand new customer, Cashier would create a new one.  Here is the detailed instruction:
    
-![](./Image_POS/image031.png?raw=true)
+![](./Image%20shadow/image032.png?raw=true)
 	
-![](./Image_POS/image033.png?raw=true)
+![](./Image%20shadow/image034.png?raw=true)
 
 Tap the human icon > “Create Customer”
   
@@ -233,9 +233,9 @@ Tap the human icon > “Create Customer”
 
  - After adding products to carts, Cashiers would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit.
    
-    ![](./Image_POS/image035.png?raw=true)
-    ![](./Image_POS/image037.png?raw=true)
-    ![](./Image_POS/image039.png?raw=true)
+    ![](./Image%20shadow/image036.png?raw=true)
+    ![](./Image%20shadow/image038.png?raw=true)
+    ![](./Image%20shadow/image040.png?raw=true)
 
  - Next step, Cashier must select shipping method:
 	 -	Customers would receive goods at store if they buy in-store. 
@@ -244,9 +244,9 @@ Tap the human icon > “Create Customer”
  - Then, Cashiers have to choose payment method
 	 - In this step, if customers require invoice, Cashiers will take the output of Customer Invoice. 
 	 
-	 ![](./Image_POS/image041.png?raw=true)
-	![](./Image_POS/image043.png?raw=true)
-	![](./Image_POS/image045.png?raw=true)
+	 ![](./Image%20shadow/image042.png?raw=true)
+	![](./Image%20shadow/image044.png?raw=true)
+	![](./Image%20shadow/image046.png?raw=true)
 
 	
 
@@ -261,7 +261,7 @@ Tap the human icon > “Create Customer”
 	- If Cashiers put money in Cash Drawer, Cash-in will be saved with reason.
 	- If Cashiers take money out Cash Drawer, Cash-out will be also saved with reason. 
 
-![](./Image_POS/image047.png?raw=true)
+![](./Image%20shadow/image048.png?raw=true)
 
 It is the end of “POS Order” workflow. 
 
@@ -288,12 +288,12 @@ If this Return Order is valid, all those steps below need accomplishing:
  
 	- To issue refund, go to Orders tab in POS screen, choose Orders History, select the order that is required to refund.  Tap on Refund button at the end of the popup.
 
-	![](./Image_POS/image049.png?raw=true)
+	![](./Image%20shadow/image050.png?raw=true)
 
 
 	- A popup will display so that you can fill in the information before making refund.  Tick “Return to stock” if you want to return those items back to your stock.
 
-	![](./Image_POS/image051.png?raw=true)
+	![](./Image%20shadow/image052.png?raw=true)
 
 	[1]  Name of the refund product
 	[2]  Adjust Refund:
