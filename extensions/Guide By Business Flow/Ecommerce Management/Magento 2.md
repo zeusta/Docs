@@ -365,7 +365,7 @@ A list of customers will be shown with point balance column.
 
 Click on **Import** to import from computer
 
-![](./Image_EcommerceManagement/image101.png)
+![](./Image_EcommerceManagement/image101.PNG)
 
 1)	Click on **“Choose File”** to upload file
 
