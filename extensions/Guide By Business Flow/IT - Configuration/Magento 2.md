@@ -1354,6 +1354,316 @@ Path: **Magento Extension > Store Credit**
 #### Membership (Coming Soon)
 
 
+### Store Pickup
+
+
+#### Setting
+
+
+Path: **Store Pickup > Settings > Magento Extensions** Tab **> Store Pickup**
+
+![](./storepickup/i1.png?raw=true)
+
+The configuration is divided into 3 groups including **General, Service API,**  and **Store Search** 
+
+•	**General** 
+
+![](./storepickup/i2.png?raw=true)
+
+(1)	Choose **Yes** if you want to enable the module on your site
+
+(2)	Choose **Yes** to show **Store Pickup** link on the top link in frontend 
+
+(3)	Select one of these three options:
+
++ **Default:** Stores are listed based on Sort Order of each store
++ **Distance:** Stores are listed based on the distance between customers’ location and stores. If customers don’t enter their location, stores will be listed by **Default (Sort Order)**
++ **Alphabetical order:** Stores are listed based on alphabetical order of store name
+
+(4)	Enter the title of your page. Store listing page and store detailed are displayed as the **Page Title**
+
+(5)	Enter the **number of days** to show Store's holidays and special days within this period in frontend.
+
+(6)	Enter the **maximum number of stores** that will be shown in list store when paging at frontend.
+
+(7)	Enter the **maximum number of images** for each store when uploading image 
+
+•	**Service API**
+
+![](./storepickup/i3.png?raw=true)
+
+(1)	To integrate **Google API** or **Facebook API** in your site, fill your Google Map API and Facebook API key into the relevant field. You can get this key by clicking on **here** under **Google Map API Key** tab or **Facebook API Key** tab. Or else, you can go to **Store Pickup > Guide** 
+
+(2)	Choose **Yes** to enable **Facebook comment** for your stores. 
+
+•	**Store Search**
+
+![](./storepickup/i4.png?raw=true)
+
+(1)	Select which c**riteria customers** can search for stores by area
+
+(2)	Enter the **radius value** that you want **Google Suggest** automatically show your stores to customers within the radius you enter 
+
+(3)	Select the **unit** to measure radius
+
+#### Manage Store
+
+Path: **Store Pickup > Manage Store**
+
+The **Store Manager** grid shows all stores created in your system with their address and status. To add new stores, you can add them manually and import from **CSV files.**
+
+![](./storepickup/i5.png?raw=true)
+
+#####	Add store
+
+![](./storepickup/i6.png?raw=true)
+
+There are two ways to add new store: **Import Store** or **Add New Store**
+
+###### **Import Stores**
+
+![](./storepickup/i7.png?raw=true)
+
+Click on **Choose file** to upload **CSV file**. 
+
+Then to finish, click on **Import Stores** button on your right hand.
+
+###### **Add new store**
+
+Path: **Store Pickup > Manage Store > Add New Store**
+
+You will be navigated to the **Add Store** page, which includes 7 tabs: **General Information, Google Map Location, Image Gallery, Store’s Schedule, Store’s Tag, Store’s Holiday, Store’s Special Days**
+
+•	**General Information**
+
+Path: **Add New Store > Store Information** section **> General Information** 
+
+There are 4 sessions: **General Information, Contact Information, Owner Information** and **Meta Information**
+
+![](./storepickup/i8.png?raw=true)
+
+Fill **Store Name, Description, Status, Store link** and **Sort order** in **General Information** session. 
+
+Besides important information such as **Store name, Description, Status,** here are some extra fields you should use to optimize user experience:
+
+-	**Store’s Link:** enter a link to the store’s official website or social channel such as Facebook fan page.
+
+-	**Sort Order:** Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of List Store by in Settings.
+
+![](./storepickup/i9.png?raw=true)
+
+**Contact Information:** customers can contact to the store whenever they have any questions/problems.
+
+**Owner Information:** an auto email will be sent to owner whenever customers want to pick up order in store. 
+
+![](./storepickup/i10.png?raw=true)
+
+Fill in **URL key, Meta Title, Meta Keywords,** and **Meta Description** for better SEO. It can help your customers find your store website easier. 
+
+•	**Google Map Location**
+
+Path: **Add New Store > Store Information** section **> Google Map Location**
+ 
+![](./storepickup/i11.png?raw=true)
+
+Fill your store’s address in this field or pin from the map, remember to click on the **Save Store** or **Save And Continue Edit** button to save your work. After that, store’s location will be updated automatically on Google Map.
+
+There are 4 fields you need to notice in this tab 
+
+-	**Zoom Level:** It is used when previewing the store’s location on Google Map in backend and on the Store Listing page in frontend. The higher number you set, the higher zoom-in level is.
+
+-	**Store Latitude** and **Store Longitude:** You do not need to fill them out if you do not remember your store’s coordinates. If you pin a store directly from G-map, these fields will be filled automatically.
+
+-	**Marker Icon:** You can upload an icon to use as store’s marker on G-map instead of the default pin icon. 
+
+***Note:***  When a store is created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the **Google Map Location** tab allows you to edit store coordinates manually.
+
+You can see it at the left upper. Click on this tab, the Google map will be displayed. You can reset store position by clicking on specific point on the map, then select **Save Store**.
+
+By clicking **Apply to Form** before saving, the store coordinates & the store address will be auto-updated regarding the address of the location you pinned on the map. You can also change the marker icon which presents the pinned location on the map.
+
+•	**Image Gallery**
+
+![](./storepickup/i12.png?raw=true)
+
+Upload as many store images as you want. 
+
+Click on **Make Base** on the picture to choose the picture as a base image.
+
+The base image will be shown in the store list.
+
+•	**Store’s Schedule**
+
+Path: **Add New Store > Store Information** section **> Store’s Schedule**
+
+![](./storepickup/i13.png?raw=true)
+
+**[1]**	Click on **Click here** to create new schedule
+
+You will be linked to a new page named **New Schedule**
+
+![](./storepickup/i14.png?raw=true)
+
+(1)	Enter **Schedule Name**
+
+(2)	Choose time and status of the store on each day (from Monday to Sunday)
+
+(3)	Click on **Apply to all** if you the time does not change during the week
+
+(4)	**Save Schedule** to save the change.
+
+
+**[2]**	Select a schedule that you have created for your store. For example: 
+
+![](./storepickup/i15.png?raw=true)
+
+After selecting **Store in January**, a timetable will be shown below the tab.  
+
+•	**Store’s Tag**
+
+![](./storepickup/i16.png?raw=true)
+
+For easier search, you can tag each store in multiple categories. Choose tags for each in this tab by search for the tag and select suitable ones. Please note that one store can belongs to more than one tag.
+
+•	**Store’s Holiday**
+
+![](./storepickup/i17.png?raw=true)
+
+Select **Holidays** to be applied for this store by searching/filtering and select Holiday(s) that you set up before.
+
+•	**Store’s Special days**
+
+![](./storepickup/i18.png?raw=true)
+
+Select **Special days** to be applied for this store by searching/filtering and select Special day(s) that you set up before.
+
+After all, if you finish everything, you can
+
+![](./storepickup/i19.png?raw=true)
+
+•	**Save Store:**  save all changes and come back the Manage Store page
+
+•	**Save and New:** save all changes and create another new store
+
+•	**Save and Continue Edit:** save what you have changed and keep editing the store
+
+•	**Reset:** delete all and start all over again
+
+•	**Back:** come back to the Manage Store page without saving anything
+
+##### Edit store
+
+To edit a specific store, go to **Manage Store >** select Action **(Edit)**. 
+
+![](./storepickup/i20.png?raw=true)
+
+
+#### Manage Tag
+
+Path: **Store Pickup > Manage Tag** 
+
+![](./storepickup/i21.png?raw=true)
+
+This tab manages all tags that are used to filter stores. Click on the **Add New Tag** button to create new one.
+
+![](./storepickup/i22.png?raw=true)
+
+**General Information:** Choose a suitable **Tag Name**, write a description and upload Icon to make it pop out on store listing page.
+
+![](./storepickup/i23.png?raw=true)
+
+**Stores of Tag:** Select stores from the list to be shown up when Customers click on the tab you have created. Then **Save Tag** to save changes and come back the main page.
+
+#### Manage Schedule
+
+Path: **Store Pickup > Manage Schedule** 
+
+![](./storepickup/i30.png?raw=true)
+
+You can see schedule that had been created in this tab and quickly edit some, or create a new one by hitting the button **Add New Schedule.**
+
+![](./storepickup/i31.png?raw=true)
+
+(1)	Enter **Schedule Name**
+
+(2)	Choose time and status of the store on each day (from Monday to Sunday)
+
+(3)	Click on **Apply to all** if you the time does not change during the week
+
+(4)	**Save Schedule** to save the change.
+
+![](./storepickup/i32.png?raw=true)
+
+And to apply this schedule to various stores, navigate to **Stores of Schedule** to check all stores that you want to add.
+
+
+#### Manage Holiday
+
+Path: **Store Pickup > Manage Holiday.** 
+
+![](./storepickup/i24.png?raw=true)
+
+You will be navigated to the **Manage Holiday** page listing all holidays created. Click on **Add Holiday** button to create a new one.
+
+![](./storepickup/i25.png?raw=true)
+
+(1)	Enter the **Holiday name**
+
+(2)	Use **Calendar** to set the holiday date range
+
+(3)	Enter the **holiday comment** *(optional)*
+
+![](./storepickup/i26.png?raw=true)
+
+Select store(s) that apply this holiday.
+
+Click **Save Holiday** to save the changes
+
+
+####  Manage Special Day
+
+***Note:*** *Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.*
+
+Path: **Store Pickup > Manage Special Days.** 
+
+![](./storepickup/i27.png?raw=true)
+
+You will be navigated to the **Manage Special Day** page listing all special days created. 
+
+Click on the **Add Special Day** button to create a new one.  
+
+![](./storepickup/i28.png?raw=true)
+
+(1)	Enter the **name**
+
+(2)	Use **Calendar** to set the date range
+
+(3)	Select open time and close time applied to **Special Day** *(optional)*
+
+(4)	Enter **comment** *(optional)*
+
+![](./storepickup/i29.png?raw=true)
+
+Tick all stores that you want this special day to be applied, then **Save Special Day**
+
+
+#### View Pickup Orders
+
+To view pickup orders in backend:
+
+Path: **Sales > Operation** section **> Orders** 
+
+![](./storepickup/i33.png?raw=true)
+
+Click on **View** to see more detail about selling information
+
+In the **Information** tab, you can see the information about shipping address changed to the address of pickup store and attached with a map location as below:
+
+![](./storepickup/i34.png?raw=true)
+
+![](./storepickup/i35.png?raw=true)
+
+
 ### Shipment method
 
 Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
