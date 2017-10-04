@@ -1,5 +1,4 @@
 
-
 # USER GUIDE FOR IT ADMIN
 -----
 
@@ -12,6 +11,7 @@
 ---------
 
 ## INTRODUCTION
+
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business.    Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
@@ -37,10 +37,15 @@ Click on the **Generate Certificate** button to get your License Certificate.
 ***Note:*** *License Certificate is a PDF document that contains your **License Information** including:*
 
 1)	Product Name
+
 2)	License Serial
+
 3)	License Type
+
 4)	Registered Domain
+
 5)	Activation Date
+
 6)	Expiration Date
 
 Your **License Serial** is unique and can only be used once for one module.
@@ -68,7 +73,9 @@ Here you also can find related documents, such as user guide.
 If you are new to Magento 2, you probably need a little help to get started before installing an module:
 
 1)	Is the Magento software installed already?
+
 2)	What’s a terminal, command prompt, or Secure Shell (ssh)?
+
 3)	Where’s my Magento server and how do I access it?
 
 Please note that we take Gift Card as our example in this Installation guide.
@@ -1377,11 +1384,11 @@ The configuration is divided into 3 groups including **General, Service API,**  
 
 (3)	Select one of these three options:
 
-- **Default:** Stores are listed based on Sort Order of each store
+**+ Default:** Stores are listed based on Sort Order of each store
 
-- **Distance:** Stores are listed based on the distance between customers’ location and stores. If customers don’t enter their location, stores will be listed by **Default (Sort Order)**
+**+ Distance:** Stores are listed based on the distance between customers’ location and stores. If customers don’t enter their location, stores will be listed by **Default (Sort Order)**
 
-- **Alphabetical order:** Stores are listed based on alphabetical order of store name
+**+ Alphabetical order:** Stores are listed based on alphabetical order of store name
 
 (4)	Enter the title of your page. Store listing page and store detailed are displayed as the **Page Title**
 
