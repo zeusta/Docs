@@ -218,11 +218,11 @@ As can be seen, the PO is marked as “completed” and no more changes can be d
 
 In order to request a product return, inventory staff can follow the path **Purchase Management >  Return Request Management > Return Requests**
 
-![](Image-Purchase/Purchase-Management-Return-Order-0.jpg)
+![](Image-Purchase/1.jpg)
 
 You will be led to the **Create Return Request** page
 
-![](Image-Purchase/Purchase-Management-Return-Order-1.png)
+![](Image-Purchase/2.png)
 
 1) Return progress is controlled in 4 steps:<br/>
 	* New: input general information of the return process<br/>	
@@ -239,7 +239,7 @@ You will be led to the **Create Return Request** page
 
 6) Click **Prepare Product List** to move to the next step
 
-![](Image-Purchase/Purchase-Management-Return-Order-2.png)
+![](Image-Purchase/3.png)
 
 On **Pending** step:
 
@@ -260,7 +260,7 @@ On **Pending** step:
 
 After adding products, you can edit product quantity to return:
 
-![](Image-Purchase/Purchase-Management-Return-Order-4.png)
+![](Image-Purchase/4.png)
 
 1) Select products to edit
 
@@ -272,13 +272,13 @@ After adding products, you can edit product quantity to return:
 
 After validating the products, inventory staff can process with the product receipt:
 
-![](Image-Purchase/Purchase-Management-Return-Order-5.png)
+![](Image-Purchase/5.png)
 
 1) Click **Complete PO** to finish the Return request.
 
 2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
 
-![](Image-Purchase/Purchase-Management-Return-Order-6.png)
+![](Image-Purchase/6.png)
 
 In **Transfer items** page: 
 
@@ -286,17 +286,17 @@ In **Transfer items** page:
 
 2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
 
-![](Image-Purchase/Purchase-Management-Return-Order-7.png)
+![](Image-Purchase/7.png)
 
 After selecting products or scanning barcode, you will be sent back to the **Transfer Items** page:
 
-![](Image-Purchase/Purchase-Management-Return-Order-8.png)
+![](Image-Purchase/8.png)
 
 1) Input the product quantity to transfer (you can transfer partially in multiple times)
 
 2) Click **Save** to continue
 
-![](Image-Purchase/Purchase-Management-Return-Order-9.png)
+![](Image-Purchase/9.png)
 
 1) Click **Complete PO** to finish the return request
 
