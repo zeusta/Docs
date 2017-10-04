@@ -1084,26 +1084,11 @@ Click on the symbol highlighted as in the first image, then click on **Customer 
 
 Click on a **customer** to view the points left in that customer’s account.
 
-#####  Refund an Order by points
-######   Refund an Order into points balance in backend
+#####  Refund an Order into point balance 
 
-As this authority of ecommerce staff is similar to that of ecommerce manager in this section, you can see **Refund  an Order by points** - Reward Points part in  Role for Ecommerce Manager in backend to know how it works. 
+Customer can only refund their order into points balance only when they spent their points to buy the products in the order via webstore. Thus, the process of refund into points balance is carried out in backend and not ready for Web POS at store. 
 
-######  Refund orders into points balancee in Web POS 
-
-✓	**Path: Orders > Orders History > Select an order to refund**
-
-1)	Click on “Refund”
-
-![](./Image_EcommerceManager/image272.png)
-
-On the pop-up screen:
-
-2)	Enter the number of money to refund into Store Credit balance 
-
-(Image Refund into Points  balance)
-
-3)	Click on “**Submit Refund**” to complete.
+As this authority of ecommerce staff is similar to that of ecommerce manager in this section, you can see section  **Refund an Order into point balance in backend** - Reward points part in  Role for Ecommerce Manager to know how it works. 
 
 #### Store Credit
 
