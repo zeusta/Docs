@@ -162,8 +162,8 @@ Add new list (click on **Select Products**) or import a list of product prepared
 
  ![enter image description here](./image_Inventory%20Management/image035.png?raw=true)
 
-To add new list of products, 
-1. Click on the product needed 
+To add new list of products <br/>
+1. Click on the product needed<br/>
 2. **Add Selected Products**
 
  ![enter image description here](./image_Inventory%20Management/image037.png?raw=true)
@@ -235,8 +235,8 @@ Add new list (click on **Select Products**) or import a list of product prepared
 
 ![enter image description here](./image_Inventory%20Management/image059.png?raw=true)
 
-To add new list of products, 
-1. Click on the product needed 
+To add new list of products<br/>
+1. Click on the product needed<br/>
 2. **Add Selected Products**
 
  ![enter image description here](./image_Inventory%20Management/image061.png?raw=true)
@@ -331,8 +331,8 @@ When the refund order is accepted, follow this step to complete the refund proce
  ![](./image_Inventory%20Management/image089.png?raw=true)
 
  - **Step 2:** 
-   1. Select Warehouse where refund goods will be restored. 
-   2. Input the quality to refund.
+ 	- Select Warehouse where refund goods will be restored. 
+	- Input the quality to refund.
 
  ![](./image_Inventory%20Management/image091.png?raw=true)
 
