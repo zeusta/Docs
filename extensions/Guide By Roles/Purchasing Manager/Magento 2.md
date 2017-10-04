@@ -122,11 +122,11 @@ Then the page will be shown as below:
 ![](image_purchase_manager/image007.png)
 
 In this step, there are 5 ways for you to prepare product list:<br/>
-* Import products via a CSV file<br/>
-* Prepare product list based on supply need forecast<br/>
-* Prepare back sales products (Back sales products are ordered by customers but not available in stock now)<br/>
-* Prepare low stock products<br/>
-* Prepare product list manually with **All Supplier Products** button<br/>
+- Import products via a CSV file<br/>
+- Prepare product list based on supply need forecast<br/>
+- Prepare back sales products (Back sales products are ordered by customers but not available in stock now)<br/>
+- Prepare low stock products<br/>
+- Prepare product list manually with **All Supplier Products** button<br/>
 Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After entering all required fields, click **Save** button and Order Totals is automatically calculated.
 
 ![](image_purchase_manager/image009.png)
@@ -207,7 +207,7 @@ You will be led to the **Create Return Request** page
 	* New: input general information of the return process,<br/>
 	* Pending: create the list of products to return to supplier,<br/>
 	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse.<br/>
-	* Completed
+	* Completed<br/>
 2) Input the date that you create the return request<br/><br/>
 3) Choose the warehouse to take products out for return<br/>
 4) Choose supplier to return products to<br/>
