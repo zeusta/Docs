@@ -67,7 +67,9 @@ Here you also can find related documents, such as user guide.
 If you are new to Magento 2, you probably need a little help to get started before installing an module:
 
 1)	Is the Magento software installed already?
+
 2)	What’s a terminal, command prompt, or Secure Shell (ssh)?
+
 3)	Where’s my Magento server and how do I access it?
 
 Please note that we take Gift Card as our example in this Installation guide.
