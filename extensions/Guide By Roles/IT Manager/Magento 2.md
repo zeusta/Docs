@@ -3273,3 +3273,5 @@ Path: **Sale > Web POS** section **> Manage POS**
 
 (4)	Click **Detail** to view a POS’s details or edit.
 
+============
+
