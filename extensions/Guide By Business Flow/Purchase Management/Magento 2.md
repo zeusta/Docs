@@ -100,7 +100,8 @@ To validate a request for Quotation, purchase manager goes to **Purchase Managem
 
 Then, the view will be shown as below:
 
-![](Image-Purchase/image015.png)
+![](Image-Purchase/016.png)
+![](Image-Purchase/017.png)
 
 In this page, you are able to edit in **Shipping and Payment** tab only. 
 
