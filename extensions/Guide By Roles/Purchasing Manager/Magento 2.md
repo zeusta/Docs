@@ -28,11 +28,11 @@ Click on **Add New Suppliers** to create a new supplier’s contact.
 
 ![input supplier information](./image_purchase_manager/image043.png) 
 
-Fill in all the required fields, including: 
-  - Supplier Code (customise by yourself)
-  - Supplier Name
-  - Contact Person (who represents the supplying firm)
-  - Supplier’s Email
+Fill in all the required fields, including:<br/>
+  - Supplier Code (customise by yourself)<br/>
+  - Supplier Name<br/>
+  - Contact Person (who represents the supplying firm)<br/>
+  - Supplier’s Email<br/>
 Choose **Enable** to activate the suppliers.
   
 #####	In **Supplier Address** tab:
@@ -40,20 +40,20 @@ Fill in the form below (All information is optional)
 
 ![new supplier info form](./image_purchase_manager/image045.png) 
 
-If you enable Drop-ship function in Settings (Please refer to section Drop-ship for more details), the **Password Management** section will be automatically synchronised and shown in the **New Password** blank. You can set password and **email it to the supplier**. The supplier can use his email address and this password to log in on the **Supplier** page in frontend to update drop shipments’ status.
-		Click on **SAVE** to finalize.
+If you enable Drop-ship function in Settings (Please refer to section Drop-ship for more details), the **Password Management** section will be automatically synchronised and shown in the **New Password** blank. You can set password and **email it to the supplier**. The supplier can use his email address and this password to log in on the **Supplier** page in frontend to update drop shipments’ status.<br/>
+Click on **SAVE** to finalize.
 
 #### Add Products to Supplier
 
 ![add product to supplier page](./image_purchase_manager/image046.png) 
 
-On the extended screen named **Products**:
--	Click on **Add Product** to select and assign specific products to suppliers.
--	Besides that, you can either Click on **Import Product** to sync your products data with Magento systems.
--	Enter **Supplier SKU** for each product line.
--	Enter **Cost** – purchase cost from the suppliers.
--	Enter **Tax** (if any)
--	Click on **Delete** to remove unexpected products
+On the extended screen named **Products**:<br/>
+-	Click on **Add Product** to select and assign specific products to suppliers.<br/>
+-	Besides that, you can either Click on **Import Product** to sync your products data with Magento systems.<br/>
+-	Enter **Supplier SKU** for each product line.<br/>
+-	Enter **Cost** – purchase cost from the suppliers.<br/>
+-	Enter **Tax** (if any)<br/>
+-	Click on **Delete** to remove unexpected products<br/>
 
 Click on **SAVE** to finalize
 
@@ -70,12 +70,12 @@ To manage Price List, go to **Purchase Management > Supplier > Manage Pricelist*
 
 ![manage pricelist page](./image_purchase_manager/image048.png) 
 
-Pricelist Management provides users lots of benefits mentioned as below:
-•	Easily keep track of all users’ prices
-•	Create group pricelists 
-•	Create pricelists for each supplier
-•	Special prices are applied when creating purchase orders
-•	Create pricelists in multiple currencies
+Pricelist Management provides users lots of benefits mentioned as below:<br/>
+•	Easily keep track of all users’ prices<br/>
+•	Create group pricelists <br/>
+•	Create pricelists for each supplier<br/>
+•	Special prices are applied when creating purchase orders<br/>
+•	Create pricelists in multiple currencies<br/>
 
 Click on **Add Pricelist** to make a document listing multiple prices.
 
@@ -112,20 +112,21 @@ Then the page will be shown as below:
 
 ![](image_purchase_manager/image005.png)
 
-1) Choose **Created Time**
-2) Choose **Supplier** to ask for quotation. 
-3&4) Choose Currency & Currency Exchange Rate
-5) Adding comments is optional.
+1) Choose **Created Time**<br/>
+2) Choose **Supplier** to ask for quotation. <br/>
+3) Choose Currency<br/>
+4) Chooose Currency Exchage<br/>
+5) Adding comments is optional.<br/>
 6) Click on **Prepare Product List** for the next step. You will be navigated to  this view:
 
 ![](image_purchase_manager/image007.png)
 
-In this step, there are 5 ways for you to prepare product list:
-* Import products via a CSV file
-* Prepare product list based on supply need forecast
-* Prepare back sales products (Back sales products are ordered by customers but not available in stock now)
-* Prepare low stock products
-* Prepare product list manually with **All Supplier Products** button
+In this step, there are 5 ways for you to prepare product list:<br/>
+* Import products via a CSV file<br/>
+* Prepare product list based on supply need forecast<br/>
+* Prepare back sales products (Back sales products are ordered by customers but not available in stock now)<br/>
+* Prepare low stock products<br/>
+* Prepare product list manually with **All Supplier Products** button<br/>
 Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After entering all required fields, click **Save** button and Order Totals is automatically calculated.
 
 ![](image_purchase_manager/image009.png)
@@ -134,13 +135,13 @@ Then, scroll down to set up **Shipping and Payment**
 
 ![](image_purchase_manager/image011.png)
 
-1) Enter the address you want the stock to be shipped to
-2) Select a shipping method for the quotation
-3) Estimate and enter the shipping cost
-4) Set start shipping date
-5) Set expected delivery date
-6) Select the payment term
-7) Choose the way to place order: N/A, Email, Phone, Fax, supplier website
+1) Enter the address you want the stock to be shipped to<br/>
+2) Select a shipping method for the quotation<br/>
+3) Estimate and enter the shipping cost<br/>
+4) Set start shipping date<br/>
+5) Set expected delivery date<br/>
+6) Select the payment term<br/>
+7) Choose the way to place order: N/A, Email, Phone, Fax, supplier website<br/>
 After filling all the information, click **Save** to save all changes. You can still update products information by editing in a specific product line.  Then, choose **Confirm Quotation** to create a request for quotation.
 
 #### Send Request for Quotation to Supplier
@@ -169,8 +170,8 @@ To receive products, clicks on **Confirm Purchase Order** on **View Purchase Ord
 
 ![](image_purchase_manager/image020.png)
 
-There are two ways to receive items: 
-1) **Receive All Items**: All products will be noted as received. Each product goes with detailed information including Received Date, SKU, Product Name, Received Qty and Created By.
+There are two ways to receive items: <br/>
+1) **Receive All Items**: All products will be noted as received. Each product goes with detailed information including Received Date, SKU, Product Name, Received Qty and Created By.<br/>
 2) **Receive Items**: By clicking on this button, you are able to choose a part of the purchase order. This method is most suitable when you use partial shipment. After selecting products, you need to enter the received date, select received products and fill Received Qty for each product.
 
 ![](image_purchase_manager/image024.png)
@@ -185,8 +186,8 @@ Multiple invoices can be created by products for one purchase order. When you cl
 
 ![](image_purchase_manager/image034.png)
 
-1. You need to enter the billed date, 
-2. Select products and fill billed Qty, unit price, tax and discount for each product you want to create an invoice for. 
+1. You need to enter the billed date, <br/>
+2. Select products and fill billed Qty, unit price, tax and discount for each product you want to create an invoice for. <br/>
 3. After that, you click on the **Save** button to save your work. Now, you can see the records of all invoices shown in the **Invoices** tab.
 
 ![](image_purchase_manager/image036.png)
@@ -202,36 +203,36 @@ You will be led to the **Create Return Request** page
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-1.png)
 
-1) Return progress is controlled in 4 steps:
-	* New: input general information of the return process,
-	* Pending: create the list of products to return to supplier,
-	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse.
+1) Return progress is controlled in 4 steps:<br/>
+	* New: input general information of the return process,<br/>
+	* Pending: create the list of products to return to supplier,<br/>
+	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse.<br/>
 	* Completed
-2) Input the date that you create the return request
-3) Choose the warehouse to take products out for return
-4) Choose supplier to return products to
-5) Input return reason (optional)
+2) Input the date that you create the return request<br/><br/>
+3) Choose the warehouse to take products out for return<br/>
+4) Choose supplier to return products to<br/>
+5) Input return reason (optional)<br/>
 6) Click **Prepare Product List** to move to the next step
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-2.png)
 
-On **Pending** step:
-1) View general information of the return request that you have input in the previous step.
-2) There are 2 ways of preparing product list to return:
-	* Choose to either Import Products list via csv file (template provided)
-	* Or view and choose among all products of that supplier by clicking on All Supplier Products button.
-3) Cancel the return request
-4) Send an email to supplier to inform of the return
-5) Print the list of returned items
-6) Save your current process while stay on the page
+On **Pending** step:<br/>
+1) View general information of the return request that you have input in the previous step.<br/>
+2) There are 2 ways of preparing product list to return:<br/>
+	* Choose to either Import Products list via csv file (template provided)<br/>
+	* Or view and choose among all products of that supplier by clicking on All Supplier Products button.<br/>
+3) Cancel the return request<br/>
+4) Send an email to supplier to inform of the return<br/>
+5) Print the list of returned items<br/>
+6) Save your current process while stay on the page<br/>
 7) Confirm 
 
 After adding products, you can edit product quantity to return:
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-4.png)
 
-1) Select products to edit
-2) Input product quantity to return
+1) Select products to edit<br/>
+2) Input product quantity to return<br/>
 3) Click **Save** to save your current process and stay on page; or **Confirm Order** to continue.
 
 #### Confirm Product Delivery
@@ -240,13 +241,13 @@ After validating the products, you can process with the product receipt:
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-5.png)
 
-1) Click **Complete PO** to finish the Return request.
+1) Click **Complete PO** to finish the Return request.<br/>
 2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-6.png)
 
-In **Transfer items** page: 
-1) Input the date of transfer
+In **Transfer items** page: <br/>
+1) Input the date of transfer<br/>
 2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-7.png)
@@ -255,14 +256,14 @@ After selecting products or scanning barcode, you will be sent back to the **Tra
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-8.png)
 
-1) Input the product quantity to transfer (you can transfer partially in multiple times)
+1) Input the product quantity to transfer (you can transfer partially in multiple times)<br/>
 2) Click **Save** to continue
 
 ![](image_purchase_manager/Purchase-Management-Return-Order-9.png)
 
-1) Click **Complete PO** to finish the return request
-2) Click **Transfer Items** to continue transferring the rest of received products.
-3&4) Select products and click button to **Return to Supplier**.
+1. Click **Complete PO** to finish the return request<br/>
+2. Click **Transfer Items** to continue transferring the rest of received products.<br/>
+3&4. Select products and click button to **Return to Supplier**.
 
 ### Report & Advanced Features _(coming soon)_
 
