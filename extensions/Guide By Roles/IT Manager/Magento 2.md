@@ -2369,7 +2369,7 @@ Create a new configurable product
 
 In the upper-right corner on the **Add Product** menu, choose **Configurable Product**.
  
-![](./imgpart3/it_img530.png?raw=true)
+![](./imgpart3/img530.png?raw=true)
 
 Choose the attribute set that is used as a template for the product.
  
