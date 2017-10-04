@@ -11,6 +11,7 @@
 ---------
 
 ## INTRODUCTION
+
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business.    Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
@@ -36,10 +37,15 @@ Click on the **Generate Certificate** button to get your License Certificate.
 ***Note:*** *License Certificate is a PDF document that contains your **License Information** including:*
 
 1)	Product Name
+
 2)	License Serial
+
 3)	License Type
+
 4)	Registered Domain
+
 5)	Activation Date
+
 6)	Expiration Date
 
 Your **License Serial** is unique and can only be used once for one module.
