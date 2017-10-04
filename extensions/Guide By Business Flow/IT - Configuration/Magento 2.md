@@ -15,7 +15,7 @@
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business.    Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
-## HOW TO INSTALL
+## HOW TO INSTALL![](./img102/it_img031.png?raw=true)
 
 
 
@@ -652,16 +652,17 @@ To configure default configurations and settings of the module, please log in to
 
 **Gift Card Template**
 
--	Select **Yes** to allow customers to change the image inserted in the template
+(1) Select **Yes** to allow customers to change the image inserted in the template
 
--	Limit the maximum size of images uploaded by customers to 500KB
+(2) Limit the maximum size of images uploaded by customers to 500KB
 
 **Gift Card Shipping Information**
--	Select **Yes**: Gift card can be sent through the post office
 
--	Choose **5** means that after Customers order Gift Cards for friends and choose Send through post office option, Gift Cards will be sent to recipients within 5 days
+(3) Select **Yes**: Gift card can be sent through the post office
 
--	Limit the maximum length of a custom message on Gift Card. Select **Yes** to allow users to schedule gift card delivery date.
+(4) Choose **5** means that after Customers order Gift Cards for friends and choose Send through post office option, Gift Cards will be sent to recipients within 5 days
+
+(5) Limit the maximum length of a custom message on Gift Card. Select **Yes** to allow users to schedule gift card delivery date.
 
 
 ![](./img102/it_img043.png?raw=true)
