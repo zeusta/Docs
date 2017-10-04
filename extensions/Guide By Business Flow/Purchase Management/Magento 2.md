@@ -218,7 +218,7 @@ As can be seen, the PO is marked as “completed” and no more changes can be d
 
 In order to request a product return, inventory staff can follow the path **Purchase Management >  Return Request Management > Return Requests**
 
-![](Image-Purchase/1.jpg)
+![](Image-Purchase/1.png)
 
 You will be led to the **Create Return Request** page
 
