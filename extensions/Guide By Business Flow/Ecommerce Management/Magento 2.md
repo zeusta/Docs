@@ -8,7 +8,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 -------------------
 
-## INTRODUCTION
+## Introduction
 
 According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%)online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels. 
 
