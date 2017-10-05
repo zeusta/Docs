@@ -55,7 +55,7 @@ The Store Listing page includes 4 sections: Store list, Search form, **Google Ma
 
 As you can see, this page shows all details that customers want to know about a store before arriving, such as location, contact info, working time, description and store images.
 
-![](./Image_EcommerceManagement/image0012.png)
+![](./Image_EcommerceManagement/image012.png)
 
 They can also view list of special days & holidays in **Special day & Holiday information** tab. They can conveniently give comment to stores by filling in the Facebook comment box.
 
