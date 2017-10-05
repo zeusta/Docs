@@ -178,7 +178,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 				
 				Otherwise, Staffs have to Put the money in or Take Money out (with reason) 
 				
-				![](./img/R11%20.png?raw=true)
+				![](./img/R11.png?raw=true)
 				
 	(1)	Amount of cash that staff will put in
 
@@ -186,7 +186,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 
 	(3)	Name of Staff will do this action**
 
-	![](./img/R12%20.png?raw=true)
+	![](./img/R12.png?raw=true)
 
 	(1)	Amount of cash that staff will take out
 
@@ -197,7 +197,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 
 After all, when the Theory Balance’s equal to the Real one, POS Managers are able to “Set Closing Balance”. Then, it ends of the “General Sale Process” Workflow. 
 
-![](./img/R13%20.png?raw=true)
+![](./img/R13.png?raw=true)
 
 (1)	The value of currency in the drawer
 
@@ -215,17 +215,17 @@ Like the flow we explain above, this section is also instructed according to the
 
  - Then, Cashier could add them to carts.
  
- 	![](./img/R14%20.png?raw=true)
+ 	![](./img/R14.png?raw=true)
  	
-	![](./img/R15%20.png?raw=true)
+	![](./img/R15.png?raw=true)
 	
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
 - If this buyer were a brand new customer, Cashier would create a new one.  Here is the detailed instruction:
    
-![](./img/R16%20.png?raw=true)
+![](./img/R16.png?raw=true)
 	
-![](./img/R17%20.png?raw=true)
+![](./img/R17.png?raw=true)
 
 Tap the human icon > “Create Customer”
   
@@ -233,9 +233,9 @@ Tap the human icon > “Create Customer”
 
  - After adding products to carts, Cashiers would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit.
    
-    ![](./img/R18%20.png?raw=true)
-    ![](./img/R19%20.png?raw=true)
-    ![](./img/R20%20.png?raw=true)
+    ![](./img/R18.png?raw=true)
+    ![](./img/R19.png?raw=true)
+    ![](./img/R20.png?raw=true)
 
  - Next step, Cashier must select shipping method:
 	 -	Customers would receive goods at store if they buy in-store. 
@@ -244,9 +244,9 @@ Tap the human icon > “Create Customer”
  - Then, Cashiers have to choose payment method
 	 - In this step, if customers require invoice, Cashiers will take the output of Customer Invoice. 
 	 
-	 ![](./img/R21%20.png?raw=true)
-	![](./img/R22%20.png?raw=true)
-	![](./img/R23%20.png?raw=true)
+	 ![](./img/R21.png?raw=true)
+	![](./img/R22.png?raw=true)
+	![](./img/R23.png?raw=true)
 
 	
 
@@ -261,7 +261,7 @@ Tap the human icon > “Create Customer”
 	- If Cashiers put money in Cash Drawer, Cash-in will be saved with reason.
 	- If Cashiers take money out Cash Drawer, Cash-out will be also saved with reason. 
 
-![](./img/R24%20.png?raw=true)
+![](./img/R24.png?raw=true)
 
 It is the end of “POS Order” workflow. 
 
@@ -288,12 +288,12 @@ If this Return Order is valid, all those steps below need accomplishing:
  
 	- To issue refund, go to Orders tab in POS screen, choose Orders History, select the order that is required to refund.  Tap on Refund button at the end of the popup.
 
-	![](./img/R25%20.png?raw=true)
+	![](./img/R25.png?raw=true)
 
 
 	- A popup will display so that you can fill in the information before making refund.  Tick “Return to stock” if you want to return those items back to your stock.
 
-	![](./img/R26%20.png?raw=true)
+	![](./img/R26.png?raw=true)
 
 	[1]  Name of the refund product
 	[2]  Adjust Refund:
