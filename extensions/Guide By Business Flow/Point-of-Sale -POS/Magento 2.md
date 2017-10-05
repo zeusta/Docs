@@ -170,7 +170,7 @@ Select “**Yes**” on this  red frame and please don’t forget to click “**
 	- If the Theory and Real Balance are the same, Managers could directly move to the step of Set Closing Balance, then end this workflow (Session Management) 
 
 
-	![](./img/R9%20.png?raw=true
+	![](./img/R9%20.png?raw=true)
 
 	-	If the Theory and Real Balance are not the same, Managers have 2 options below to solve this problem; 
 				If accept the difference, Manager has to accept the Profit or Loss (with reason) 
