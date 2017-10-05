@@ -29,7 +29,7 @@ This guide is specially written according to business flow which happens reguarl
 
 ![](./Image_EcommerceManagement/image004.png)
 
-Store Pickup extension creates a separated page to list all of your stores in the front-end. 
+Store Pickup extension creates a separated page to list all of your stores in the front-end. To view store information, customer can:
 
 1.	Click on **arrow button** on Top-Link (the top right of the page)
 
