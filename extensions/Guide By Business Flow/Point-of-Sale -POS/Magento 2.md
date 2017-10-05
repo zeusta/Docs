@@ -233,9 +233,9 @@ Tap the human icon > “Create Customer”
 
  - After adding products to carts, Cashiers would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit.
    
-    ![](./img/R18.png?raw=true)
-    ![](./img/R19.png?raw=true)
-    ![](./img/R20.png?raw=true)
+    ![](./img/R18%20.png?raw=true)
+    ![](./img/R19%20.png?raw=true)
+    ![](./img/R20%20.png?raw=true)
 
  - Next step, Cashier must select shipping method:
 	 -	Customers would receive goods at store if they buy in-store. 
