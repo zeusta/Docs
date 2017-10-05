@@ -1,20 +1,27 @@
 # STORE PICKUP MAGENTO 2
+
 (Version 1.1.0)
  
 Confidential Information Notice 
  
-Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
-## INTRODUCTION
+--------------------------
+
+## Introduction
+
 According to ComScore, 61% of shoppers would rather use free in-store pickup than pay for shipping. Thus, 72% of retailers start allowing Customers to purchase online before coming to a store and receive purchased products. If there is a chain of stores available, undoubtedly Customers will choose the nearest one as well as an appropriate time to arrive. How can the store-owner make that happen? The answer is Magento 2 Store Pickup extension – the most professional Magento shipping extension, which allows setting up multiple Magento stores, showing addresses and opening time of each store for the Customers’ convenience.
 
 ![SP](./Store%20Pickup%20Image/image003.png)
 
-## HOW TO USE
+## How to use
+
 Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the **Store Pickup** module.
+
 ### View Store Information
+
 Store Pickup module creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **arrow button** on Top-Link (the top right of the page)
 
 ![SP](./Store%20Pickup%20Image/image004.png)
