@@ -65,11 +65,18 @@ The main function of Store Pickup module is allowing customers to select a prefe
 
 ##### Choose shipping method: Delivery in Store
 
-The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the extension works for customers. 
+The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the extension works for customers.
+
+![](./Image_EcommerceManagement/image015.png)
 
 1. In the **Shipping method** tab at checkout, select **Store Pickup** as shipping option. 
 
+![](./Image_EcommerceManagement/image017.png)
+
 2. Select a store from the dropdown list or select by Google map.
+
+![](./Image_EcommerceManagement/image019.png)
+
 On the G-Map popup, select a store on store list or search store 
 
 3. Click on the  **Apply** button to apply or click on Close button to cancel.
