@@ -73,11 +73,9 @@ The main function of Store Pickup module is allowing customers to select a prefe
 
 2. Select a store from the dropdown list or select by Google map.
 
-![](./Image_EcommerceManagement/image019.png)
-
 On the G-Map popup, select a store on store list or search store 
 
-3. Click on the  **Apply** button to apply or click on Close button to cancel.
+3. Click on the  **Apply** button to apply or click on **Close** button to cancel.
 
 ##### Choose time Delivery
 
