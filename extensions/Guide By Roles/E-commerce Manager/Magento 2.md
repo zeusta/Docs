@@ -1,36 +1,23 @@
 # ECOMMERCE MANAGEMENT - MAGENTO 2
 
-Confidential Information Notice 
+
+Confidential Information Notice
 
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
  
 
-## Introduction
-
-According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%)online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels.
-
-So how retailers can manage their business to maximize sales on online channels in the emerging technology world? 
-
-Magento 2 Ecommerce Management module including Store Pickup, and Loyalty programs is here to help you create more values for your customers and thus, will boost sales for the whole business. 
-
-With Loyalty programs module, your ebusiness can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
-
-This guide is specially written according to each role of an ecommerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an ecommerce business.  
-
-----------------------
-
 ## Permission Matrix
 
 ![](./Image_EcommerceManager/image004.png)
 
-----------------------
-
 ## For Ecommerce Manager
 
 ### Validating Orders & Store Pickup Processing
+
 ####  Validate orders
+
 ##### Check orders in store
 
 ✓ **Path:  Inventory Management -> Warehouses**
@@ -87,7 +74,6 @@ After a new shipment has been created, if you want to print packing slips:
 ######  Send confirm email to customers
 
 ✓ **Path: Sales > Orders** 
-
 Continually, to send confirm email to customers: 
 
 ![](./Image_EcommerceManager/image022.png)
@@ -156,8 +142,7 @@ To receive stock from other warehouses, in the tab Click on **Select Products** 
 4.	Click on **Save Receive**
 
 ![](./Image_EcommerceManager/image044.png)
-
-#### Deliver orders in store
+#### Delivers orders in store
 
 #####  Find pickup-in-store orders
 
@@ -174,7 +159,6 @@ Then click **View** to see the order in the chosen warehouse.
 **View Warehouse** page will open and in the **Orders** section, you can find the order of customer picking up in your store. **Apply Filters** to find that order easily by following steps in the image above.
 
 #####  Print invoice 
-
 ![](./Image_EcommerceManager/image049.png)
 
 1)	In the **View Warehouse** page - section **Orders**, click **View** to see the detailed information of the customer’s order.	
@@ -201,11 +185,11 @@ A **New Invoice** page will appear with all information of the customer ‘ s or
 
 ![](./Image_EcommerceManager/image057.png)
 
-1)	Click on reward points
+1)	Click on **Reward points**
 
-2)	Click on spending rates 
+2)	Click on **Spending Rates** 
 
-3)	Click on  add new spending rate
+3)	Click on  **Add New Spending Rate**
 
 ![](./Image_EcommerceManager/image059.png)
 
@@ -217,7 +201,7 @@ Click on **Save spending rate** after finishing filling in all the boxes
 
 ![](./Image_EcommerceManager/image063.png)
 
-The new earning rate will be shown as the beside image
+The new earning rate will be shown as the above image.
 
 #####  Edit existing rate 
 
@@ -232,8 +216,7 @@ Click on **Edit** on action column of the rate needed to be edited
 Edit the rate, then click **Save** spending rate, or **Delete** it
 
 #####  Manage transaction
-
-✓ **Path: Reward points > Transactions** 
+1.	✓ **Path: Reward points > Transactions** 
 
 ![](./Image_EcommerceManager/image069.png)
 
@@ -253,9 +236,9 @@ Click on **Edit** of the customer needed to be managed
 
 ![](./Image_EcommerceManager/image075.png)
 
-Click on reward points to manage the customer’s balance by filling the change balance, change title, points expire on box
+Click on **Reward Points** to manage the customer’s balance by filling the** change balance, change title,  time when points expire** on box.
 
-Also, update points subscription and expire transaction subscription can be configured in reward points
+Also, update points subscription and expire transaction subscription can be configured in **Reward Points**.
 
 ![](./Image_EcommerceManager/image077.png)
 
@@ -285,9 +268,10 @@ Click on **Import** to import from computer
 
 ![](./Image_EcommerceManager/image085.png)
 
-1)	Click on **“Chọn tệp”** to upload file
+1)	Click on **“Choose file”** to upload file
 
 2)	Click on **Import** to import it
+
 
 ![](./Image_EcommerceManager/image087.png)
 
@@ -301,7 +285,7 @@ The list of customers in **Reward Point Balances Information** page can also be 
 
 1)	Click on **Sales**
 
-2)	**Orders**
+2)	Click on **Orders*
 
 3)	Click on **Create new order**
 
@@ -315,7 +299,7 @@ Click on **Add products** to add products to the order
 
 ![](./Image_EcommerceManager/image095.png)
 
-Click on the product and enter the quantity, then click on **add selected product(s) to order**
+Click on the product and enter the quantity, then click on ** Add Selected Product(s) to Order.**
 
 ![](./Image_EcommerceManager/image097.png)
 
@@ -323,35 +307,38 @@ Set the number of point customer will use in the order in the use customer rewar
 
 ![](./Image_EcommerceManager/image099.png)
 
-Fill in the required fields, click on submit order to finish creating new orders.
+Fill in the required fields, click on submit order to finish creating new order.
 
 #####  Refund an Order into points balance in backend
 
-✓ **Path: Sales > Orders**
+✓ **Path: Sales > Orders **
 
 ![](./Image_EcommerceManager/image101.png)
 
 1)	Click on **View** to see the details of an order 
 
+
 ![](./Image_EcommerceManager/image103.png)
 
 2)	On the top bar, click on **Credit Memo** label to create a refund order 
+
 
 ![](./Image_EcommerceManager/image105.png)
 
 On the pop-up screen named ![](./Image_EcommerceManager/image108.png), scroll down, then
 
-1)	Enter the earned points that will be refunded to customer’s balance
+3)	Enter the earned points that will be refunded to customer’s balance
 
-Click on ![](./Image_EcommerceManager/image110.png) to finish
+4)	Click on ![](./Image_EcommerceManager/image110.png)  to finish
 
 ![](./Image_EcommerceManager/image111.png)
 
 After the credit memo has been created.
 
-2)	Click on **Credit Memo** tab on the left hand-side to view credit memos data
+5)	Click on **Credit Memo** tab on the left hand-side to view credit memos data
 
 #### Store Credit
+
 #####  Manage Customers Using Credit.
 
 ![](./Image_EcommerceManager/image113.png)
@@ -481,17 +468,17 @@ In this tab, by default, our module sets up the field **Manage Stock** as **Yes*
 ![](./Image_EcommerceManager/image145.png)
 
 ##### Manage Credit Transactions and Report Charts
+
 ###### Credit Transactions
 
 ![](./Image_EcommerceManager/image147.png)
+
 
 ✓	**Path: Store Credit > Credit Transactions Section > Manage Credit Transactions**
 
 Then the **Credit Transactions** page will be shown as below
 
 ![](./Image_EcommerceManager/image149.png)
-.
-✓ **Path: Store Credit > Manage Credit Transactions**
 
 This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction.
 
@@ -500,26 +487,30 @@ You can search any transaction by using filter boxes in each column.
 If you click on a customer’s email, you will be navigated to the **Customer Information** page.
 
 ###### Credit Report Charts
+
 ![](./Image_EcommerceManager/image151.png)
 
-✓ **Path: Store Credit > Credit Transactions Section > Customer Credit Report**
+
 
 ![](./Image_EcommerceManager/image153.png)
+
+✓ **Path: Store Credit > Credit Transactions Section > Customer Credit Report**
 
 Then the **Report Charts** page will be shown as above.
 
 This page can be divided into two main sections including **Life-time Reports** and **Period-of-time Report Charts**.
 
-•	**Life-time Reports**: 
-There are 2 types of reports.
-	-	**Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.
-	-	**Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
-
-•	**Period-of-time Report Charts**: This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month**, etc.
+   - **Life-time Reports**: There are 2 types of reports.
+   
+   - **Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.
+   
+   - **Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
+   
+   - **Period-of-time Report Charts**: This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month**, etc.
 
 ##### Use Credit when creating orders in backend
 
-✓ **Path: Sales > Operations Section > Orders > enter numbers on Customer Credit tab**
+✓ Path: Sales > Operations Section > Orders > enter numbers on Customer Credit tab
 
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for customers.
 
@@ -559,7 +550,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 
 ![](./Image_EcommerceManager/image164.png)
 
-✓  **Path: Store Credit > Settings > Magestore Extension tab > Store Credit**
+✓	**Path: Store Credit > Settings > Magestore Extension tab > Store Credit**
 
 •	**General Configuration** Tab:
 
@@ -609,21 +600,21 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 
 2)	**Color of Title**: enter Hexadecimal code or choose a color as above.
 
+
 #### Gift Cards
 
 ##### Setting
 
 ✓ **Path: Marketing > Gift Card > Settings**
 
-To configure default configurations and settings of the extension, please log in to backend screen, and then do the following stages as below:
-
+To configure default configurations and settings of the extension, please log in to backend screen, and then do the following stages as below: 
 ![](./Image_EcommerceManager/image176.png)
 
 **GENERAL**
 
 **Gift code**
 
-1)	Select **“YES”** in the dropdown list to enable Gift Card
+1)	Select ** “YES”** in the dropdown list to enable Gift Card
 
 2)	Configure the pattern to auto-generate gift codes for Gift Card products when customers purchase in WebPOS frontend
 
@@ -654,11 +645,9 @@ To configure default configurations and settings of the extension, please log in
 **Tax Configuration**
 
 Select:
-
 1)	**After Tax**: to allow applying Gift Card after the tax is applied
 
 2)	**Before Tax**:  to allow applying Gift Card w/o tax
-
 ![](./Image_EcommerceManager/image182.png)
 
 **ON PRODUCT PAGE**
@@ -677,7 +666,8 @@ Select:
 
 -	Limit the maximum size of images uploaded by customers to 500KB
 
-**Gift Card Shipping Information**
+
+Gift Card Shipping Information
 
 -	Select “**YES**”: Gift card can be sent through the post office
 
@@ -687,7 +677,7 @@ Select:
 
 ![](./Image_EcommerceManager/image186.png)
 
-**ON SHOPPING CART PAGE**
+ON SHOPPING CART PAGE
 
 1)	Select “**YES**” to Enable a Gift Card box for customers to apply gift codes right on the shopping cart page.
 
@@ -706,7 +696,6 @@ Select “**YES**” to show Gift Card box on the checkout page
 **EMAIL NOTIFICATION** 
 
 **General**
-
 1)	Select “**YES**” to allow sending notification emails to customers and recipients
 
 2)	Select “**Active**”, only a gift card which is activated can be sent to a friend
@@ -722,7 +711,6 @@ Select “**YES**” to show Gift Card box on the checkout page
 1)	Select the email template sent to purchasers after buying Gift Card successfully. 
 
 2)	Select the email template sent to purchasers when recipients receive Gift Cards. 
-
 **Notification email sent to recipient**
 
 3)	Select “**YES**” to allow email notification being sent to recipient when sender refunds Gift Card.
@@ -737,7 +725,7 @@ Select “**YES**” to show Gift Card box on the checkout page
 
 ![](./Image_EcommerceManager/image194.png)
 
-**GIFT CARD PRINTOUT**
+GIFT CARD PRINTOUT
 
 Click “**Choose File**” to upload an image used as a logo when Gift Cards are printed or sent via email. 
 
@@ -758,6 +746,7 @@ On the popup screen
 2)	Enter the template’s name
 
 3)	Choose a design pattern in dropdown list (optional)
+
 
 4)	Enter notes or description about the gift card template (if any)
 
@@ -782,24 +771,24 @@ Click “**Preview**” to see the gift card template
 ######  Edit and Delete Existing Template
 
 ✓ **Path: Marketing > Gift Card > Manage Gift Card Templates**
-
 ![](./Image_EcommerceManager/image204.png)
 
-2)	Mark the template checkbox
+1)Mark the template checkbox
 
-3)	Tab the action label, select “**Delete**” to remove templates. 
+2)	Tab the action label, select “**Delete**” to remove templates. 
 
-4)	Click “**Edit**” to update templates data
+3)	Click “**Edit**” to update templates data
 
 ![](./Image_EcommerceManager/image206.png)
 
 On the popup screen
 
-5)	Edit templates data
+4)	Edit templates data
 
-6)	Click “**Save**” to finish
+5)	Click “**Save**” to finish
 
-7)	Additional guidance: Click “**Delete**” to remove template.
+6)	Additional guidance: Click “**Delete**” to remove template.
+
 
 #####  Generate Gift Codes
 
@@ -884,11 +873,11 @@ On the popup screen:
 
 Scroll down, on the **Message Information** tab, click ![](./Image_EcommerceManager/image228.png)  to expand.
 
-1)	Enter the sender name and email
+1)	Enter the sender ‘s name and email
 
-2)	Enter the recipient name and email
+2)	Enter the recipient ‘s name and email
 
-3)	Enter the recipient Address
+3)	Enter the recipient ‘s Address
 
 4)	Enter the message to the recipient
 
@@ -919,7 +908,6 @@ On the popup screen:
 ✓ **Path: Customers > All Customers**
 
 On **Create New Order** page, after selecting a customer and adding a product to an order, the system will show the Gift Card box, which allowing you to use Gift Card credit balance or Gift Card code(s) of the Customer to pay for this order. Select the method(s) as you want and then remember to click on **Apply Gift Card** button. 
-
 ![](./Image_EcommerceManager/image236.png)
 
 1)	Mark the check box to use gift card to checkout
@@ -930,11 +918,11 @@ On **Create New Order** page, after selecting a customer and adding a product to
 
 ![](./Image_EcommerceManager/image238.png)
 
-Scroll down to view “Order Totals” label, then click on **(4) “Submit Order”** to finish.
+Scroll down to view “Order Totals” label, then click on ** (4) “Submit Order” ** to finish.
 
 ##### Refund Orders into Gift Card Credit Balance
 
-✓ **Path: Sales > Orders**
+✓**Path: Sales > Orders**
 
 ![](./Image_EcommerceManager/image240.png)
 
@@ -963,9 +951,6 @@ Scroll down to view “Order Totals” label, then click on **(4) “Submit Orde
 On Gift Card History page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status. 
 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience. 
-
-----------------------
-
 ## For Ecommerce Staff
 
 ### Validating orders and Store Pickup process 
@@ -984,21 +969,22 @@ Follow the steps in section **Create shipment**  - Validating Orders and Store P
 
 ######  Print packing slips
 
-To print packing slips, you can go to **Print packing slips** - Validating Orders and Store Pickup part in Role for Ecommerce Manager.
-
+To print packing slips, you can go to **Print packing slips** - Validating Orders and Store Pickup part in Role for Ecommerce Manager
 ######  Send confirm email to customers
 
-Ecommerce staff can send confirm email to customers as ecommerce manager can do. (see section **Send confirm email to customers**  - Validating Orders and Store Pickup part in Role for Ecommerce Manager to know more).
+
+Ecommerce staff can send confirm email to customers as ecommerce manager can do. (see section **Send confirm email to customers**  - Validating Orders and Store Pickup part in Role for Ecommerce Manager to know more)
 
 #####  Request Transfer Stock from other warehouses
 
-If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses. You can go to section **Request Transfer Stock from other warehouses**  Validating Orders and Store Pickup part in Role for Ecommerce Manager.
+If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses. You can go to section **Request Transfer Stock from other warehouses** -  Validating Orders and Store Pickup part in Role for Ecommerce Manager  
 	
 #####  Receive Transfer stock 
 
-Similarly, ecommerce staff can receive transfer stock by following the guidelines in section **Receive Transfer stock** - Validating Orders and Store Pickup part in Role for Ecommerce Manager.
+Similarly, ecommerce staff can receive transfer stock by following the guidelines in section **Receive Transfer stock** - Validating Orders and Store Pickup part in Role for Ecommerce Manager 
 
-####  Deliver orders in store	 
+####  Deliver orders in store
+
 #####  Find pickup-in-store order 
 
 Please go to section **Find pickup in-store order**  - Validating Orders and Store Pickup part in Role for Ecommerce Manager to see how to do. 
@@ -1006,8 +992,9 @@ Please go to section **Find pickup in-store order**  - Validating Orders and Sto
 #####  Print invoice
 
 Ecommerce staff can print receipt and invoice similar as their manager ( see section **Print invoice**  - Validating Orders and Store Pickup part in Role for Ecommerce Manager.
-	
+
 ### Loyalty programs
+
 ####  Reward Points
 
 For Reward Points module, ecommerce staff will have several particular roles including using points at chekout and refunding orders by points as below. 
@@ -1086,12 +1073,11 @@ Click on a **customer** to view the points left in that customer’s account.
 
 #####  Refund an Order into point balance 
 
-Customer can only refund their order into points balance only when they spent their points to buy the products in the order via webstore. Thus, the process of refund into points balance is carried out in backend and not ready for Web POS at store. 
+Customer can only refund their order into points balance when they spent their points to buy the products in the order via webstore. Thus, the process of refund into points balance is carried out in backend and not ready for Web POS at store. 
 
 As this authority of ecommerce staff is similar to that of ecommerce manager in this section, you can see section  **Refund an Order into point balance in backend** - Reward points part in  Role for Ecommerce Manager to know how it works. 
 
 #### Store Credit
-
 For Store Credit module, ecommerce staff will have authorities including using credit  at chekout and refunding orders by credit 
 
 **Notice** : All functions related to configuring rules of Store Credit program and managing customers ‘ credit will be undertaken by Ecommerce managers (EM), except for EM setting up extra authority for their staff.
@@ -1139,6 +1125,7 @@ Go to section **Refund  Orders into Credit balance - Store Credit part in  Role 
 
  ✓ **Path: Orders > Orders History > Select an order to refund**
 
+
 ![](./Image_EcommerceManager/image276.png)
 
 1)	Click on “**Refund**”
@@ -1150,7 +1137,9 @@ On the pop-up screen:
 2)	Enter the number of money to refund into Store Credit balance 
 
 3)	Click on “**Submit Refund**” to complete.
+
 #### Gift Cards
+
 #####  Apply Gift cards Code / Credit balance  when creating an order 
 
 There are 2 ways to apply  gift code to create an order
@@ -1175,6 +1164,7 @@ To use Gift code to place a new order on Checkout Page (Web POS):
 
 2)	Click on “**Apply**”
 
+
 ![](./Image_EcommerceManager/image281.png)
 
 Then select a payment method (such as: Web POS Cash In) 
@@ -1183,15 +1173,14 @@ Then select a payment method (such as: Web POS Cash In)
 
 #####  Refund Orders into Gift Card credit balance
 
-There are 2 ways to apply  gift codes  to refund orders into Gift Card credit balance.
-
+There are 2 ways to apply  gift codes  to refund orders into Gift Card credit balance
 •	In backend of your webstore
 
 •	In Web POS at store. 
 
 ###### Refund orders into Gift Card credit balance in backend
 
-Go to section Refund orders into Gift Card Credit balance - Gift Card part in Role for Ecommerce Manager.
+Go to section Refund orders into Gift Card Credit balance - Gift Card part in Role for Ecommerce Manager 
 
 ######  Refund orders into Gift Card Credit balance in Web POS
 
@@ -1208,7 +1197,5 @@ On the pop-up screen:
 2)	Enter the number of money to refund to gift credit 
 
 3)	Click on “**Submit Refund**” to complete.
-
-
 
 
