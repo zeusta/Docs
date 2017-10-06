@@ -96,7 +96,7 @@ Now, please connect to your FTP by using FileZilla or other FTP Application to u
 
 ![](./img102/it_img004.png?raw=true)
 
-After uploading all the files to your server, please login to your SSH by using Putty or SSH command line. Them, please use “cd” command to change the directory to Magento 2 root folder:
+After uploading all the files to your server, please login to your SSH by using Putty or SSH command line. Them, please use **cd** command to change the directory to Magento 2 root folder:
 
 ***cd [magento 2 root folder]***
 
