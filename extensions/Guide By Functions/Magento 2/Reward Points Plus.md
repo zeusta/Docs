@@ -161,13 +161,11 @@ After finish editing, remember to click on the **Save** or the **Save and Contin
 
 To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of that page.
 
-
 ### Manage transactions
 
 Go to ** Reward Points > Transactions**
 
 Then all the transactions related to reward points will be shown as below:
-
 
 Click on **Add New Transaction** to add new transaction
 ![](./rp_images/image089.png)
@@ -176,7 +174,6 @@ Click on **Add New Transaction** to add new transaction
 Fill in the required information and click on **Save**.
 
 ![](./rp_images/image091.png)
-
 
 ### Manage Point Balances of Customers
 
@@ -188,20 +185,17 @@ On the **Customer Manager** page, you can choose the Customer you want to change
 
 ![](./rp_images/image093.png)
 
-
 After clicking on the **Reward Points** tab, all of that Customer’s information will appear as below:
 
 ![](./rp_images/image095.png)
 
-
 **Reward Points Information:** In this session, you can change the Customer’s balance by filling an integer in the **Change Balance** field. For example, if you enter 5, then 5 points will be added to that customer’s balance and vice versa, “-5” means that Customer’s balance will be deducted 5 points.
 
+Also, you can configure other information like **Update Points Subscription** or **Expire Transaction Subscription**
+
+Click on **Save Customer** to save the changes
+
 ![](./rp_images/image097.png)
-
-
-Also, you can configure other information like **Update Points Subscription** or
-
-**Expire Transaction Subscription**
 
 **Transaction history:** This part lists all of that Customer’s transactions:
 
@@ -210,7 +204,9 @@ Also, you can configure other information like **Update Points Subscription** or
 #### Change Point Balances
 
 There are two ways to change the point balance of a customer. 	
+
 The first way is to enter the Change Balance in the Reward Points session as mentioned above.
+
 The second way to change points, which can be done to many customers at the same time, is illustrated below:
 
 ![](./rp_images/image101.png)
