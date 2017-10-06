@@ -209,17 +209,20 @@ The first way is to enter the Change Balance in the Reward Points session as men
 
 The second way to change points, which can be done to many customers at the same time, is illustrated below:
 
+A list of customers will be shown with point balance column
+
 ![](./rp_images/image101.png)
 
-A list of customers will be shown with point balance column
+Then, click on **Import Points**
 
 ![](./rp_images/image103.png)
 
-Next, you can click on “**Choose File**” to upload file and continute clicking  on **Import** to import it.
+Next, you can click on “**Choose File**” to upload file and continue clicking  on **Import** to import it.
 
 ![](./rp_images/image105.png)
 
 The list of customers in Reward Point Balances Information page can also be exported by clicking on **Export**.
+
 ![](./rp_images/image107.png)
 
 
