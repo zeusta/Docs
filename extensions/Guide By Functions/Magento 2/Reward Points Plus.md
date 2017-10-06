@@ -7,7 +7,10 @@
 
 *Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
-## INTRODUCTION
+
+----------------
+
+## Introduction
 
 
 There is no doubt about the benefits of Customer loyalty to your business. The question is how to keep Customers returning and buying in your store? We offer you a wonderful solution- that is Magento Reward Points Plus module. It is designed to maximize Customers engagement in your store by many useful features.
@@ -15,6 +18,9 @@ There is no doubt about the benefits of Customer loyalty to your business. The q
 With Reward Points –Standard Edition, your Customers can receive reward points when placing orders on your site. These points then can be converted to money for checkout at the rate configured by you. The System will show messages about the number of points Customers will earn and spend. Customers certainly feel more encouraged to purchase at your site when they can get some bonus for doing that!
 
 ![ ](./rp_images/rp1.png)
+
+
+--------------------------------
 
 ## How to use
 
@@ -242,18 +248,20 @@ To creat orders, follow the below steps:
 Then, Select customer from the list
 
 
-![](./Image_EcommerceManagement/image113.png)
+![](./rp_images/image113.png)
 
 
 Click on **Add products** to add products to the order
-![](./Image_EcommerceManagement/image115.png)
+
+![](./rp_images/image115.png)
 
 Click on the product and enter the quantity, then click on **Add Selected Product(s) to Order**
 
-![](./Image_EcommerceManagement/image117.png)
+![](./rp_images/image117.png)
 
 Set the number of point customer will be used in the order in the use customer reward points
-![](./Image_EcommerceManagement/image119.png)
+
+![](./rp_images/image119.png)
 
 Fill in the required fields, click on submit order to finish creating new orders.
 
@@ -263,23 +271,23 @@ Fill in the required fields, click on submit order to finish creating new orders
 
 Go to **Sales > Orders**
 
-![](./Image_EcommerceManagement/image121.png)
+![](./rp_images/image121.png)
 
 1)	Click on **View** to see the details of an order 
 
-![](./Image_EcommerceManagement/image123.png)
+![](./rp_images/image123.png)
 
 2) On the top bar, click on **Credit Memo** label to create a refund order 
 
-![](./Image_EcommerceManagement/image125.png)
+![](./rp_images/image125.png)
 
-On the pop-up screen named ![](./Image_EcommerceManagement/image127.png), scroll down, then:
+On the pop-up screen named ![](./rp_images/image127.png), scroll down, then:
 
 3)   Enter the earned points that will be refunded to customer’s balance
 
-2)	Click on ![](./Image_EcommerceManagement/image129.png) to finish.
+2)	Click on ![](./rp_images/image129png) to finish.
 
-![](./Image_EcommerceManagement/image131.png)
+![](./rp_images/image131.png)
 
 After the credit memo has been created.
 
