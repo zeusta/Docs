@@ -316,7 +316,6 @@ On **Actions** Tab:
 
 ![](./img102/it_img020.png?raw=true)
 
----------
 
 
 ### Web POS
