@@ -215,7 +215,7 @@ A list of customers will be shown with point balance column
 
 ![](./rp_images/image103.png)
 
-Next, you can click on “**Choose File**” to upload file and continute clicking  on Import to import it.
+Next, you can click on “**Choose File**” to upload file and continute clicking  on **Import** to import it.
 
 ![](./rp_images/image105.png)
 
@@ -238,19 +238,21 @@ To creat orders, follow the below steps:
 ![](./rp_images/image109.png)
 
 
-Then, Select customer from the list
+Then, select customer from the list
 
 ![](./rp_images/image111.png)
 
 Click on **Add products** to add products to the order
+
 ![](./rp_images/image113.png)
 
 
 Click on the product and enter the quantity, then click on **Add Selected Product(s) to Order**
+
 ![](./rp_images/image115.png)
 
-
 Set the number of point customer will be used in the order in the **Use Customer Reward Points**
+
 ![](./rp_images/image117.png)
 
 
@@ -266,18 +268,21 @@ Go to **Sales > Orders**
 
 
 1)	Click on **View** to see the details of an order 
+
 ![](./rp_images/image121.png)
 
 
-2) On the top bar, click on **Credit Memo** label to create a refund order 
+2)	On the top bar, click on **Credit Memo** label to create a refund order.
+
 ![](./rp_images/image123.png)
 
 
 On the pop-up screen named ![](./rp_images/image127.png), scroll down, then:
 
-3)   Enter the earned points that will be refunded to customer’s balance
+3)	Enter the earned points that will be refunded to customer’s balance
 
 4)	Click on ![](./rp_images/image129.png) to finish.
+
 
 ![](./rp_images/image125.png)
 
