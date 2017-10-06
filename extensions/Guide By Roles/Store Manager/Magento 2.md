@@ -291,4 +291,4 @@ Like we said above right from the start of this section, Cashiers have the abili
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
