@@ -4,7 +4,7 @@
 
 *Confidential Information Notice.* 
 
-***Copyright 2017**. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
+*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
 
 *This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
@@ -15,7 +15,7 @@
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business.    Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
-## HOW TO INSTALL
+## HOW TO INSTALL![](./img102/it_img031.png?raw=true)
 
 
 
@@ -78,7 +78,7 @@ If you are new to Magento 2, you probably need a little help to get started befo
 
 3)	Where’s my Magento server and how do I access it?
 
-Please note that we take Gift Card as our example in this Installation guide.
+Notice that,we take *Growth Plus* as the example
 
 **Step 1: Verify your prerequisites**
 
@@ -96,7 +96,7 @@ Now, please connect to your FTP by using FileZilla or other FTP Application to u
 
 ![](./img102/it_img004.png?raw=true)
 
-After uploading all the files to your server, please login to your SSH by using Putty or SSH command line. Them, please use “cd” command to change the directory to Magento 2 root folder:
+After uploading all the files to your server, please login to your SSH by using Putty or SSH command line. Them, please use **cd** command to change the directory to Magento 2 root folder:
 
 ***cd [magento 2 root folder]***
 
@@ -136,7 +136,7 @@ Finally, coming back to Magento 2 admin to check if the module is installed prop
 ### Multi-companies (Coming soon)
 
 
-### Inventory
+### Inventory Management
 
 
 #### Stock Control Configuration
@@ -316,7 +316,6 @@ On **Actions** Tab:
 
 ![](./img102/it_img020.png?raw=true)
 
----------
 
 
 ### Web POS
@@ -657,6 +656,7 @@ To configure default configurations and settings of the module, please log in to
 (2) Limit the maximum size of images uploaded by customers to 500KB
 
 **Gift Card Shipping Information**
+
 (3) Select **Yes**: Gift card can be sent through the post office
 
 (4) Choose **5** means that after Customers order Gift Cards for friends and choose Send through post office option, Gift Cards will be sent to recipients within 5 days
@@ -1976,15 +1976,15 @@ Moreover, Purchase Manager can access to **Sales** Tab and decentralize Purchase
 
 ---------
 
-##	HOW TO MANAGE MASTER DATA
+## HOW TO MANAGE MASTER DATA
 
-###Product
+### Product
 
 #### Attribute
 
 Path: **Stores > Attributes** section **> Product**
 
-#####	Manage attribute
+##### Manage attribute
  
 ![](./imgpart2/it_img501.png?raw=true)
 
@@ -1996,7 +1996,7 @@ Path: **Stores > Attributes** section **> Product**
 
 You can view or edit attribute’s details by clicking on each line.
 
-#####	Create a new attribute
+##### Create a new attribute
 
 Attributes can be created while working on a product, or from the Product **Attributes** pages. The following example show how to create attributes from the Stores menu. Any attribute that is used as a drop-down list of values for a configurable product must have the following properties:
 
@@ -2099,11 +2099,11 @@ To use attribute as a sort parameter for product listings, set Used for Sorting 
 
 When complete, click **Save Attribute**.
 
-####	Attribute set
+#### Attribute set
 
 Path: **Stores > Attributes** section **> Attribute set**
 
-#####	Manage attribute set
+##### Manage attribute set
  
 ![](./imgpart2/it_img511.png?raw=true)
 
@@ -2115,7 +2115,7 @@ Path: **Stores > Attributes** section **> Attribute set**
 
 You can view or edit details of attribute set by clicking on each line.
 
-#####	Create a new attribute set
+##### Create a new attribute set
  
 ![](./imgpart2/it_img512.png?raw=true)
 
@@ -2144,17 +2144,17 @@ To add a new attribute to the set, drag the attribute from the Unassigned Attrib
 
 Click **Save** to complete the process.
 
-####	Categories
+#### Categories
 
 Path: **Products > Categories**
 
-#####	Manage categories
+##### Manage categories
 
 When selecting a category on the left, all the information will be displayed on the left.
  
 ![](./imgpart2/it_img515.png?raw=true)
 
-#####	Create a new category
+##### Create a new category
 
  
 ![](./imgpart2/it_img516.png?raw=true)
@@ -2273,7 +2273,7 @@ Path: **Products > Catalog**
 |Downloadable Product|	A digitally downloadable product that consists of one or more files that are downloaded. The files can reside on your server or be provided as URLs to any other server.|
 
 
-#####	Manage products
+##### Manage products
 
 Path: **Products > Catalog**
  
@@ -2347,17 +2347,29 @@ Complete the product information
 Scroll down and complete the information in the following sections as needed:
 
  - Content
+ 
  - Configurations
+ 
  - Images and Videos
+ 
  - Search Engine Optimization
+ 
  - Related Products, Up-Sells, and Cross-Sells
+ 
  - Customizable Options
+ 
  - Products in Websites
+ 
  - Design
+ 
  - Schedule Design Update
+ 
  - Gift Options
+ 
  - Downloadable Information
+ 
  - Barcode
+ 
  - Suppliers
 
 **Configurable product**
@@ -2392,6 +2404,7 @@ Complete the basic settings
 (1)	Set Tax Class to one of the following:
 
  - None.
+ 
  - Taxable Goods.
 
 (2)	Enter the Quantity of the product that is currently in stock. 
@@ -2479,6 +2492,7 @@ Complete the basic settings
 (1)	Set Tax Class to one of the following:
 
  - None
+ 
  - Taxable Goods.
 
 (2)	Enter the Quantity of the product that is currently in stock. 
@@ -2554,6 +2568,7 @@ Complete the basic settings
 (1)	Set Tax Class to one of the following:
 
  - None.
+ 
  - Taxable Goods.
 
 (2)	Enter the Quantity of the product that is currently in stock. 
@@ -2649,6 +2664,7 @@ Complete the basic settings
 (1)	Set **Tax Class** to one of the following:
 
  - None.
+ 
  - Taxable Goods
 
 (2)	Enter the **Quantity** of the product that is currently in stock. 
@@ -2675,13 +2691,16 @@ Then, click **Save** to continue.
 Complete **downloadable product.**
 
  1. Mark the checkbox “**Is this downloadable product**”
+ 
  2. Enter the **Title** - to use as a heading for the download links.
+ 
  3. Click **Add Link**, then:
 
    Enter **Title** and **Price**. For both File and Sample files, choose:
                 
  - Upload File: To upload the the distribution file to the server.
    Browse to the file, and select it for upload.
+ 
  - URL: To access the distribution file from a URL. Enter the full URL
    to the download file.
 
@@ -2771,6 +2790,7 @@ o	Click on respectively
 ![](./imgpart3/it_img573.png?raw=true)
 
 Click on **Save** to finish
+
  
 **e)	Customizable Options**
  
@@ -2874,6 +2894,7 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 (5)	Click **Save** to finish
 
 ### Customers
+
 #### How to manage customers
 
 Path: **Customer > All customers**
@@ -3075,6 +3096,7 @@ Edit each line of the session of each Delivery partner ( UPS, UPSS, FedEx, DHL)
 Click on **Save Config** to save all the changes and configurations
 
 ### Warehouse
+
 #### How to create a new warehouse 
 
 Path: **Inventory Management > Stock Listing** section **> Warehouses**
@@ -3172,7 +3194,7 @@ Select Staff users to assign permission
 
 #### Location
 
-### Add a new location
+##### Add a new location
 
 Path: **Sales > Web POS** section > **Manage Locations**
 
@@ -3194,7 +3216,7 @@ Path: **Sales > Web POS** section > **Manage Locations**
 
 Click on **Save**
 
-#### Mapping Locations – Warehouses
+##### Mapping Locations – Warehouses
 
 Path: **Sales > Web POS** section **> Manage Locations**
 
@@ -3226,9 +3248,9 @@ On the pop-up screen, click on **Mapping Locations – Warehouses**
 
 (7)Finally, **Save** all the changed information
 
-## Store (POS)
+#### Store (POS)
 
-### Create a new Web POS
+##### Create a new Web POS
 
 ![](./imgpart3/it_img617.png?raw=true)
 
@@ -3259,7 +3281,7 @@ Click **Save** to complete the process.
 *IT Admin can give other admin permission to view the Inventory information in any location by going to System > User Roles > Add new role or Edit role > Role Resource, then choosing Order Success > Inventory Management > View Warehouse Information (this is the most basic step. With each business, the process will be expanded)*
 
 
-## Manage Web POS
+#### Manage Web POS
 
 Path: **Sale > Web POS** section **> Manage POS**
 
@@ -3273,6 +3295,4 @@ Path: **Sale > Web POS** section **> Manage POS**
 
 (4)	Click **Detail** to view a POS’s details or edit.
 
--------
-
-
+--------------
