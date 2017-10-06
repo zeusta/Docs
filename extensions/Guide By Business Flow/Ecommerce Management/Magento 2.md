@@ -303,7 +303,9 @@ Click on **Save spending rate** after finishing filling in all the boxes
 
 ![](./Image_EcommerceManagement/image079.png)
 
-The new earning rate will be shown as the above image.
+The new spending rate will be shown as the above image.
+
+If you want to add a new earning rate, do the same as above but notice the difference between earning rate (the number of points customers will earn when spending an amount of money) and spending rate (the number of points customer will spend when purchasing an order)
 
 ##### Edit existing rate 
 
@@ -314,7 +316,10 @@ The new earning rate will be shown as the above image.
 Click on **Edit** on action column of the rate needed to be edited
 
 ![](./Image_EcommerceManagement/image083.png)
+
 Edit the rate, then click **Save Spending Rate**, or **Delete** it.
+
+If you want to edit a new earning rate, do the same as above but notice the difference between earning rate (the number of points customers will earn when spending an amount of money) and spending rate (the number of points customer will spend when purchasing an order)
 
 ##### Manage transaction
 
