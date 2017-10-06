@@ -2492,6 +2492,7 @@ Complete the basic settings
 (1)	Set Tax Class to one of the following:
 
  - None
+ 
  - Taxable Goods.
 
 (2)	Enter the Quantity of the product that is currently in stock. 
@@ -2567,6 +2568,7 @@ Complete the basic settings
 (1)	Set Tax Class to one of the following:
 
  - None.
+ 
  - Taxable Goods.
 
 (2)	Enter the Quantity of the product that is currently in stock. 
@@ -2788,6 +2790,7 @@ o	Click on respectively
 ![](./imgpart3/it_img573.png?raw=true)
 
 Click on **Save** to finish
+
  
 **e)	Customizable Options**
  
