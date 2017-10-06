@@ -343,7 +343,7 @@ Click on **Edit** of the customer needed to be managed.
 
 ![](./Image_EcommerceManagement/image091.png)
 
-Click on **Reward Points** to manage the customer’s balance by filling the **change balance, change title, time when points expire** on box.
+Click on **Reward Points** to manage the customer’s balance by filling the **change balance, change title, time when points expire** in box.
 
 Also, update points subscription and expire transaction subscription can be configured in reward points.
 
