@@ -301,7 +301,7 @@ The list of customers in **Reward Point Balances Information** page can also be 
 
 1)	Click on **Sales**
 
-2)	Click on **Orders*
+2)	Click on **Orders**
 
 3)	Click on **Create new order**
 
@@ -327,7 +327,7 @@ Fill in the required fields, click on submit order to finish creating new order.
 
 #####  Refund an Order into points balance in backend
 
-✓ **Path: Sales > Orders **
+✓ **Path: Sales > Orders**
 
 ![](./Image_EcommerceManager/image101.png)
 
@@ -507,6 +507,7 @@ If you click on a customer’s email, you will be navigated to the **Customer In
 ![](./Image_EcommerceManager/image151.png)
 
 ![](./Image_EcommerceManager/image153.png)
+
 ✓ **Path: Store Credit > Credit Transactions Section > Customer Credit Report**
 
 Then the **Report Charts** page will be shown as above.
@@ -620,6 +621,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 ✓ **Path: Marketing > Gift Card > Settings**
 
 To configure default configurations and settings of the extension, please log in to backend screen, and then do the following stages as below: 
+
 ![](./Image_EcommerceManager/image176.png)
 
 **GENERAL**
@@ -860,6 +862,7 @@ A status “the pattern has been generated successfully” would be shown on the
 1)	Click on “Add Gift Code” to create a new gift code
 
 Moreover, click on “**Import Gift Codes**” to import data from your device to the system.
+
 ![](./Image_EcommerceManager/image220.png)
 
 On the popup screen:
@@ -1067,6 +1070,7 @@ After select customers and add products, Web POS users click on ![](./Image_Ecom
 3)	Click **Apply**  
 
 ![](./Image_EcommerceManager/image262.png)
+
 On **Checkout Page**, the system will show a details summary of the order. 
 
 Spending points which were converted into $$$ for discount would be shown in the **Use point** field.
