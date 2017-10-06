@@ -44,7 +44,7 @@ To create a new request for quotation, purchase staff can follow this path: **Pu
 Then the page will be shown as below:
 
 ![](Image-Purchase/image005.png)
-➢Step 1: *Fill in **General Information** tab
+➢Step 1: Fill in **General Information** tab
 
 1) Choose **Created Time**
 
@@ -57,7 +57,7 @@ Then the page will be shown as below:
 6) Click on **Prepare Product List** for the next step. You will be navigated to  this view:
 
 ![](Image-Purchase/image007.png)
-➢Step 2: *Prepare product list
+➢Step 2: Prepare product list
 
 In this step, there are 5 ways for you to prepare product list:
 
@@ -75,7 +75,7 @@ Apart from importing products via a CSV file, you need to enter Purchase Cost, T
 
 ![](Image-Purchase/image009.png)
 
-➢Step 3: *set up **Shipping and Payment**
+➢Step 3: set up **Shipping and Payment**
 
 ![](Image-Purchase/image011.png)
 
