@@ -216,22 +216,20 @@ The second way to change points, which can be done to many customers at the same
 ![](./rp_images/image101.png)
 
 A list of customers will be shown with point balance column
-Click on Import to import from computer
 
 ![](./rp_images/image103.png)
 
-Next, you can click on “Choose File” to upload file and continute clicking  on Import to import it.
+Next, you can click on “**Choose File**” to upload file and continute clicking  on Import to import it.
 
 ![](./rp_images/image105.png)
 
-
-The list of customers in Reward Point Balances Information page can also be exported by clicking on Export.
+The list of customers in Reward Point Balances Information page can also be exported by clicking on **Export**.
 ![](./rp_images/image107.png)
 
 
 ### Create and refund orders
 
-Go to **Sales > Orders**. Then the System will display all Customers’ orders. Now, let’s see how Reward Points - Standard edition is used in creating and refunding orders.
+Go to **Sales > Orders**. Then the System will display all Customers’ orders. Now, let’s see how Reward Points - Plus module is used in creating and refunding orders.
  
  - **Create Orders**
 
@@ -239,17 +237,15 @@ To creat orders, follow the below steps:
 
 ![](./rp_images/image109.png)
 
-1)	Click on Sales
-2)	Click on Orders
-3)	Click on Create New Order
+1)	Click on **Sales**
+2)	Click on **Orders**
+3)	Click on **Create New Order**
 
 ![](./rp_images/image111.png)
 
 Then, Select customer from the list
 
-
 ![](./rp_images/image113.png)
-
 
 Click on **Add products** to add products to the order
 
@@ -259,7 +255,7 @@ Click on the product and enter the quantity, then click on **Add Selected Produc
 
 ![](./rp_images/image117.png)
 
-Set the number of point customer will be used in the order in the use customer reward points
+Set the number of point customer will be used in the order in the **Use Customer Reward Points**
 
 ![](./rp_images/image119.png)
 
@@ -285,14 +281,13 @@ On the pop-up screen named ![](./rp_images/image127.png), scroll down, then:
 
 3)   Enter the earned points that will be refunded to customer’s balance
 
-2)	Click on ![](./rp_images/image129png) to finish.
+4)	Click on ![](./rp_images/image129.png) to finish.
 
 ![](./rp_images/image131.png)
 
 After the credit memo has been created.
 
-3)	Click on **Credit Memo** tab on the left hand-side to view credit memos data.
-
+5)	Click on **Credit Memo** tab on the left hand-side to view credit memos data.
 
 ### Settings
 
