@@ -163,7 +163,7 @@ To delete a rate, you can go to the **Edit Rate** page and then click on the **D
 
 ### Manage transactions
 
-Go to ** Reward Points > Transactions**
+Go to **Reward Points > Transactions**
 
 Then all the transactions related to reward points will be shown as below:
 
@@ -231,31 +231,32 @@ Go to **Sales > Orders**. Then the System will display all Customers’ orders. 
 
 To creat orders, follow the below steps: 
 
-![](./rp_images/image109.png)
 
 1)	Click on **Sales**
 2)	Click on **Orders**
 3)	Click on **Create New Order**
+![](./rp_images/image109.png)
 
-![](./rp_images/image111.png)
 
 Then, Select customer from the list
 
-![](./rp_images/image113.png)
+![](./rp_images/image111.png)
 
 Click on **Add products** to add products to the order
+![](./rp_images/image113.png)
 
-![](./rp_images/image115.png)
 
 Click on the product and enter the quantity, then click on **Add Selected Product(s) to Order**
+![](./rp_images/image115.png)
 
-![](./rp_images/image117.png)
 
 Set the number of point customer will be used in the order in the **Use Customer Reward Points**
+![](./rp_images/image117.png)
+
+
+Fill in the required fields, click on **Submit Order** to finish creating new orders.
 
 ![](./rp_images/image119.png)
-
-Fill in the required fields, click on submit order to finish creating new orders.
 
 - **Refund orders**
 
@@ -263,15 +264,14 @@ Fill in the required fields, click on submit order to finish creating new orders
 
 Go to **Sales > Orders**
 
-![](./rp_images/image121.png)
 
 1)	Click on **View** to see the details of an order 
+![](./rp_images/image121.png)
 
-![](./rp_images/image123.png)
 
 2) On the top bar, click on **Credit Memo** label to create a refund order 
+![](./rp_images/image123.png)
 
-![](./rp_images/image125.png)
 
 On the pop-up screen named ![](./rp_images/image127.png), scroll down, then:
 
@@ -279,11 +279,14 @@ On the pop-up screen named ![](./rp_images/image127.png), scroll down, then:
 
 4)	Click on ![](./rp_images/image129.png) to finish.
 
-![](./rp_images/image131.png)
+![](./rp_images/image125.png)
+
 
 After the credit memo has been created.
 
 5)	Click on **Credit Memo** tab on the left hand-side to view credit memos data.
+
+![](./rp_images/image131.png)
 
 ### Settings
 
