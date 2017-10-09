@@ -442,7 +442,7 @@ After adding products, you can edit product quantity to return:
 
 3) Click **Save** to save your current process and stay on page; or **Confirm Order** to continue.
 
-### Inventory Staff Confirm Delivery
+### Complete Return Order
 
 After validating the products, inventory staff can process with the product receipt:
 ![](PM2images/Purchase-Management-Return-Order-5.png)
