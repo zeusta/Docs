@@ -144,25 +144,25 @@ Finally, do not forget to save your recent changes.
 **ADDITIONAL GUIDE**: Manage User/ Staff Roles and Permissions
 If you want to create and/or edit user roles and permissions in different sections in the Instock Management module, go to Magento core backend, **System > Permission**
 
-![enter image description here](./image_IM%20Rebuilt/image017.png)
+![Permission menu in backend](./image_IM%20Rebuilt/image017.png)
 
-The “**User**” tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.
+The **User** tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.
 
-![enter image description here](./image_IM%20Rebuilt/image018.png)
+![Add New User button](./image_IM%20Rebuilt/image018.png)
 
 Admin can view, edit and remove staff permission by clicking on each user. Admin can also assign a warehouse to a user here.
 
-![enter image description here](./image_IM%20Rebuilt/image019.png)
+![assign warehouse to user in 4 steps](./image_IM%20Rebuilt/image019.png)
 
-The “**Roles**” tab lets you see a  list  of  role  and  create  a  new  role  for  users. 
+Also in Magento core backend, in **System > Permission > Roles**, View a  list  of  role  and  create  a  new  role  for  users. 
 
-![enter image description here](./image_IM%20Rebuilt/image020.png)
+![Roles page](./image_IM%20Rebuilt/image020.png)
 
-In “**Role Info**” tab, you need to input the role name, verify the admin’s password. Then select the checkbox of the role’s permissions in the drop-down list, or select “**All**” in the “**Resource Access**” option to grant full permission to the role. When done, hit “**Save Role**” to finish.
+In **Role Info** tab, you need to input the role name, verify the admin’s password. Then in **Roles Resources* tab, select the checkbox of the role’s permissions in the drop-down list, or select **All** in the **Resource Access** option to grant full permission to the role. When done, hit **Save Role** to finish.
 
-![enter image description here](./image_IM%20Rebuilt/image021.png)
+![assign access to a new role](./image_IM%20Rebuilt/image021.png)
 
- - **Dashboard** (NEW): demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
+ - **Dashboard**: demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
 
 ![enter image description here](./image_IM%20Rebuilt/image022.png)
 
