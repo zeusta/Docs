@@ -1,6 +1,6 @@
-# STORE PICKUP MAGENTO 2
+# STORE PICKUP - MAGENTO 2
 
-(Version 1.1.0)
+**Version 1.1.0**
  
 Confidential Information Notice 
  
