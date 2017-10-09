@@ -8,4 +8,92 @@ Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauth
 
 ## Introduction
 
-Having trouble with managing hundresds of items that you sold every minute, from day to day? And how to keep track of each item's quantity change? Magestore's Instock Management module is here to help. By 
+Having trouble with managing hundresds of items that you sold every minute, from day to day? And how to keep track of each item's quantity change? Magestore's Instock Management module is here to help. With this inventory management module, you are able to:
+
+* Save time in stock control by in-line mass adjustment;
+* Reduce cost by low stock notifications and supply need forecast in time;
+* Avoid stock loss with convenient 5-step stock taking process.
+
+-----------
+
+## Terminologies and principles
+
+
+
+|Terminology| Description| Reference|
+|-----------|-------------|-------------|
+|Quantity in warehouse(s)| The real quantity of a product in the physical warehouse. It equals the sum of Available Qty and Qty to Ship|
+|Available Quantity|The quantity of each product which shows up in Virtual Catalog (front store). It’s also the quantity remaining that are available to be sold| 
+|Quantity to ship| The number of items has been ordered but not been shipped yet. This number will be returned to Avail Qty & Qty in Warehouse(s) if the shipment is cancelled| 
+|Shelf Location| Insert the detailed area in the shelf where the product is located. This is how you can support your staff in finding the product efficiently in the physical warehouse|
+|Warehouse| A “warehouse” in Inventory Management represents for a physical place where you keep your stock. Stocks can be moved between warehouses, purchased for a Warehouse and shipped from a Warehouse. Employees (with different admin accounts) can be restricted to handling only warehouse(s) with which they work| 
+|Primary Warehouse| Primary Warehouse is automatically created after the module is installed which contains all products in your catalog. This warehouse cannot be deleted to make sure that there is always at least one warehouse consisting of your inventory| 1.3. Warehouses|
+|Warehouse Pemission| Assign and manage a staff account permission level in controlling a specific warehouse. Base on Roles Assigned, an user who has full authorities will have permission to create new role & set up new user with specific permissions|
+|Stock Adjustment| Adjust Stock action is used to correct/ update inventory levels of your products and records them in Stock Adjustment History. This will change the product's Qty. in the Stock in Warehouse grid. After that, the system will update Available Qty. accordingly (or the quantity in default Catalog Products) after subtracting Qty allocated in sales orders from the new Qty in Warehouse
+|Stock Adjustment History | Stock Adjustment History records all inventory corrections/ updates when there are some differences between stock levels of physical and virtual warehouses|
+|Stocktaking| Stocktaking is performed to double-check and prevent any mismatch between the recorded product quantities and the actual inventory in your physical warehouses. The process includes 5 stages containing stock counting and admin’s approval before actually updating the Qty in the system| 
+|Stocktaking History| Stocktaking History records all stocktaking acts and their process status|
+|Stock Movement History|Stock Movements are records of inward &outward stock transfers of your primary warehouse| 
+|Supply Needs|Supply Need is the system’s prediction about how many inventory items you need for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past|
+|Available Date| Based on the sales history in the chosen sales period, the system will estimate the day which a product is sold out and need to be restocked| 
+|Low-stock Threshold Type|To get notification about the out-of-stock product, you will have to define how the system process. There are 2 methods: by Available Days or by Available Quantity| 
+|Threshold (days)| If you insert 3 in this field, the low stock notification will appear 3 days before the product is out of stock. The  sold out day is estimated based on sales history of the chosen sales period|
+|Sales Period (days)|If you insert 30 in this field, the threshold days will be estimated based on sales history in 30 days up to now|
+|Threshold (quantity)|If you insert 5 in this field, the low stock notification will appear when there are only 5 items of the product in stock|
+|Low Stock Notifications| Low Stock Notification shows all notifications following Low Stock Rules set up in the system. You can track the detail of a notification such as Warning Message, Low Stock Threshold Type, Notification Recipients here|
+
+
+----------
+## How to configure 
+
+
+### Stock Listing
+
+After installation, the system will automatically provide a Primary Warehouse. This Primary Warehouse cannot be deleted but can only be edited. All the existing products will be automatically synced from your website to this warehouse. 
+
+This function consists of 3 tabs to help you manage your inventory successfully:
+
+ - **Stock in Warehouse**: provides an overview of stocks in your primary warehouse
+ - **Non-warehouse Products**: lists out a newly-created product which has not been assigned to the primary warehouse
+ - **Warehouses**: allows you to view and edit details of your warehouses
+ 
+ #### Stock in Warehouse
+
+This tab provides an overview of stocks in all warehouses. Here you can view stock SKU, Name, Price, Qty in Warehouse(s), Qty to Ship, Available Qty, Products in Warehouse(s), Stock Movement and Product Status. 
+
+The module provides an in-depth control over your **composite products** (configurable, bundle and grouped products).  You can see 3 quantity types of each variation or component of the composite product in the warehouse. 
+
+For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. 
+
+![control configurable product with variable sizes](./image_IM%20Rebuilt/image002.png)
+
+Note that there are 3 types of quantity shown:
+
+ - **Qty in Warehouse(s)**: total amount of products in physical warehouses;
+ - **Qty to ship**: the number of products which has been ordered and is ready to be shipped;
+ - **Available Qty**: the amount of products left in the virtual catalog which is available to sell.
+ 
+Note that **Qty in Warehouse(s) = Qty to Ship + Available Qty**
+
+![change stock quantity](./image_IM%20Rebuilt/image004.png)
+
+Update the total quantity and Shelf Location easily on the Inventory grid in only 3 steps:
+
+1. Select the product(s);
+2. Input the new Qty in Warehouse;
+3. Input location of the shelf on which the product is placed (optional);
+4. Click **Update Stock**.
+
+**Shelf Allocation** is a useful information to find the product in the physical stock quickly, especially in fulfilling customer’s order.
+
+#### Non-warehouse Products
+
+When a product is newly-created and has not been assigned to warehouse yet, it will automatically be allocated in this Non-warehouse list. From here, you can select a product and add it into your warehouse. This prevents you from accidentally including disqualified products into your warehouse and wasting time searching for it later.
+
+![transfer non-warehouse product to warehouse](./image_IM%20Rebuilt/image007.png)
+
+1. Select the product(s);
+2. In **Actions** menu, choose "Add to Warehouse" from the drop-down list;
+3. Click **Submit**
+
+
