@@ -11,8 +11,6 @@ This document and the information it contains constitute a trade secret of Mages
 ##  Introduction
 
 
-Do you know that 45 - 90% of all business expenses are as results of inventory costs? (upstreamcommerce.com). Therefore, it is vital to have an effective inventory management strategy in 1. Introduction
-
 Do you know that 45 - 90% of all business expenses are as results of inventory costs? (upstreamcommerce.com). Therefore, it is vital to have an effective inventory management strategy in order to save costs and gain profits. 
 
 Dropship for Magento 2 is one module from Order Success solution, which allows your suppliers to ship items to customers directly. This plugin is:
