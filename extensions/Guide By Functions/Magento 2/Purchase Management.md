@@ -450,7 +450,7 @@ After validating the products, inventory staff can process with the product rece
 
 2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
 
-![](Returnorderimages/image0011.png)
+![](Returnorderimages/image011.png)
 
 In **Transfer items** page: 
 
@@ -458,17 +458,17 @@ In **Transfer items** page:
 
 2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
 
-![](Returnorderimages/image0013.png)
+![](Returnorderimages/image013.png)
 
 After selecting products or scanning barcode, you will be sent back to the **Transfer Items** page:
 
-![](Returnorderimages/image0015.png)
+![](Returnorderimages/image015.png)
 
 1) Input the product quantity to transfer (you can transfer partially in multiple times)
 
 2) Click **Save** to continue
 
-![](Returnorderimages/image0017.png)
+![](Returnorderimages/image017.png)
 
 1) Click **Complete PO** to finish the return request
 
