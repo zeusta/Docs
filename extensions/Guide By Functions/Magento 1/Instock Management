@@ -44,8 +44,23 @@ Having trouble with managing hundresds of items that you sold every minute, from
 
 
 ----------
-## How to configure 
+## How To Configure 
 
+Go to **Settings* and you are able to configure the Instock Management module as below:
+
+![configure instock management module](./image_IM%20Rebuilt/image001.png)
+
+1. **Link stocks in Warehouse to Front Store View**: The Instock Management module allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers.
+After enabling this setting, you can link the warehouse to one or multiple store view in **Warehouses > General Information > Magento Store View**
+
+![choose front store view to link warehouse to](./image_IM%20Rebuilt/image001-1.png)
+
+2. **Adjust Stock by entering the change qty**: 
+- If this feature is enabled, when adjusting stock, you can enter the difference quantity and the system will calculate the final balance in warehouse.
+- If this feature is disabled, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product. 
+
+----------
+## How To Use
 
 ### Stock Listing
 
@@ -96,4 +111,60 @@ When a product is newly-created and has not been assigned to warehouse yet, it w
 2. In **Actions** menu, choose "Add to Warehouse" from the drop-down list;
 3. Click **Submit**
 
+#### Warehouses
+
+The **Warehouses** menu allows you to control your warehouse with 5 tabs:
+
+- **General Information**: records basic details of the warehouse such as Name, Code, Contact Email, Address, etc. If you enable the **Link warehouse to Magento front store view** setting above, this is where you can select the warehouse’s linked front store.
+ 
+![enter warehouse's general information](./image_IM%20Rebuilt/image011.png)
+
+ - **Stock On Hand**: lists out all existing products in the warehouse. Selecting product(s) will let you promptly revise its total Qty in the specific Warehouse and its Shelf Location. 
+
+On this section, if you click on any warehouses, there will have **Export** button along with CSV/Excel XML file.
+
+![export warehouse's product info](./image_IM%20Rebuilt/image012.png)
+
+ - **Stock Movement**: provides stock changing record of the warehouse. Information includes added/ subtracted quantity, product SKU, movement type, movement date and reference number to access further details by a click.
+ 
+ - **Warehouse Permission**: lets you assign and manage staff account permission. Here you can set staff permission by clicking at the **Assign Staffs** button at the right of the page. 
+![Assign Staff button](./image_IM%20Rebuilt/image013.png)
+
+An **Assign Staff** window will appear as in the screenshot below. All you need to do is:
+1. Select staff 
+2. Choose his/her role from the drop-down list (you can create more roles in Magento core backend). You can assign role to multiple staff at once.
+3. Click **Add Selected Staff** button and you are done!
+![Assign staff window](./image_IM%20Rebuilt/image014.png)
+
+You can also select to edit/delete staff permission directly on the **Warehouse Permission** menu.
+Finally, do not forget to save your recent changes.
+
+![save permission assignment](./image_IM%20Rebuilt/image015.png)
+
+**ADDITIONAL GUIDE**: Manage User/ Staff Roles and Permissions
+If you want to create and/or edit user roles and permissions in different sections in the Instock Management module, go to Magento core backend, **System > Permission**
+
+![enter image description here](./image_IM%20Rebuilt/image017.png)
+
+The “**User**” tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.
+
+![enter image description here](./image_IM%20Rebuilt/image018.png)
+
+Admin can view, edit and remove staff permission by clicking on each user. Admin can also assign a warehouse to a user here.
+
+![enter image description here](./image_IM%20Rebuilt/image019.png)
+
+The “**Roles**” tab lets you see a  list  of  role  and  create  a  new  role  for  users. 
+
+![enter image description here](./image_IM%20Rebuilt/image020.png)
+
+In “**Role Info**” tab, you need to input the role name, verify the admin’s password. Then select the checkbox of the role’s permissions in the drop-down list, or select “**All**” in the “**Resource Access**” option to grant full permission to the role. When done, hit “**Save Role**” to finish.
+
+![enter image description here](./image_IM%20Rebuilt/image021.png)
+
+ - **Dashboard** (NEW): demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
+
+![enter image description here](./image_IM%20Rebuilt/image022.png)
+
+Manage each warehouse’s sales status at a glance with visual charts. You can also print these charts or download with 4 different options of either PNG, JPEG, PDF or SVG vector by opening a menu next to each chart.
 
