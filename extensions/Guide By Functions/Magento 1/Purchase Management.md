@@ -24,13 +24,14 @@ Purchase Management is a Magento 1 module, which helps you manage purchasing and
 
 To manage information about your suppliers, please go to Suppliers menu. Then you will navigate to Manage Supplier section shown as follows:
 
-![Purchase Management for Magento ](./Image_Purchase%20Management/image006.jpg)
+![](PMimages/image001.png)
 
 #### Supplier List
 
 This is a page where you can view all your suppliers list with a lot of information including **Supplier name, Supplier code, Contact email, Status**. Besides, you can edit, change status or delete suppliers one by one or in bulk. In this page, you also can export the supplier list to CSV/XML files by clicking on the Export button shown as the below image:
 
- ![export the supplier list to CSV/XML files](./Image_Purchase%20Management/image008.jpg)
+![](PMimages/image003.png)
+
 
 
 #### Add a Supplier
@@ -39,11 +40,13 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
 - **Supplier Information**: In this tab, you need to fill in all required field including supplier name, supplier code, contact person, email. You should add description for each supplier to differentiate between this supplier and the rest. Do not forget to enable the supplier.
 
-![Supplier Information](./Image_Purchase%20Management/image010.jpg)
+![](PMimages/image005.png)
+
 
 - **Mailing Address**: All information in this tab are optional for your supplier, so you don’t need to fill all of them.
 
-![Mailing Address](./Image_Purchase%20Management/image012.jpg)
+![](PMimages/image007.png)
+
 
 - **Product List**: This tab allows you to add and manage products of the supplier you are creating. You can assign products to your supplier by importing a CSV file.
 
@@ -51,11 +54,12 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
   - If you are not clear about the format of the CSV file, you can download our sample file. After products imported, the list of products will be updated with ID, Name, SKU, Supplier product SKU, Cost, Tax from the CSV file.
 
-![Product List](./Image_Purchase%20Management/image014.jpg)
+![](PMimages/image009.png)
+
 
 - **Pricelist**: This is a page where view all pricelist of the supplier. In this page, you also can export the pricelist to CSV/XML files by clicking on the Export button
 
-![Pricelist](./Image_Purchase%20Management/image016.jpg)
+![](PMimages/image011.png)
 
 Remember to click on the **Save** or **Save and Continue Edit** button to save your work
 
@@ -66,7 +70,8 @@ Remember to click on the **Save** or **Save and Continue Edit** button to save y
 
  - Please go to **Supplier >>> Manage Pricelist** to view the pricelist with information such as **Product SKU, Product name, Supplier, Minimal Qty, Purchase Price, Start date, End date**
 
-![view the pricelist with information](./Image_Purchase%20Management/image018.jpg)
+![](PMimages/image013.png)
+
 
  - In order to **add pricelist** into the system, you click to **Import Pricelist** button, choose a CSV file from your computer, then click to **Import** button. If you are not clear about the format of the CSV file, you can download our sample file.
  - Right to the page, you can remove the pricelist one by one or mass remove
@@ -89,7 +94,8 @@ To create a new quotation, please go to the **Quotation** menu and choose **Crea
 
 Fill in all required information including Created Time, Supplier, Currency, Currency Exchange Rate and Commen#t (optional); then click **Prepare Product List** to go to the next step.
 
-![Input General Information ](./Image_Purchase%20Management/image020.jpg)
+![](PMimages/image015.png)
+
 
 
 #### Prepare Product List
@@ -98,7 +104,8 @@ In this step, there are 6 ways for you to prepare product list:
 
 - **Import Products** via a CSV file (a sample file is provided);
 
-![Import Products](./Image_Purchase%20Management/image022.jpg)
+![](PMimages/image017.png)
+
 
 - **Scan Barcode** to prepare product (if Barcode Management module is also installed);
 
