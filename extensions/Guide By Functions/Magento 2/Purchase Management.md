@@ -386,7 +386,7 @@ This tab allows you to edit Tax & Shipping for purchase orders. You need to unch
 •	Apply Customer Tax: Set customer tax applied before or after discount
 
 •	Default Tax (%): Enter default tax for purchase order items
-## How to Create Return Order
+## How to Manage Return Order
 
 ### Create Return Order
 
