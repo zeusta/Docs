@@ -392,11 +392,11 @@ This tab allows you to edit Tax & Shipping for purchase orders. You need to unch
 
 In order to request a product return, go to **Purchase Management >  Return Request Management > Return Requests**
 
-![](returnorderimages/image001.png)
+![](Returnorderimages/image001.png)
 
 You will be led to the **Create Return Request** page
 
-![](returnorderimages/image003.png)
+![](Returnorderimages/image003.png)
 1) Return progress is controlled in 4 steps:<br/>
 	* New: input general information of the return process<br/>	
 	* Pending: create the list of products to return to supplier<br/>
@@ -412,7 +412,7 @@ You will be led to the **Create Return Request** page
 
 6) Click **Prepare Product List** to move to the next step
 
-![](returnorderimages/image005.png)
+![](Returnorderimages/image005.png)
 
 On **Pending** step:
 
@@ -433,7 +433,7 @@ On **Pending** step:
 
 After adding products, you can edit product quantity to return:
 
-![](returnorderimages/image007.png)
+![](Returnorderimages/image007.png)
 
 1) Select products to edit
 
@@ -444,13 +444,13 @@ After adding products, you can edit product quantity to return:
 ### Complete Return Order
 
 After validating the products, inventory staff can process with the product receipt:
-![](returnorderimages/image009.png)
+![](Returnorderimages/image009.png)
 
 1) Click **Complete PO** to finish the Return request.
 
 2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
 
-![](returnorderimages/image0011.png)
+![](Returnorderimages/image0011.png)
 
 In **Transfer items** page: 
 
@@ -458,17 +458,17 @@ In **Transfer items** page:
 
 2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
 
-![](returnorderimages/image0013.png)
+![](Returnorderimages/image0013.png)
 
 After selecting products or scanning barcode, you will be sent back to the **Transfer Items** page:
 
-![](returnorderimages/image0015.png)
+![](Returnorderimages/image0015.png)
 
 1) Input the product quantity to transfer (you can transfer partially in multiple times)
 
 2) Click **Save** to continue
 
-![](returnorderimages/image0017.png)
+![](Returnorderimages/image0017.png)
 
 1) Click **Complete PO** to finish the return request
 
