@@ -144,9 +144,13 @@ It is time to set up Shipping and Payment method for the quotation:
 
 •	Choose the way to place order: N/A, Email, Phone, Fax, Vendor website
 
-After filling out the form, do not forget to save all the changes. Now you can **Send Request** to the suppliers or **Print** the quotation. If you want to Convert Quotation to P.O, read more here.
+After filling out the form
 
-![](./purchaseimages/pm12.png)
+1) Click **Save** to save your work. Now you can **Send Request** to the suppliers or **Print** the quotation. 
+
+2) To do more update about products information, click on **Revert Quotation** and you will be brought back to the previous step and enable to update products information. Later on, you will receive quotations from suppliers and compare their RFQ.
+
+![](./PM2images/image017.png)
 
 
 ### Manage Quotation
@@ -329,7 +333,7 @@ You can complete a purchase order even when you have not received all requested 
 
 If you want to generate Purchase Order from Quotation, please go to **Purchase Management => Quotations**, click to choose a pending quotation. Then choose **Convert Quotation to PO** button.
 
-![](./purchaseimages/pm28.png)
+![](./PM2images/image017.png)
 
 After that, a new purchase order is generated. Now you can:
 
@@ -382,3 +386,94 @@ This tab allows you to edit Tax & Shipping for purchase orders. You need to unch
 •	Apply Customer Tax: Set customer tax applied before or after discount
 
 •	Default Tax (%): Enter default tax for purchase order items
+## How to Create Return Order
+
+### Create Return Order
+
+In order to request a product return, go to **Purchase Management >  Return Request Management > Return Requests**
+
+![](PM2images/Purchase-Management-Return-Order-0.jpg)
+
+You will be led to the **Create Return Request** page
+
+![](PM2images/Purchase-Management-Return-Order-1.png)
+
+1) Return progress is controlled in 4 steps:<br/>
+	* New: input general information of the return process<br/>	
+	* Pending: create the list of products to return to supplier<br/>
+	* Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse<br/>
+	* Completed<br/>
+2) Input the date that you create the return request
+
+3) Choose the warehouse to take products out for return
+
+4) Choose supplier to return products to
+
+5) Input return reason (optional)
+
+6) Click **Prepare Product List** to move to the next step
+
+![](PM2images/Purchase-Management-Return-Order-2.png)
+
+On **Pending** step:
+
+1) View general information of the return request that you have input in the previous step.
+
+2) There are 2 ways of preparing product list to return:<br/>
+	* Choose to either Import Products list via csv file (template provided)<br/>
+	* Or view and choose among all products of that supplier by clicking on All Supplier Products button.<br/>
+3) Cancel the return request
+
+4) Send an email to supplier to inform of the return
+
+5) Print the list of returned items
+
+6) Save your current process while stay on the page
+
+7) Confirm 
+
+After adding products, you can edit product quantity to return:
+
+![](PM2images/Purchase-Management-Return-Order-4.png)
+
+1) Select products to edit
+
+2) Input product quantity to return
+
+3) Click **Save** to save your current process and stay on page; or **Confirm Order** to continue.
+
+### Inventory Staff Confirm Delivery
+
+After validating the products, inventory staff can process with the product receipt:
+![](PM2images/Purchase-Management-Return-Order-5.png)
+
+1) Click **Complete PO** to finish the Return request.
+
+2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
+
+![](PM2images/Purchase-Management-Return-Order-6.png)
+
+In **Transfer items** page: 
+
+1) Input the date of transfer
+
+2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
+
+![](PM2images/Purchase-Management-Return-Order-7.png)
+
+After selecting products or scanning barcode, you will be sent back to the **Transfer Items** page:
+
+![](PM2images/Purchase-Management-Return-Order-8.png)
+
+1) Input the product quantity to transfer (you can transfer partially in multiple times)
+
+2) Click **Save** to continue
+
+![](PM2images/Purchase-Management-Return-Order-9.png)
+
+1) Click **Complete PO** to finish the return request
+
+2) Click **Transfer Items** to continue transferring the rest of received products.
+
+3&4) Select products and click button to **Return to Supplier**.
+
