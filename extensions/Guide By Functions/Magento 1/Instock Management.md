@@ -48,12 +48,12 @@ Having trouble with managing hundresds of items that you sold every minute, from
 
 Go to **Settings* and you are able to configure the Instock Management module as below:
 
-![configure instock management module](./image_IM%20Rebuilt/image001.png)
+![configure instock management module](./Image_Instock_Management/image001.png)
 
 1. **Link stocks in Warehouse to Front Store View**: The Instock Management module allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers.
 After enabling this setting, you can link the warehouse to one or multiple store view in **Warehouses > General Information > Magento Store View**
 
-![choose front store view to link warehouse to](./image_IM%20Rebuilt/image001-1.png)
+![choose front store view to link warehouse to](./Image_Instock_Management/image001-1.png)
 
 2. **Adjust Stock by entering the change qty**: 
 - If this feature is enabled, when adjusting stock, you can enter the difference quantity and the system will calculate the final balance in warehouse.
@@ -80,7 +80,7 @@ The module provides an in-depth control over your **composite products** (config
 
 For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. 
 
-![control configurable product with variable sizes](./image_IM%20Rebuilt/image002.png)
+![control configurable product with variable sizes](./Image_Instock_Management/image002.png)
 
 Note that there are 3 types of quantity shown:
 
@@ -90,7 +90,7 @@ Note that there are 3 types of quantity shown:
  
 Note that **Qty in Warehouse(s) = Qty to Ship + Available Qty**
 
-![change stock quantity](./image_IM%20Rebuilt/image004.png)
+![change stock quantity](./Image_Instock_Management/image004.png)
 
 Update the total quantity and Shelf Location easily on the Inventory grid in only 3 steps:
 
@@ -105,7 +105,7 @@ Update the total quantity and Shelf Location easily on the Inventory grid in onl
 
 When a product is newly-created and has not been assigned to warehouse yet, it will automatically be allocated in this Non-warehouse list. From here, you can select a product and add it into your warehouse. This prevents you from accidentally including disqualified products into your warehouse and wasting time searching for it later.
 
-![transfer non-warehouse product to warehouse](./image_IM%20Rebuilt/image007.png)
+![transfer non-warehouse product to warehouse](./Image_Instock_Management/image007.png)
 
 1. Select the product(s);
 2. In **Actions** menu, choose "Add to Warehouse" from the drop-down list;
@@ -117,54 +117,54 @@ The **Warehouses** menu allows you to control your warehouse with 5 tabs:
 
 - **General Information**: records basic details of the warehouse such as Name, Code, Contact Email, Address, etc. If you enable the **Link warehouse to Magento front store view** setting above, this is where you can select the warehouse’s linked front store.
  
-![enter warehouse's general information](./image_IM%20Rebuilt/image011.png)
+![enter warehouse's general information](./Image_Instock_Management/image011.png)
 
  - **Stock On Hand**: lists out all existing products in the warehouse. Selecting product(s) will let you promptly revise its total Qty in the specific Warehouse and its Shelf Location. 
 
 On this section, if you click on any warehouses, there will have **Export** button along with CSV/Excel XML file.
 
-![export warehouse's product info](./image_IM%20Rebuilt/image012.png)
+![export warehouse's product info](./Image_Instock_Management/image012.png)
 
  - **Stock Movement**: provides stock changing record of the warehouse. Information includes added/ subtracted quantity, product SKU, movement type, movement date and reference number to access further details by a click.
  
  - **Warehouse Permission**: lets you assign and manage staff account permission. Here you can set staff permission by clicking at the **Assign Staffs** button at the right of the page. 
-![Assign Staff button](./image_IM%20Rebuilt/image013.png)
+![Assign Staff button](./Image_Instock_Management/image013.png)
 
 An **Assign Staff** window will appear as in the screenshot below. All you need to do is:
 1. Select staff 
 2. Choose his/her role from the drop-down list (you can create more roles in Magento core backend). You can assign role to multiple staff at once.
 3. Click **Add Selected Staff** button and you are done!
-![Assign staff window](./image_IM%20Rebuilt/image014.png)
+![Assign staff window](./Image_Instock_Management/image014.png)
 
 You can also select to edit/delete staff permission directly on the **Warehouse Permission** menu.
 Finally, do not forget to save your recent changes.
 
-![save permission assignment](./image_IM%20Rebuilt/image015.png)
+![save permission assignment](./Image_Instock_Management/image015.png)
 
 **ADDITIONAL GUIDE**: Manage User/ Staff Roles and Permissions
 If you want to create and/or edit user roles and permissions in different sections in the Instock Management module, go to Magento core backend, **System > Permission**
 
-![Permission menu in backend](./image_IM%20Rebuilt/image017.png)
+![Permission menu in backend](./Image_Instock_Management/image017.png)
 
 The **User** tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.
 
-![Add New User button](./image_IM%20Rebuilt/image018.png)
+![Add New User button](./Image_Instock_Management/image018.png)
 
 Admin can view, edit and remove staff permission by clicking on each user. Admin can also assign a warehouse to a user here.
 
-![assign warehouse to user in 4 steps](./image_IM%20Rebuilt/image019.png)
+![assign warehouse to user in 4 steps](./Image_Instock_Management/image019.png)
 
 Also in Magento core backend, in **System > Permission > Roles**, View a  list  of  role  and  create  a  new  role  for  users. 
 
-![Roles page](./image_IM%20Rebuilt/image020.png)
+![Roles page](./Image_Instock_Management/image020.png)
 
 In **Role Info** tab, you need to input the role name, verify the admin’s password. Then in **Roles Resources* tab, select the checkbox of the role’s permissions in the drop-down list, or select **All** in the **Resource Access** option to grant full permission to the role. When done, hit **Save Role** to finish.
 
-![assign access to a new role](./image_IM%20Rebuilt/image021.png)
+![assign access to a new role](./Image_Instock_Management/image021.png)
 
  - **Dashboard**: demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
 
-![enter image description here](./image_IM%20Rebuilt/image022.png)
+![enter image description here](./Image_Instock_Management/image022.png)
 
 Manage sales status at a glance with visual charts. You can also print these charts or download with 4 different options of either PNG, JPEG, PDF or SVG vector by opening a menu next to each chart.
 
@@ -186,14 +186,14 @@ This module is a powerful assistance to help you keep track of any changes in th
 
 Sometimes your recorded product quantity does not match the actual physical number. Then, this function is exactly what you need to make changes quickly. 
 
-![New Stock Adjustment page](./image_IM%20Rebuilt/image023.png)
+![New Stock Adjustment page](./Image_Instock_Management/image023.png)
 
 To make a new stock adjustment, you need to:
 1. Follow path: **Stock Control > New Stock Adjustment**
 2. Fill in the reason for the adjustment 
 3. Click **Start to Adjust** at the top right of the page.
 
-![input adjustment quantity](./image_IM%20Rebuilt/image024.png)
+![input adjustment quantity](./Image_Instock_Management/image024.png)
 
 1. You can import product quantities via a CSV file with a provided sample. 
 2. Alternatively, you can select products and input the quantity in line. Note: as mentioned in *How to Configure* section above, if you enable **Adjust Stock by entering the change qty** setting, you can enter the difference quantity and the system will calculate the final balance in warehouse. Otherwise, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product.
@@ -207,7 +207,7 @@ To make a new stock adjustment, you need to:
 
 The Stock Adjustment History page shows details of each adjustment including date of the adjustment, staff who made the adjustment, warehouse name and status (whether Pending or Completed).
 
-![Stock Adjustment History page](./image_IM%20Rebuilt/image025.png)
+![Stock Adjustment History page](./Image_Instock_Management/image025.png)
 
 Clicking on each adjustment will transfer you to a page where you can see more information of an adjustment including adjusted product ID, Name, SKU, old Qty and Adjusted Qty. For an adjustment with Pending status, this is the page where you have left the unfinished adjustment. Complete it by clicking **Adjust** at the top right of the page. 
 
@@ -221,14 +221,14 @@ This process consists of 5 easy-to-follow stages:
 
  - Stage 1: **General Information**
 
-![input stocktaking general info](./image_IM%20Rebuilt/image026.png)
+![input stocktaking general info](./Image_Instock_Management/image026.png)
 
 1. Select the warehouse you want to stock take, the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional.
 2. Choose the products to be stock taken by clicking the **Prepare Product List** button (Stage 2) at the top right of the page. Alternatively, you can skip it to go straight to Stage 3 by clicking the **Start Stocktaking** button.
 
  - Stage 2: **Prepare Products**
 
-![prepare product list to start stocktaking](./image_IM%20Rebuilt/image027.png)
+![prepare product list to start stocktaking](./Image_Instock_Management/image027.png)
 
 1. You can select the products you want to stock take from the product grid;
 2. Alternatively, you can import products using a CSV file (template provided);
@@ -236,7 +236,7 @@ This process consists of 5 easy-to-follow stages:
 
 - Stage 3: **Stock Counting**
 
-![input results of stock counting](./image_IM%20Rebuilt/image028.png)
+![input results of stock counting](./Image_Instock_Management/image028.png)
 
 1. Select and type in the product quantity that you have recently counted.
 
@@ -244,13 +244,13 @@ This process consists of 5 easy-to-follow stages:
 
 - Stage 4: **Complete Data Entry**
 
-![review stocktaking](./image_IM%20Rebuilt/image029.png)
+![review stocktaking](./Image_Instock_Management/image029.png)
 
 This Stage allows you to have a final review of your recent quantity counts. Click either “**Re-entry Data**” or “**Complete Stocktaking**” to move to Stage 5. If you are not an admin, your counting results will be submitted to the admin/ manager for approval before the new quantity is officially updated and the process is marked Completed.
 
 - Stage 5: **Complete Stocktaking**
 
-![complete stocktaking process](./image_IM%20Rebuilt/image030.png)
+![complete stocktaking process](./Image_Instock_Management/image030.png)
 
 This page shows you all details of the stocktaking process including the product quantity before and after the stocktaking process. Make a **New Stock Adjustment** by hitting the **Adjust Stock** button or download a CSV copy of the grid using the **Download Difference List**.
 
@@ -258,7 +258,7 @@ This page shows you all details of the stocktaking process including the product
 ##### Stocktaking History
 All Stocktaking details are listed here. Different status shows to which stage the stocktaking process is done:
 
-![stocktaking statuses recorded in History](./image_IM%20Rebuilt/image031.png)
+![stocktaking statuses recorded in History](./Image_Instock_Management/image031.png)
 
 - Status **Pending** means Stage 1: **General Information** is done
 - Status **Processing** means Stage 2: **Prepare Products** is done
@@ -269,7 +269,7 @@ Click on each stocktaking record to view all details of the process.
 
 #### Stock Movement History
 
-![stock quantity changes recorded in History](./image_IM%20Rebuilt/image032.png)
+![stock quantity changes recorded in History](./Image_Instock_Management/image032.png)
 
 This menu records all changes of stock quantity in warehouse. The table shows the number of products added/subtracted from the warehouse, product SKU, product movement type, warehouse name, reference number, movement date. Filtering a SKU will help you track the product’s movements and changed quantity in each warehouse in no time.
 
@@ -279,14 +279,14 @@ This menu records all changes of stock quantity in warehouse. The table shows th
 
 There’s no need an assistant to analyze and show you whether you should order additional items for a specific product in the next Order Purchasing or not. Our inventory management module allows you to get the prediction of supply needs until the certain time stamp.
 
-![Supply Needs page](./image_IM%20Rebuilt/image033.png)
+![Supply Needs page](./Image_Instock_Management/image033.png)
 
 1. To process a prediction, select the time range to collect sales data and then pick the date that you want to see forecast results. 
 2. Click to **Show Supply Needs** button to finally view the prediction.
 
 The forecast data will be shown in the table as below:
 
-![Forecast grid](./image_IM%20Rebuilt/image034.png)
+![Forecast grid](./Image_Instock_Management/image034.png)
 
 - Here, you can view the average quantity sold per day of the product during the chosen sales period. The prediction will show you **Available Date** which performs the forecast day of product’s running out of stock. The **Supply Needs** column demonstrates the quantity of product that expected to be sold until the time stamp you set. 
 
@@ -301,38 +301,46 @@ To have Low Stock Notification, you need to set up rules in the **Prediction > L
 
 ##### Low Stock Rules
 
-![Low Stock Rules page](./image_IM%20Rebuilt/image035.png)
+![Low Stock Rules page](./Image_Instock_Management/image035.png)
 
 Select an existing rule to edit or click **Add New Rule** button at top right of the page. Admin can create unlimited rules to notify low stock status. One rule contains: Rule Information, Conditions & Action. There is no limitation in the quantity of rules set. 
 
 - **Rule Information**: includes general data such as Rule Name, Status, and Update Time. You can set up the period of time in which the Low Stock Notification is activated.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image039.png?raw=true)
+![Low Stock Rules page](./Image_Instock_Management/image036.png)
 
 - **Condition**: allows you to set up Product Conditions & Low Stock Condition. In the Product Conditions section, you can set the limitation for applying rules. For example, the Low Stock Rule is applied for category Decorative Accents or a specific product.
-As for Low Stock Condition, there are 2 rule types for you to select: Available Days and Available Quantity. With **Available Days** option, the system will estimate how many days the product is available for purchasing based on its sales history.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image040.png?raw=true)
+![Set low stock conditions based on available days](./Image_Instock_Management/image037.png)
+
+1. As for Low Stock Condition, there are 2 rule types for you to select: Available Days and Available Quantity. With **Available Days** option, the system will estimate how many days the product is available for purchasing based on its sales history.
 
 For instant, if you set sales period equals to 30 and the threshold day is 3, the notification will appear 3 days before the product is out of stock which are predicted following the sales history in 30 days up to now.
 
+![Set low stock conditions based on available quantity](./Image_Instock_Management/image038.png)
+
 With **Available Quantity** option, it only request for threshold quantity that you would like to receive low stock notification. If you set the threshold is 5, the system will notify you when the quantity of product(s) reach that number.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image041.png?raw=true)
+- **Action**: confirms who will receive the low stock notification by:
 
-- **Action**: confirms who will receive the low stock notification by listing the email in Notification recipient list and the message which will appear.
+![set up notification email](./Image_Instock_Management/image039.png)
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image042.png?raw=true)
-Remember to select **Save and Apply** to start running the Low Stock Rule.
+1. Entering email address in Notification recipient list and the message to be sent.
+
+2. Selecting **Save and Apply** to start running the Low Stock Rule; **Save Rule** to save your work and come back to **Low Stock Rules** page; and click **Save and Continue Edit* to save while continue staying on page for further edits.
 
 ##### Low Stock Notifications
 
-The list displays all notification following the low stock rules. Notifications are noted with Created Date, Warning Message, Notification recipients. Click to **Action > View** to accessthe detail.
+The list displays all notifications following the low stock rules. 
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image043.png?raw=true)
+![listing page of low stock notifications](./Image_Instock_Management/image040.png)
+
+Notifications are noted with Created Date, Warning Message, Notification recipients. Click to **Action > View** to accessthe detail.
 
 Each notification allows you to track the low stock products’ information such as SKU, Name, and Current Qty.
 
-The Low Stock Notification will be sent to recipients’ email as well as be displayed on the Inventory Management panel.
+![low stock notification is display on the panel](./Image_Instock_Management/image041.png)
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image044.png?raw=true)
+The Low Stock Notification will be sent to recipients’ email as well as be displayed on the Instock Management panel.
+
+
