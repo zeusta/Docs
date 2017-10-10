@@ -2,7 +2,7 @@
 
 **Version 2.1.1**
 
-Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+*Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 -------------
 
@@ -46,7 +46,7 @@ Having trouble with managing hundresds of items that you sold every minute, from
 ----------
 ## How To Configure 
 
-Go to **Settings* and you are able to configure the Instock Management module as below:
+Go to **Settings** and you are able to configure the Instock Management module as below:
 
 ![configure instock management module](./Image_Instock_Management/image001.png)
 
@@ -128,12 +128,14 @@ On this section, if you click on any warehouses, there will have **Export** butt
  - **Stock Movement**: provides stock changing record of the warehouse. Information includes added/ subtracted quantity, product SKU, movement type, movement date and reference number to access further details by a click.
  
  - **Warehouse Permission**: lets you assign and manage staff account permission. Here you can set staff permission by clicking at the **Assign Staffs** button at the right of the page. 
+ 
 ![Assign Staff button](./Image_Instock_Management/image013.png)
 
 An **Assign Staff** window will appear as in the screenshot below. All you need to do is:
 1. Select staff 
 2. Choose his/her role from the drop-down list (you can create more roles in Magento core backend). You can assign role to multiple staff at once.
 3. Click **Add Selected Staff** button and you are done!
+
 ![Assign staff window](./Image_Instock_Management/image014.png)
 
 You can also select to edit/delete staff permission directly on the **Warehouse Permission** menu.
@@ -309,17 +311,18 @@ Select an existing rule to edit or click **Add New Rule** button at top right of
 
 ![Low Stock Rules page](./Image_Instock_Management/image036.png)
 
-- **Condition**: allows you to set up Product Conditions & Low Stock Condition. In the Product Conditions section, you can set the limitation for applying rules. For example, the Low Stock Rule is applied for category Decorative Accents or a specific product.
+- **Condition**: allows you to set up Product Conditions & Low Stock Condition. 
 
 ![Set low stock conditions based on available days](./Image_Instock_Management/image037.png)
 
-1. As for Low Stock Condition, there are 2 rule types for you to select: Available Days and Available Quantity. With **Available Days** option, the system will estimate how many days the product is available for purchasing based on its sales history.
-
-For instant, if you set sales period equals to 30 and the threshold day is 3, the notification will appear 3 days before the product is out of stock which are predicted following the sales history in 30 days up to now.
+1. In the Product Conditions section, you can set the limitation for applying rules. For example, the Low Stock Rule is applied for category Decorative Accents or a specific product.
+2. As for Low Stock Condition, there are 2 rule types for you to select: Available Days and Available Quantity. With **Available Days** option, the system will estimate how many days the product is available for purchasing based on its sales history.
+3. For instant, if you set sales period equals to 30 and the threshold day is 3, the notification will appear 3 days before the product is out of stock which are predicted following the sales history in 30 days up to now.
 
 ![Set low stock conditions based on available quantity](./Image_Instock_Management/image038.png)
 
-With **Available Quantity** option, it only request for threshold quantity that you would like to receive low stock notification. If you set the threshold is 5, the system will notify you when the quantity of product(s) reach that number.
+1. With **Available Quantity** option, it only request for threshold quantity that you would like to receive low stock notification. 
+2. If you set the threshold is 5, the system will notify you when the quantity of product(s) reach that number.
 
 - **Action**: confirms who will receive the low stock notification by:
 
