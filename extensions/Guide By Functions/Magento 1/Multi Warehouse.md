@@ -10,8 +10,6 @@ Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauth
 
 Inventory cost is generally between 20% and 30% of the cost to purchase inventory (http://www.investopedia.com). For many SMEs, this is counted as the major expense whether having online stores or not. As the result, it is vital to have an effective inventory management strategy for saving costs & gaining profits.
 
-![enter image description here](./image_IM%20Rebuilt/image001.png)
-
 **Multi warehouse** module for Magento 1 is especially designed for Magento retails to successfully control their stock with minimum effort and fatest time.
 
 Together with other features in our solution: Barcode Management, Purchase Management, Order Fulfillment, Dropship & Reports, our Inventory Management function is the critical element in creating Order-Fulfillment-Success combo. Everything in stock is under control, plus, all operations such as add, adjust, transfer stocks are simplified to be completed within the shortest of time! 
@@ -107,11 +105,12 @@ You can select a warehouse in the drop-down list and the stock details in that p
 
 ![select a warehouse](./image_IM%20Rebuilt/image003.png)
 
-Update the total quantity and Shelf Location easily on the Inventory grid in only 3 steps:
+Update the total quantity and Shelf Location easily on the Inventory grid in only 4 steps:
 
  - **Step 1**: Select the product(s);
- - **Step 2**: Input the new Qty in Warehouse(s) and/or Shelf Location;
- - **Step 3**: Click “**Update Stock**”.
+ - **Step 2**: Input the new Qty in Warehouse(s) 
+ - **Step 3**: Add Shelf Location (optional);
+ - **Step 4**: Click “**Update Stock**”.
 
 ![change stock quantity](./image_IM%20Rebuilt/image004.png)
 
@@ -124,7 +123,7 @@ When a product is newly-created and has not been assigned to any warehouse yet, 
 ![transfer non-warehouse product to a warehouse](./image_IM%20Rebuilt/image007.png)
 
 1. Select the product(s);
-2. Choose "Add to Warehouse" from the drop-down list; select the destination warehouse and click **Submit**.
+2. Choose **Add to Warehouse** from the drop-down list; select the destination warehouse and click **Submit**.
 
 #### Warehouses
 
@@ -217,7 +216,7 @@ Sometimes your recorded product quantity does not match the actual physical numb
 
 To make a new stock adjustment, you need to:
 1. Follow path: **Stock Control > New Stock Adjustment**
-2. Fill in the reason for the adjustment 
+2. Fill in information for the adjustment 
 3. Click **Start to Adjust** at the top right of the page.
 
 The next window allows you to select whatever product you want to adjust its quantity and type in the new figure. Alternatively, you can import product quantities via a CSV file with a provided sample. This means you can adjust quantities of several products at once.
@@ -341,6 +340,10 @@ Admin can create unlimited rules to notify low stock status. One rule contains: 
 3. For instant, if you set sales period equals to 30 and the threshold day is 3, the notification will appear 3 days before the product is out of stock which are predicted following the sales history in 30 days up to now.
 
 ![Set low stock conditions based on available quantity](./image_IM%20Rebuilt/image041.png)
+
+1. With **Available Quantity** option, it only request for threshold quantity that you would like to receive low stock notification.
+
+2. If you set the threshold is 5, the system will notify you when the quantity of product(s) reach that number.
 
 - **Action**: confirms who will receive the low stock notification by:
 
