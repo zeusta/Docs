@@ -2,7 +2,7 @@
 
 
 *Confidential Information Notice*
-*Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+*Copyright2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 ------
@@ -102,9 +102,13 @@ The Supply Need Forecast can be exported to CSV or XML file and printed into PDF
 
 #### Low Stock Notifications
 
+Path: **Inventory Management > Prediction > Low Stock Notifications**
+
 Low Stock notifications listing displays warning messages about the products which are nearly out of stock in warehouses. It shows all notification with information including Sent at, Update Type, Email received, Recipients and Action. Each notification log can show details of all products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
 
 #### Low Stock Rules
+
+Path: **Inventory Management > Prediction > Low Stock Rules**
 
 Admin can create unlimited rules to notify low stock. One rule contains: **Rule information**, **Condition** and **Action**.
 
@@ -126,7 +130,11 @@ Besides, you can add more conditions about Product attribute for example product
 
 #### Send stock & Request stock
 
-**Send stock:** If admin want to send stock from his warehouse to another warehouse, he can use this feature to record stock sending. The process to Send stock is: *Add new send stock > Prepare Product list > Select Products > Start Send Stock > Save Receive Stock > Mark as Completed*
+##### **Send stock:** 
+
+Path: **Inventory Management > Transfer Stock > Send Stock**
+
+If admin want to send stock from his warehouse to another warehouse, he can use this feature to record stock sending. The process to Send stock is: *Add new send stock > Prepare Product list > Select Products > Start Send Stock > Save Receive Stock > Mark as Completed*
 
 
 -	**Add new send stock:** Select the Source warehouse and Destination warehouse. Fill in the reason.
@@ -137,7 +145,11 @@ Besides, you can add more conditions about Product attribute for example product
 
 Now you can download Shortfall list – the list containing the products that the Destination warehouse does not receive from Source warehouse.
 
-**Request Stock:** If a warehouse lacks of stock, admin can create a Stock request to get stock from other warehouse. The process to request stock is: *Add new request stock > Prepare Product list > Select Products> Start Request Stock > Save Delivery Stock > Save Receive Stock > Mark as Completed*
+#####**Request Stock:** 
+
+Path: **Inventory Management > Transfer Stock > Request Stock**
+
+If a warehouse lacks of stock, admin can create a Stock request to get stock from other warehouse. The process to request stock is: *Add new request stock > Prepare Product list > Select Products> Start Request Stock > Save Delivery Stock > Save Receive Stock > Mark as Completed*
 
 
 -	**Add new request stock:** Select the Source warehouse and Destination warehouse. Fill in the reason.
@@ -152,16 +164,20 @@ Now you can download Shortfall list & Summary of the Stock Request.
 
 Moreover, if the number of **Qty** you choose is bigger than the **Qty in Warehouse**, the system will automatically notify you to validate data before submitting send/request stock, as below:
 
-![](./inventoryimages/im10.png)
+![invalid product quantity notification bar](./inventoryimages/im10.png)
 
 
-#### Transfer to External & Transfer from External
+#### Transfer to External & Transfer from External 
 
-**-**	**Transfer to External**
+- **Transfer to External**
+
+Path: **Inventory Management > Transfer Stock > Transfer to External**
 
 This feature allows you to handle the product which is damaged, loss or sent as free gift…You can fill in the External location, select product & Qty to send.
 
-**-**	**Transfer from External**
+-	**Transfer from External**
+
+Path: **Inventory Management > Transfer Stock > Transfer from External**
 
 This feature allows you to accept the stocks from outside of the system. Not from another warehouse but can be from any other source. You can fill in the External location, select product & qty to receive.
 
@@ -176,37 +192,37 @@ This History records stock movements from Send stock, request stock, transfer fr
 
 **-	Link stocks in Warehouse to Front Store View:**
 
-With the newest version, you can link products and stock data by choosing “Yes” on the **Link stocks in Warehouse to Front Store View** section
+With the newest version, you can link products and stock data by choosing **Yes** on the **Link stocks in Warehouse to Front Store View** section  in **Settings** menu.
 
-![](./inventoryimages/im11.png)
+![Configure in Settings](./inventoryimages/im11.png)
 
 To link multiple Store View to a Warehouse, go to **Inventory Management > Warehouse > select a specific warehouse**. Here, you can change the store view that links to the warehouse or select multiple store views as needed.
 
-![](./inventoryimages/im12.png)
+![link warehouse to store views](./inventoryimages/im12.png)
 
-**-	Add new Stock Adjustment**
+-	**Add new Stock Adjustment**
 
-Under menu “Stock Control”, you can create new Stock Adjustment for a specific warehouse chosen from Drop down list. Fill the reason, then **Start Adjust Stock**.
+Under menu **Stock Control**, you can create new Stock Adjustment for a specific warehouse chosen from Drop down list. Fill the reason, then **Start Adjust Stock**.
 
 From here you now go to Product List to **Add products to adjust stocks** or **Import products**, fill in the Qty you want to update and Save the Stock Adjustment. The Qty here can be “Change Qty” or “Adjusted Qty”, depending on how you configure in Store   Configuration: 
 
-![](./inventoryimages/im13.png)
+![configure in settings](./inventoryimages/im13.png)
 
 If you fill the Change Qty, you are allowed to add or subtract the change by filling positive or negative number. If you fill in Adjusted Qty, you will fill the final calculation to update the final qty. After being saved, this stock adjustment’s status is now **Pending**.
 
 ![](./inventoryimages/im14.png)
 
-To change Stock Adjustment status to “completed”, you need to hit button “Adjust Stock”. Stock is updated in the warehouse. Once the Adjustment is Complete, there is no way to edit it.
+To change Stock Adjustment status to **Completed**, you need to hit button **Adjust Stock**. Stock is updated in the warehouse. Once the Adjustment is Complete, there is no way to edit it.
 
-![](./inventoryimages/im15.png)
+![Adjust stock quantity](./inventoryimages/im15.png)
 
 Stock level will be updated instantly in the corresponding warehouse.
 
 **-	View Stock Adjustment History**
 
-You can view all Stock Adjustment History under Stock Control -> Stock Adjustment History with information including Time created, staff created, warehouse and status…Click to each Adjustment, you can see stock adjustment details
+You can view all Stock Adjustment History under **Inventory Management > Stock Control > Stock Adjustment History** with information including Time created, staff created, warehouse and status…Click to each Adjustment, you can see stock adjustment details
 
-![](./inventoryimages/im16.png)
+![Stock Adjustment history page](./inventoryimages/im16.png)
 
 #### Stock Taking & Stock Taking History
 
@@ -215,6 +231,8 @@ Physical Stocktaking acts can be used at any time to double-check and correct in
 -	A count, in which warehouse staff records the actual number of products in stock at the time of inspection & a manager can rely on it to update inventory in the system later
 
 -	Then a confirmation of that count performed by a warehouse manager to officially update the correct number of products in stock (Adjust Stock)
+
+![5 step stock taking process](./inventoryimages/im17.png)
 
 There are 5 steps in Stock taking using Inventory Management:
 
@@ -231,18 +249,20 @@ After doing stock take, admin can easily view and export the difference between 
 
 Or you can directly adjust stock by choosing **New Stock Adjustment** on Stock Control, then fill 3 basic information about **Warehouse, Adjustment Code** and **Reason**.
 
-![](./inventoryimages/imnew1.png)
-![](./inventoryimages/imnew2.png)
+![New Stock Adjustment submenu](./inventoryimages/imnew1.png)
+![New Stock Adjustment page](./inventoryimages/imnew2.png)
 
 
-#### Stock Movement
+#### Stock Movement History
+
+Path: **Inventory Management > Stock Control > Stock Movement History**
 
 The module records all the movements of stocks in warehouse. These movements are reflected in Stock Movement report under Stock Control submenu.
 
 The table shows SKU of the products added or subtracted from warehouse, the changed Qty, Warehouse name, Date and Reference number to see the details on a click. Admin can easily exports Stock Movement details into CSV or Excel XML.
 
-![](./inventoryimages/im17.png)
+![Stock Movement History page](./inventoryimages/im19.png)
 
 Admin can also filter the data basing on the variables in the table
 
-![](./inventoryimages/im18.png)
+![filter function for Stock Movement](./inventoryimages/im18.png)
