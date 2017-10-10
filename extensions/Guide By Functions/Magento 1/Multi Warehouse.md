@@ -12,9 +12,9 @@ Inventory cost is generally between 20% and 30% of the cost to purchase inventor
 
 ![enter image description here](./image_IM%20Rebuilt/image001.png)
 
-**Inventory Management** for Magento 1 is especially designed for Magento retails to successfully control their stock with minimum effort and fatest time.
+**Multi warehouse** module for Magento 1 is especially designed for Magento retails to successfully control their stock with minimum effort and fatest time.
 
-Together with other features in our solution: Barcode Management, Purchase Management, Order Fulfillment, Dropship & Reports, **Inventory Management** is the critical element in creating Order-Fulfillment-Success combo. Everything in stock is under control, plus, all operations such as add, adjust, transfer stocks are simplified to be completed within the shortest of time! 
+Together with other features in our solution: Barcode Management, Purchase Management, Order Fulfillment, Dropship & Reports, our Inventory Management function is the critical element in creating Order-Fulfillment-Success combo. Everything in stock is under control, plus, all operations such as add, adjust, transfer stocks are simplified to be completed within the shortest of time! 
 
 -----------
 
@@ -22,43 +22,58 @@ Together with other features in our solution: Barcode Management, Purchase Manag
 
 
 
-|Terminology| Description| Reference|
-|-----------|-------------|-------------|
-|Quantity in warehouse(s)| The real quantity of a product in the physical warehouse. It equals the sum of Available Qty and Qty to Ship| 1.1. Stock in Warehouse|
-|Available Quantity|The quantity of each product which shows up in Virtual Catalog (front store). It’s also the quantity remaining that are available to be sold| 1.1. Stock in Warehouse|
-|Quantity to ship| The number of items has been ordered but not been shipped yet. This number will be returned to Avail Qty & Qty in Warehouse(s) if the shipment is cancelled| 1.1. Stock in Warehouse|
-|Shelf Location| Insert the detailed area in the shelf where the product is located. This is how you can support your staff in finding the product efficiently in the physical warehouse| 1.3. Warehouses|
-| Warehouse| A “warehouse” in Inventory Management represents for a physical place where you keep your stock. Stocks can be moved between warehouses, purchased for a Warehouse and shipped from a Warehouse. Employees (with different admin accounts) can be restricted to handling only warehouse(s) with which they work| 1.3. Warehouses|
-| Primary Warehouse| Primary Warehouse is automatically created after the module is installed which contains all products in your catalog. This warehouse cannot be deleted to make sure that there is always at least one warehouse consisting of your inventory| 1.3. Warehouses|
-|Warehouse Pemission| Assign and manage a staff account permission level in controlling a specific warehouse. Base on Roles Assigned, an user who has full authorities will have permission to create new role & set up new user with specific permissions| 1.3. Warehouses|
-|Stock Adjustment|Adjust Stock action is used to correct/ update inventory levels of your products and records them in Stock Adjustment History. This will change the Qty. In Warehouse(s) in the Stock in Warehouse grid of Inventory Management module. After that, the system will update Available Qty. accordingly (or the quantity in default Catalog Products) after subtracting Qty allocated in sales orders from the new Qty in Warehouse(s)|2.1.1. New stock Adjustment|
-|Stock Adjustment History | Stock Adjustment History records all inventory corrections/ updates when there are some differences between stock levels of physical and virtual warehouses|2.1.2. Stock Adjustment History|
-| Stocktaking| Stocktaking is performed to double-check and prevent any mismatch between the recorded product quantities and the actual inventory in your physical warehouses. The process includes 5 stages containing stock counting and admin’s approval before actually updating the Qty in the system| 2.2.1. New Stocktaking|
-|Stocktaking History| Stocktaking History records all stocktaking acts and their process status| 2.2.2. Stocktaking History| 
-|Stock Movement History|Stock Movements are records of inward &outward stock transfers of a warehouse| 2.3. Stock Movement History| 
-|Supply Needs|Supply Need is the system’s prediction about how many inventory items you need for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past| 3.1. Supply Needs| 
-|Available Date| Based on the sales history in the chosen sales period, the system will estimate the day which a product is sold out and need to be restocked| 3.1. Supply Needs|
-|Low-stock Threshold Type|To get notification about the out-of-stock product, you will have to define how the system process. There are 2 methods: by Available Days or by Available Quantity| 3.2. Low Stock Notification| 
-|Threshold (days)| If you insert 3 in this field, the low stock notification will appear 3 days before the product is out of stock. The  sold out day is estimated based on sales history of the chosen sales period|3.2. Low Stock Notification|
-|Sales Period (days)|If you insert 30 in this field, the threshold days will be estimated based on sales history in 30 days up to now|3.2. Low Stock Notification|
-|Threshold (quantity)|If you insert 5 in this field, the low stock notification will appear when there are only 5 items of the product in stock|3.2. Low Stock Notification|
-|Low Stock Notifications| Low Stock Notification shows all notifications following Low Stock Rules set up in the system. You can track the detail of a notification such as Warning Message, Low Stock Threshold Type, Notification Recipients here|3.2. Low Stock Notification|
-|Transfer Stock|Transfer Stock is used to manage inventory movements between warehouses or between a warehouse and another location. There are 4 types of Stock Transfers: Send Stock and Request Stock, Transfer to External Location & Transfer from External Location. Inventory is moved & Qty. is changed upon saving these actions|4.1. Stock Transfer|
-|Send Stock|This action lets you move inventory from a warehouse to another warehouse| 4.1.1. Send Stock|
-| Request Stock|This action lets you request stock for a warehouse from another warehouse|4.1.2. Request Stock|
-|Transfer to External Location|This action lets you move inventory from a warehouse to an external location| 4.1.3. Transfer from/to External Location|
-|Transfer from External Location|This action lets you move inventory from an external location to a warehouse|T4.1.3. Transfer from/to External Location|
-|Stock Sending History|Record all stock sending which is created and note the status of the transfer|4.2. Stock Transfer History|
-|Stock Request History|Record all stock requests which are created and note the status of the transfer|4.2. Stock Transfer History|
-|History of Stock Transfer to External Location|Record all stock transfers from a warehouse to an external location which are created and note the status of the transfer|4.2. Stock Transfer History|
-|History of Stock Transfer from External Location|Record all stock transfers from an external location to a warehouse which are created and note the status of the transfer|4.2. Stock Transfer History|
+|Terminology| Description|
+|-----------|-------------|
+|Quantity in warehouse(s)| The real quantity of a product in the physical warehouse. It equals the sum of Available Qty and Qty to Ship| 
+|Available Quantity|The quantity of each product which shows up in Virtual Catalog (front store). It’s also the quantity remaining that are available to be sold|
+|Quantity to ship| The number of items has been ordered but not been shipped yet. This number will be returned to Avail Qty & Qty in Warehouse(s) if the shipment is cancelled|
+|Shelf Location| Insert the detailed area in the shelf where the product is located. This is how you can support your staff in finding the product efficiently in the physical warehouse| 
+| Warehouse| A “warehouse” in Inventory Management represents for a physical place where you keep your stock. Stocks can be moved between warehouses, purchased for a Warehouse and shipped from a Warehouse. Employees (with different admin accounts) can be restricted to handling only warehouse(s) with which they work|
+| Primary Warehouse| Primary Warehouse is automatically created after the module is installed which contains all products in your catalog. This warehouse cannot be deleted to make sure that there is always at least one warehouse consisting of your inventory| 
+|Warehouse Pemission| Assign and manage a staff account permission level in controlling a specific warehouse. Base on Roles Assigned, an user who has full authorities will have permission to create new role & set up new user with specific permissions|
+|Stock Adjustment|Adjust Stock action is used to correct/ update inventory levels of your products and records them in Stock Adjustment History. This will change the Qty. In Warehouse(s) in the Stock in Warehouse grid of Inventory Management module. After that, the system will update Available Qty. accordingly (or the quantity in default Catalog Products) after subtracting Qty allocated in sales orders from the new Qty in Warehouse(s)|
+|Stock Adjustment History | Stock Adjustment History records all inventory corrections/ updates when there are some differences between stock levels of physical and virtual warehouses|
+| Stocktaking| Stocktaking is performed to double-check and prevent any mismatch between the recorded product quantities and the actual inventory in your physical warehouses. The process includes 5 stages containing stock counting and admin’s approval before actually updating the Qty in the system|
+|Stocktaking History| Stocktaking History records all stocktaking acts and their process status| 
+|Stock Movement History|Stock Movements are records of inward &outward stock transfers of a warehouse| 
+|Supply Needs|Supply Need is the system’s prediction about how many inventory items you need for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past| 
+|Available Date| Based on the sales history in the chosen sales period, the system will estimate the day which a product is sold out and need to be restocked| 
+|Low-stock Threshold Type|To get notification about the out-of-stock product, you will have to define how the system process. There are 2 methods: by Available Days or by Available Quantity| 
+|Threshold (days)| If you insert 3 in this field, the low stock notification will appear 3 days before the product is out of stock. The  sold out day is estimated based on sales history of the chosen sales period|
+|Sales Period (days)|If you insert 30 in this field, the threshold days will be estimated based on sales history in 30 days up to now|
+|Threshold (quantity)|If you insert 5 in this field, the low stock notification will appear when there are only 5 items of the product in stock|
+|Low Stock Notifications| Low Stock Notification shows all notifications following Low Stock Rules set up in the system. You can track the detail of a notification such as Warning Message, Low Stock Threshold Type, Notification Recipients here|
+|Transfer Stock|Transfer Stock is used to manage inventory movements between warehouses or between a warehouse and another location. There are 4 types of Stock Transfers: Send Stock and Request Stock, Transfer to External Location & Transfer from External Location. Inventory is moved & Qty. is changed upon saving these actions|
+|Send Stock|This action lets you move inventory from a warehouse to another warehouse|
+| Request Stock|This action lets you request stock for a warehouse from another warehouse|
+|Transfer to External Location|This action lets you move inventory from a warehouse to an external location|
+|Transfer from External Location|This action lets you move inventory from an external location to a warehouse|
+|Stock Sending History|Record all stock sending which is created and note the status of the transfer|
+|Stock Request History|Record all stock requests which are created and note the status of the transfer|
+|History of Stock Transfer to External Location|Record all stock transfers from a warehouse to an external location which are created and note the status of the transfer|
+|History of Stock Transfer from External Location|Record all stock transfers from an external location to a warehouse which are created and note the status of the transfer|
 
-
+----------
 
 ## How to configure 
 
+Go to **Settings** and you are able to configure the Instock Management module as below:
+
+![configure instock management module](./image_IM%20Rebuilt/image001.png)
+
+1. **Link stocks in Warehouse to Front Store View**: The Instock Management module allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers.
+After enabling this setting, you can link the warehouse to one or multiple store view in **Warehouses > General Information > Magento Store View**
+
+![choose front store view to link warehouse to](./image_IM%20Rebuilt/image001-1.png)
+
+2. **Adjust Stock by entering the change qty**: 
+- If this feature is enabled, when adjusting stock, you can enter the difference quantity and the system will calculate the final balance in warehouse.
+- If this feature is disabled, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product. 
+
 
 ----------
+
+## How to Use
 
 ### Stock Listing
 
@@ -78,19 +93,19 @@ The module provides an in-depth control over your **composite products** (config
 
 For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. 
 
-![enter image description here](./image_IM%20Rebuilt/image002.png)
+![control configurable product with variable sizes](./image_IM%20Rebuilt/image002.png)
 
 Note that there are 3 types of quantity shown:
 
  - **Qty in Warehouse(s)**: total amount of products in physical warehouses;
  - **Qty to ship**: the number of products which has been ordered and is ready to be shipped;
- - Available Qty: the amount of products left in the virtual catalog which is available to sell.
+ - **Available Qty**: the amount of products left in the virtual catalog which is available to sell.
  
 Note that **Qty in Warehouse(s) = Qty to Ship + Available Qty**
 
 You can select a warehouse in the drop-down list and the stock details in that particular warehouse will be displayed. 
 
-![enter image description here](./image_IM%20Rebuilt/image003.png)
+![select a warehouse](./image_IM%20Rebuilt/image003.png)
 
 Update the total quantity and Shelf Location easily on the Inventory grid in only 3 steps:
 
@@ -98,91 +113,85 @@ Update the total quantity and Shelf Location easily on the Inventory grid in onl
  - **Step 2**: Input the new Qty in Warehouse(s) and/or Shelf Location;
  - **Step 3**: Click “**Update Stock**”.
 
-![enter image description here](./image_IM%20Rebuilt/image004.png)
+![change stock quantity](./image_IM%20Rebuilt/image004.png)
 
 **Shelf Allocation** is a useful information to find the product in the physical stock quickly, especially in fulfilling customer’s order.
-In addition, you can edit available qty of products in each Warehouse & Global by accessing to **Catalog > Manage Products**
-
-![enter image description here](./image_IM%20Rebuilt/image005.png)
-
-Then, click on Products you want to edit available Qty, go to **Inventory > Qty** > Tick on **Force edit**
-
-![enter image description here](./image_IM%20Rebuilt/image006.png)
 
 #### Non-warehouse Products
 
-When a product is newly-created and has not been assigned to any warehouse yet, it will automatically be allocated in this Non-warehouse list. From here, you can select a product and add it into a specific warehouse.
+When a product is newly-created and has not been assigned to any warehouse yet, it will automatically be allocated in this Non-warehouse list. 
 
-![enter image description here](./image_IM%20Rebuilt/image007.png)
+![transfer non-warehouse product to a warehouse](./image_IM%20Rebuilt/image007.png)
+
+1. Select the product(s);
+2. Choose "Add to Warehouse" from the drop-down list; select the destination warehouse and click **Submit**.
 
 #### Warehouses
 
 The **Warehouses** page displays each warehouse’s details such as its ID, name, total SKUs and total product quantities in each warehouse, contact email/ tel./ address. 
 
-The **Inventory Management** allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers. 
+Our Inventory Management function allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers. You can enable this function in **Settings** as mentioned in the **How to Configure** section above.
 
-You can enable this function in **Settings.**
+![Warehouses page](./image_IM%20Rebuilt/image008.png)
 
-![enter image description here](./image_IM%20Rebuilt/image008.png)
-
-You can assign multiple Magento store views to one Warehouse by clicking on “**Mapping Location – Warehouses**” button
-
-![enter image description here](./image_IM%20Rebuilt/image009.png)
-
-You can also create unlimited new warehouses by hitting the “**Add a New Warehouse**” button.
-
-![enter image description here](./image_IM%20Rebuilt/image010.png)
+You can assign multiple Magento store views to one Warehouse by clicking on **Mapping Location – Warehouses** button; or create unlimited new warehouses by hitting the “**Add a New Warehouse**” button.
 
 In addition, by clicking on each warehouse, you can access 5 tabs as below:
 
- - **General Information**: records basic details of the warehouse such as Name, Code, Contact Email, Address, etc. If you enable the “**Link warehouse to Magento front store view**” setting above, this is where you can select the warehouse’s linked front store.
+ - **General Information**: records basic details of the warehouse such as Name, Code, Contact Email, Address, etc. If you enable the **Link warehouse to Magento front store view** setting above, this is where you can select the warehouse’s linked front store.
  
-![enter image description here](./image_IM%20Rebuilt/image011.png)
+![choose front store view to link warehouse to](./image_IM%20Rebuilt/image011.png)
 
  - **Stock On Hand**: lists out all existing products in the warehouse. Clicking on each product will let you promptly revise its total Qty in the specific Warehouse and its Shelf Location. 
 
-On this section, if you click on any warehouses, there will have “**Export**” button along with CSV/Excel XML file.
+![export warehouse's stock info](./image_IM%20Rebuilt/image012.png)
 
-![enter image description here](./image_IM%20Rebuilt/image012.png)
+On this section, if you click on any warehouses, there will have **Export** button along with CSV/Excel XML file.
 
-If you want to add a product into a warehouse, you should go to **Catalog > Manage Product** in your Magento core backend.
-
-![enter image description here](./image_IM%20Rebuilt/image013.png)
 
  - **Stock Movement**: provides stock changing record of the warehouse. Information includes added/ subtracted quantity, product SKU, movement type, movement date and reference number to access further details by a click.
- - **Warehouse Permission**: lets you assign and manage staff account permission. Here you can set staff permission by clicking at the “Assign Staffs” button at the right of the page. 
-![enter image description here](./image_IM%20Rebuilt/image014.png)
-An **Assign Staff** window will appear as in the screenshot below. Just select the staff and his/her role, click “**Add Selected Staff**” button and you are done!
-![enter image description here](./image_IM%20Rebuilt/image015.png)
+ 
+ - **Warehouse Permission**: lets you assign and manage staff account permission. Here you can set staff permission by clicking at the **Assign Staffs** button at the right of the page. 
+ 
+![assign staff to warehouse](./image_IM%20Rebuilt/image013.png)
+
+An Assign Staff window will appear as in the screenshot below. All you need to do is:
+
+1. Select staff
+2. Choose his/her role from the drop-down list (you can create more roles in Magento core backend). You can assign role to multiple staff at once.
+3. Click **Add Selected Staff** button and you are done!
+
+![select staff and permission](./image_IM%20Rebuilt/image015.png)
+
 You can also select to edit/delete staff permission directly on the **Warehouse Permission** menu.
 Finally, do not forget to save your recent changes.
 
 ![enter image description here](./image_IM%20Rebuilt/image016.png)
 
-**ADDITIONAL GUIDE: Manage User/ Staff Roles and Permissions**
-If you want to create and/or edit user roles and permissions in different sections in the Inventory Management, go to the “**Permission**” submenu under the “**System**” menu of the Magento core backend.
+**ADDITIONAL GUIDE**: Manage User/ Staff Roles and Permissions
+If you want to create and/or edit user roles and permissions in different sections in the Instock Management module, go to Magento core backend, **System > Permission**
 
-![enter image description here](./image_IM%20Rebuilt/image017.png)
+![Permission menu in backend](./Image_Instock_Management/image017.png)
 
-The “**User**” tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.
+The **User** tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.
 
-![enter image description here](./image_IM%20Rebuilt/image018.png)
+![Add New User button](./Image_Instock_Management/image018.png)
 
 Admin can view, edit and remove staff permission by clicking on each user. Admin can also assign a warehouse to a user here.
 
-![enter image description here](./image_IM%20Rebuilt/image019.png)
+![assign warehouse to user in 4 steps](./Image_Instock_Management/image019.png)
 
-The “**Roles**” tab lets you see a  list  of  role  and  create  a  new  role  for  users. 
+Also in Magento core backend, in **System > Permission > Roles**, View a  list  of  role  and  create  a  new  role  for  users. 
 
-![enter image description here](./image_IM%20Rebuilt/image020.png)
+![Roles page](./Image_Instock_Management/image020.png)
 
-In “**Role Info**” tab, you need to input the role name, verify the admin’s password. Then select the checkbox of the role’s permissions in the drop-down list, or select “**All**” in the “**Resource Access**” option to grant full permission to the role. When done, hit “**Save Role**” to finish.
+In **Role Info** tab, you need to input the role name, verify the admin’s password. Then in **Roles Resources* tab, select the checkbox of the role’s permissions in the drop-down list, or select **All** in the **Resource Access** option to grant full permission to the role. When done, hit **Save Role** to finish.
 
-![enter image description here](./image_IM%20Rebuilt/image021.png)
+![assign access to a new role](./Image_Instock_Management/image021.png)
 
- - **Dashboard** (NEW): demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
+ - **Dashboard**: demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
 
-![enter image description here](./image_IM%20Rebuilt/image022.png)
+![view sales charts in dashboard](./image_IM%20Rebuilt/image022.png)
 
 Manage each warehouse’s sales status at a glance with visual charts. You can also print these charts or download with 4 different options of either PNG, JPEG, PDF or SVG vector by opening a menu next to each chart.
 
@@ -202,35 +211,33 @@ This module is a powerful assistance to help you keep track of any changes in th
 
 ##### New Stock Adjustment
 
-Sometimes your recorded product quantity does not match the actual physical number. Then, this function is exactly what you need to make changes quickly. To make a new stock adjustment, you need to select the warehouse which stores the product to be adjusted, fill in the reason for the adjustment and click “**Start to Adjust**” at the top right of the page.
+Sometimes your recorded product quantity does not match the actual physical number. Then, this function is exactly what you need to make changes quickly.
 
 ![enter image description here](./image_IM%20Rebuilt/image023.png)
+
+To make a new stock adjustment, you need to:
+1. Follow path: **Stock Control > New Stock Adjustment**
+2. Fill in the reason for the adjustment 
+3. Click **Start to Adjust** at the top right of the page.
 
 The next window allows you to select whatever product you want to adjust its quantity and type in the new figure. Alternatively, you can import product quantities via a CSV file with a provided sample. This means you can adjust quantities of several products at once.
 
 ![enter image description here](./image_IM%20Rebuilt/image024.png)
 
-Then you have 3 options to enable your changes:
-
+1. You can import product quantities via a CSV file with a provided sample. 
+2. Alternatively, you can select products and input the quantity in line. Note: as mentioned in *How to Configure* section above, if you enable **Adjust Stock by entering the change qty** setting, you can enter the difference quantity and the system will calculate the final balance in warehouse. Otherwise, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product.
+3. Then you have 3 options to enable your changes:
  - **Save**: temporarily save the adjustment in Pending status. You will automatically transferred to the Stock Adjustment History page. 
  - **Save and continue to edit**: temporarily save the adjustment in Pending status. You continue to stay on a page with your products to continue any further edits. 
  - **Adjust**: immediately activate the quantity changes. Once you hit this button, there is no way to undo it unless you carry out another stock adjustment. The adjustment is marked Completed on the History page.
 
-![enter image description here](./image_IM%20Rebuilt/image025.png)
-
 ##### Stock Adjustment History 
 
-The Stock Adjustment History page shows details of each adjustment including date of the adjustment, staff who made the adjustment, warehouse name and status.
+The **Stock Adjustment History** page shows details of each adjustment including date of the adjustment, staff who made the adjustment, warehouse name and status (whether Pending or Completed).
 
-![enter image description here](./image_IM%20Rebuilt/image026.png)
+![Stock Adjustment History page](./image_IM%20Rebuilt/image025.png)
 
-All adjustments, whether in Pending or Completed status, are recorded on the Stock Adjustment History page. 
-
-![enter image description here](./image_IM%20Rebuilt/image027.png)
-
-Clicking on each adjustment will transfer you to a page where you can see more information of an adjustment including adjusted product ID, Name, SKU, old Qty and Adjusted Qty. For an adjustment with Pending status, this is the page where you have left the unfinished adjustment. Complete it by clicking “**Adjust**”. 
-
-![enter image description here](./image_IM%20Rebuilt/image028.png)
+Clicking on each adjustment will transfer you to a page where you can see more information of an adjustment including adjusted product ID, Name, SKU, old Qty and Adjusted Qty. For an adjustment with Pending status, this is the page where you have left the unfinished adjustment. Complete it by clicking **Adjust** at the top right of the page. 
 
 #### New Stocktaking and Stocktaking History
 
@@ -238,63 +245,63 @@ Clicking on each adjustment will transfer you to a page where you can see more i
 
 This tool will help you carry out a stocktaking successfully to prevent any mismatch between the recorded product quantities and the actual inventory in your physical warehouses. 
 
-![enter image description here](./image_IM%20Rebuilt/image029.png)
-
 This process consists of 5 easy-to-follow stages:
 
  - Stage 1: **General Information**
-In this Stage, you select the warehouse you want to stock take, the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional.
-Next, you can choose the products to be stock taken by clicking the “**Prepare Product List**” button (Stage 2) at the top right of the page. Alternatively, you can skip it to go straight to Stage 3 by clicking the “**Start Stocktaking**” button.
 
-![enter image description here](./image_IM%20Rebuilt/image030.png)
+![input stocktaking general info](./image_IM%20Rebuilt/image026.png)
+
+1. Select the warehouse you want to stock take, the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional.
+2. Choose the products to be stock taken by clicking the **Prepare Product List** button (Stage 2) at the top right of the page. Alternatively, you can skip it to go straight to Stage 3 by clicking the **Start Stocktaking** button.
 
  - Stage 2: **Prepare Products**
-You can select the products you want to stock take here or import products using a CSV file.
 
-![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image031.png?raw=true)
+![prepare product list to start stocktaking](./image_IM%20Rebuilt/image027.png)
 
-**Save** to stay with your selected products for further edits, or click “**Start Stocktaking**” to proceed Stage 3.
+1. You can select the products you want to stock take from the product grid;
+2. Alternatively, you can import products using a CSV file (template provided);
+3. Click **Save** to stay with your selected products for further edits, or click “**Start Stocktaking**” to proceed Stage 3.
 
 - Stage 3: **Stock Counting**
 
-Select and type in the product quantity that you have recently counted.
+![input results of stock counting](./image_IM%20Rebuilt/image028.png)
 
-Click “**Complete Data Entry**” to proceed to Stage 4 and have a review of the changes, click “**Complete Stocktaking**” to finish the process or “**Save**” to continue editing.
+1. Select and type in the product quantity that you have recently counted.
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image032.png?raw=true)
+2. Either click **Complete Data Entry** to proceed to Stage 4 and have a review of the changes; click **Complete Stocktaking** to finish the process; or **Save** to continue editing.
 
 - Stage 4: **Complete Data Entry**
 
-This Stage allows you to have a final review of your recent quantity counts. Click either “**Re-entry Data**” or “**Complete Stocktaking**” to move to Stage 5. If you are not an admin, your counting results will be submitted to the admin/ manager for approval before the new quantity is officially updated and the process is marked Completed.
+![review stocktaking](./image_IM%20Rebuilt/image029.png)
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image033.png?raw=true)
+This Stage allows you to have a final review of your recent quantity counts. Click either “**Re-entry Data**” or “**Complete Stocktaking**” to move to Stage 5. If you are not an admin, your counting results will be submitted to the admin/ manager for approval before the new quantity is officially updated and the process is marked Completed.
 
 - Stage 5: **Complete Stocktaking**
 
-This page shows you all details of the stocktaking process including the product quantity before and after the stocktaking process. Make a **New Stock Adjustment** by hitting the “**Adjust Stock**” button or download a CSV copy of the grid using the “**Download Difference List”**.
+![complete stocktaking process](./image_IM%20Rebuilt/image030.png)
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image034.png?raw=true)
+This page shows you all details of the stocktaking process including the product quantity before and after the stocktaking process. Make a **New Stock Adjustment** by hitting the **Adjust Stock** button or download a CSV copy of the grid using the **Download Difference List**.
 
 ##### Stocktaking History
 All Stocktaking details are listed here. Different status shows to which stage the stocktaking process is done:
 
-- Status “**Pending**” means Stage 1: **General Information** is done
-- Status “**Processing**” means Stage 2: **Prepare Products** is done
-- Status “**Verified**” means Stage 3: **Stock Counting** is done
-- Status “**Completed**” means the whole stocktaking process is done
+![stocktaking statuses recorded in History](./image_IM%20Rebuilt/image035.png)
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image035.png?raw=true)
+- Status **Pending** means Stage 1: **General Information** is done
+- Status **Processing** means Stage 2: **Prepare Products** is done
+- Status **Verified** means Stage 3: **Stock Counting** is done
+- Status **Completed** means the whole stocktaking process is done
 
 Click on each stocktaking record to view all details of the process.
 
 #### Stock Movement History
 
-This menu records all movements of the stock in each warehouse. The table shows the number of products added/subtracted from the warehouse, product SKU, product movement type, warehouse name, reference number, movement date. Filtering a SKU will help you track the product’s movements and changed quantity in each warehouse in no time.
+![stock quantity changes recorded in History](./image_IM%20Rebuilt/image036.png)
 
-![](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_IM%20Rebuilt/image036.png?raw=true)
+This menu records all changes of stock quantity in warehouse. The table shows the number of products added/subtracted from the warehouse, product SKU, product movement type, warehouse name, reference number, movement date. Filtering a SKU will help you track the product’s movements and changed quantity in each warehouse in no time.
 
 ### Prediction
-#### Supply Needs (FEATURED)
+#### Supply Needs
 
 There’s no need an assistant to analyze and show you whether you should order additional items for a specific product in the next Order Purchasing or not. **Inventory Management rebuilt** allows you to get the prediction of supply needs until the certain time stamp.
 
