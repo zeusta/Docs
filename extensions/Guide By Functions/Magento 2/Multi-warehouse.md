@@ -1,13 +1,13 @@
-# MULTI-WAREHOUSE - MAGENTO 2
+# MULTI-WAREHOUSE INVENTORY MANAGEMENT- MAGENTO 2
 
 
-*Confidential Information Notice*<br/>
+*Confidential Information Notice*
 *Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
+------
 
 ## INTRODUCTION
-------
 
 
 If your inventory is not enough to supply, you may lose customer. But if the inventory you keep is more than needed, it will cost you lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification…in your warehouses in the most efficient way. With our newest version, you can:
@@ -24,9 +24,9 @@ If your inventory is not enough to supply, you may lose customer. But if the inv
 
 Hope that you will have a great time using our module and free your mind from messy stock management.
 
+---
 
 ## HOW IT WORKS
----
 
 
 ### Stock listing
