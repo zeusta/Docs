@@ -31,45 +31,62 @@ Hope that you will have a great time using our module and free your mind from me
 
 ### Stock listing
 
-#### Stock in Warehouse
+#### Stocks in Warehouse
+
+Path: **Inventory Management > Stock Listing > Stocks in Warehouse**
+
+![stock in warehouse page](./inventoryimages/im5.png)
 
 Admin can have overview of Stock in all Warehouses and select a warehouse to view stocks of that warehouse only.
 
-It can show Available Qty, Qty to Ship and total Qty in each warehouse and Shelf Location of that product in the warehouse.
+It can show **Available Qty**, **Qty to Ship** and **Total Qty** in each warehouse and **Shelf Location** of that product in the warehouse.
 
-After selecting the warehouse, admin can easily update stock and shelf location right on the Inventory grid just by selecting the products, fill the updated Total Qty/Shelf location and click “Update Stock”.
+![update stock quantity in warehouse](./inventoryimages/im6.png)
 
-![](./inventoryimages/im5.png)
-
-Moreover, you can easily edit Qty of products by accessing to Products, choose **Catalog**, choose to edit a specific product and tick on **Force Edit**
-
-![](./inventoryimages/im6.png)
+Admin can easily update stock and shelf location right on the Inventory grid just by:
+1. Selecting a specific warehouse;
+2. Selecting the products;
+3. Filling the updated Total Qty
+4. Inputing the product's Shelf location (optional) 
+5. Clicking **Update Stock**.
 
 #### Non-warehouse product
+
+Path: **Inventory Management > Stock Listing > Non-warehouse Products**
 
 When a product is newly created and not assigned to any warehouse yet, it will be automatically allocated in Non-warehouse. From here admin can select the product and add it into a specific warehouse.
 
 In addition, admin can also add the product to multiple warehouses in **Product edit page**:
 
-![](./inventoryimages/im7.png)
+![Advanced Inventory link](./inventoryimages/im7.png)
 
-![](./inventoryimages/im8.png)
+![Add product to multiple warehouses](./inventoryimages/im8.png)
 
 #### Warehouse
+
+Path: **Inventory Management > Stock Listing > Warehouses**
 
 After installation, the system will automatically provide a **Primary Warehouse**. This warehouse cannot be deleted and can only be edited. All the existing products with stocks level of your website will be automatically allocated in this warehouse first before being sent to other warehouses.
 
 A warehouse contains basic information including Total SKU, total Qty, contact email, telephone, street, city, country and status
 
-Admin can add new warehouse then fill all information including warehouse name, contact, country…
+Admin can **Add New Warehouse** then fill all information including warehouse name, contact, country…
 
-![](./inventoryimages/im1.png)
+![Add New Warehouse button](./inventoryimages/im1.png)
 
 ### Prediction
 
 #### Supply Needs
 
-This feature predicts how many inventory items a warehouse need for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past. The **Forecast Supply Needs** feature will be automatically shown on the section **Supply Needs** your supply needs is zero. Or else, you can click on **Show Supply Needs** button. Admin can select Base On Sales to use to calculate data for supply need, fill in **Forecast Supply Needs** to the date that you want to get supply needs then it will give a product list with following information:
+Path: **Inventory Management > Prediction > Supply Needs**
+
+![Add product to multiple warehouses](./inventoryimages/im8.png)
+
+This feature predicts how many inventory items a warehouse need for each product within a future period. 
+1. Select the warehouse to forecast supply needs;
+2. Select the sales period so that the system will calculate this number based on this sales history. 
+3. Select the future date so that the system will calculate if your product quantity is enough until this date.
+4. When your product quantity is zero, it will be automatically shown on the section **Supply Needs**. Or else, you can click on **Show Supply Needs** button. Admin can select Base On Sales to use to calculate data for supply need, fill in **Forecast Supply Needs** to the date that you want to get supply needs then it will give a product list with following information:
 
 - Qty Sold/day: average Qty of product sold per day 
 
@@ -89,19 +106,21 @@ Low Stock notifications listing displays warning messages about the products whi
 
 #### Low Stock Rules
 
-Admin can create unlimited rules to notify low stock. One rule contains: Rule information, Condition and Action.
+Admin can create unlimited rules to notify low stock. One rule contains: **Rule information**, **Condition** and **Action**.
 
--	**Rule information:** You can fill in Rule name, description, status, validation date, time that you want to get notification.
+![control low stock rule](./inventoryimages/im8-2.png)
 
--	**Condition:** There are 2 rule types for you to select: Available Days and Available Qty.
+1.	**Rule information:** You can fill in Rule name, description, status, validation date, time that you want to get notification.
+
+2.	**Condition:** There are 2 rule types for you to select: Available Days and Available Qty.
 
 With Available Days selection, the system will base on sales history of an item to predict how many days left till it will be out of stock. You can configure Sales period (history time to base on and get sale data) and Threshold day (the days before the product runs out of stock). So if you configure Threshold day as 5, system will send notification to you 5 days before this item is predicted to be out of stock so that you can prepare to purchase more stocks.
 
-![](./inventoryimages/im9.png)
+![low stock rule conditions](./inventoryimages/im9.png)
 
 Besides, you can add more conditions about Product attribute for example product SKU, color, category…
 
--	**Action:** You can fill in the emails that you want to send the low stock notification to and warning message.
+3.	**Action:** You can fill in the emails that you want to send the low stock notification to and warning message.
 
 ### Transfer Stock
 
