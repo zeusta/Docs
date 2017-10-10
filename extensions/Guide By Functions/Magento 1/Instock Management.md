@@ -166,7 +166,7 @@ In **Role Info** tab, you need to input the role name, verify the admin’s pass
 
  - **Dashboard**: demonstrates summarized **sales data** of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. 
 
-![enter image description here](./Image_Instock_Management/image022.png)
+![view sales charts in dashboard](./Image_Instock_Management/image022.png)
 
 Manage sales status at a glance with visual charts. You can also print these charts or download with 4 different options of either PNG, JPEG, PDF or SVG vector by opening a menu next to each chart.
 
@@ -188,14 +188,16 @@ This module is a powerful assistance to help you keep track of any changes in th
 
 Sometimes your recorded product quantity does not match the actual physical number. Then, this function is exactly what you need to make changes quickly. 
 
-![New Stock Adjustment page](./Image_Instock_Management/image023.png)
+![enter image description here](./image_IM%20Rebuilt/image023.png)
 
 To make a new stock adjustment, you need to:
 1. Follow path: **Stock Control > New Stock Adjustment**
 2. Fill in the reason for the adjustment 
 3. Click **Start to Adjust** at the top right of the page.
 
-![input adjustment quantity](./Image_Instock_Management/image024.png)
+The next window allows you to select whatever product you want to adjust its quantity and type in the new figure. Alternatively, you can import product quantities via a CSV file with a provided sample. This means you can adjust quantities of several products at once.
+
+![enter image description here](./image_IM%20Rebuilt/image024.png)
 
 1. You can import product quantities via a CSV file with a provided sample. 
 2. Alternatively, you can select products and input the quantity in line. Note: as mentioned in *How to Configure* section above, if you enable **Adjust Stock by entering the change qty** setting, you can enter the difference quantity and the system will calculate the final balance in warehouse. Otherwise, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product.
@@ -203,11 +205,10 @@ To make a new stock adjustment, you need to:
  - **Save**: temporarily save the adjustment in Pending status. You will automatically transferred to the Stock Adjustment History page. 
  - **Save and continue to edit**: temporarily save the adjustment in Pending status. You continue to stay on a page with your products to continue any further edits. 
  - **Adjust**: immediately activate the quantity changes. Once you hit this button, there is no way to undo it unless you carry out another stock adjustment. The adjustment is marked Completed on the History page.
-
-
+ 
 ##### Stock Adjustment History 
 
-The Stock Adjustment History page shows details of each adjustment including date of the adjustment, staff who made the adjustment, warehouse name and status (whether Pending or Completed).
+The **Stock Adjustment History** page shows details of each adjustment including date of the adjustment, staff who made the adjustment, warehouse name and status (whether Pending or Completed).
 
 ![Stock Adjustment History page](./Image_Instock_Management/image025.png)
 
@@ -225,7 +226,7 @@ This process consists of 5 easy-to-follow stages:
 
 ![input stocktaking general info](./Image_Instock_Management/image026.png)
 
-1. Select the warehouse you want to stock take, the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional.
+1. Select the warehouse, the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional.
 2. Choose the products to be stock taken by clicking the **Prepare Product List** button (Stage 2) at the top right of the page. Alternatively, you can skip it to go straight to Stage 3 by clicking the **Start Stocktaking** button.
 
  - Stage 2: **Prepare Products**
