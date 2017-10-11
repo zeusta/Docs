@@ -1706,7 +1706,7 @@ You can enable **Mark as shipped** by default.
 Click **Save Config** to complete the process.
 
 
-### Payment
+### Payment 
 
 Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
 
