@@ -357,9 +357,9 @@ Path: **Marketing > Promotions** Section **> Catalog Price Rule**
 
 ![](./img102/it_img022.png?raw=true)
 
-(1)	Click Add New Rule to create a new catalog price rules.
+(1)	Click **Add New Rule** to create a new catalog price rules.
 
-(2)	Fill out the blank with a value to search, after click Search.
+(2)	Fill out the blank with a value to search, after click **Search**.
 
 (3)	Search catalog price rules information with keyword. View or edit a rule’s detail by clicking on each line.
 
@@ -399,6 +399,7 @@ Click on **Add New Rule**
 ![](./img102/it_img025.png?raw=true)
 
 **Conditions**
+
 Click the small green button to add conditions.
 
 ![](./img102/it_img026.png?raw=true)
