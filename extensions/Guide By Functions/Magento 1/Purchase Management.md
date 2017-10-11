@@ -100,16 +100,15 @@ Fill in all required information including Created Time, Supplier, Currency, Cur
 
 #### Prepare Product List
 
-In this step, there are 6 ways for you to prepare product list:
-
-- **Import Products** via a CSV file (a sample file is provided);
+In this step, there are 6 ways for you to prepare product list as shown below:
 
 ![](PMimages/image017.png)
 
+- **Import Products** via a CSV file (a sample file is provided)
 
 - **Scan Barcode** to prepare product (if Barcode Management module is also installed);
 
-![Scan Barcode](./Image_Purchase%20Management/image024.jpg)
+![](PMimages/image019.png)
 
 - Prepare product list based on **Supply Need Products** forecast. The system will calculate the number of stock that may be in need in an upcoming period based on its sales. There are 4 steps you need to follow:
 
@@ -126,30 +125,29 @@ In this step, there are 6 ways for you to prepare product list:
 
 - Step 4: Click **Add Selected Products** and the products will be added to the Quotation.
 
-![dd Selected Products](./Image_Purchase%20Management/image026.jpg)
+![](PMimages/image021.png)
 
  - Prepare **Back Order Products**. Back order products are those that have been ordered by customers but currently not available in stock;
  
  - Prepare **Low Stock Products**. If Inventory Management module is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
 
-![Prepare **Low Stock Products](./Image_Purchase%20Management/image028.jpg)
+![](PMimages/image023.png)
 
  - Select products from the list of products from that specific supplier with the **All Products from Supplier** button.
 
 You can manually enter the Purchase Cost, Tax, Discount and Ordered Qty for each product in the grid. Current cost is the unit price you already knew, which can be blank. Purchase cost is the unit price at the time of creating the PO. Remember to click **Update Items** to save your edits.
 
-![Update Items](./Image_Purchase%20Management/image030.jpg)
+![](PMimages/image025.png)
 
 After enter all required fields, click **Save** button and Order Totals is automatically calculated.
 
-![Save](./Image_Purchase%20Management/image032.jpg)
-
+![](PMimages/image027.png)
 
 #### Edit Shipping and Payment method
 
 You can set up Shipping and Payment method for the quotation:
 
-![set up Shipping and Payment method for the quotation](./Image_Purchase%20Management/image033.jpg)
+![](PMimages/image029.png)
 
 - Enter the address you want the stock to be shipped to
 - Select a shipping method for the quotation
@@ -164,8 +162,7 @@ After filling out the form, do not forget to save all the changes. Now you can S
 
 To manage all created quotation, please go to **Purchase Order Management>Quotations**:
 
-![manage all created quotation ](./Image_Purchase%20Management/image035.jpg)
-
+![](PMimages/image031.png)
 There is a shortcut to create a new quotation. Click here to know how to create a new quotation.
 
 Each quotation is listed with related information: Reference Number, Created Date, Supplier, Requested Qty, Grand Total (Inclusive Tax), Status and Action (to view more details). Please note that the quotations which are converted into PO will be removed from this list.
@@ -178,68 +175,45 @@ Each quotation is listed with related information: Reference Number, Created Dat
 
 ### Create a New Purchase Order Manually
 
-
-You can either create a new Purchase Order manually or generate a Purchase Order from a Quotation.
-
 To create a new purchase order manually, select the Create Purchase Order submenu under the Purchase Order menu.
 
-![create a new purchase order manually](./Image_Purchase%20Management/image037.jpg)
+![](PMimages/image033.png)
 
 #### General Information
 
-Fill in all required information including Created Time, Supplier, Currency, Currency Exchange Rate. You can also add extra information in the Comment box.notification Supplier can also view this comment if you send them a  email later. Then click Prepare Product List to continue.
+Fill in all required information including Created Time, Supplier, Currency, Currency Exchange Rate. You can also add extra information in the Comment box.notification Supplier can also view this comment if you send them a  email later. Then click **Prepare Product List** to continue.
 
-![Fill in all required information ](./Image_Purchase%20Management/image039.jpg)
+![](PMimages/image035.png)
 
 #### Prepare Product List
 
-In this step, there are 6 ways for you to prepare product list:
+In this step, there are 6 ways for you to prepare product list. (These 6 ways are the same as how to prepare products list to create a quotation)
+
+![](PMimages/image037.png)
 
 - **Import Products** via a CSV file (a sample file is provided);
- 
-![Import Products via a CSV file](./Image_Purchase%20Management/image041.jpg)
 
 - **Scan Barcode** to prepare product (if Barcode Management module is also installed);
 
-![Scan Barcode** to prepare product](./Image_Purchase%20Management/image043.jpg)
-
-- Prepare product list based on **Supply Need Products** forecast. The system will calculate the number of stock that may be in need in an upcoming period based on its sales. There are 4 steps you need to follow:
-
-  - Step 1: Select the criteria for the system to forecast Supply Need Products:
-     o **Warehouse**: choose the warehouse containing the stock to be forecasted;
-     o **Sales Period**: the system will examine the stock’s sales statistics in this period to make forecast. Options in the drop-down list include last 7 days, last 30 days, last 3 months and custom range (if you want another specific period);
-    o **Forecast Supply Need To**: the system will predict if the stock on hand is enough for sales until this date.
-    
-  - Step 2: Click Show Supply Needs and the Supply Need results will appear in the table. The table shows the current quantity in stock, its sales quantity per day, date when your stock on hand is still enough for sales and the supply
-need quantity.
-
-  - Step 3: Select the products in the table that you want to add to the PO.
-  
-  - Step 4: Click Add Selected Products and the products will be added to the PO.
-  
-![Add Selected Products and the products](./Image_Purchase%20Management/image045.jpg)
+- Prepare product list based on **Supply Need Products** forecast. The system will calculate the number of stock that may be in need in an upcoming period based on its sales. 
 
 - Prepare **Back Order Products**. Back order products are those that have been ordered by customers but currently not available in stock;
 
 - Prepare **Low Stock Products**. If Inventory Management module is installed, Low Stock products are suggested according to your low stock rules. Select a low stock notification from the drop-down list, then select the products you want to create quotation and click **Add Selected Products**.
 
-![Prepare Low Stock Products](./Image_Purchase%20Management/image047.jpg)
-
 - Select products from the list of products from that specific supplier with the **All Products from Supplier** button.
 
 You can manually enter the Purchase Cost, Tax, Discount and Ordered Qty for each product in the grid. Remember to click **Update Items** to save your edits.
 
-![Update Items](./Image_Purchase%20Management/image049.jpg)
-
 After enter all required fields, click **Save** button and Order Totals is automatically calculated.
 
-![Save update items](./Image_Purchase%20Management/image051.jpg)
+![](PMimages/image027.png)
 
 #### Edit Shipping and Payment method
 
-You can set up Shipping and Payment method for the quotation:
+You can set up Shipping and Payment method for the order:
 
-![set up Shipping and Payment method for the quotation](./Image_Purchase%20Management/image053.jpg)
+![](PMimages/image039.png)
 
 - Enter the address you want the stock to be shipped to
 - Select a shipping method for the quotation
@@ -248,49 +222,53 @@ You can set up Shipping and Payment method for the quotation:
 - Select the payment term
 - Choose the method to send order: N/A, Email, Phone, Fax, Vendor website
 
-At this time, you can choose to **Save** the PO, **Send Request** to the supplier (PO will be sent to the supplier’s email address), **Print, Cancel** or **Confirm Purchase Order**.
+At this time, you can choose to **Save** the PO, **Send Request** to the supplier (PO will be sent to the supplier’s email address), **Print, Cancel**.
 
 #### Confirm Purchase Order
+To confirm purchase order, click on **Confirm Purchase Order**
 
-After clicking **Confirm Purchase Order**, you will be able to access 5 following tabs:
+![](PMimages/image041.png)
+
+Then you will be able to access 5 following tabs:
 
 ##### Summary:
 This tab displays all the PO’s information you have entered in the previous steps.
+![](PMimages/image043.png)
 
 ##### Received Item:
 
 This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management module, you can also enter the product’s barcode and update its delivery status.
 
-![enter the product’s barcode and update delivery status](./Image_Purchase%20Management/image055.jpg)
+![](PMimages/image045.png)
 
 ##### Returned Item:
 
 This tab records all products in the PO which you have returned to the supplier.
 Please note that you can only return products which you have received.
 
-![return products](./Image_Purchase%20Management/image057.jpg)
+![](PMimages/image047.png)
 
 A **Return Items** window will appear. Enter the date of return, select product(s) to be returned, type in the quantity to be returned and finish by clicking **Return**.
 
-![Return Items](./Image_Purchase%20Management/image059.jpg)
+![](PMimages/image049.png)
 
 ##### Invoices:
 
 This tab allows you to create invoice for the PO including payment and refund amount.
 
-![create invoice for the PO including payment and refund amount](./Image_Purchase%20Management/image061.jpg)
+![](PMimages/image051.png)
 
 A **Create an Invoice** window will appear. Enter the date of creating the invoice; select product(s) to be invoiced; type in the quantity to be billed, unit price (if different), tax and discount in percentage and finish by clicking **Save**.
 
-![Save new invoice](./Image_Purchase%20Management/image063.jpg)
+![](PMimages/image053.png)
 
 - **Transferred Item**: transfers deliveries into a specific warehouse. Please note that you can only transfer products which you have received.
 
-![Transferred Item ](./Image_Purchase%20Management/image065.jpg)
+![](PMimages/image055.png)
 
 A **Transfer Items** window will appear. Enter the date of transferring; choose the warehouse to transfer products to; select product(s) to be transferred; type in the quantity to be transferred and finish by clicking **Transfer**.
 
-![Transferred Item](./Image_Purchase%20Management/image067.jpg)
+![](PMimages/image057.png)
 
 - **Shipping and Payment**: views and edits shipping and payment information for the PO which you may have input in creating the PO.
 
@@ -300,13 +278,16 @@ A **Transfer Items** window will appear. Enter the date of transferring; choose 
 
 During the process of **Confirm Purchase Order**, you can complete the purchase order any time by clicking the **Complete PO** button at the right of the page. You can also **Print, Send Email, Cancel or Save** the PO during the process.
 
-![Complete Purchase Order ](./Image_Purchase%20Management/image069.jpg)
+![](PMimages/image059.png)
 
-You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you can still transfer received items into warehouses.
+You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you can still transfer received items into warehouses by clicking on **Transfer Items**
+
+![](PMimages/image061.png)
 
 ### Manage Purchase Orders
 
 To create/ edit purchase orders, manage deliveries from suppliers to warehouses and return items from warehouses to suppliers, go to **Purchase Orders** submenu under the Purchase Order menu. The **Manage Purchase Orders** page contains information related to all POs including Reference Number, Date of the PO, Supplier, Ordered Qty, Received Qty, Billed Qty, Total Paid, Grand Total inclusive Tax (i.e. the total value of the PO) and Status.
+![](PMimages/image063.png)
 
 There are 3 types of Status indicating to which stage the PO has been processed:
 
@@ -316,15 +297,13 @@ There are 3 types of Status indicating to which stage the PO has been processed:
 
   - Completed: when you click the **Complete PO** button.
 
-![Complete PO](./Image_Purchase%20Management/image071.jpg)
-
-Clicking on a PO will show you more details of the PO and let you continue editing the PO.
+Click on **view** a POto see more details of the PO and you can continue editing the PO.
 
 ### Generate Purchase Order from Quotation
 
 If you want to generate Purchase Order from **Quotation, please go to **Quotation> Quotations, click to choose a pending quotation. Then choose **Convert Quotation** to PO button.
 
-![Generate Purchase Order from Quotation](./Image_Purchase%20Management/image073.jpg)
+![](PMimages/image065.png)
 
 After that, a new purchase order is generated. Now you can:
 
@@ -339,33 +318,34 @@ After that, a new purchase order is generated. Now you can:
 
 There are 4 tabs to configure Purchase Management: Shipping method, Payment method, Payment term, Tax & Shipping Cost.
 
+![](PMimages/image067.png)
+
 ### Shipping Method
 
 
 This tab allows you to add/edit or delete Shipping methods for purchase orders. Click **Add**, enter name of the shipping method and set status (Enable/Disable) for each one. Click **Delete** to delete a shipping method. After all, do not forget to choose **Save Config** to save your work.
 
-![Shipping Method](./Image_Purchase%20Management/image075.jpg)
+![](PMimages/image069.png)
 
 ### Payment Method
 
 
 This tab allows you to add/edit or delete Payment methods for purchase orders. Click on Add, enter name of the payment method and set status (Enable/Disable) for each one. Click Delete to delete a payment method. After all, do not forget to choose Save Config to save your work.
 
-![Payment Method](./Image_Purchase%20Management/image077.jpg)
-
+![](PMimages/image071.png)
 ###  Payment Terms
 
 
 This tab allows you to add/edit or delete Payment terms for purchase orders. Click on **Add**, enter name of the payment term and set status (Enable/Disable) for each one. Click **Delete** to delete a payment term. After all, do not forget to choose **Save Config** to save your work.
 
-![Payment Terms](./Image_Purchase%20Management/image079.jpg)
+![](PMimages/image073.png)
 
 ### Tax & Shipping Cost
 
 
 This tab allows you to edit Tax & Default Shipping Cost for purchase orders.
 
-![Tax & Shipping Cost](./Image_Purchase%20Management/image081.jpg)
+![](PMimages/image075.png)
 
 - Default Shipping Cost: If you enter a shipping amount here, all purchase orders will automatically use this shipping cost as default. If you want to set different shipping cost for different purchase orders, leave this field blank.
 - Apply Customer Tax: Set customer tax applied before or after discount.
