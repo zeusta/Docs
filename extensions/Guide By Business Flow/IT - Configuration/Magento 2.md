@@ -406,7 +406,7 @@ Click the small green button to add conditions.
 
 **Action**
 
--	Select type of pricing rule what you want.
+-	Select type of pricing rule that you want.
 -	Enter the **Discount Amount** to apply.
 -	Set **Yes** to stop processing other rules. This prevents customers from receiving multiple discounts for the same product. 
 To finish, click **Save**
