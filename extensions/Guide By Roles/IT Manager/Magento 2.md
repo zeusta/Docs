@@ -171,7 +171,7 @@ Path: **Stores > Settings** section **> Configuration > MageStore Module > Suppl
 
 Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
-***Note:** If you want to configure based on your own features, then unmark box **Use System value**.*
+***Note:*** *If you want to configure based on your own features, then unmark box* ***Use System value***.
 
 
 ##### Stock Option
