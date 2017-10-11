@@ -11,6 +11,7 @@ Purchase management is always a headache to retailers. As the businesses grow up
 #### Purchase Staff Create Request for Quotation
 *"A **quotation** (or a **request for quotation**) is the proposal of price and quantity of goods that store owners send to suppliers. The quotation will become purchase order when a seller sends confirmation of price and availability of products stated in the quotation.”*
 To create a new request for quotation, purchase staff can follow this path: **Purchase Management > Quotationt > Create Quotation**
+
 Then the page will be shown as below:
 ![](PM1images/image001.png)
 
@@ -54,7 +55,7 @@ Apart from importing products via a CSV file, you need to enter **Purchase Cost,
 After filling all the information, click **Save** to save all changes. You can still update products information by editing in a specific product line. Then, choose **Save** to create a request for quotation.
 
 #### Purchase Manager Validates Request for Quotation
-To validate a request for Quotation, purchase manager goes to **Purchase Management > Quotation**, choose **Quotation** to see quotation list. At the list of quotation, click on View at the quotation has status as “**pending**”.
+To validate a request for Quotation, purchase manager goes to **Purchase Management > Quotation**, choose **Quotation** to see quotation list. At the list of quotation, click on **View** at the quotation has status as “**pending**”.
 
 ![](PM1images/image009.png)
 
@@ -79,7 +80,7 @@ To approve Purchase order, purchase manager convert request for quotation to pur
 ![](PM1images/image017.png)
 
 
-As the quotation is converted to purchase order, you will be navigated to **Purchase Order Information** view
+As the quotation is converted to purchase order, you will be navigated to **Purchase Order Information** page
 
 ![](PM1images/image019.png)
 
@@ -97,7 +98,7 @@ To complete Purchase Order, purchase staff access these tabs as shown in the lis
 ![](PM1images/image023.png)
 
 
-This tab displays all the PO’s information you have entered in the previous steps. 
+This tab displays all the information of the PO that you have entered in the previous steps. 
 
 - **Received Items** tab:
 ![](PM1images/image025.png)
