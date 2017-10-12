@@ -8,7 +8,7 @@ Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauth
 
 ## Introduction
 
-Having trouble with managing hundresds of items that you sold every minute, from day to day? And how to keep track of each item's quantity change? Magestore's Instock Management module is here to help. With this inventory management module, you are able to:
+Having trouble with managing hundreds of items that you sold every minute, from day to day? And how to keep track of each item's quantity change? Magestore's Instock Management module is here to help. With this inventory management module, you are able to:
 
 * Save time in stock control by in-line mass adjustment;
 * Reduce cost by low stock notifications and supply need forecast in time;
