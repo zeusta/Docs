@@ -90,7 +90,7 @@ In the “POS Report”:
 
 ![](./anh/image001.png?raw=true)
 
-## FOR MANAGER MANAGER ##
+## FOR ECOMMERCE MANAGER ##
 This section is the separated guide for Store Manager only. 
 All the tasks which will be involved in the system by Store Manager will be included in this guide, so that you can approach all the role responsibilities and capabilities better and more insight. 
 
