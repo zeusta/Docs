@@ -26,16 +26,16 @@ Magestore Team
 ## Business Workflow ##
 ### General Process ##
 
-![](./Image%20shadow/image002.png?raw=true)
+![](./POS%20M1/top%201%20.png?raw=true)
 
 
 
 ### POS Order ##
-![](./Image%20shadow/image004.png?raw=true)
+![](./POS%20M1/top%202%20.png?raw=true)
 
 
 ### POS Return Order ##
-![](./Image%20shadow/image006.png?raw=true)
+![](./POS%20M1/top%203%20.png?raw=true)
 
 
 ----------
@@ -104,7 +104,7 @@ Store Cashier will take the following tasks:
 	 - X Report
 	 - Z Report
 
-![](./Image%20shadow/image008.png?raw=true)
+![](./POS%20M1/top%204.png?raw=true)
 
 
 ----------
