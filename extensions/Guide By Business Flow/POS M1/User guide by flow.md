@@ -1,4 +1,4 @@
-# Point-of Sale (POS) - Magento 2 
+# Point-of Sale (POS) - Magento 1
 
 
 ----------
