@@ -145,17 +145,17 @@ Like the flow we explain above, this section is also instructed according to the
 
  - Then, Cashier could add them to carts.
  
- 	![](./anh%201%20M1%20.png?raw=true) anh 1 
+ 	![](./anh%201%20M1%20.png?raw=true)  
  	
-	![](./anh%202%20m1%20.png?raw=true) anh 2 
+	![](./anh%202%20m1%20.png?raw=true) 
 	
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
 - If this buyer were a brand new customer, Cashier would create a new one.  Here is the detailed instruction:
    
-![](./anh%203%20m1%20.png?raw=true) anh 3 
+![](./anh%203%20m1%20.png?raw=true)  
 	
-![](./anh%204%20m1%20.png?raw=true) anh 4 
+![](./anh%204%20m1%20.png?raw=true) 
 
 Tap the human icon > “Create Customer”
   
@@ -163,9 +163,9 @@ Tap the human icon > “Create Customer”
 
  - After adding products to carts, Cashiers would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit.
    
-    ![](./anh%205%20m1%20.png?raw=true) anh 5 
-    ![](./anh%206%20m1%20.png?raw=true) anh 6 
-    ![](./anh%207%20m1%20.png?raw=true) anh 7 
+    ![](./anh%205%20m1%20.png?raw=true) 
+    ![](./anh%206%20m1%20.png?raw=true)  
+    ![](./anh%207%20m1%20.png?raw=true) 
 
  - Next step, Cashier must select shipping method:
 	 -	Customers would receive goods at store if they buy in-store. 
@@ -174,9 +174,9 @@ Tap the human icon > “Create Customer”
  - Then, Cashiers have to choose payment method
 	 - In this step, if customers require invoice, Cashiers will take the output of Customer Invoice. 
 	 
-	 ![](./anh%208%20m1%20.png?raw=true) anh 8 
-	![](./anh%209%20m1%20.png?raw=true) anh 9 
-	![](./anh%2010%20m1%20.png?raw=true) anh 10 
+	 ![](./anh%208%20m1%20.png?raw=true) 
+	![](./anh%209%20m1%20.png?raw=true) 
+	
 
 	
 
@@ -191,7 +191,7 @@ Tap the human icon > “Create Customer”
 	- If Cashiers put money in Cash Drawer, Cash-in will be saved with reason.
 	- If Cashiers take money out Cash Drawer, Cash-out will be also saved with reason. 
 
-![](./anh%2011%20m1%20.png?raw=true) anh 11 
+ 
 
 It is the end of “POS Order” workflow. 
 
@@ -218,12 +218,12 @@ If this Return Order is valid, all those steps below need accomplishing:
  
 	- To issue refund, go to Orders tab in POS screen, choose Orders History, select the order that is required to refund.  Tap on Refund button at the end of the popup.
 
-	![]() anh 12 
+	![](./anh%2010%20m1%20.png?raw=true) 
 
 
 	- A popup will display so that you can fill in the information before making refund.  Tick “Return to stock” if you want to return those items back to your stock.
 
-	![]() anh 13 
+	![](./anh%2011%20m1%20.png?raw=true)
 
 	[1]  Name of the refund product
 	[2]  Adjust Refund:
