@@ -150,7 +150,7 @@ Tap the **human icon** > “**Create Customer**”
 
  - Otherwise, Cashier could search and create order based on customer history data. All the staffs need to do is typing the customer information (such as: phone number, email, address,…)
 
- - 	After adding products to carts, Sales staffs would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit. 
+ - After adding products to carts, Sales staffs would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit. 
 ![](./IM/R19%20.png?raw=true) 
 ![](./IM/R20%20.png?raw=true)
 
@@ -161,7 +161,7 @@ Tap the **human icon** > “**Create Customer**”
  - Manager can choose Payment & Shipping Method 
  ![](./IM/R21.png?raw=true)
 
- -	Manager can aslo checkout 
+ - Manager can aslo checkout 
  ![](./IM/R15.png?raw=true)
 
 
