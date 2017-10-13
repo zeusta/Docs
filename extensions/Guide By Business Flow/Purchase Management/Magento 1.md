@@ -10,30 +10,31 @@ Purchase management is always a headache to retailers. As the businesses grow up
 ### Purchase Order
 #### Purchase Staff Create Request for Quotation
 *"A **quotation** (or a **request for quotation**) is the proposal of price and quantity of goods that store owners send to suppliers. The quotation will become purchase order when a seller sends confirmation of price and availability of products stated in the quotation.”*
+
 To create a new request for quotation, purchase staff can follow this path: **Purchase Management > Quotationt > Create Quotation**
 
 Then the page will be shown as below:
 ![](PM1images/image001.png)
 
-➢Step 1: **Fill in General Information tab**
-1. Choose Created Time
-2. Choose Supplier to ask for quotation
-3. Choose Currency 
-4. Currency Exchange Rate
-5. Adding comments is optional
+➢Step 1: **Fill in General Information tab**<br/>
+1. Choose Created Time<br/>
+2. Choose Supplier to ask for quotation<br/>
+3. Choose Currency <br/>
+4. Currency Exchange Rate<br/>
+5. Adding comments is optional<br/>
 6. Click on Prepare Product List for the next step. You will be navigated to this view:
 
 ![](PM1images/image003.png)
 
 
-➢Step 2: **Prepare product list**
-- In this step, there are 6 ways for you to prepare product list:
-Import products via a CSV file
-- Scan Barcode
-- Prepare product list based on supply need forecast
-- Prepare back sales products (Back sales products are ordered by - customers but not available in stock now)
-- Prepare low stock products
-- Prepare product list manually with **All Supplier Products** button
+➢Step 2: **Prepare product list**<br/>
+In this step, there are 6 ways for you to prepare product list:<br/>
+- Import products via a CSV file<br/>
+- Scan Barcode<br/>
+- Prepare product list based on supply need forecast<br/>
+- Prepare back sales products (Back sales products are ordered by - customers but not available in stock now)<br/>
+- Prepare low stock products<br/>
+- Prepare product list manually with **All Supplier Products** button<br/>
 
 Apart from importing products via a CSV file, you need to enter **Purchase Cost, Tax, Discount and Qty Ordering** for each product. Editing in line is allowed here. After entering all required fields, click on Save button and Order Totals is automatically calculated.
 
@@ -44,12 +45,12 @@ Apart from importing products via a CSV file, you need to enter **Purchase Cost,
 
 ![](PM1images/image007.png)
 
-1) Enter the address you want the stock to be shipped to
-2) Select a shipping method for the quotation
-3) Estimate and enter the shipping cost
-4) Set start shipping date
-5) Set expected delivery date
-6) Select the payment term
+1) Enter the address you want the stock to be shipped to<br/>
+2) Select a shipping method for the quotation<br/>
+3) Estimate and enter the shipping cost<br/>
+4) Set start shipping date<br/>
+5) Set expected delivery date<br/>
+6) Select the payment term<br/>
 7) Choose the way to place order: N/A, Email, Phone, Fax, supplier website
 
 After filling all the information, click **Save** to save all changes. You can still update products information by editing in a specific product line. Then, choose **Save** to create a request for quotation.
@@ -93,7 +94,7 @@ To confirm purchase order, purchase manager clicks on **Confirm Purchase Order**
 
 After being confirmed, the purchase order will be marked as “**processing**” and supplier will deliver products to store.
 #### Purchase Staff Complete Purchase Order
-To complete Purchase Order, purchase staff access these tabs as shown in the list here:
+To complete Purchase Order, purchase staff access these tabs as shown in the list here:<br/>
 - **Summary** tab
 ![](PM1images/image023.png)
 
@@ -104,7 +105,7 @@ This tab displays all the information of the PO that you have entered in the pre
 ![](PM1images/image025.png)
 
 
-This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management module, you can also enter the product’s barcode and update its delivery status.
+This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management module, you can also enter the product’s barcode and update its delivery status.<br/>
 - **Returned Items** tab:
 
 This tab records all products in the PO which you have returned to the supplier. Please note that you can only return products which you have received.
@@ -133,7 +134,7 @@ A **Transfer Items** window will appear. Enter the date of transferring; choose 
 
 After finishing the first 4 tabs, checking information in the 2 last tabs before completing the Purchase Order<br/>
     - **Shipping and Payment**: views and edits shipping and payment information for the PO which you may have input in creating the PO.<br/>
-    - **General Information**: displays the General Information that you input when creating the PO.
+    - **General Information**: displays the General Information that you input when creating the PO.<br/>
 - **Complete Purchase Order**
 
 During the process of Confirm Purchase Order, you can complete the purchase order any time by clicking the **Complete PO** button at the right of the page. You can also **Print**, **Send Email**, **Cancel** or **Save** the PO during the process.
