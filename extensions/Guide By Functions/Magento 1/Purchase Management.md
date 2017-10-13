@@ -48,11 +48,9 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 ![](PMimages/image007.png)
 
 
-- **Product List**: This tab allows you to add and manage products of the supplier you are creating. You can assign products to your supplier by importing a CSV file.
-
-  - Please click on the **Import products >>> Choose File button**, select a CSV file, then click on the Import button.
-
-  - If you are not clear about the format of the CSV file, you can download our sample file. After products imported, the list of products will be updated with ID, Name, SKU, Supplier product SKU, Cost, Tax from the CSV file.
+- **Product List**: This tab allows you to add and manage products of the supplier you are creating. You can assign products to your supplier by importing a CSV file.<br/>
+   - Please click on the **Import products >>> Choose File button**, select a CSV file, then click on the Import button.<br/>
+    - If you are not clear about the format of the CSV file, you can download our sample file. After products imported, the list of products will be updated with ID, Name, SKU, Supplier product SKU, Cost, Tax from the CSV file.
 
 ![](PMimages/image009.png)
 
