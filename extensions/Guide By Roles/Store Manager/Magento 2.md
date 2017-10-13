@@ -197,26 +197,26 @@ In brief, we will list out all the responsibilities for this role to help reader
 	 -	Create Return Order 
 	
 ### POS Order ##
-Sale staffs do not often have the permission to manage working session.  They will be able to make orders for customers at the point of sale. 
+Sales staffs do not often have the permission to manage working session.  They will be able to make orders for customers at the point of sale. 
 The following will list out all the capabilities of sale staff at the point of sale: 
 
- - Manager can **search product** and search quantity on hands  Users
+ - They can **search product** and search quantity on hands  Users
    can enter terms or scan barcode to search products
     ![](./anh/image043.png?raw=true)
 
  
- - Manager can create Orders
+ - They can also create Orders
  ![](./IM/R14.png?raw=true)
  ![](./IM/R15.png?raw=true)
 
 Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store
 
- - 	If this buyer were a brand new customer, Cashier would create a new one. 
+ - 	If this buyer were a brand new customer, Sales Staff would create a new one. 
 Here is the detailed instruction: 
 	Tap the **human icon** > **“Create Customer"**
 	![](./IM/R16.png?raw=true)
 	![](./IM/R17.png?raw=true)
- - 	Otherwise, Cashier could search and create order based on customer history data. All the staffs need to do is typing the customer information (such as: phone number, email, address,…)
+ - 	Otherwise, Sales Staff could search and create order based on customer history data. All the staffs need to do is typing the customer information (such as: phone number, email, address,…)
   
  - After adding products to carts, Sales staffs would push sales by
    applying Promotion and Loyalty Program – which are available
@@ -225,15 +225,15 @@ Here is the detailed instruction:
    Point.
 ![](./IM/R19%20.png?raw=true) 
 ![](./IM/R20%20.png?raw=true)
- - Manager can apply Gift Card
+ - Staffs can apply Gift Card
  ![](./IM/R22.png?raw=true)
  
- - Manager can choose Payment & Shipping Method
+ - They can choose Payment & Shipping Method
  ![](./IM/R21.png?raw=true)
 
 ### Return Order ##
 
- - 	Manager can search old orders and check the Return Policy 
+ - They can search old orders and check the Return Policy 
 
 ![](./IM/R25.png?raw=true)
 
