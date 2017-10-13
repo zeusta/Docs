@@ -154,7 +154,7 @@ You can set up Shipping and Payment method for the quotation:
 - Select the payment term
 - Choose the method to send order: N/A, Email, Phone, Fax, Vendor website
 
-After filling out the form, do not forget to save all the changes. Now you can Send Request to the suppliers, **Save** or **Prin**t the quotation. If you want to Convert Quotation to P.O, read more in the **_Section 4.3. Generate Purchase Order from Quotation_**.
+After filling out the form, do not forget to save all the changes. Now you can Send Request to the suppliers, **Save** or **Prin**t the quotation. If you want to Convert Quotation to P.O, read more in the **_ Generate Purchase Order from Quotation_** section.
 
 ### Manage Quotations
 
