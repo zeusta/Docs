@@ -44,10 +44,6 @@ Thanks and Best regards,
 
 ![enter image description here](./image_Inventory%20M1/image009.png?raw=true)
 
-### Drop Shipping
-
-![enter image description here](./image_Inventory%20M1/image011.png?raw=true)
-
 
 ----------
 
