@@ -104,7 +104,7 @@ Store Cashier will take the following tasks:
 	 - X Report
 	 - Z Report
 
-![](./top%204.png?raw=true)
+![](./Anh%20M1/top%204.png?raw=true)
 
 
 ----------
@@ -145,17 +145,17 @@ Like the flow we explain above, this section is also instructed according to the
 
  - Then, Cashier could add them to carts.
  
- 	![](./anh%201%20M1%20.png?raw=true)  
+ 	![](./Anh%20M1/anh%201%20M1%20.png?raw=true)  
  	
-	![](./anh%202%20m1%20.png?raw=true) 
+	![](./Anh%20M1/anh%202%20M1%20.png?raw=true) 
 	
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
 - If this buyer were a brand new customer, Cashier would create a new one.  Here is the detailed instruction:
    
-![](./anh%203%20m1%20.png?raw=true)  
+![](./Anh%20M1/anh%203%20M1%20.png?raw=true)  
 	
-![](./anh%204%20m1%20.png?raw=true) 
+![](./Anh%20M1/anh%204%20M1%20.png?raw=true) 
 
 Tap the human icon > “Create Customer”
   
@@ -163,9 +163,9 @@ Tap the human icon > “Create Customer”
 
  - After adding products to carts, Cashiers would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit.
    
-    ![](./anh%205%20m1%20.png?raw=true) 
-    ![](./anh%206%20m1%20.png?raw=true)  
-    ![](./anh%207%20m1%20.png?raw=true) 
+    ![](./Anh%20M1/anh%205%20M1%20.png?raw=true) 
+    ![](./Anh%20M1/anh%206%20M1%20.png?raw=true)  
+    ![](./Anh%20M1/anh%207%20M1%20.png?raw=true) 
 
  - Next step, Cashier must select shipping method:
 	 -	Customers would receive goods at store if they buy in-store. 
@@ -174,8 +174,8 @@ Tap the human icon > “Create Customer”
  - Then, Cashiers have to choose payment method
 	 - In this step, if customers require invoice, Cashiers will take the output of Customer Invoice. 
 	 
-	 ![](./anh%208%20m1%20.png?raw=true) 
-	![](./anh%209%20m1%20.png?raw=true) 
+	 ![](./Anh%20M1/anh%208%20M1%20.png?raw=true) 
+	![](./Anh%20M1/anh%209%20M1%20.png?raw=true) 
 	
 
 	
@@ -218,12 +218,12 @@ If this Return Order is valid, all those steps below need accomplishing:
  
 	- To issue refund, go to Orders tab in POS screen, choose Orders History, select the order that is required to refund.  Tap on Refund button at the end of the popup.
 
-	![](./anh%2010%20m1%20.png?raw=true) 
+	![](./Anh%20M1/anh%2010%20M1%20.png?raw=true) 
 
 
 	- A popup will display so that you can fill in the information before making refund.  Tick “Return to stock” if you want to return those items back to your stock.
 
-	![](./anh%2011%20m1%20.png?raw=true)
+	![](./Anh%20M1/anh%2011%20M1%20.png?raw=true)
 
 	[1]  Name of the refund product
 	[2]  Adjust Refund:
