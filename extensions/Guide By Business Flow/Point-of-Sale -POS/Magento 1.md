@@ -226,8 +226,11 @@ If this Return Order is valid, all those steps below need accomplishing:
 	![](./Anh%20M1/anh%2011%20m1%20.png?raw=true)
 
 	[1]  Name of the refund product
+	
 	[2]  Adjust Refund:
+	
 	[3] Adjust Fee:
+	
 	[4] Refund by Credits.
 
 	- Instead of refund by cash, you can refund for customer a certain amount of credits to keep them around your store and purchase next time. 
