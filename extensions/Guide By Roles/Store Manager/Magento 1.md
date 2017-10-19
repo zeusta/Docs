@@ -118,8 +118,8 @@ Users can enter terms or scan barcode to search products
  - Manager can create Orders
  
  ![](./M1/anh%201%20M1%20.png?raw=true) 
- ![](./M1/anh%202%20M1%20.png?raw=true)  
- 
+ ![](./M1/anh%202%20m1%20.png?raw=true)  
+
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
  - If this buyer were a brand new customer, Cashier would create a new one. 
