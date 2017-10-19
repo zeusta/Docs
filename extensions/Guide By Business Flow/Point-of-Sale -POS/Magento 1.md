@@ -104,7 +104,7 @@ Store Cashier will take the following tasks:
 	 - X Report
 	 - Z Report
 
-![](./POS%20M1/top%204.png?raw=true)
+![](./top%204.png?raw=true)
 
 
 ----------
