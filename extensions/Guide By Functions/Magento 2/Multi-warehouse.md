@@ -2,7 +2,7 @@
 
 
 *Confidential Information Notice*
-*Copyright2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 ------
@@ -145,7 +145,7 @@ If admin want to send stock from his warehouse to another warehouse, he can use 
 
 Now you can download Shortfall list – the list containing the products that the Destination warehouse does not receive from Source warehouse.
 
-#####**Request Stock:** 
+##### **Request Stock:** 
 
 Path: **Inventory Management > Transfer Stock > Request Stock**
 
