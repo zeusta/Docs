@@ -155,10 +155,11 @@ Tap the **human icon** > “**Create Customer**”
  ![](./M1/anh%2010%20m1%20.png?raw=true) 
  ![](./M1/anh%2011%20m1%20.png?raw=true) 
  
-###Z- Report ##
+#### Z- Report ##
 Store Manager can also be able to view and manage the Z-report in the system: 
 
 [1] You can export all the data of shift ID, Staff, POS location and session information to a .CSV file and use it for further business analysis. 
+
 [2] The data of working session will be recorded and automatically sent to this Z-report in the backend system of WebPOS. 
 
 ![](./M1/image041.png?raw=true)  
