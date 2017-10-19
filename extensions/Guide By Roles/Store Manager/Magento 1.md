@@ -88,7 +88,7 @@ In the “POS Report”:
  - X Report 
  - Z Report 
 
-![](./top%204.png?raw=true)  
+![](./M1/top%204.png?raw=true)  
 
 ## FOR ECOMMERCE MANAGER ##
 This section is the separated guide for Store Manager only. 
