@@ -117,8 +117,8 @@ Users can enter terms or scan barcode to search products
 
  - Manager can create Orders
  
- ![](./anh%201%20M1%20.png?raw=true) 
- ![](./anh%202%20m1%20.png?raw=true)  
+ ![](./M1/anh%201%20M1%20.png?raw=true) 
+ ![](./M1/anh%202%20M1%20.png?raw=true)  
  
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
@@ -126,34 +126,34 @@ Users can enter terms or scan barcode to search products
 Here is the detailed instruction: 
 Tap the **human icon** > “**Create Customer**”
 
-![](./anh%203%20m1%20.png?raw=true)
-![](./anh%204%20m1%20.png?raw=true) 
+![](./M1/anh%203%20M1%20.png?raw=true)
+![](./M1/anh%204%20M1%20.png?raw=true) 
 
  - Otherwise, Cashier could search and create order based on customer history data. All the staffs need to do is typing the customer information (such as: phone number, email, address,…)
 
  - After adding products to carts, Sales staffs would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit. 
  
-![](./anh%206%20m1%20.png?raw=true)   
-![](./anh%207%20m1%20.png?raw=true) 
+![](./M1/anh%206%20M1%20.png?raw=true)   
+![](./M1/anh%207%20M1%20.png?raw=true) 
 
  - Manager can apply Gift Card 
  
 
  - Manager can choose Payment & Shipping Method 
  
- ![](./anh%208%20m1%20.png?raw=true)  
+ ![](./M1/anh%208%20M1%20.png?raw=true)  
 
  - Manager can aslo checkout 
  
- ![](./anh%202%20m1%20.png?raw=true) 
+ ![](./M1/anh%202%20M1%20.png?raw=true) 
 
 
 ### POS Return Order ##
 
  - Manager can search old orders and check the Return Policy 
  
- ![](./anh%2010%20m1%20.png?raw=true) 
- ![](./anh%2011%20m1%20.png?raw=true) 
+ ![](./M1/anh%2010%20M1%20.png?raw=true) 
+ ![](./M1/anh%2011%20M1%20.png?raw=true) 
  
 ###Z- Report ##
 Store Manager can also be able to view and manage the Z-report in the system: 
@@ -161,7 +161,7 @@ Store Manager can also be able to view and manage the Z-report in the system:
 [1] You can export all the data of shift ID, Staff, POS location and session information to a .CSV file and use it for further business analysis. 
 [2] The data of working session will be recorded and automatically sent to this Z-report in the backend system of WebPOS. 
 
-![](./image041.png?raw=true)  
+![](./M1/image041.png?raw=true)  
 
 ## FOR SALES STAFF ##
 Those sections below will show readers detailed instruction for Sales Staff(s). 
@@ -190,8 +190,8 @@ The following will list out all the capabilities of sale staff at the point of s
  
  - They can create Orders
  
- ![](./anh%201%20M1%20.png?raw=true)
- ![](./anh%202%20m1%20.png?raw=true) 
+ ![](./M1/anh%201%20M1%20.png?raw=true)
+ ![](./M1/anh%202%20M1%20.png?raw=true 
 
 Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store
 
@@ -199,8 +199,8 @@ Anyway, one thing to remind retailers is that having a customer card system is e
 Here is the detailed instruction: 
 	Tap the **human icon** > **“Create Customer"**
 	
-	![](./anh%203%20m1%20.png?raw=true) 
-	![](./anh%204%20m1%20.png?raw=true)  
+	![](./M1/anh%203%20M1%20.png?raw=true) 
+	![](./M1/anh%204%20M1%20.png?raw=true)  
 	
  - Otherwise, Cashier could search and create order based on customer history data. All the staffs need to do is typing the customer information (such as: phone number, email, address,…)
   
@@ -210,20 +210,20 @@ Here is the detailed instruction:
    POS System. For instance, they are Coupon Code, Gift Card, and Reward
    Point.
    
-![](././anh%206%20m1%20.png?raw=true)   
-![](././anh%207%20m1%20.png?raw=true) 
+![](./M1/anh%206%20M1%20.png?raw=true)   
+![](./M1/anh%207%20M1%20.png?raw=true) 
 
  - They can apply Gift Card
  
  - They can also choose Payment & Shipping Method
  
- ![](./anh%208%20m1%20.png?raw=true) 
+ ![](./M1/anh%208%20M1%20.png?raw=true) 
 
 ### Return Order ##
 
  - Sales Staffs can search old orders and check the Return Policy 
  
-![](./anh%2010%20m1%20.png?raw=true)
+![](./M1/anh%2010%20M1%20.png?raw=true)
 
 ## Cashier POS ##
 It is the only role who has authority as much as Store Manager.
@@ -250,7 +250,7 @@ For instance:
 
  - They can search products 
  
- ![](./anh%201%20M1%20.png?raw=true) 
+ ![](./M1/anh%201%20M1%20.png?raw=true) 
   
  - They also could apply promotion and loyalty program for customers (such as Reward Point, Gift Card, Coupon Code) 
  
