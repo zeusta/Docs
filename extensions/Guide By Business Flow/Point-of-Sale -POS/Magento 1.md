@@ -31,11 +31,11 @@ Magestore Team
 
 
 ### POS Order ##
-![](./top%202%20.png?raw=true)
+![](./Anh%20M1/top%202%20.png?raw=true)
 
 
 ### POS Return Order ##
-![](./top%203%20.png?raw=true)
+![](./Anh%20M1/top%203%20.png?raw=true)
 
 
 ----------
@@ -104,7 +104,7 @@ Store Cashier will take the following tasks:
 	 - X Report
 	 - Z Report
 
-![](./top%204.png?raw=true)
+![](./Anh%20M1/top%204%20.png?raw=true)
 
 
 ----------
