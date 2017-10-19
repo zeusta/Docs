@@ -34,7 +34,7 @@ Thanks and Best regards,
 
 ### Transfer Stock - Request Stock
 
-![enter image description here](../image_Inventory%20M1/image005.png?raw=true)
+![enter image description here](./image_Inventory%20M1/image005.png?raw=true)
 
 ### Good Receipt
 
