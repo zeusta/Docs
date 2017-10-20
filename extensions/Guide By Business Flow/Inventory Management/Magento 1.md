@@ -50,7 +50,7 @@ Thanks and Best regards,
 
 ## PERMISSION MATRIX
 
-![enter image description here](./image_Inventory%20M1/image013.png?raw=true) 
+![enter image description here](./image_Inventory%20M1/image013..png?raw=true) 
 
 
 ----------
