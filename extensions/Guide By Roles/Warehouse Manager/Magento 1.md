@@ -30,11 +30,11 @@ Hope that you will have a great time using our module and free your mind from me
 ## PERMISSION MATRIX
 ### For Warehouse Manager
 
-![enter image description here](./image_%20Inventory%20M1/image002.png?raw=true) 
+![enter image description here](./image_%20Inventory%20M1/image002%201.38.48%20PM.png?raw=true) 
 
 ### For Warehouse Staff
 
-![enter image description here](./image_%20Inventory%20M1/image004.png?raw=true) 
+![enter image description here](./image_%20Inventory%20M1/image004%201.38.48%20PM.png?raw=true) 
 
 
 -------------
