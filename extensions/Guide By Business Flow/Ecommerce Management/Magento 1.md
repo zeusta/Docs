@@ -459,9 +459,9 @@ You should pay attention to these following fields:
 
 5.	**Customer Group**: Select types of customers you want to apply the rule. 
 
-6,7. **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
-
-8.**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+ 6,7. **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
+ 
+ 8.**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
 
 
 **Conditions tab**: 
@@ -733,11 +733,11 @@ In order to add a new spending rate, you can click on the **Add Rate** button an
 
 4.	**Limit Spending points based on fixed amount** or **a percentage amount** of Total Order Value or none of which are applied. 
 
-5.	Websites: Select the website you want to apply the rule.
+5.	**Websites**: Select the website you want to apply the rule.
 
-6.	Customer Group: Select types of customers you want to apply the rule. 
+6.	**Customer Group**: Select types of customers you want to apply the rule. 
 
-7.	Priority: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+7.	**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
 
 After you finish filling out all the required information, remember to click on the **Save** or the **Save and Continue Edit** button to save your work. If you click on the Save button, you’ll be navigated to the **Spending Rates** manager page and your rate will be shown as below:
 
@@ -945,6 +945,7 @@ In the **Action** tab, you can configure how prices of products are discounted a
 
 There are two discount types:
 ✓  Fixed amount discount for whole cart
+
 ✓  Percentage amount discount for whole cart
 
 2.	Enter the discount amount you want to give customers when they spend points to place orders. 
@@ -1032,7 +1033,7 @@ To add a new transaction, you can click on the **Add Transaction** button, fill 
 **Path: Reward Points > Manage Point Balances**
 
 
-![](./Image_EcommerceManagementM1/image906png)
+![](./Image_EcommerceManagementM1/image096.png)
 
 Then, the Reward Point Balance Manager page will be shown. Here you can see the information of customers and their current point balance. To view in details, click on **View** link in **Action** column. 
 
@@ -1083,7 +1084,7 @@ Besides, you can also export csv file from the list of customers in **Reward Poi
 
 **Path:  Sales > Orders**
 
-![](./Image_EcommerceManagementM1/image10.5png)
+![](./Image_EcommerceManagementM1/image105.png)
 
 Then the System will display all Customers’ orders. 
 To create orders:
@@ -1137,24 +1138,24 @@ Then, the Loyalty Level Information wiill be displayed and you can create a new 
 
 4.	**Description**: Describe the new customer group
 
-5.	
-6.	**Status**: Select **Enabled** or **Disabled** to display the status of the new group
 
-7.	**Auto-join group**: To allow auto-join group, select Enabled
+5.	**Status**: Select **Enabled** or **Disabled** to display the status of the new group
 
-8.	**Condition Type**Select Total Sales to apply the condition of joining group according to total sales. 
+6.	**Auto-join group**: To allow auto-join group, select Enabled
 
-9.	Select Accumulated to apply condition type according to the accumulated value of transactions. 
+7.	**Condition Type**Select Total Sales to apply the condition of joining group according to total sales. 
 
-10.	**Condition Value**: Enter the minimum number of earning points required to join group. 
+8.	Select Accumulated to apply condition type according to the accumulated value of transactions. 
 
-11.	**Exchange points**:  Enter the number of points substracted in exchange to join group
+9.	**Condition Value**: Enter the minimum number of earning points required to join group. 
 
-12.	**Duration**: Enter the number of days you want to apply the level 
+10.	**Exchange points**:  Enter the number of points substracted in exchange to join group
 
-13.	**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+11.	**Duration**: Enter the number of days you want to apply the level 
 
-14.	Click on **Save and Continue Edit** before you configure other conditions for the new level.
+12.	**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+
+13.	Click on **Save and Continue Edit** before you configure other conditions for the new level.
 
 
 **Benefits Tab**: 
@@ -1215,7 +1216,7 @@ Catalog Earning Rule enables your Customers to earn points based on specific pro
 
 After adding products to the shopping cart, Customers can also see the point amount they will receive as below:
 
-I1![](./Image_EcommerceManagementM1/image123.png)
+![](./Image_EcommerceManagementM1/image123.png)
 
 •	**Earning points based on Shopping Cart Rule**
 
@@ -1492,7 +1493,7 @@ After submitting the order, the Customer’s credit balance will be also auto up
 
 ![](./Image_EcommerceManagementM1/image163.png)
 
-#####. Refund Orders into Credit Balance
+#####  Refund Orders into Credit Balance
 
 When Customers want to refund an order, our module allows you to transfer the order value to his credit balance. In that way, Customers can use the credit for future purchases and you do not have to lose money for the refund at the same time.
 
