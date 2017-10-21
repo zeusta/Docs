@@ -398,7 +398,7 @@ In order to add a new earning rate, you can click on the **Add Rate** button and
 
 1.	**Amount of money spent**: Enter a specific amount of money
 
-2.	**Earning point(s) **: Enter the number of points that you want customers to earn when they place orders. It is compatible with the above money spent.
+2.	**Earning point(s)**: Enter the number of points that you want customers to earn when they place orders. It is compatible with the above money spent.
 
 3.	**Status**: Select Active to enable the earning rate in fronend
 
@@ -461,7 +461,7 @@ You should pay attention to these following fields:
 
 6,7. **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
 
-7.	**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+8.**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
 
 
 **Conditions tab**: 
@@ -528,15 +528,17 @@ For example, if you want to give Customers 5 points for every $200.00 of price t
 For example, if you want to give Customers 5 points for every $200.00 of profit they make and limit the number of points that can be earned to 15, then:
 
 
-1.Choose **Action**: Give X points for every Y amount of Profit 
+1.	Choose **Action**: Give X points for every Y amount of Profit 
 
-2. Fill in field **Points** (X): eg:5 
+2.	Fill in field **Points** (X): eg:5 
+
 
 3.	Fill in field **Money Step** (Y): eg: 200 
 
 4.	Fill in field **Max points earned by this rule**: eg: 15
 
-5. Select  **Yes** for the field **Stop Further Rules Processing** to stop applying  all other Shopping Cart Earning rules or **No** to apply the rule with the highest priority level.
+
+5.	Select  **Yes** for the field **Stop Further Rules Processing** to stop applying  all other Shopping Cart Earning rules or **No** to apply the rule with the highest priority level.
 .
 ➪  If Customers purchase a product which contributes $800.00 in profit, they will earn 15 points.
 
@@ -641,7 +643,7 @@ For example, if you want to give Customers 5 points for every $200.00 spent and 
 
 5.	Select  **Yes** for the field **Stop Further Rules Processing** to stop applying all other Shopping Cart Earning rules orNo to apply the rule with the highest priority level.
 
-Choose the conditions of card items to apply the rule 
+6.	Choose the conditions of card items to apply the rule 
 
 ➪ If Customers purchase an order of $800.00, they will earn 15 points.
 
@@ -654,7 +656,7 @@ Choose the conditions of card items to apply the rule
 
 For example, if you want to give Customers 5 points for every 10 items they order and limit the number of points that can be earned to 15, then:
 
-1.Choose **Action**: Give X points for every Y qty purchased 
+1.	Choose **Action**: Give X points for every Y qty purchased 
 
 2.	Fill in field **Points** (X): eg.  5 
 
@@ -721,7 +723,7 @@ Then the **Spending Rates** page will be shown, allowing you to do many tasks:
 
 In order to add a new spending rate, you can click on the **Add Rate** button and then fill out all the required.
 
-![](./Image_EcommerceManagementM1/image70.png)
+![](./Image_EcommerceManagementM1/image070.png)
 
 1.	**Spending Points**: Enter a specific number of spending points
 
@@ -750,9 +752,9 @@ Then you will be redirected to the **Edit Spending Rate** page:
 ![](./Image_EcommerceManagementM1/image072.png)
 
 
-After finish editing, remember to click on the Save or the Save and Continue Edit button to save your work.
+After finish editing, remember to click on the **Save** or the **Save and Continue Edit** button to save your work.
 
-To delete a rate, you can go to the Edit Rate page and then click on the Delete button on top of that page.
+To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of that page.
 
 ######  Manage Catalog Spending rules
 
@@ -762,7 +764,7 @@ To delete a rate, you can go to the Edit Rate page and then click on the Delete 
 
 Or follow the path: 
 
-![](./Image_EcommerceManagementM1/image74.png)
+![](./Image_EcommerceManagementM1/image074.png)
 
 Then you will be redirected to the **Catalog Spending Rule** Manager page.
 
@@ -772,7 +774,7 @@ First you should click on the Add Rule button. And then you should configure inf
 
 **General Information Tab**:
 
-![](./Image_EcommerceManagementM1/image75.png)
+![](./Image_EcommerceManagementM1/image075.png)
 
 You should pay attention to these following fields:
 
@@ -786,16 +788,17 @@ You should pay attention to these following fields:
 
 5.	**Customer Group**: Select types of customers you want to apply the rule. 
 
- 6,7. **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
+6,7. **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
 
-    8. **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first
+8. **Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first
 
 **Conditions tab**:
 
 This tab allows you to configure the conditions of products to which the rule is applicable.
 
 For example, you want to apply this rule only for Category  named Tops & Blousers; you can configure the condition as in the below:
-![](./Image_EcommerceManagementM1/image76.png)
+
+![](./Image_EcommerceManagementM1/image076.png)
 
 1.	Select the conditions you want to apply category spending  rules. . If you do not set up this field, the rule will be applied for all categories
 
@@ -812,7 +815,7 @@ For example, if you want to configure that Customers need to spend at least 5 po
 
 ➪  With every 5 points customers spent, they can receive a corresponding discount. For example, 5 points can be spent to get $1, 10 points can get $2 and so on.
 
-![](./Image_EcommerceManagementM1/image77.png)
+![](./Image_EcommerceManagementM1/image077.png)
 
 **Option 2: Spend X points for every Y amount of Price**: 
 
@@ -832,7 +835,7 @@ For example, if you want to configure that Customers need to spend 5 points on e
 
 In the **Action** tab, you can configure how prices of products are discounted after Customers use points:
 
-![](./Image_EcommerceManagementM1/image78.png)
+![](./Image_EcommerceManagementM1/image078.png)
 
 There are four discount types:
 ✓ By Fixed Amount
@@ -846,18 +849,18 @@ There are four discount types:
 
 
 Let’s take an example, to give a discount of $10 or to $10 for every X points and apply the discount 5 times maximum per product, you can configure as below:
-•	Choose **Discount Type**: By a fixed amount or To a fixed amount 
+✓ Choose **Discount Type**: By a fixed amount or To a fixed amount 
 
-•	Fill in field **Discount Amount**: 10 
+✓ Fill in field **Discount Amount**: 10 
 
 
-•	Fill in field **Uses Allowed Per Product**: 5
+✓ Fill in field **Uses Allowed Per Product**: 5
 
 ➪ With the discount By a fixed amount of $10.00 and Uses Allowed Per Product equal to 5, a $200.00 product will have its price down to $90.00 for the first time of spending points, to$180.00 for the second time and so on until reaching $150.00 for the last time (5th time).
 
 After being saved, the rule which has just been created will be shown as below:
 
-![](./Image_EcommerceManagementM1/image79.png)
+![](./Image_EcommerceManagementM1/image079.png)
 
 •	Edit/ Delete an existing rule
 
@@ -871,11 +874,11 @@ To delete a catalog rule, you can go to the **Edit Rule** page and click on the 
 
 **Path:  Backend > Reward Points > Spending > Shopping Cart Spending Rules**
 
-![](./Image_EcommerceManagementM1/image80.png)
+![](./Image_EcommerceManagementM1/image080.png)
 
 Or follow the path below: 
 
-![](./Image_EcommerceManagementM1/image81.png)
+![](./Image_EcommerceManagementM1/image081.png)
 
 Then you will be redirected to the **Shopping Cart Spending Rule** Manager page.
 
@@ -885,7 +888,7 @@ First you should click on the **Add Rule** button. And then you should configure
 
 **General Information Tab**:
 
-![](./Image_EcommerceManagementM1/image82.png)
+![](./Image_EcommerceManagementM1/image082.png)
 
 Fill in all the required information as above: **Money spent for order, Earning Points, Status, Websites, Vailidity Time, Customer groups, Priority**.
 
@@ -895,7 +898,7 @@ This tab allows you to configure the conditions of shopping carts to which the r
 
 For example, you want to apply this rule only for shopping carts of subtotals equal to or greater than $200, you can configure the condition as in the image below:
 
-![](./Image_EcommerceManagementM1/image83.png)
+![](./Image_EcommerceManagementM1/image083.png)
 
 1.	Select the shopping cart you want to apply the rule. If you do not set up this field, the rule will be applied for all carts.
 
@@ -909,26 +912,26 @@ Customer can ONLY spend X points on whatever order they place.
 
 For example, If you want to allow Customers to spend 5 points only on a shopping cart to get the discount, then you can configure as below:
 
-•	Choose **Action**: Give discount for fixed X points 
+✓ Choose **Action**: Give discount for fixed X points 
 
-•	Fill in field **Points** (X): 5
+✓ Fill in field **Points** (X): 5
 
 
 ➪ If Customers place an order of $500.00 or $800.00, they can spend only 5 points in both cases.
 
-![](./Image_EcommerceManagementM1/image84.png)
+![](./Image_EcommerceManagementM1/image084.png)
 
 **Option 2: Give discount for every X points**:
  Customers can receive discounts proportionally to the number of points they spent.
 
 If you want to give discount for every 5 points Customers spend on the order and limit the number of points that can be used to 15, then:
 
-•	Choose **Action**: Give discount for every X points 
+✓ Choose **Action**: Give discount for every X points 
 
-•	Fill in field **Points** (X): 5 
+✓ Fill in field **Points** (X): 5 
 
 
-•	Fill in field  **Max points spent by this rule**: 15 
+✓ Fill in field  **Max points spent by this rule**: 15 
 
 ➪ With every 5 points customers spent, they can receive a corresponding discount. For example, 5 points can be spent to get $1, 10 points can get $2.00 and so on. But they cannot use more than 15 points as that is the max points that can be spent by this rule.
 
@@ -936,7 +939,7 @@ If you want to give discount for every 5 points Customers spend on the order and
 
 In the **Action** tab, you can configure how prices of products are discounted after Customers use points: 
 
-![](./Image_EcommerceManagementM1/image85.png)
+![](./Image_EcommerceManagementM1/image085.png)
 
 1.	Select a condition you want to apply. 
 
@@ -953,9 +956,9 @@ There are two discount types:
 
 Let’s take an example, if you want to give a discount of $10 or 10% for X points (configured in the Conditions tab), then you can configure as below:
 
-•	Choose **Action**: Fixed discount amount for the whole cart or Percent discount amount for the whole cart 
+✓ Choose **Action**: Fixed discount amount for the whole cart or Percent discount amount for the whole cart 
 
-•	Fill in field **Discount Amount**: 10 
+✓ Fill in field **Discount Amount**: 10 
 
 
 ➪ An order of $200.00 can be discounted to $190.00 with action Fixed discount amount for the whole cart or to $180.00 with action Percent discount amount for the whole cart. 
@@ -964,7 +967,7 @@ Besides, you can configure the condition of products on shopping cart to apply t
 
 After being saved, the rule which has just been created will be shown as below:
 
-![](./Image_EcommerceManagementM1/image86.png)
+![](./Image_EcommerceManagementM1/image086.png)
 
 •	**Edit/ Delete an existing rule**
 
@@ -978,15 +981,15 @@ To delete a shopping cart rule, you can go to the **Edit Rule** page and click o
 
 **Path:  Backend > Reward Points > Spending > Manage spending points by product**:
 
-![](./Image_EcommerceManagementM1/image87.png)
+![](./Image_EcommerceManagementM1/image087.png)
 
 Or follow the path: 
 
-![](./Image_EcommerceManagementM1/image88.png)
+![](./Image_EcommerceManagementM1/image088.png)
 
 Then you will be redirected to the **Manage Spending Points By Product** page:
 
-![](./Image_EcommerceManagementM1/image89.png)
+![](./Image_EcommerceManagementM1/image089.png)
 
 On this page, you can change the number of spending points to purchase each product by 2 ways:
 
@@ -995,21 +998,21 @@ On this page, you can change the number of spending points to purchase each prod
 ✓ Double click on **Spending Points** column of the product you want to edit. Insert the number of points as you want, then click on **Ok**.
 
 
-![](./Image_EcommerceManagementM1/image90.png)
+![](./Image_EcommerceManagementM1/image090.png)
 
 You can also set products to buy with points by going to **Catalog > Manage Products**. On the Product Manager page, click on your wanted product. Here, in **General** tab, you will find the field to fill in the number of points that can be used to purchase it. 
 
-![](./Image_EcommerceManagementM1/image91.png)
+![](./Image_EcommerceManagementM1/image091.png)
 
 ##### Manage transaction 
 
 **Path:  Backend > Reward Points > Transactions**
 
-![](./Image_EcommerceManagementM1/image92.png)
+![](./Image_EcommerceManagementM1/image092.png)
 
 Then all the transactions related to reward points will be shown as below:
 
-![](./Image_EcommerceManagementM1/image93.png)
+![](./Image_EcommerceManagementM1/image093.png)
 
 On this **Transaction Manager** page, you can view a list of all point transactions together with many general information including **Customer, Transaction Type, Points Used**, etc.
 
@@ -1019,10 +1022,10 @@ You can **Complete, Cancel** or make transactions expire by choosing the status 
 
 To view details of each transaction, you can click on the corresponding row: 
 
-![](./Image_EcommerceManagementM1/image94.png)
+![](./Image_EcommerceManagementM1/image094.png)
 
 To add a new transaction, you can click on the **Add Transaction** button, fill out all the required data and then click on the **Save Transaction** button.
-![](./Image_EcommerceManagementM1/image95.png)
+![](./Image_EcommerceManagementM1/image095.png)
 
 ##### Mange point balances of customers
 
@@ -1033,15 +1036,16 @@ To add a new transaction, you can click on the **Add Transaction** button, fill 
 
 Then, the Reward Point Balance Manager page will be shown. Here you can see the information of customers and their current point balance. To view in details, click on **View** link in **Action** column. 
 
-![](./Image_EcommerceManagementM1/image97.png)
+![](./Image_EcommerceManagementM1/image097.png)
 
 Moreover, you can also import/export customers’ points to your system via csv files. 
 
-![](./Image_EcommerceManagementM1/image98.png)
+![](./Image_EcommerceManagementM1/image098.png)
 
-Another way to manage point balances is to go to Customers > Manage Customers
+Another way to manage point balances is to go to **Customers > Manage Customers**
 
-![](./Image_EcommerceManagementM1/image99.png)
+
+![](./Image_EcommerceManagementM1/image099.png)
 
 On the **Customer Manager** page, you can choose the Customer you want to change balance by clicking on the **Edit** link in the **Action** column.
 
@@ -1911,15 +1915,17 @@ If you want to create new Gift Card templates, select **Add Gift Card Template**
 
 4.	**Title**:  Set the title of Gift Cards using this template instead of the default title Gift Card.
 
-3.	**Style color**: Choose color of texts in Gift Card title, Value and Gift Cide fields. 
 
-4.	**Text color**: Choose color of other texts (fields’ name, message, notes, etc.).
+5.	**Style color**: Choose color of texts in Gift Card title, Value and Gift Cide fields. 
 
-5.	**Background image**: Upload an image to use as a background of Gift Card. 
+6.	**Text color**: Choose color of other texts (fields’ name, message, notes, etc.).
+
+
+7.	**Background image**: Upload an image to use as a background of Gift Card. 
 
 Notice that customers will not be able to change the background image. 
 
-6.	**Notes**:  Converting to cash is not allowed. You can use the Gift card code or redeem it to credit balance to pay for your order, Add notes, such as usage conditions, for Gift Card.
+8.	**Notes**:  Converting to cash is not allowed. You can use the Gift card code or redeem it to credit balance to pay for your order, Add notes, such as usage conditions, for Gift Card.
 
 You can click on **Preview** button at the top right corner to see how Gift Cards using this template will look like. All changes in title, template design, style color and text color will be shown in a popup. If you want to view the background image applied on a Gift Card, click **Save and Continue Edit** button and then preview as above.
 
@@ -1931,7 +1937,7 @@ In this tab, you can create a list of images for Customers to select when buying
 
 ***Note**: 
 
-1. You should use images with the following recommended sizes for better display:
+You should use images with the following recommended sizes for better display:
 
 ✓ Template style is Top: 600x190px.
 
@@ -1965,7 +1971,7 @@ Click on **Continue** button then enter information as a normal product. You sho
 
 Different from normal products, there is another required field, **Select Gift Card template**, allowing you to choose templates for Gift Card product. You can add more templates to this field in **Manage Gift Card Templates**.
 
-I![](./Image_EcommerceManagementM1/image219.png)
+![](./Image_EcommerceManagementM1/image219.png)
 
 
 Fill in the required fields
@@ -1982,19 +1988,19 @@ Fill in the required fields
 
 6,7. Set a period of time when a Gift Card is new
 
-8.	Select **Active** to enable the New Gift Card. 
+9.	Select **Active** to enable the New Gift Card. 
 
-9.	Enter an **URL Key**
+10.	Enter an **URL Key**
 
-10.	Select **Catalog** or **Search** or both to display Gift Card when customers search
+11.	Select **Catalog** or **Search** or both to display Gift Card when customers search
 
-11.	Select **Yes** to enable the Gift Card on Web POS
+12.	Select **Yes** to enable the Gift Card on Web POS
 
-12.	Select a **Gift Code Set** ( to set gift code, you can refer to Manage Gift Code Set to know more)
+13.	Select a **Gift Code Set** ( to set gift code, you can refer to Manage Gift Code Set to know more)
 
-13.	Select **Gift Card templates** that are available for the Gift Card products. A Gift Card product can include many templates. 
+14.	Select **Gift Card templates** that are available for the Gift Card products. A Gift Card product can include many templates. 
 
-Prices tab:
+**Prices tab**:
 
 In **Prices** tab, Admin can configure prices and values of a Gift Card Product. 
 
@@ -2021,7 +2027,7 @@ Notice that when you choose **Range of values or Dropdown values** in the Type o
 
 For example: 
 
-If you choose Range of values, you need tofill in all the required information below:  
+If you choose **Range of values**, you need tofill in all the required information below:  
 
 
 ![](./Image_EcommerceManagementM1/image221.png)
@@ -2037,7 +2043,7 @@ If you choose Range of values, you need tofill in all the required information b
 
 ✓ **Percentage**: 90
 
-If you choose Drop down values, you need to enter the following fields: 
+If you choose **Drop down values**, you need to enter the following fields: 
 
 ✓ **Type of Gift Card value**: Dropdown values
 
@@ -2062,7 +2068,7 @@ It  allows you to set up Gift Card usage conditions applied to each item in Cust
 
 ![](./Image_EcommerceManagementM1/image223.png)
 
-***Note:** Normally some common product attributes are enabled to use with promotion rules by default. If you don’t see the attribute you want when setting **Gift Card’s Conditions**, such as SKU, you can go to Catalog→ Attributes→ Manage Attributes. Search and choose Attribute Code, such as SKU. Then change Use for Promo Rule Conditions to Yes.
+***Note:** Normally some common product attributes are enabled to use with promotion rules by default. If you don’t see the attribute you want when setting **Gift Card’s Conditions**, such as SKU, you can go to **Catalog→ Attributes→ Manage Attributes**. Search and choose Attribute Code, such as SKU. Then change **Use for Promo Rule Conditions** to **Yes**.
 
 Remember to click on **Save** or **Save and Continue Edit** button to save your work. After saving, the Gift Card product which you have just created will be shown on **Gift Card Product Manager** page as below:
 
@@ -2072,7 +2078,7 @@ Remember to click on **Save** or **Save and Continue Edit** button to save your 
 -	Create Gift Card on **Manage Products** page:
 
 
-✓ Go to Catalog → Manage Products
+✓ Go to **Catalog → Manage Products**
 
 
 ✓ Click on **Add Product** button
@@ -2114,9 +2120,9 @@ To add a new template to generate gift codes, click on **Add Gift Code Pattern**
 
 ![](./Image_EcommerceManagementM1/image230.png)
 
-1.Pattern name: Enter a name of the template to generate gift codes 
+1.	Pattern name: Enter a name of the template to generate gift codes 
 
-2.Gift code pattern:  Configure the pattern to generate gift codes in mass including the following code: 
+2.	Gift code pattern:  Configure the pattern to generate gift codes in mass including the following code: 
 
 [A.8] : 8 alpha characters
 
@@ -2127,7 +2133,7 @@ To add a new template to generate gift codes, click on **Add Gift Code Pattern**
 If you enter GIFT-[A.4]-[AN.6] as the sample, the system will auto-create a bunch of gift codes matching this pattern, GIFT-ADFA-12NF0O for example.
 
 3.	Gift code value:  Enter a value for gift codes. 
-
+	
 4.	Currency: Choose a currency unit for gift code value 5.
 
 5.	Expired on: Set the expiration date for gift codes 
@@ -2137,7 +2143,8 @@ If you enter GIFT-[A.4]-[AN.6] as the sample, the system will auto-create a bunc
 
 7.	Gift code Qty: Enter the number of gift codes generated based on the pattern above. 
 
-8. Store View: Set places where customers can use the gift code 
+
+8.	 Store View: Set places where customers can use the gift code 
 
 **Conditions tab**: 
 
@@ -2365,12 +2372,11 @@ Customers can also see the expiration date of the Gift Card on Gift Card image.
 
 5.	**Day to send**: Customers can set up the date and time zone that a Gift Card will be sent.
 
-
 If Customers want to get the notification email when their friend receives Gift Card, they need to tick the **Get notification email when your friend receives Gift Card** checkbox.
+
 6.	Select a time zone 
 
 7.	Click on **Preview Gift Card** button or the Gift Card thumbnail image to see how the Gift Card actually looks like. 
-
 
  A popup of Gift Card interface will be shown as below:
 
@@ -2419,7 +2425,7 @@ Another way to view the details of Gift Card Credit balance , customers can clic
 
 This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
 
-**Add a Gift Card**: 
+-	**Add a Gift Card**: 
 
 ![](./Image_EcommerceManagementM1/image265.png)
 
@@ -2432,7 +2438,7 @@ Then the Gift Card Code will be added to the list and displayed as below:
 
 ![](./Image_EcommerceManagementM1/image266.png)
 
-**Redeem a Gift Card**:
+-	**Redeem a Gift Card**:
 
 ![](./Image_EcommerceManagementM1/image267.png)
 
