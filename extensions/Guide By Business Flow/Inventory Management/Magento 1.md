@@ -96,6 +96,7 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
  ![enter image description here](./image_Inventory%20M1/image019.png?raw=true)
 10. Enter the amount of items physically counted
+
 11. Click on “**Complete Data Entry**” 
 
  ![enter image description here](./image_Inventory%20M1/image021.png?raw=true)
