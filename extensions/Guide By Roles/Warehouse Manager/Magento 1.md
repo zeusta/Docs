@@ -62,9 +62,13 @@ The process is divided into these steps below:
  ![enter image description here](./image_%20Inventory%20M1/image007.png?raw=true)
 
 *On the pop-up screen:*
+
 Besides marking the checkbox to select products, there are 2 ways to prepare a product list:
+
 7.	Click on **Scan Barcode** to scan and choose products. 
+
 8.	Or Click on **Import Products** to import a products list from your device.
+
 9.	Click on **Start Stocktaking** to activate the process.
 
 
@@ -72,11 +76,14 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
  ![enter image description here](./image_%20Inventory%20M1/image009.png?raw=true)
 10. Enter the amount of items physically counted
+
 11. Click on “**Complete Data Entry**” 
 
  ![enter image description here](./image_%20Inventory%20M1/image011.png?raw=true)
 12. Click on **Re-entry Data** to re-select the product list (if any).
+
 13.	Click on **Complete Stocktaking** to fulfil the stocktaking process.
+
 14.	Click on **Export Counted Products** to transfer the data of physical counted products to an excel file (optional).
 
 
@@ -84,18 +91,23 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
 ![enter image description here](./image_%20Inventory%20M1/image013.png?raw=true)
 15.	Click on “**Adjust Stock**” to update the inventory records 
+
 16. Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
  ![enter image description here](./image_%20Inventory%20M1/image015.png?raw=true) 
 
 *On the pop-up screen:*
+
 17.	Enter the adjust quantity
+
 18.	Click on **Adjust** to update the inventory records
 
  ![enter image description here](./image_%20Inventory%20M1/image017.png?raw=true)
 
 *On the pop-up screen:*
+
 This final pop-up screen summarises the data of your recently inventory adjustment, including: old quantity, change quantity (discrepancies) and adjust quantity.
+
 19. Click on **Export Products** to transfer the data to an excel file on your device. 
 
 
@@ -287,19 +299,24 @@ When the refund order is accepted, follow this step to complete the refund proce
 
 ![](./image_%20Inventory%20M1/image071.png?raw=true)
 8. Mark the checkbox **Custom Price** to customize a price 
+
 9. Mark the checkbox to **Apply discount** (if any)
 ![](./image_%20Inventory%20M1/image073.png?raw=true)
 10. **Apply coupon code** and **Use gift card to checkout** 
+
 11.	**Customer Credit**
+
 12.	Or choose your **Reward Point(s)** to spend
  ![](./image_%20Inventory%20M1/image075.png?raw=true) 
 13.	Complete the **Billing Address** and **Shipping Address**
+
 14.	Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
 
  ![](./image_%20Inventory%20M1/image077.png?raw=true)
  15.	Select a **shipping method**
  ![](./image_%20Inventory%20M1/image079.png?raw=true)
 16.	Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
+
 17.	Click on **Submit Order**.
 
 The order has been created successfully.
@@ -519,9 +536,13 @@ The process is divided into these steps below:
  ![enter image description here](./image_%20Inventory%20M1/image121.png?raw=true)
 
 *On the pop-up screen:*
+
 Besides marking the checkbox to select products, there are 2 ways to prepare a product list:
+
 7.	Click on **Scan Barcode** to scan and choose products. 
+
 8.	Or Click on **Import Products** to import a products list from your device.
+
 9.	Click on **Start Stocktaking** to activate the process.
 
 
@@ -529,11 +550,14 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
  ![enter image description here](./image_%20Inventory%20M1/image123.png?raw=true)
 10. Enter the amount of items physically counted
+
 11. Click on “**Complete Data Entry**” 
 
  ![enter image description here](./image_%20Inventory%20M1/image125.png?raw=true)
 12. Click on **Re-entry Data** to re-select the product list (if any).
+
 13.	Click on **Complete Stocktaking** to fulfil the stocktaking process.
+
 14.	Click on **Export Counted Products** to transfer the data of physical counted products to an excel file (optional).
 
 
@@ -541,18 +565,23 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
 ![enter image description here](./image_%20Inventory%20M1/image127.png?raw=true)
 15.	Click on “**Adjust Stock**” to update the inventory records 
+
 16. Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
  ![enter image description here](./image_%20Inventory%20M1/image129.png?raw=true) 
 
 *On the pop-up screen:*
+
 17.	Enter the adjust quantity
+
 18.	Click on **Adjust** to update the inventory records
 
  ![enter image description here](./image_%20Inventory%20M1/image131.png?raw=true)
 
 *On the pop-up screen:*
+
 This final pop-up screen summarises the data of your recently inventory adjustment, including: old quantity, change quantity (discrepancies) and adjust quantity.
+
 19. Click on **Export Products** to transfer the data to an excel file on your device. 
 
 
@@ -744,19 +773,24 @@ When the refund order is accepted, follow this step to complete the refund proce
 
 ![](./image_%20Inventory%20M1/image185.png?raw=true)
 8. Mark the checkbox **Custom Price** to customize a price 
+
 9. Mark the checkbox to **Apply discount** (if any)
 ![](./image_%20Inventory%20M1/image187.png?raw=true)
 10. **Apply coupon code** and **Use gift card to checkout** 
+
 11.	**Customer Credit**
+
 12.	Or choose your **Reward Point(s)** to spend
  ![](./image_%20Inventory%20M1/image189.png?raw=true) 
 13.	Complete the **Billing Address** and **Shipping Address**
+
 14.	Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
 
  ![](./image_%20Inventory%20M1/image191.png?raw=true)
  15.	Select a **shipping method**
  ![](./image_%20Inventory%20M1/image193.png?raw=true)
 16.	Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
+
 17.	Click on **Submit Order**.
 
 The order has been created successfully.
