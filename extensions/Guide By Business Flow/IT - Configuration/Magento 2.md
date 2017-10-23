@@ -15,7 +15,8 @@
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business.    Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
-## HOW TO INSTALL![](./img102/it_img031.png?raw=true)
+## HOW TO INSTALL!
+[How to install](./img102/it_img031.png?raw=true)
 
 
 
@@ -24,11 +25,11 @@ This guide will help you – an IT Manager – to configure a successful strong 
 
 After purchasing an module, you will receive an email that includes the link to access **My License Certificates** on Magestore website.
 
-![](./img102/it_img001.png?raw=true)
+![generate license certificate](./img102/it_img001.png?raw=true)
 
 If you don’t receive the email, you can directly log in to your account dashboard at Magestore then go to **My Account/My License Certificates**.
 
-![](./img102/it_img002.png?raw=true)
+![generate license certificate](./img102/it_img002.png?raw=true)
 
 Here you will select your Order number and a corresponding Product then type the **back-end domain of your live site**. It is optional to add your Development Domains right away or later.
 
@@ -63,7 +64,7 @@ Go to **My Downloadable Products**. Click on the version of that you want to ins
 
 Here you also can find related documents, such as user guide.
 
-![](./img102/it_img003.png?raw=true)
+![Download Solution Package](./img102/it_img003.png?raw=true)
 
 
 
@@ -94,7 +95,7 @@ Unzip the module package downloaded. When you have completed, you will have a fo
 
 Now, please connect to your FTP by using FileZilla or other FTP Application to upload the files to your server:
 
-![](./img102/it_img004.png?raw=true)
+![Install the Package Downloaded](./img102/it_img004.png?raw=true)
 
 After uploading all the files to your server, please login to your SSH by using Putty or SSH command line. Them, please use **cd** command to change the directory to Magento 2 root folder:
 
@@ -106,19 +107,19 @@ Run the setup:upgrade command line:
 
 Wait a second to complete installation process:
 
-![](./img102/it_img005.png?raw=true)
+![Install the Package Downloaded](./img102/it_img005.png?raw=true)
 
 If your website is in the Production mode, you should re-run the Magento compile command. Please enter the command:
 
 ***php bin/magento setup:di:compile*** 
 
-![](./img102/it_img006.png?raw=true)
+![Install the Package Downloaded](./img102/it_img006.png?raw=true)
 
 After that, if your website is in the Default or the Production mode, please type the command line to deploy the static content:
 
 ***php bin/magento setup:static-content:deploy***
 
-![](./img102/it_img007.png?raw=true)
+![Install the Package Downloaded](./img102/it_img007.png?raw=true)
 
 Then, if your website enabled the cache, please enter this command:
 
@@ -144,7 +145,7 @@ Finally, coming back to Magento 2 admin to check if the module is installed prop
 
 Path: **Stores > Settings** section> **Configuration > MageStore Module > Inventory Management Configuration**
 
-![](./img102/it_img008.png?raw=true)
+![Stock Control Configuration](./img102/it_img008.png?raw=true)
 
 (1)	**Link stocks in Warehouse to Front Store View**: choose **Yes** to activate the visibility of Stocks in Warehouse on the Front Store View 
 
@@ -160,7 +161,7 @@ Path: **Stores > Settings** section> **Configuration > MageStore Module > Invent
 
 Path: **Stores > Settings** section **> Configuration > MageStore Module > Supplier Configuration**
 
-![](./img102/it_img009.png?raw=true)
+![Stock Control Configuration](./img102/it_img009.png?raw=true)
 
 (1)	Select **Yes** to allow using and importing supplier pricelist, and vice versa.
 
@@ -177,7 +178,7 @@ Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 ##### Stock Option
 
 
-![](./img102/it_img010.png?raw=true)
+![Stock Option](./img102/it_img010.png?raw=true)
 
 (1)	Select **Yes** in the dropdown list to adjust the quantity on hand when an order is placed.
 
@@ -197,7 +198,7 @@ Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
 Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
-![](./img102/it_img011.png?raw=true)
+![Product Stock Options](./img102/it_img011.png?raw=true)
 
 (1)	Select Yes to activate inventory control for your catalog. 
 
@@ -217,7 +218,7 @@ Path: **Stores > Settings** section **> Configuration > Catalog > Inventory**
 
 Next, 
 
-![](./img102/it_img012.png?raw=true) 
+![Product Stock Options](./img102/it_img012.png?raw=true) 
 
 (6)	Enter the stock level that generate notification showing the item is out of stock.
 
@@ -234,11 +235,11 @@ Finally, click on **Save Config** to save changes.
 
 Path: **Inventory Management > Prediction** section **> Low Stock Rules**
 
-![](./img102/it_img013.png?raw=true)
+![Product Stock Options](./img102/it_img013.png?raw=true)
 
 (1)	Click Add new rule to create a new low stock notification rule
 
-![](./img102/it_img014.png?raw=true)
+![Product Stock Options](./img102/it_img014.png?raw=true)
 
 (2)	Enter the low stock rule name
 
@@ -248,7 +249,7 @@ Path: **Inventory Management > Prediction** section **> Low Stock Rules**
 
 (5)	Use Calendar to choose From and To date for a term of validity (optional)
 
-![](./img102/it_img015.png?raw=true)
+![Product Stock Options](./img102/it_img015.png?raw=true)
 
 (6)	Select an **update time**:
 
@@ -260,7 +261,7 @@ The system periodically check stock availability and automatically send email no
 
 (7)	**Select hours** the warning message will be sent
 
-![](./img102/it_img016.png?raw=true)
+![Product Stock Options](./img102/it_img016.png?raw=true)
 
 On the **Conditions Tab**:
 
@@ -278,7 +279,7 @@ There are 2 types of low stock rule:
 
 (11)	 Select **Warehouses** for those rules will be applied
 
-![](./img102/it_img017.png?raw=true)
+![Product Stock Options](./img102/it_img017.png?raw=true)
 
 **Type 2: Availability Days**
 
@@ -294,7 +295,7 @@ There are 2 types of low stock rule:
 
 (16)	Select **warehouses** for those rules will be applied
 
-![](./img102/it_img018.png?raw=true)
+![Product Stock Options](./img102/it_img018.png?raw=true)
 
 On **Actions** Tab:
 
@@ -302,7 +303,7 @@ On **Actions** Tab:
 
 (18)	Enter content of the **warning message** 
 
-![](./img102/it_img019.png?raw=true)
+![Product Stock Options](./img102/it_img019.png?raw=true)
 
 (19)	Click **Save** or **Save and Apply** to finish
 
@@ -328,7 +329,7 @@ Path: **Sale > Web POS** section > **Setting > Default Guest Checkout**
 
 Default customer is the customer whose information will be used for Guest Checkout or when customer information is not enough, default value will be filled automatically.
 
-![](./img102/it_img021.png?raw=true)
+![Default Guest Checkout](./img102/it_img021.png?raw=true)
 	
 Fill in all information as you want to use as default, including **First Name, Last Name, Street, Country, State/Province, City, Zip/Postal Code, Telephone** and **Email**. After finishing, click on **Save Config** button to save your work.
 
@@ -355,7 +356,7 @@ Path: **Marketing > Promotions** Section **> Catalog Price Rule**
 
 ##### Manage Catalog Price Rule
 
-![](./img102/it_img022.png?raw=true)
+![Manage Catalog Price Rule](./img102/it_img022.png?raw=true)
 
 (1)	Click **Add New Rule** to create a new catalog price rules.
 
@@ -374,11 +375,11 @@ Path: **Marketing > Promotions** Section **> Catalog Price Rule**
 
 ##### Create a new Catalog Price Rule
 
-![](./img102/it_img023.png?raw=true)
+![Create a new Catalog Price Rule](./img102/it_img023.png?raw=true)
 
 Click on **Add New Rule**
 
-![](./img102/it_img024.png?raw=true)
+![Create a new Catalog Price Rule](./img102/it_img024.png?raw=true)
 
 **Rule Information**
 
@@ -396,13 +397,13 @@ Click on **Add New Rule**
 
 (7)	Choose **Priority** (a number that indicates the priority of this rule in relation to others. The highest priority is number 1)
 
-![](./img102/it_img025.png?raw=true)
+![Create a new Catalog Price Rule](./img102/it_img025.png?raw=true)
 
 **Conditions**
 
 Click the small green button to add conditions.
 
-![](./img102/it_img026.png?raw=true)
+![Create a new Catalog Price Rule](./img102/it_img026.png?raw=true)
 
 **Action**
 
@@ -419,7 +420,7 @@ To finish, click **Save**
 
 Path: **Marketing > Promotion** section **> Cart Price Rule**
 
-![](./img102/it_img027.png?raw=true)
+![Manage Cart Price Rule](./img102/it_img027.png?raw=true)
 
 (1)	Click **Add New User** to create a new cart price rules.
 
@@ -440,11 +441,11 @@ Path: **Marketing > Promotion** section **> Cart Price Rule**
 
 ##### Create a Cart Price Rule
 
-![](./img102/it_img028.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img028.png?raw=true)
 
 Click **Add New Rule** to create a new Cart Price Rule
 
-![](./img102/it_img029.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img029.png?raw=true)
 
 **Add a New Rule**
 
@@ -460,7 +461,7 @@ Click **Add New Rule** to create a new Cart Price Rule
 
 (6)	To associate a coupon with the price rule, set Coupon to **Specific Coupon**. Then, do the following:
 
-![](./img102/it_img030.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img030.png?raw=true)
 
 (7)	Enter a numeric **Coupon Code** that the customer must enter to receive the discount.
 
@@ -474,14 +475,14 @@ Click **Add New Rule** to create a new Cart Price Rule
 
 (12)	To apply the rule to published listings in RSS feeds, set Public In RSS Feed to **Yes**.
 
-![](./img102/it_img031.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img031.png?raw=true)
 
 **Conditions**
 
 Click  the small green button to add conditions.
 
 
-![](./img102/it_img032.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img032.png?raw=true)
 
 **Define the Actions**
 
@@ -517,7 +518,7 @@ The shopping cart price rule actions describe how prices are updated when the co
 
 (8)	Define as many additional conditions as needed for the action. When complete, click **Save and Continue Edit.**
 
-![](./img102/it_img033.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img033.png?raw=true)
 
 **The labels**
 
@@ -530,7 +531,7 @@ The label appears on the order below the subtotal to identify the discount. You 
 
 ##### Create a Specific Coupon
 
-![](./img102/it_img034.png?raw=true)
+![Create a Specific Coupon](./img102/it_img034.png?raw=true)
 
 Follow the instructions to **Create a Cart Price Rule**.
 
@@ -548,13 +549,13 @@ Click **Save** to finish.
 
 ##### Generate a Batch of Coupons
 
-![](./img102/it_img035.png?raw=true)
+![Generate a Batch of Coupons](./img102/it_img035.png?raw=true)
 
 Under **Coupon** tab, mark the **Use Auto Generation** checkbox. 
 
 To limit the number of times each customer can use the coupon, enter the number of **Uses per Customer**. To limit the number of times a person uses per coupon, enter the number of **Uses per Coupon**
 
-![](./img102/it_img036.png?raw=true)
+![Generate a Batch of Coupons](./img102/it_img036.png?raw=true)
 
 Scroll down  and expand the Manage Coupon Codes section. 
 
@@ -578,7 +579,7 @@ Then,
 
 (6)	Enter the number of characters, between each dash. For example, if the code is twelve characters long, and there is a dash every four characters, it will look like this: xxxx-xxxx-xxxx.
 
-![](./img102/it_img037.png?raw=true)
+![Generate a Batch of Coupons](./img102/it_img037.png?raw=true)
 
 When complete, click **Generate**. The list of generated codes appears below it.
 
@@ -595,7 +596,7 @@ Path: **Marketing > Gift Card** section **> Settings**
 
 To configure default configurations and settings of the module, please log in to backend screen, and then do the following stages as below: 
 
-![](./img102/it_img038.png?raw=true)
+![Free Gift Promotions](./img102/it_img038.png?raw=true)
 
 **GENERAL**
 
@@ -609,7 +610,7 @@ To configure default configurations and settings of the module, please log in to
 
 (4)	Enter one **letter to replace hidden characters**
 
-![](./img102/it_img039.png?raw=true)
+![Gift code](./img102/it_img039.png?raw=true)
 
 **Gift Card Usage**
 
@@ -628,7 +629,7 @@ To configure default configurations and settings of the module, please log in to
 (7)	Select **Yes** to show the expiration date of Gift Cards on website, and vice versa.
 
 
-![](./img102/it_img040.png?raw=true)
+![Gift Card Usage](./img102/it_img040.png?raw=true)
 
 **Tax Configuration**
 
@@ -638,7 +639,7 @@ To configure default configurations and settings of the module, please log in to
 
 •	**Before Tax:**  to allow applying Gift Card w/o tax
 
-![](./img102/it_img041.png?raw=true)
+![Tax Configuration](./img102/it_img041.png?raw=true)
 
 **ON PRODUCT PAGE**
 
@@ -648,7 +649,7 @@ To configure default configurations and settings of the module, please log in to
 
 (2)	Enter the description of gift card value *(follow the below instruction)*
 
-![](./img102/it_img042.png?raw=true)
+![Gift Card Value](./img102/it_img042.png?raw=true)
 
 **Gift Card Template**
 
@@ -665,7 +666,7 @@ To configure default configurations and settings of the module, please log in to
 (5) Limit the maximum length of a custom message on Gift Card. Select **Yes** to allow users to schedule gift card delivery date.
 
 
-![](./img102/it_img043.png?raw=true)
+![Gift Card Shipping Information](./img102/it_img043.png?raw=true)
 
 **ON SHOPPING CART PAGE**
 
@@ -675,13 +676,13 @@ To configure default configurations and settings of the module, please log in to
 
 (3)	Select **Yes** to allow showing Gift Card printout preview as product image on shopping cart page
 
-![](./img102/it_img044.png?raw=true)
+![ON SHOPPING CART PAGE](./img102/it_img044.png?raw=true)
 
 **ON CHECKOUT PAGE**
 
 Select **Yes** to show Gift Card box on the checkout page
 
-![](./img102/it_img045.png?raw=true)
+![ON CHECKOUT PAGE](./img102/it_img045.png?raw=true)
 
 **EMAIL NOTIFICATION**
  
@@ -695,7 +696,7 @@ Select **Yes** to show Gift Card box on the checkout page
 
 (4)	Select **Yes** to allow sending a copy of gift card via email if customers choose to ship through post office.
 
-![](./img102/it_img046.png?raw=true)
+![EMAIL NOTIFICATION](./img102/it_img046.png?raw=true)
 
 **Notification email sent to purchasers**
 
@@ -715,7 +716,7 @@ Select **Yes** to show Gift Card box on the checkout page
 
 (7)	Enter the **number of days** to **send notification to customers before the expiration date of a Gift card.** 
 
-![](./img102/it_img047.png?raw=true)
+![Notification email sent to recipient](./img102/it_img047.png?raw=true)
 
 **GIFT CARD PRINTOUT**
 
@@ -727,11 +728,11 @@ Click **Choose File** to upload an image used as a logo when Gift Cards are prin
 
 Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
-![](./img102/it_img048.png?raw=true)
+![Add new template](./img102/it_img048.png?raw=true)
 
 (1)	Click **Add New Template**
 
-![](./img102/it_img049.png?raw=true)
+![Add new template](./img102/it_img049.png?raw=true)
 
 *On the popup screen*
 
@@ -745,7 +746,7 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 (5)	Choose **link/ special text color**
 
-![](./img102/it_img050.png?raw=true)
+![Add new template](./img102/it_img050.png?raw=true)
 
 (6)	Upload a **background image**. 
 
@@ -755,7 +756,7 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 Path: **Marketing > Gift Card** section > **Manage Gift Card Templates**
 
-![](./img102/it_img051.png?raw=true)
+![Preview Existing Template](./img102/it_img051.png?raw=true)
 
 Click **Preview** to see the gift card template
 
@@ -763,7 +764,7 @@ Click **Preview** to see the gift card template
 
 Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
-![](./img102/it_img052.png?raw=true)
+![Edit and Delete Existing Template](./img102/it_img052.png?raw=true)
 
 (1)	Mark the template checkbox
 
@@ -771,7 +772,7 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 (3)	Click **Edit** to update templates data
 
-![](./img102/it_img053.png?raw=true)
+![Edit and Delete Existing Template](./img102/it_img053.png?raw=true)
 
 *On the popup screen*
 
@@ -785,13 +786,13 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 Path: **Marketing > Gift Card** section **> Generate Gift Code**
 
-![](./img102/it_img054.png?raw=true)
+![Generate Gift Code](./img102/it_img054.png?raw=true)
 
 (1) Click on **Add Gift Code Pattern** to create new pattern code
 
-![](./img102/it_img055.png?raw=true)
+![Generate Gift Code](./img102/it_img055.png?raw=true)
 
-![](./img102/it_img056.png?raw=true)
+![Generate Gift Code](./img102/it_img056.png?raw=true)
 
 *On the popup screen*
 
@@ -817,11 +818,11 @@ Path: **Marketing > Gift Card** section **> Generate Gift Code**
 
 •	**Save** to finish
 
-![](./img102/it_img057.png?raw=true)
+![Generate Gift Code](./img102/it_img057.png?raw=true)
 
 A status ***The pattern has been generated successfully*** would be shown on the pop-up screen
 
-![](./img102/it_img058.png?raw=true)
+![Generate Gift Code](./img102/it_img058.png?raw=true)
 
 A list a generated Gift Codes would be shown at the bottom of the pop-up screen
 
@@ -831,15 +832,15 @@ A list a generated Gift Codes would be shown at the bottom of the pop-up screen
 
 Path: **Marketing > Gift Card** section **> Manage Gift Code**
 
-![](./img102/it_img059.png?raw=true)
+![Manage Gift Codes](./img102/it_img059.png?raw=true)
 
 (1)	Click on **Add Gift Code** to create a new gift code
 
 Moreover, click on I**mport Gift Codes** to import data from your device to the system.
 
-![](./img102/it_img060.png?raw=true)
+![Manage Gift Codes](./img102/it_img060.png?raw=true)
 
-![](./img102/it_img061.png?raw=true)
+![Manage Gift Codes](./img102/it_img061.png?raw=true)
 
 *On the popup screen:*
 
@@ -859,9 +860,9 @@ Moreover, click on I**mport Gift Codes** to import data from your device to the 
 
 (9)	Write a comment *(optional)*
 
-![](./img102/it_img063.png?raw=true)
+![Manage Gift Codes](./img102/it_img063.png?raw=true)
 
-![](./img102/it_img064.png?raw=true)
+![Manage Gift Codes](./img102/it_img064.png?raw=true)
 
 *Scroll down, on the **Message Information** tab, click  to expand:*
 
@@ -874,7 +875,7 @@ Moreover, click on I**mport Gift Codes** to import data from your device to the 
 (4)	Enter the **message to the recipient**
 
 
-![](./img102/it_img065.png?raw=true)
+![Manage Gift Codes](./img102/it_img065.png?raw=true)
 
 *Finally, scroll up, tab the arrow on the right hand-side of **Save** button:* 
 
@@ -887,11 +888,11 @@ Moreover, click on I**mport Gift Codes** to import data from your device to the 
 
 Path: **Customers > All Customers**
 
-![](./img102/it_img066.png?raw=true)
+![Manage Gift Card History per customer](./img102/it_img066.png?raw=true)
 
 (1)	Click **Edit** to view an existing customer’s detailed information 
 
-![](./img102/it_img067.png?raw=true)
+![Manage Gift Card History per customer](./img102/it_img067.png?raw=true)
 
 *On the popup screen:*
 
@@ -903,7 +904,7 @@ Path: **Customers > All Customers**
 
 On **Create New Order** page, after selecting a customer and adding a product to an order, the system will show the Gift Card box, which allowing you to use Gift Card credit balance or Gift Card code(s) of the Customer to pay for this order. Select the method(s) as you want and then remember to click on **Apply Gift Card** button. 
 
-![](./img102/it_img068.png?raw=true)
+![Apply Gift code when create new order](./img102/it_img068.png?raw=true)
 
 (1)	Mark the check box to use gift card to checkout
 
@@ -911,7 +912,7 @@ On **Create New Order** page, after selecting a customer and adding a product to
 
 (3)	Click on the arrow to apply the gift code
 
-![](./img102/it_img069.png?raw=true)
+![Apply Gift code when create new order](./img102/it_img069.png?raw=true)
 
 Scroll down to view **Order Totals** label, then click on (4)** Submit Order** to finish.
 
@@ -920,19 +921,19 @@ Scroll down to view **Order Totals** label, then click on (4)** Submit Order** t
 
 Path: **Sales > Operations**  section **> Orders**
 
-![](./img102/it_img070.png?raw=true)
+![Refund Orders](./img102/it_img070.png?raw=true)
 
 (1)	On the dashboard screen of admin, click **Sales > Orders**
 
-![](./img102/it_img071.png?raw=true)
+![Refund Orders](./img102/it_img071.png?raw=true)
 
 (2)	Click **View**
 
-![](./img102/it_img072.png?raw=true)
+![Refund Orders](./img102/it_img072.png?raw=true)
 
 (3)	On the **Order View** tab, click on **Credit Memos** to refund
 
-![](./img102/it_img073.png?raw=true)
+![Refund Orders](./img102/it_img073.png?raw=true)
 
 (4)	Enter the number of money to refund to gift credit 
 
@@ -942,7 +943,7 @@ Path: **Sales > Operations**  section **> Orders**
 
 Path: **Marketing > Gift Card** section **> Gift Code History**
 
-![](./img102/it_img074.png?raw=true)
+![History](./img102/it_img074.png?raw=true)
 
 On **Gift Card History** page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status. 
 
@@ -952,7 +953,7 @@ You can filter data with the above criteria to get more accurate reports. Inform
 
 ##### Add new rate
 
-![](./img102/it_img075.png?raw=true)
+![Add new rate](./img102/it_img075.png?raw=true)
 
 (1)	Click on **Reward Points**
 
@@ -960,15 +961,15 @@ You can filter data with the above criteria to get more accurate reports. Inform
 
 (3)	Click on **Add new spending rate**
 
-![](./img102/it_img076.png?raw=true)
+![Add new rate](./img102/it_img076.png?raw=true)
 
 Fill all the data needed in the boxes
 
-![](./img102/it_img077.png?raw=true)
+![Add new rate](./img102/it_img077.png?raw=true)
 
 Click on **Save spending rate** after finishing filling in all the boxes
 
-![](./img102/it_img078.png?raw=true)
+![Add new rate](./img102/it_img078.png?raw=true)
 
 The new earning rate will be shown as the beside image
 
@@ -976,11 +977,11 @@ The new earning rate will be shown as the beside image
 
 Path: **Reward Point > Spending** section **> Spending Rates**
 
-![](./img102/it_img079.png?raw=true)
+![Edit existing rate](./img102/it_img079.png?raw=true)
 
 Click on **Edit** on action column of the rate needed to be edited
 
-![](./img102/it_img080.png?raw=true)
+![Edit existing rate](./img102/it_img080.png?raw=true)
 
 Edit the rate, then click **Save** spending rate, or **Delete** it
 
@@ -988,11 +989,11 @@ Edit the rate, then click **Save** spending rate, or **Delete** it
 
 Path: **Reward points > Transactions** 
 
-![](./img102/it_img081.png?raw=true)
+![Manage transaction](./img102/it_img081.png?raw=true)
 
 Click on **Add new transaction** to add new transaction
 
-![](./img102/it_img082.png?raw=true)
+![Manage transaction](./img102/it_img082.png?raw=true)
 
 Fill in the required information and click on **Save**
 
@@ -1000,11 +1001,11 @@ Fill in the required information and click on **Save**
 
 Path: **Customers > All customers**
 
-![](./img102/it_img083.png?raw=true)
+![Manage point balances of customers](./img102/it_img083.png?raw=true)
 
 Click on **Edit** of the customer needed to be managed
 
-![](./img102/it_img084.png?raw=true)
+![Manage point balances of customers](./img102/it_img084.png?raw=true)
 
 Click on reward points to manage the customer’s balance by filling the change balance, change title, points expire on box.
 
@@ -1012,7 +1013,7 @@ Also, update points subscription and expire transaction subscription can be conf
 
 Click on **Save customer** to save the changes
 
-![](./img102/it_img085.png?raw=true)
+![Manage point balances of customers](./img102/it_img085.png?raw=true)
 
 All transactions of a customer are also listed in reward points
 
@@ -1027,21 +1028,21 @@ The first way is to enter the **Change Balance** in the **Reward Points** sessio
 
 The second way to change points, which can be done to many customers at the same time, is illustrated below:
 
-![](./img102/it_img086.png?raw=true)
+![Change point balance](./img102/it_img086.png?raw=true)
 
 A list of customers will be shown with point balance column
 
-![](./img102/it_img087.png?raw=true)
+![Change point balance](./img102/it_img087.png?raw=true)
 
 Click on **Import** to import from computer
 
-![](./img102/it_img088.png?raw=true)
+![Change point balance](./img102/it_img088.png?raw=true)
 
 (1)	Click on **Choose file** to upload file
 
 (2)	Click on **Import** to import it
 
-![](./img102/it_img089.png?raw=true)
+![Change point balance](./img102/it_img089.png?raw=true)
 
 The list of customers in **Reward Point Balances** Information page can also be exported by clicking on **Export**
 
@@ -1050,7 +1051,7 @@ The list of customers in **Reward Point Balances** Information page can also be 
 
 Path: **Sales > Orders**
 
-![](./img102/it_img090.png?raw=true)
+![Create an Order](./img102/it_img090.png?raw=true)
 
 (1)	Click on **Sales**
 
@@ -1058,23 +1059,23 @@ Path: **Sales > Orders**
 
 (3)	Click on **Create new order**
 
-![](./img102/it_img091.png?raw=true)
+![Create an Order](./img102/it_img091.png?raw=true)
 
 Select customer from the list
 
-![](./img102/it_img092.png?raw=true)
+![Create an Order](./img102/it_img092.png?raw=true)
 
 Click on **Add products** to add products to the order
 
-![](./img102/it_img093.png?raw=true)
+![Create an Order](./img102/it_img093.png?raw=true)
 
 Click on the product and enter the quantity, then click on **add selected product(s) to order**
 
-![](./img102/it_img094.png?raw=true)
+![Create an Order](./img102/it_img094.png?raw=true)
 
 Set the number of point customer will use in the order in the use customer reward points
 
-![](./img102/it_img095.png?raw=true)
+![Create an Order](./img102/it_img095.png?raw=true)
 
 Fill in the required fields, click on submit order to finish creating new order
 
@@ -1082,15 +1083,15 @@ Fill in the required fields, click on submit order to finish creating new order
 
 Path: **Sales > Operations** section **> Orders** 
 
-![](./img102/it_img096.png?raw=true)
+![Refund Orders](./img102/it_img096.png?raw=true)
 
 (1)	Click on **View** to see the details of an order 
 
-![](./img102/it_img097.png?raw=true)
+![Refund Orders](./img102/it_img097.png?raw=true)
 
 (2) On the top bar, click on **Credit Memo** label to create a refund order 
 
-![](./img102/it_img098.png?raw=true)
+![Refund Orders](./img102/it_img098.png?raw=true)
 
 *On the pop-up screen named **New Memo**, scroll down, then:*
 
@@ -1098,7 +1099,7 @@ Path: **Sales > Operations** section **> Orders**
 
 (4)	Click on **Refund Online** to finish
 
-![](./img102/it_img099.png?raw=true)
+![Refund Orders](./img102/it_img099.png?raw=true)
 
 *After the credit memo has been created:*
 
@@ -1110,11 +1111,11 @@ Path: **Sales > Operations** section **> Orders**
 
 Path: **Store Credit > Manage Customers Using Credit**
 
-![](./img102/it_img100.png?raw=true)
+![Manage Customers Using Credit](./img102/it_img100.png?raw=true)
 
 Then the **Customers Using Credit Manager** page will be displayed as below:
 
-![](./img102/it_img101.png?raw=true)
+![Manage Customers Using Credit](./img102/it_img101.png?raw=true)
 
 This page shows a list of all Customers using credit and their information such as name, email, credit balance, telephone, etc.
 
@@ -1122,31 +1123,31 @@ To view more details about a Customer, you can click on the **Edit** link in the
 
 Then, you will be navigated to the **Customer Information** page. By selecting **Store Credit** tab, you can view all Customer’s transaction history and credit balance:
 
-![](./imgpart2/it_img102.png?raw=true)
+![Manage Customers Using Credit](./imgpart2/it_img102.png?raw=true)
 
 Besides, you can change the Customer’s credit balance by entering an integer (a positive or negative number) and a comment in text fields as below:
 
-![](./imgpart2/it_img103.png?raw=true)
+![Manage Customers Using Credit](./imgpart2/it_img103.png?raw=true)
 
 The module will automatically send email to Customer to announce about this transaction if you tick on **Send email to customer** checkbox. The email will be sent to the customer as bellow: 
 
-![](./imgpart2/it_img104.png?raw=true)
+![Manage Customers Using Credit](./imgpart2/it_img104.png?raw=true)
 
 
 After you save, our module will auto update the Customer’s credit balance, send an email to that Customer and create a transaction as follows:
 
-![](./imgpart2/it_img105.png?raw=true)
+![Manage Customers Using Credit](./imgpart2/it_img105.png?raw=true)
 
 
 ##### Manage Credit Products
 
 Path: **Store Credit > Manage Credit Products**
 
-![](./imgpart2/it_img106.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img106.png?raw=true)
 
 Then the **Credit Product Manager** page will be shown:
 
-![](./imgpart2/it_img107.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img107.png?raw=true)
 
 This page shows you all credit products with a lot of information such as **product ID, name, SKU, quantity, status,** etc.
 
@@ -1156,17 +1157,17 @@ You can add a credit product just in a similar way to adding a normal product. Y
 
 **a)**	**Prices** Tab:
 
-![](./imgpart2/it_img108.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img108.png?raw=true)
 
 In this tab, you can configure the value of the credit product. There are three types of credit products including **fixed value, range of values and drop-down value.**
 
 **b)**	**Setting** Section:
 
-![](./imgpart2/it_img109.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img109.png?raw=true)
 
 (1)	**Enable Product:** activate the Store Credit 
 
-![](./imgpart2/it_img110.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img110.png?raw=true)
 
 (2)	**Attribute Set:** select default or any attributes available to purchase by Store Credit
 
@@ -1178,11 +1179,11 @@ In this tab, you can configure the value of the credit product. There are three 
 
 (6)	**Stock Status:** select the current availability of the Store Credit
 
-![](./imgpart2/it_img111.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img111.png?raw=true)
 
 (7)	**Categories:** select the categories that you sell this Store Credit. In case, you do not have fitted category. Click on **New Category**
 
-![](./imgpart2/it_img112.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img112.png?raw=true)
 
 (8)	**Visibility:** choose where it will be visible to customers
 
@@ -1194,9 +1195,9 @@ In this tab, you can configure the value of the credit product. There are three 
 
 Path: **New Product > Quantity > Advanced Inventory**
 
-![](./imgpart2/it_img113.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img113.png?raw=true)
 
-![](./imgpart2/it_img114.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img114.png?raw=true)
 
 (1)	**Manage Stock:** our module sets up the field as **Yes**. It means that you need to manage the Qty.. of Credit Products. You can edit it by uncheck box **Use Config Settings.**
 
@@ -1208,7 +1209,7 @@ Path: **New Product > Quantity > Advanced Inventory**
 
 (5)	**Maximum Qty. Allowed in Shopping Cart:** as mentioned in No.4
 
-![](./imgpart2/it_img115.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img115.png?raw=true)
 
 (6)	**Qty. Uses Decimals:** select **No** if the Qty. is not a decimal value
 
@@ -1233,7 +1234,7 @@ Path: **New Product > Quantity > Advanced Inventory**
 
 Besides the **Credit Product Manager** page, you can also create a new credit product by clicking on **Products > Inventory** Section **> Catalog**
 
-![](./imgpart2/it_img116.png?raw=true)
+![Manage Credit Products](./imgpart2/it_img116.png?raw=true)
 
 ##### Manage Credit Transactions and Report Charts
 
@@ -1241,11 +1242,11 @@ Besides the **Credit Product Manager** page, you can also create a new credit pr
 
 Path: **Store Credit > Credit Transactions** Section **> Manage Credit Transactions**
 
-![](./imgpart2/it_img117.png?raw=true)
+![Manage Credit Transactions](./imgpart2/it_img117.png?raw=true)
 
 Then the **Credit Transactions** page will be shown: 
 
-![](./imgpart2/it_img118.png?raw=true)
+![Manage Credit Transactions](./imgpart2/it_img118.png?raw=true)
 
 This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction.
 
@@ -1257,11 +1258,11 @@ If you click on a Customer’s email, you will be navigated to the **Customer In
 
 Path: **Store Credit > Credit Transactions** Section **> Customer Credit Report**
 
-![](./imgpart2/it_img119.png?raw=true)
+![Manage Report Charts](./imgpart2/it_img119.png?raw=true)
 
 Then the **Report Charts** page will be shown as follows:
 
-![](./imgpart2/it_img120.png?raw=true)
+![Manage Report Charts](./imgpart2/it_img120.png?raw=true)
 
 This page can be divided into two main sections including **Life-time Reports** and **Period-of-time Report Charts.**
 
@@ -1280,15 +1281,15 @@ Path: **Sales > Operations** Section **> Orders >** enter numbers on **Customer 
 
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
 
-![](./imgpart2/it_img121.png?raw=true)
+![Using Credit to checkout in backend](./imgpart2/it_img121.png?raw=true)
 
 You just need to enter a credit amount and click on the **Gray Arrow** button. Our module will auto-update and calculate the grand total of the order.
 
-![](./imgpart2/it_img122.png?raw=true)
+![Using Credit to checkout in backend](./imgpart2/it_img122.png?raw=true)
 
 After submitting the order, the Customer’s credit balance will also auto update and you can check the transaction on the **Credit Transaction** page.
 
-![](./imgpart2/it_img123.png?raw=true)
+![Using Credit to checkout in backend](./imgpart2/it_img123.png?raw=true)
 
 ##### Refund Orders into Credit Balance
 
@@ -1296,7 +1297,7 @@ When Customers want to refund an order, our module allows you to transfer the or
 
 After clicking on the **Credit Memo** button, our module shows a text field for you to enter the amount you want to refund into credit:
 
-![](./imgpart2/it_img124.png?raw=true)
+![Refund Orders into Credit Balance](./imgpart2/it_img124.png?raw=true)
 
 After that, when you click on the **Refund Offline** button, the amount you entered as well as the credit that the Customer used for paying for the order will be refunded to his current credit balance. 
 
@@ -1304,20 +1305,20 @@ For any order that includes only Credit Product, the option **Refund Order to Cr
 
 Once the refund is finished, you can check the transaction on the **Manage Transaction** page:
 
-![](./imgpart2/it_img125.png?raw=true)
+![Refund Orders into Credit Balance](./imgpart2/it_img125.png?raw=true)
 
 
 ##### Settings
 
 Path: **Store Credit > Settings**
 
-![](./imgpart2/it_img126.png?raw=true)
+![Settings](./imgpart2/it_img126.png?raw=true)
 
 **a)**	**General Configuration** Tab:
 
 Path: **Magento Extension > Store Credit**
 
-![](./imgpart2/it_img127.png?raw=true)
+![General Configuration](./imgpart2/it_img127.png?raw=true)
 
 (1)	**Enable Store Credit:** to activate Store Credit on your site
 
@@ -1327,7 +1328,7 @@ Path: **Magento Extension > Store Credit**
 
 **b)**	**Spend Credit On** Tab
 
-![](./imgpart2/it_img128.png?raw=true)
+![Spend Credit On](./imgpart2/it_img128.png?raw=true)
 
 (1)	**Apply Customer Credit:** If you choose **After tax**, it means the Customer Credit Discount will be applied to order value including tax
 
@@ -1335,7 +1336,7 @@ Path: **Magento Extension > Store Credit**
 
 **c)**	**Email Configuration** Tab:
 
-![](./imgpart2/it_img129.png?raw=true)
+![Email Configuration](./imgpart2/it_img129.png?raw=true)
 
 (1)	**Email template with credit code sent to recipients:** default
 
@@ -1347,7 +1348,7 @@ Path: **Magento Extension > Store Credit**
 
 **d)**	**Adjust time for Customer credit reports on total used and total received credit** Tab:
 
-![](./imgpart2/it_img130.png?raw=true)
+![Adjust time for Customer credit reports on total used and total received credit](./imgpart2/it_img130.png?raw=true)
 
 (1)	**Select start time for current year:** choose Month, then Date
 
@@ -1355,7 +1356,7 @@ Path: **Magento Extension > Store Credit**
 
 **e)**	**Style configuration** tab: on this tab, you will be able to change background and color of Title
 
-![](./imgpart2/it_img131.png?raw=true)
+![Style configuration](./imgpart2/it_img131.png?raw=true)
 
 (1)	**Background of Title:** enter Hexadecimal code
 
@@ -1375,13 +1376,13 @@ Path: **Magento Extension > Store Credit**
 
 Path: **Store Pickup > Settings > Magento Extensions** Tab **> Store Pickup**
 
-![](./storepickup/i1.png?raw=true)
+![Setting](./storepickup/i1.png?raw=true)
 
 The configuration is divided into 3 groups including **General, Service API,**  and **Store Search** 
 
 •	**General** 
 
-![](./storepickup/i2.png?raw=true)
+![Setting](./storepickup/i2.png?raw=true)
 
 (1)	Choose **Yes** if you want to enable the module on your site
 
@@ -1405,7 +1406,7 @@ The configuration is divided into 3 groups including **General, Service API,**  
 
 •	**Service API**
 
-![](./storepickup/i3.png?raw=true)
+![Service API](./storepickup/i3.png?raw=true)
 
 (1)	To integrate **Google API** or **Facebook API** in your site, fill your Google Map API and Facebook API key into the relevant field. You can get this key by clicking on **here** under **Google Map API Key** tab or **Facebook API Key** tab. Or else, you can go to **Store Pickup > Guide** 
 
@@ -1413,7 +1414,7 @@ The configuration is divided into 3 groups including **General, Service API,**  
 
 •	**Store Search**
 
-![](./storepickup/i4.png?raw=true)
+![Service API](./storepickup/i4.png?raw=true)
 
 (1)	Select which c**riteria customers** can search for stores by area
 
@@ -1427,17 +1428,17 @@ Path: **Store Pickup > Manage Store**
 
 The **Store Manager** grid shows all stores created in your system with their address and status. To add new stores, you can add them manually and import from **CSV files.**
 
-![](./storepickup/i5.png?raw=true)
+![Manage Store](./storepickup/i5.png?raw=true)
 
 #####	Add store
 
-![](./storepickup/i6.png?raw=true)
+![Add store](./storepickup/i6.png?raw=true)
 
 There are two ways to add new store: **Import Store** or **Add New Store**
 
 ###### **Import Stores**
 
-![](./storepickup/i7.png?raw=true)
+![Import Stores](./storepickup/i7.png?raw=true)
 
 Click on **Choose file** to upload **CSV file**. 
 
@@ -1455,7 +1456,7 @@ Path: **Add New Store > Store Information** section **> General Information**
 
 There are 4 sessions: **General Information, Contact Information, Owner Information** and **Meta Information**
 
-![](./storepickup/i8.png?raw=true)
+![General Information](./storepickup/i8.png?raw=true)
 
 Fill **Store Name, Description, Status, Store link** and **Sort order** in **General Information** session. 
 
@@ -1465,13 +1466,13 @@ Besides important information such as **Store name, Description, Status,** here 
 
 **+ Sort Order:** Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of List Store by in Settings.
 
-![](./storepickup/i9.png?raw=true)
+![General Information](./storepickup/i9.png?raw=true)
 
 **Contact Information:** customers can contact to the store whenever they have any questions/problems.
 
 **Owner Information:** an auto email will be sent to owner whenever customers want to pick up order in store. 
 
-![](./storepickup/i10.png?raw=true)
+![General Information](./storepickup/i10.png?raw=true)
 
 Fill in **URL key, Meta Title, Meta Keywords,** and **Meta Description** for better SEO. It can help your customers find your store website easier. 
 
@@ -1479,7 +1480,7 @@ Fill in **URL key, Meta Title, Meta Keywords,** and **Meta Description** for bet
 
 Path: **Add New Store > Store Information** section **> Google Map Location**
  
-![](./storepickup/i11.png?raw=true)
+![Google Map Location](./storepickup/i11.png?raw=true)
 
 Fill your store’s address in this field or pin from the map, remember to click on the **Save Store** or **Save And Continue Edit** button to save your work. After that, store’s location will be updated automatically on Google Map.
 
@@ -1499,7 +1500,7 @@ By clicking **Apply to Form** before saving, the store coordinates & the store a
 
 •	**Image Gallery**
 
-![](./storepickup/i12.png?raw=true)
+![Image Gallery](./storepickup/i12.png?raw=true)
 
 Upload as many store images as you want. 
 
@@ -1511,13 +1512,13 @@ The base image will be shown in the store list.
 
 Path: **Add New Store > Store Information** section **> Store’s Schedule**
 
-![](./storepickup/i13.png?raw=true)
+![Store’s Schedule](./storepickup/i13.png?raw=true)
 
 **[1]**	Click on **Click here** to create new schedule
 
 You will be linked to a new page named **New Schedule**
 
-![](./storepickup/i14.png?raw=true)
+![Store’s Schedule](./storepickup/i14.png?raw=true)
 
 (1)	Enter **Schedule Name**
 
@@ -1530,31 +1531,31 @@ You will be linked to a new page named **New Schedule**
 
 **[2]**	Select a schedule that you have created for your store. For example: 
 
-![](./storepickup/i15.png?raw=true)
+![Store’s Schedule](./storepickup/i15.png?raw=true)
 
 After selecting **Store in January**, a timetable will be shown below the tab.  
 
 •	**Store’s Tag**
 
-![](./storepickup/i16.png?raw=true)
+![Store’s Tag](./storepickup/i16.png?raw=true)
 
 For easier search, you can tag each store in multiple categories. Choose tags for each in this tab by search for the tag and select suitable ones. Please note that one store can belongs to more than one tag.
 
 •	**Store’s Holiday**
 
-![](./storepickup/i17.png?raw=true)
+![Store’s Holiday](./storepickup/i17.png?raw=true)
 
 Select **Holidays** to be applied for this store by searching/filtering and select Holiday(s) that you set up before.
 
 •	**Store’s Special days**
 
-![](./storepickup/i18.png?raw=true)
+![Store’s Special days](./storepickup/i18.png?raw=true)
 
 Select **Special days** to be applied for this store by searching/filtering and select Special day(s) that you set up before.
 
 After all, if you finish everything, you can
 
-![](./storepickup/i19.png?raw=true)
+![Store’s Special days](./storepickup/i19.png?raw=true)
 
 **+ Save Store:**  save all changes and come back the Manage Store page
 
@@ -1570,22 +1571,22 @@ After all, if you finish everything, you can
 
 To edit a specific store, go to **Manage Store >** select Action **(Edit)**. 
 
-![](./storepickup/i20.png?raw=true)
+![Edit store](./storepickup/i20.png?raw=true)
 
 
 #### Manage Tag
 
 Path: **Store Pickup > Manage Tag** 
 
-![](./storepickup/i21.png?raw=true)
+![Manage Tag](./storepickup/i21.png?raw=true)
 
 This tab manages all tags that are used to filter stores. Click on the **Add New Tag** button to create new one.
 
-![](./storepickup/i22.png?raw=true)
+![Manage Tag](./storepickup/i22.png?raw=true)
 
 **General Information:** Choose a suitable **Tag Name**, write a description and upload Icon to make it pop out on store listing page.
 
-![](./storepickup/i23.png?raw=true)
+![General Information](./storepickup/i23.png?raw=true)
 
 **Stores of Tag:** Select stores from the list to be shown up when Customers click on the tab you have created. Then **Save Tag** to save changes and come back the main page.
 
@@ -1593,11 +1594,11 @@ This tab manages all tags that are used to filter stores. Click on the **Add New
 
 Path: **Store Pickup > Manage Schedule** 
 
-![](./storepickup/i30.png?raw=true)
+![Manage Schedule](./storepickup/i30.png?raw=true)
 
 You can see schedule that had been created in this tab and quickly edit some, or create a new one by hitting the button **Add New Schedule.**
 
-![](./storepickup/i31.png?raw=true)
+![Manage Schedule](./storepickup/i31.png?raw=true)
 
 (1)	Enter **Schedule Name**
 
@@ -1607,7 +1608,7 @@ You can see schedule that had been created in this tab and quickly edit some, or
 
 (4)	**Save Schedule** to save the change.
 
-![](./storepickup/i32.png?raw=true)
+![Manage Schedule](./storepickup/i32.png?raw=true)
 
 And to apply this schedule to various stores, navigate to **Stores of Schedule** to check all stores that you want to add.
 
@@ -1616,11 +1617,11 @@ And to apply this schedule to various stores, navigate to **Stores of Schedule**
 
 Path: **Store Pickup > Manage Holiday.** 
 
-![](./storepickup/i24.png?raw=true)
+![Manage Holiday](./storepickup/i24.png?raw=true)
 
 You will be navigated to the **Manage Holiday** page listing all holidays created. Click on **Add Holiday** button to create a new one.
 
-![](./storepickup/i25.png?raw=true)
+![Manage Holiday](./storepickup/i25.png?raw=true)
 
 (1)	Enter the **Holiday name**
 
@@ -1628,7 +1629,7 @@ You will be navigated to the **Manage Holiday** page listing all holidays create
 
 (3)	Enter the **holiday comment** *(optional)*
 
-![](./storepickup/i26.png?raw=true)
+![Manage Holiday](./storepickup/i26.png?raw=true)
 
 Select store(s) that apply this holiday.
 
@@ -1641,13 +1642,13 @@ Click **Save Holiday** to save the changes
 
 Path: **Store Pickup > Manage Special Days.** 
 
-![](./storepickup/i27.png?raw=true)
+![Manage Special Day](./storepickup/i27.png?raw=true)
 
 You will be navigated to the **Manage Special Day** page listing all special days created. 
 
 Click on the **Add Special Day** button to create a new one.  
 
-![](./storepickup/i28.png?raw=true)
+![Manage Special Day](./storepickup/i28.png?raw=true)
 
 (1)	Enter the **name**
 
@@ -1657,7 +1658,7 @@ Click on the **Add Special Day** button to create a new one.
 
 (4)	Enter **comment** *(optional)*
 
-![](./storepickup/i29.png?raw=true)
+![Manage Special Day](./storepickup/i29.png?raw=true)
 
 Tick all stores that you want this special day to be applied, then **Save Special Day**
 
@@ -1668,15 +1669,15 @@ To view pickup orders in backend:
 
 Path: **Sales > Operation** section **> Orders** 
 
-![](./storepickup/i33.png?raw=true)
+![View Pickup Orders](./storepickup/i33.png?raw=true)
 
 Click on **View** to see more detail about selling information
 
 In the **Information** tab, you can see the information about shipping address changed to the address of pickup store and attached with a map location as below:
 
-![](./storepickup/i34.png?raw=true)
+![View Pickup Orders](./storepickup/i34.png?raw=true)
 
-![](./storepickup/i35.png?raw=true)
+![View Pickup Orders](./storepickup/i35.png?raw=true)
 
 
 ### Shipment method
@@ -1684,25 +1685,25 @@ In the **Information** tab, you can see the information about shipping address c
 Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
 
 
-![](./imgpart2/it_img132.png?raw=true)
+![Shipment method](./imgpart2/it_img132.png?raw=true)
 
-![](./imgpart2/it_img133.png?raw=true)
+![Shipment method](./imgpart2/it_img133.png?raw=true)
 
 If you want to apply all shipping methods, choose **All Allowed Payments in Applicable Shipping Methods** field.
 
-![](./imgpart2/it_img134.png?raw=true)
+![Shipment method](./imgpart2/it_img134.png?raw=true)
 
 If you want to apply some typical payment methods only, choose **Specific Shipping.** Then in **Specific Shipping Methods** field, select payment method as your preference. Hold **Ctrl + Click** to choose more than one.
 
-![](./imgpart2/it_img135.png?raw=true)
+![Shipment method](./imgpart2/it_img135.png?raw=true)
 
 **Default Payment Method:** Choose the payment method that you would want to set as default payment method. This payment method must be in **Specific Shipping Methods.**
 
-![](./imgpart2/it_img136.png?raw=true)
+![Shipment method](./imgpart2/it_img136.png?raw=true)
 
 You can enable **Mark as shipped** by default.
 
-![](./imgpart2/it_img137.png?raw=true)
+![Shipment method](./imgpart2/it_img137.png?raw=true)
 
 Click **Save Config** to complete the process.
 
@@ -1711,17 +1712,17 @@ Click **Save Config** to complete the process.
 
 Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
 
-![](./imgpart2/it_img138.png?raw=true)
+![Payment ](./imgpart2/it_img138.png?raw=true)
 
-![](./imgpart2/it_img139.png?raw=true)
+![Payment ](./imgpart2/it_img139.png?raw=true)
 
 If you want to apply all shipping methods, choose **All Allowed Payments in Applicable Shipping Methods** field.
 
-![](./imgpart2/it_img140.png?raw=true)
+![Payment ](./imgpart2/it_img140.png?raw=true)
 
 If you want to apply some payment methods only, choose **Specific Shipping**. Then in Specific Shipping Methods field, select payment method as your preference. Hold **Ctrl + Click** to choose more than one.
 
-![](./imgpart2/it_img141.png?raw=true)
+![Payment ](./imgpart2/it_img141.png?raw=true)
 
 **Default Payment Method:** Choose the payment method that you would want to set as default payment method. This payment method must be in **Specific Shipping Methods.**
 
@@ -1731,7 +1732,7 @@ If you want to apply some payment methods only, choose **Specific Shipping**. Th
 ----------
 ## HOW TO MANAGE USER PERMISSION
 
- ![](./imgpart2/it_img401.png?raw=true)
+ ![HOW TO MANAGE USER PERMISSION](./imgpart2/it_img401.png?raw=true)
  
 **Only admin accessing Web POS can set up Staff permission**
 
@@ -1745,7 +1746,7 @@ If you want to apply some payment methods only, choose **Specific Shipping**. Th
    	
 #####	 **Manage user role**
  
-![](./imgpart2/it_img402.png?raw=true)
+![Manage user role](./imgpart2/it_img402.png?raw=true)
  
 (1)	Click **Add New Role** to create new user role.
 
@@ -1757,16 +1758,16 @@ View or edit a role’s detail by clicking on each line.
 
 #####	**Create a new user role**
  
-![](./imgpart2/it_img403.png?raw=true)
+![Create a new user role](./imgpart2/it_img403.png?raw=true)
 
 Click **Add New Role**
  
-![](./imgpart2/it_img404.png?raw=true)
+![Create a new user role](./imgpart2/it_img404.png?raw=true)
 
 In tab **Role Info**
 
 Fill in all required fields 
-![](./imgpart2/it_img406.png?raw=true)
+![Create a new user role](./imgpart2/it_img406.png?raw=true)
 
 In tab **Role Resources**
 
@@ -1780,7 +1781,7 @@ Click **Save** to complete the process.
 
 #####	Manage user
  
-![](./imgpart2/it_img407.png?raw=true)
+![Manage user](./imgpart2/it_img407.png?raw=true)
 
 (1)	Click **Add New User** to create new user.
 
@@ -1792,12 +1793,12 @@ View or edit a user’s detail by clicking on each line.
 
 #####	Create a new user
  
-![](./imgpart2/it_img408.png?raw=true)
+![Create a new user](./imgpart2/it_img408.png?raw=true)
 
 To create new user, click **Add New User**
 
  
-![](./imgpart2/it_img409.png?raw=true)
+![Create a new user](./imgpart2/it_img409.png?raw=true)
 
 In tab **User Info**, fill in the blank:
 
@@ -1820,15 +1821,15 @@ In tab **User Info**, fill in the blank:
 (9)	**Your Password**: fill out your password. (required).
 
  
-![](./imgpart2/it_img410.png?raw=true)
+![Create a new user](./imgpart2/it_img410.png?raw=true)
 
 In tab **User Role**, select a role for user.
  
-![](./imgpart2/it_img411.png?raw=true)
+![Create a new user](./imgpart2/it_img411.png?raw=true)
 
 In tab Warehouse, click **Assign Warehouses** to assign warehouses to this user.
  
-![](./imgpart2/it_img412.png?raw=true)
+![Create a new user](./imgpart2/it_img412.png?raw=true)
 
 Click **Save User** to complete the process.
 
@@ -1840,7 +1841,7 @@ Path: **Sales > Web POS** section **> Manage Roles**
 
 #####	Manage role
  
-![](./imgpart2/it_img413.png?raw=true)
+![Manage role](./imgpart2/it_img413.png?raw=true)
 
 (1)	**Add Role**: Click to add a new role.
 
@@ -1852,11 +1853,11 @@ Path: **Sales > Web POS** section **> Manage Roles**
 
 #####	Add a new role
  
-![](./imgpart2/it_img414.png?raw=true)
+![Add a new role](./imgpart2/it_img414.png?raw=true)
 
 Click **Add Role** to add a new role.
  
-![](./imgpart2/it_img415.png?raw=true)
+![Add a new role](./imgpart2/it_img415.png?raw=true)
 
 In **General** tab, fill out the blank.
 
@@ -1867,11 +1868,11 @@ In **General** tab, fill out the blank.
 (3)	**Description**: Enter text that describes the role.
 
  
-![](./imgpart2/it_img416.png?raw=true)
+![Add a new role](./imgpart2/it_img416.png?raw=true)
 
 In **Permission** tab.
 
-(1)	**Resource Access**: You can choose **Custom** or **All**. Choose **All** if you want users having this role will have access to all resources, click on **Save** or S**ave And Continue Edit** button to save your work.
+(1)	**Resource Access**: You can choose **Custom** or **All**. Choose **All** if you want users having this role will have access to all resources, click on **Save** or **Save And Continue Edit** button to save your work.
 
 (2)	If you choose **Custom**, you can tick to assign specific permissions for that role.
 
@@ -1881,7 +1882,7 @@ In **Permission** tab.
 
 Path: **Sales > Web POS** section **> Manage Staff**
  
-![](./imgpart2/it_img417.png?raw=true)
+![Manage Staff](./imgpart2/it_img417.png?raw=true)
 
 (1)	Click **Add Staff** to create a new staff.
 
@@ -1895,11 +1896,11 @@ Click **Detail** to view a staff’s details or edit.
 
 Path: **Sales > Web POS** section **> Manage Staff**
  
-![](./imgpart2/it_img418.png?raw=true)
+![Create a new staff](./imgpart2/it_img418.png?raw=true)
 
 Click **Add Staff**.
  
-![](./imgpart2/it_img419.png?raw=true)
+![Create a new staff](./imgpart2/it_img419.png?raw=true)
 
 Fill out all the required fields or select: 
 
@@ -1915,13 +1916,13 @@ Fill out all the required fields or select:
 
 (6)	**PIN Code (App only)**.
  
-![](./imgpart2/it_img420.png?raw=true)
+![Create a new staff](./imgpart2/it_img420.png?raw=true)
 
 (7)	**Customer Group**.
 
 (8)	**Location**: Hold **Ctrl + Click** to choose more than one
  
-![](./imgpart2/it_img421.png?raw=true)
+![Create a new staff](./imgpart2/it_img421.png?raw=true)
 
 (9)	**Role**.
 
@@ -1934,7 +1935,7 @@ Finally, click **Save** to complete the process.
 **Brief**: IT Admin can create a new role and decentralize for all admins and staffs.
 Other admins (which can be called as business managers) can only create and decentralize staffs on Sales Section (a Default Feature from Web POS). 
  
-![](./imgpart2/it_img422.png?raw=true)
+![Create a new staff](./imgpart2/it_img422.png?raw=true)
 
 Moreover, **if** IT admin activates the **Permissions** button on **Role Resources** these admins (managers) can create roles and users within their permission. 
  
@@ -1951,29 +1952,29 @@ Moreover, **if** IT admin activates the **Permissions** button on **Role Resourc
 ####	Store Manager
 
  
-![](./imgpart2/it_img425.png?raw=true)
+![Store Manager](./imgpart2/it_img425.png?raw=true)
 
 Moreover, Store Manager can access to **Sales** Tab and decentralize roles for Sale Staff
 
 ####	Inventory Manager
  
-![](./imgpart2/it_img426.png?raw=true)
+![Inventory Manager](./imgpart2/it_img426.png?raw=true)
 
 Moreover, Inventory Manager can access to **Sales** Tab and decentralize Inventory Staff
 
 ####	Purchase Manager
  
-![](./imgpart2/it_img427.png?raw=true)
+![Purchase Manager](./imgpart2/it_img427.png?raw=true)
 
 Moreover, Purchase Manager can access to **Sales** Tab and decentralize Purchase Staff
 
 ####	eCommerce Manager
  
-![](./imgpart2/it_img428.png?raw=true)
+![eCommerce Manager](./imgpart2/it_img428.png?raw=true)
 
 ####	Accountant
  
-![](./imgpart2/it_img429.png?raw=true)
+![Accountant](./imgpart2/it_img429.png?raw=true)
 
 ---------
 
@@ -1987,7 +1988,7 @@ Path: **Stores > Attributes** section **> Product**
 
 ##### Manage attribute
  
-![](./imgpart2/it_img501.png?raw=true)
+![Manage attribute](./imgpart2/it_img501.png?raw=true)
 
 (1)	Click **Add New Attribute** to create new user.
 
@@ -2008,11 +2009,11 @@ Attributes can be created while working on a product, or from the Product **Attr
 |Scope|	Global|
 
  
-![](./imgpart2/it_img502.png?raw=true)
+![Create a new attribute](./imgpart2/it_img502.png?raw=true)
 
 Click **Add New Attribute**
  
-![](./imgpart2/it_img503.png?raw=true)
+![Create a new attribute](./imgpart2/it_img503.png?raw=true)
 
 **Basic Properties**
 
@@ -2033,7 +2034,7 @@ For Dropdown and Multiple Select input types, do the following:
  - Select **Is Default** to use the option as the default value.
 
  
-![](./imgpart2/it_img506.png?raw=true)
+![Create a new attribute](./imgpart2/it_img506.png?raw=true)
 
 **Advanced Properties** (if needed).
 
@@ -2056,15 +2057,15 @@ For Dropdown and Multiple Select input types, do the following:
 
 (6)	**Use in Filter Option**: Adds a filter a control to the column header in the Products grid.
  
-![](./imgpart2/it_img507.png?raw=true)
+![Advanced Properties](./imgpart2/it_img507.png?raw=true)
 
 **Input Validation**.
  
-![](./imgpart2/it_img508.png?raw=true)
+![Input Validation](./imgpart2/it_img508.png?raw=true)
 
 In tab **Manage Labels**: Enter a **Title** to be used as a label for the field. If your store is available in different languages, you can enter a translated title for each view.
  
-![](./imgpart2/it_img509.png?raw=true)
+![Input Validation](./imgpart2/it_img509.png?raw=true)
 
 In tab **Storefront Properties**
 
@@ -2096,7 +2097,7 @@ For dropdown, multiple select and price fields, do the following:
 To use attribute as a sort parameter for product listings, set Used for Sorting in Product Listing to **Yes**
 
  
-![](./imgpart2/it_img510.png?raw=true)
+![Input Validation](./imgpart2/it_img510.png?raw=true)
 
 When complete, click **Save Attribute**.
 
@@ -2106,7 +2107,7 @@ Path: **Stores > Attributes** section **> Attribute set**
 
 ##### Manage attribute set
  
-![](./imgpart2/it_img511.png?raw=true)
+![Manage attribute set](./imgpart2/it_img511.png?raw=true)
 
 (1)	Click **Add Attribute Set** to create new attribute set.
 
@@ -2118,11 +2119,11 @@ You can view or edit details of attribute set by clicking on each line.
 
 ##### Create a new attribute set
  
-![](./imgpart2/it_img512.png?raw=true)
+![Create a new attribute set](./imgpart2/it_img512.png?raw=true)
 
 Click **Add Attribute Set** to create new attribute set.
  
-![](./imgpart2/it_img513.png?raw=true)
+![Create a new attribute set](./imgpart2/it_img513.png?raw=true)
 
 (1)	In the **Name** field, enter a name for the attribute set (required)
 
@@ -2139,7 +2140,7 @@ Click **Add Attribute Set** to create new attribute set.
 
 (3)	Click **Save** button and continue
 
-![](./imgpart2/it_img514.png?raw=true)
+![Create a new attribute set](./imgpart2/it_img514.png?raw=true)
 
 To add a new attribute to the set, drag the attribute from the Unassigned Attribute list to the appropriate folder in the General group.
 
@@ -2153,16 +2154,16 @@ Path: **Products > Categories**
 
 When selecting a category on the left, all the information will be displayed on the left.
  
-![](./imgpart2/it_img515.png?raw=true)
+![Manage categories](./imgpart2/it_img515.png?raw=true)
 
 ##### Create a new category
 
  
-![](./imgpart2/it_img516.png?raw=true)
+![Create a new category](./imgpart2/it_img516.png?raw=true)
 
 **Create a Category**
  
-![](./imgpart2/it_img517.png?raw=true)
+![Create a new category](./imgpart2/it_img517.png?raw=true)
 
 Path: **Products > Inventory** section **> Categories**
 
@@ -2172,7 +2173,7 @@ If you’re starting from the beginning without any data, there might be only tw
 
 Click **Add Sub-category** to add a new category.
  
-![](./imgpart2/it_img518.png?raw=true)
+![Create a new category](./imgpart2/it_img518.png?raw=true)
 
 **Complete the Basic information**
 
@@ -2184,7 +2185,7 @@ Click **Add Sub-category** to add a new category.
 
 (4)	Click **Save**.
  
-![](./imgpart2/it_img519.png?raw=true)
+![Create a new category](./imgpart2/it_img519.png?raw=true)
 
 Complete the Category Content
 
@@ -2196,7 +2197,7 @@ Complete the Category Content
 
 (4)	Click **Save**.
  
-![](./imgpart2/it_img520.png?raw=true)
+![Create a new category](./imgpart2/it_img520.png?raw=true)
 
 Complete the **Display Settings**
 
@@ -2225,7 +2226,7 @@ Expand the **Display Settings** section.
 
 6)	Click **Save**.
  
-![](./imgpart2/it_img521.png?raw=true)
+![Create a new category](./imgpart2/it_img521.png?raw=true)
 
 Complete the **Search Engine Optimization Settings**
 
@@ -2241,7 +2242,7 @@ Complete the following meta data for the category:
 
 Click **Save**.
  
-![](./imgpart3/it_img522.png?raw=true)
+![Create a new category](./imgpart3/it_img522.png?raw=true)
 
 Choose the **Products** in **Category**
 Expand the Products in Category section. Then, use one of the following methods to add products to the category. 
@@ -2278,7 +2279,7 @@ Path: **Products > Catalog**
 
 Path: **Products > Catalog**
  
-![](./imgpart3/it_img523.png?raw=true)
+![Manage products](./imgpart3/it_img523.png?raw=true)
 
 **Workspace Controls**
 
@@ -2295,15 +2296,15 @@ Path: **Products > Catalog**
 
 **Simple product**
  
-![](./imgpart3/it_img524.png?raw=true)
+![Create a new product](./imgpart3/it_img524.png?raw=true)
 
 In the upper-right corner on the Add Product    menu, choose Simple Product.
  
-![](./imgpart3/it_img525.png?raw=true)
+![Create a new product](./imgpart3/it_img525.png?raw=true)
 
 Choose the attribute set that is used as a template for the product.
 
-![](./imgpart3/it_img526.png?raw=true)
+![Create a new product](./imgpart3/it_img526.png?raw=true)
 
 **Complete the required setting.**
 
@@ -2315,7 +2316,7 @@ Choose the attribute set that is used as a template for the product.
 
 Then, Click **Save** to continue.
  
-![](./imgpart3/it_img527.png?raw=true)
+![Create a new product](./imgpart3/it_img527.png?raw=true)
 
 **Complete the basic settings**
 
@@ -2341,7 +2342,7 @@ Set Tax Class to one of the following:
 
 Then, click **Save** to continue
  
-![](./imgpart3/it_img528.png?raw=true)
+![Create a new product](./imgpart3/it_img528.png?raw=true)
 
 Complete the product information
 
@@ -2378,15 +2379,15 @@ Scroll down and complete the information in the following sections as needed:
 Create a new configurable product
 
  
-![](./imgpart3/it_img529.png?raw=true)
+![Configurable product](./imgpart3/it_img529.png?raw=true)
 
 In the upper-right corner on the **Add Product** menu, choose **Configurable Product**.
  
-![](./imgpart3/img530.png?raw=true)
+![Configurable product](./imgpart3/img530.png?raw=true)
 
 Choose the attribute set that is used as a template for the product.
  
-![](./imgpart3/it_img531.png?raw=true)
+![Configurable product](./imgpart3/it_img531.png?raw=true)
 
 Complete the required setting
 (1)	Enter **Product Name.** (required)
@@ -2398,7 +2399,7 @@ Complete the required setting
 Then, Click **Save** to continue.
 
  
-![](./imgpart3/it_img532.png?raw=true)
+![Configurable product](./imgpart3/it_img532.png?raw=true)
 
 Complete the basic settings
 
@@ -2427,17 +2428,17 @@ Complete the basic settings
 Then, click **Save to continue**.
 
  
-![](./imgpart3/it_img533.png?raw=true)
+![Configurable product](./imgpart3/it_img533.png?raw=true)
 
 Complete the product information.
 
 **Adding configurations**
  
-![](./imgpart3/it_img534.png?raw=true)
+![Adding configurations](./imgpart3/it_img534.png?raw=true)
 
 After creating a product, scroll down the **Configuration** section **>** Click **Create Configurations**.
  
-![](./imgpart3/it_img535.png?raw=true)
+![Adding configurations](./imgpart3/it_img535.png?raw=true)
 
 Choose the attributes
 
@@ -2447,13 +2448,13 @@ Choose the attributes
 
 (3)	Click to continue.
  
-![](./imgpart3/it_img536.png?raw=true)
+![Adding configurations](./imgpart3/it_img536.png?raw=true)
 
 For each attribute, mark the checkbox of the values that apply to the product.
 
 Click **Next to continue**
  
-![](./imgpart3/it_img537.png?raw=true)
+![Adding configurations](./imgpart3/it_img537.png?raw=true)
 
 Configure the Images, Price, and Quantity.
 
@@ -2461,20 +2462,20 @@ Click **Next** to continue.
 
 You will see list product.
  
-![](./imgpart3/it_img538.png?raw=true)
+![Adding configurations](./imgpart3/it_img538.png?raw=true)
 
 Click **Next** to finish the process.
 
 **Grouped product**
 
-![](./imgpart3/it_img539.png?raw=true)
+![Grouped product](./imgpart3/it_img539.png?raw=true)
 
 In the upper-right corner on the **Add Product** menu, choose **Grouped Product.**
  
-![](./imgpart3/it_img540.png?raw=true)
+![Grouped product](./imgpart3/it_img540.png?raw=true)
 Choose the attribute set that is used as a template for the product.
  
-![](./imgpart3/it_img541.png?raw=true)
+![Grouped product](./imgpart3/it_img541.png?raw=true)
 
 Complete the required setting
 
@@ -2486,7 +2487,7 @@ Complete the required setting
 
 Then, Click **Save to continue**.
  
-![](./imgpart3/it_img542.png?raw=true)
+![Grouped product](./imgpart3/it_img542.png?raw=true)
 
 Complete the basic settings
 
@@ -2513,16 +2514,16 @@ Complete the basic settings
 Then, click **Save to continue.**
 
  
-![](./imgpart3/it_img543.png?raw=true)
+![Grouped product](./imgpart3/it_img543.png?raw=true)
 **Add product to Group**.
 
-![](./imgpart3/it_img544.png?raw=true)
+![Add product to Group](./imgpart3/it_img544.png?raw=true)
 
 (1)	Select product that you want to include in the group.
 
 (2)	Click to add them to group.
  
-![](./imgpart3/it_img545.png?raw=true)
+![Add product to Group](./imgpart3/it_img545.png?raw=true)
 
 (1)	Enter a quantity.
 
@@ -2531,7 +2532,7 @@ Then, click **Save to continue.**
 Click **Save** to finish the process.
 
  
-![](./imgpart3/it_img546.png?raw=true)
+![Add product to Group](./imgpart3/it_img546.png?raw=true)
 
 Complete the product information
 
@@ -2542,15 +2543,15 @@ Aside from the absence of the Weight field, the process of creating a virtual pr
 **Bundle product**
 
  
-![](./imgpart3/it_img547.png?raw=true)
+![Bundle product](./imgpart3/it_img547.png?raw=true)
 
 In the upper-right corner on the Add Product menu, choose Grouped Product.
  
-![](./imgpart3/it_img548.png?raw=true)
+![Bundle product](./imgpart3/it_img548.png?raw=true)
 
 Choose the attribute set that is used as a template for the product
  
-![](./imgpart3/it_img549.png?raw=true)
+![Bundle product](./imgpart3/it_img549.png?raw=true)
 
 Complete the required setting
 
@@ -2563,7 +2564,7 @@ Complete the required setting
 Then, Click **Save to continue**.
 
  
-![](./imgpart3/it_img550.png?raw=true)
+![Bundle product](./imgpart3/it_img550.png?raw=true)
 
 Complete the basic settings
 (1)	Set Tax Class to one of the following:
@@ -2590,7 +2591,7 @@ Complete the basic settings
 
 Finally, click **Save** to continue.
  
-![](./imgpart3/it_img551.png?raw=true)
+![Bundle product](./imgpart3/it_img551.png?raw=true)
 
 Add **Bundle items**
 
@@ -2601,7 +2602,7 @@ Scroll down to the **Bundle Items** section. Then, set **Ship Bundle Items** one
 
 Click **Add Option**
  
-![](./imgpart3/it_img552.png?raw=true)
+![Bundle product](./imgpart3/it_img552.png?raw=true)
 
 (1)	**Option Title** to be used field label.
 
@@ -2616,13 +2617,13 @@ Click **Add Option**
 
 (4)	Tap **Add Products to Option**, then mark the checkbox of each product that you want to include in this option.
  
-![](./imgpart3/it_img553.png?raw=true)
+![Bundle product](./imgpart3/it_img553.png?raw=true)
 
 Mark the checkbox of each product.
 
 Click **Add Selected Products**, you will see.
  
-![](./imgpart3/it_img554.png?raw=true)
+![Bundle product](./imgpart3/it_img554.png?raw=true)
 
 (1)	Mark the checkbox of a product that you want it is default.
 
@@ -2630,23 +2631,23 @@ Click **Add Selected Products**, you will see.
 
 Finally, click **Save**.
  
-![](./imgpart3/it_img555.png?raw=true)
+![Bundle product](./imgpart3/it_img555.png?raw=true)
 
 Complete products information
 
 
 **Downloadable product**
  
-![](./imgpart3/it_img556.png?raw=true)
+![Downloadable product](./imgpart3/it_img556.png?raw=true)
 
 In the upper-right corner on the Add Product menu, choose Grouped Product.
 
  
-![](./imgpart3/it_img557.png?raw=true)
+![Downloadable product](./imgpart3/it_img557.png?raw=true)
 
 Choose **Downloadable** as the **attribute set**
  
-![](./imgpart3/it_img558.png?raw=true)
+![Downloadable product](./imgpart3/it_img558.png?raw=true)
 
 Complete the required setting
 
@@ -2658,7 +2659,7 @@ Complete the required setting
 
 Then, Click **Save** to continue.
  
-![](./imgpart3/it_img559.png?raw=true)
+![Downloadable product](./imgpart3/it_img559.png?raw=true)
 
 Complete the basic settings
 
@@ -2687,7 +2688,7 @@ Complete the basic settings
 Then, click **Save** to continue.
 
  
-![](./imgpart3/it_img560.png?raw=true)
+![Downloadable product](./imgpart3/it_img560.png?raw=true)
 
 Complete **downloadable product.**
 
@@ -2706,7 +2707,7 @@ Complete **downloadable product.**
    to the download file.
 
  
-![](./imgpart3/it_img561.png?raw=true)
+![Downloadable product](./imgpart3/it_img561.png?raw=true)
 
 Complete the **Sample**.
 
@@ -2720,7 +2721,7 @@ Complete the **Sample**.
 
 When complete, click **Save**.
  
-![](./imgpart3/it_img562.png?raw=true)
+![Downloadable product](./imgpart3/it_img562.png?raw=true)
 
 Complete the product information
 
@@ -2728,7 +2729,7 @@ Complete the product information
 
 **a)	Content**
  
-![](./imgpart3/it_img563.png?raw=true)
+![Product settings](./imgpart3/it_img563.png?raw=true)
 
 (1)	Click on **Products**
 
@@ -2736,45 +2737,45 @@ Complete the product information
 
 (3)	Click on **Edit**
  
-![](./imgpart3/it_img564.png?raw=true)
+![Product settings](./imgpart3/it_img564.png?raw=true)
 
 Scroll down to **Content**, and click on  , then write the description for the product, and the click **Save** on top right of the screen
 
 **b)	Images and Videos**
  
-![](./imgpart3/it_img565.png?raw=true)
+![Product settings](./imgpart3/it_img565.png?raw=true)
 
  - Click on **products**
  - Click on **catalog**
  - Click on **edit** of product
 
-![](./imgpart3/it_img566.png?raw=true)
+![Product settings](./imgpart3/it_img566.png?raw=true)
 
 Scroll down to **Images And Videos**, and click on  , then click on **Browse to find or drag image here to upload new image**
  
-![](./imgpart3/it_img567.png?raw=true)
+![Product settings](./imgpart3/it_img567.png?raw=true)
 
 Click on **Add Video** to add new video
  
-![](./imgpart3/it_img568.png?raw=true)
+![Product settings](./imgpart3/it_img568.png?raw=true)
 
 Fill in the box and the click on **Choose File** to upload new video
  
 **c)	Search Engine Optimization**
  
-![](./imgpart3/it_img569.png?raw=true)
+![Search Engine Optimization](./imgpart3/it_img569.png?raw=true)
 
  - Click on **Products**
  - Click on **Catalog**
  - Click on **Edit** of product
 
-![](./imgpart3/it_img570.png?raw=true)
+![Search Engine Optimization](./imgpart3/it_img570.png?raw=true)
 
 Scroll down to search **Engine Optimization,** and click on  , then fill in the box
 
 **d)	 Related Products, Up-sells and Cross-sells** 
  
-![](./imgpart3/it_img571.png?raw=true)
+! [Related Products, Up-sells and Cross-sells](./imgpart3/it_img571.png?raw=true)
 
 o	Click on respectively
 1.	**Add Related Products**
@@ -2782,20 +2783,20 @@ o	Click on respectively
 3.	**Add Cross-sell Products**
 
  
-![](./imgpart3/it_img572.png?raw=true)
+![Related Products, Up-sells and Cross-sells](./imgpart3/it_img572.png?raw=true)
 
 (2)Mark the checkbox to select products
 
 (3)Click on **Add Selected Product**
  
-![](./imgpart3/it_img573.png?raw=true)
+![Related Products, Up-sells and Cross-sells](./imgpart3/it_img573.png?raw=true)
 
 Click on **Save** to finish
 
  
 **e)	Customizable Options**
  
-![](./imgpart3/it_img574.png?raw=true)
+![Customizable Options](./imgpart3/it_img574.png?raw=true)
 
 This function allows users to set and manage extra price for each product's variant separately.
 
@@ -2823,20 +2824,20 @@ To remove a value, click  on the right hand-side of the column
 
 **f)	Gift Option**
  
-![](./imgpart3/it_img575.png?raw=true)
+![Gift Option](./imgpart3/it_img575.png?raw=true)
 
  - Click on **Products**
  - Click on **Catalog**
  - Click on **Edit of a product**
 
  
-![](./imgpart3/it_img576.png?raw=true)
+![Gift Option](./imgpart3/it_img576.png?raw=true)
 
 Scroll down to **Gift Option**, and click  on  , then set the allow gift massage to **Yes**
 
 **g)	Downloadable Information**
  
-![](./imgpart3/it_img577.png?raw=true)
+![Downloadable Information](./imgpart3/it_img577.png?raw=true)
 
 (1)	Mark the checkbox
 
@@ -2868,7 +2869,7 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 
 **h)	Barcode**
  
-![](./imgpart3/it_img578.png?raw=true)
+![Barcode](./imgpart3/it_img578.png?raw=true)
 
 -	Enter barcode 
 -	Select a barcode template and see the preview as below 
@@ -2877,10 +2878,10 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 
 **i)	Suppliers**
  
-![](./imgpart3/it_img579.png?raw=true)
+![Suppliers](./imgpart3/it_img579.png?raw=true)
 
  
-![](./imgpart3/it_img580.png?raw=true)
+![Suppliers](./imgpart3/it_img580.png?raw=true)
 
 (1)	Click on **Add Supplier**
 
@@ -2888,7 +2889,7 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 
 (3)	Click on **Add Selected Supplier**
  
-![](./imgpart3/it_img581.png?raw=true)
+![Suppliers](./imgpart3/it_img581.png?raw=true)
 
 (4)	Enter the **Supplier SKU, Cost, Tax**
 
@@ -2902,7 +2903,7 @@ Path: **Customer > All customers**
 
 ##### 	Manage customers
 
-![](./imgpart3/it_img582.png?raw=true)
+![Manage customers](./imgpart3/it_img582.png?raw=true)
 
 (1)	Click **Add New Customer** to create new customer.
 
@@ -2920,11 +2921,11 @@ Path: **Customer > All customers**
 
 #### Create a new customer
 
-![](./imgpart3/it_img583.png?raw=true)
+![Create a new customer](./imgpart3/it_img583.png?raw=true)
 
 Click **Add New Customer.**
 
-![](./imgpart3/it_img584.png?raw=true)
+![Create a new customer](./imgpart3/it_img584.png?raw=true)
 
 Fill out all the required fields with information of a customer.
 
@@ -2938,7 +2939,7 @@ Fill out all the required fields with information of a customer.
 
 •	Email.
 
-![](./imgpart3/it_img585.png?raw=true)
+![Create a new customer](./imgpart3/it_img585.png?raw=true)
 
 Click **Save Customer** to complete the process.
 
@@ -2950,13 +2951,13 @@ Click **Save Customer** to complete the process.
 
 Path: **Purchase Management > Supplier** section **> Manage Suppliers**
 
-![](./imgpart3/it_img586.png?raw=true)
+![How to create a new supplier](./imgpart3/it_img586.png?raw=true)
 
 *On the screen listing suppliers:*
 
 (1)	Click on **Add New Suppliers** to create a new supplier’s contact
 
-![](./imgpart3/it_img587.png?raw=true)
+![How to create a new supplier](./imgpart3/it_img587.png?raw=true)
 
 (2)	Fill in all the required fields, including: 
 
@@ -2970,7 +2971,7 @@ Path: **Purchase Management > Supplier** section **> Manage Suppliers**
 
 (3)	Choose **Enable** to activate the suppliers.
 
-![](./imgpart3/it_img588.png?raw=true)
+![How to create a new supplier](./imgpart3/it_img588.png?raw=true)
 
 *Scroll down to fulfil the following stages:*
 
@@ -2983,7 +2984,7 @@ Path: **Purchase Management > Supplier** section **> Manage Suppliers**
 
 ##### 	Add products to suppliers 
 
-![](./imgpart3/it_img589.png?raw=true)
+![Add products to suppliers](./imgpart3/it_img589.png?raw=true)
 
 On the extended screen named **Products**:
 
@@ -3006,7 +3007,7 @@ On the extended screen named **Products**:
 
 Path:  **Purchase Management > Supplier** section **> Manage Suppliers**
 
-![](./imgpart3/it_img590.png?raw=true)
+![Edit an existing supplier](./imgpart3/it_img590.png?raw=true)
 
 Click on **View** to access the supplier’s detailed information. Then start editing.
 
@@ -3027,13 +3028,13 @@ Pricelist Management provides users lots of benefits mentioned as below:
 
 •	Create pricelists in multiple currencies
 
-![](./imgpart3/it_img591.png?raw=true)
+![Manage Pricelist](./imgpart3/it_img591.png?raw=true)
 
 (1)	Click on **Add Pricelist** to make a document listing multiple prices.
 
 ***Note:** You also can prepare a Pricelist on your device then import it to system by tabbing **Import Pricelist.***
 
-![](./imgpart3/it_img592.png?raw=true)
+![Manage Pricelist](./imgpart3/it_img592.png?raw=true)
 
 (2)	Select a supplier (require)
 
@@ -3054,7 +3055,7 @@ Pricelist Management provides users lots of benefits mentioned as below:
 
 Path: **Purchase Management > Supplier** section **> Manage Pricelist**
 
-![](./imgpart3/it_img593.png?raw=true)
+![Edit a pricelist](./imgpart3/it_img593.png?raw=true)
 
 (1)	Make double clicks on the label **Product SKU**
 
@@ -3067,32 +3068,32 @@ Path: **Purchase Management > Supplier** section **> Manage Pricelist**
 
 Path: **Stores > Setting** section > **Configuration > Sales > Shipping Method**
 
-![](./imgpart3/it_img594.png?raw=true)
+![How to manage delivery partner](./imgpart3/it_img594.png?raw=true)
 
 Click on the button and start to configure the data needed (flat rate, delivery partners, …)
 
-![](./imgpart3/it_img595.png?raw=true)
+![How to manage delivery partner](./imgpart3/it_img595.png?raw=true)
 
 Edit each line in **flat rate**, then click on the box next to that line after finishing (E.g: choose **Yes** in the first line to enable flat rate, change the price in the fifth line)
 
-![](./imgpart3/it_img596.png?raw=true)
+![How to manage delivery partner](./imgpart3/it_img596.png?raw=true)
 
 Edit each line in **web POS shipping**, (E.g: choose **Yes** in the first line to enable web POS shipping, change the price in the bottom line)
 
- ![](./imgpart3/it_img597.png?raw=true)
+ ![How to manage delivery partner](./imgpart3/it_img597.png?raw=true)
 
 Edit each line in **free shipping**, then click on the box next to that line after finishing (E.g: choose **Yes** in the first line to enable flat rate, Choose the country to apply free shipping in the 6th and 7th  line)
 
-![](./imgpart3/it_img598.png?raw=true)
+![How to manage delivery partner](./imgpart3/it_img598.png?raw=true)
 
 Edit each line in the **table rate**, then click on the box next to that line after finishing. 
 Eg: choose **Yes** in the first line to active the function
 
-![](./imgpart3/it_img599.png?raw=true)
+![How to manage delivery partner](./imgpart3/it_img599.png?raw=true)
 
 Edit each line of the session of each Delivery partner ( UPS, UPSS, FedEx, DHL)
 
-![](./imgpart3/it_img600.png?raw=true)
+![How to manage delivery partner](./imgpart3/it_img600.png?raw=true)
 
 Click on **Save Config** to save all the changes and configurations
 
@@ -3102,16 +3103,16 @@ Click on **Save Config** to save all the changes and configurations
 
 Path: **Inventory Management > Stock Listing** section **> Warehouses**
 
-![](./imgpart3/it_img601.png?raw=true)
+![How to create a new warehouse](./imgpart3/it_img601.png?raw=true)
 
 The admin user with full **access permissions** in Role Resources 
 **(System → Permissions →Roles)** creates new warehouses.
 
 Click on **Add a new warehouse** at the top-right corner
 
-![](./imgpart3/it_img602.png?raw=true)
+![How to create a new warehouse](./imgpart3/it_img602.png?raw=true)
 
-![](./imgpart3/it_img603.png?raw=true)
+![How to create a new warehouse](./imgpart3/it_img603.png?raw=true)
 
 **General Information**
 
@@ -3129,7 +3130,7 @@ Fill in all the required fields with information of a warehouse.
 
 Click on the **Arrow Button**, then choose **Save and Continue**
 
-![](./imgpart3/it_img604.png?raw=true)
+![General Informatio](./imgpart3/it_img604.png?raw=true)
 
 *On the pop-up screen:*
 
@@ -3141,13 +3142,13 @@ Click on the **Arrow Button**, then choose **Save and Continue**
 
 Path: **Inventory Management > Stock Listing** section **> Warehouses**
 
-![](./imgpart3/it_img605.png?raw=true)
+![Warehouse Master Data](./imgpart3/it_img605.png?raw=true)
 
 Admin Users want to check the master data. 
 
 Follow the path then on the pop-up screen, click on **View** to see the warehouse’s detailed information.
 
-![](./imgpart3/it_img606.png?raw=true)
+![Warehouse Master Data](./imgpart3/it_img606.png?raw=true)
 
 On the right side of each master data tab, click on the Arrow button 
 to access the data:
@@ -3166,19 +3167,19 @@ to access the data:
 
 Path: **Inventory Management > Stock Listing** section **> Warehouses**
 
-![](./imgpart3/it_img607.png?raw=true)
+![Warehouse Permission](./imgpart3/it_img607.png?raw=true)
 
 After created a warehouse, Admin Users give different warehouse access permissions to different (admin) users.
 
 Click on **View** to see the warehouse’s detail information 
 
-![](./imgpart3/it_img608.png?raw=true)
+![Warehouse Permission](./imgpart3/it_img608.png?raw=true)
 
 (9) On the right side of **the   Warehouse Permission** tab, click on **(0) Assign Staff** to give different warehouse access permissions.
 
 *Then will be a new pop-up screen shown as below:*
 
-![](./imgpart3/it_img609.png?raw=true)
+![Warehouse Permission](./imgpart3/it_img609.png?raw=true)
 
 Select Staff users to assign permission
 
@@ -3188,7 +3189,7 @@ Select Staff users to assign permission
 
 (3)Click on **Add Selected Staff**
 
-![](./imgpart3/it_img610.png?raw=true)
+![Warehouse Permission](./imgpart3/it_img610.png?raw=true)
 
 (4)Then click on **Save Staff Permissions**
 
@@ -3199,13 +3200,13 @@ Select Staff users to assign permission
 
 Path: **Sales > Web POS** section > **Manage Locations**
 
-![](./imgpart3/it_img611.png?raw=true)
+![Add a new location](./imgpart3/it_img611.png?raw=true)
 
 (1)Click on **Add Location** to create new locations
 
 (2)*Additional Guidance:* Click on **Edit** to amend existing locations’ information.
 
-![](./imgpart3/it_img612.png?raw=true)
+![Add a new location](./imgpart3/it_img612.png?raw=true)
 
 *On the pop-up screen:*
 
@@ -3223,15 +3224,15 @@ Path: **Sales > Web POS** section **> Manage Locations**
 
 In this phase, you can change the link between your current locations and current warehouses by mapping your locations to other warehouses.
 
-![](./imgpart3/it_img613.png?raw=true)
+![Mapping Locations – Warehouses](./imgpart3/it_img613.png?raw=true)
 
 On the pop-up screen, click on **Mapping Locations – Warehouses**
 
-![](./imgpart3/it_img614.png?raw=true)
+![Mapping Locations – Warehouses](./imgpart3/it_img614.png?raw=true)
 
 (1)Click on **Choose Location**
 
-![](./imgpart3/it_img615.png?raw=true)
+![Mapping Locations – Warehouses](./imgpart3/it_img615.png?raw=true)
 
 *On the pop-up screen:*
 
@@ -3241,7 +3242,7 @@ On the pop-up screen, click on **Mapping Locations – Warehouses**
 
 (4)Click on **Add Selected Locations**
 
-![](./imgpart3/it_img616.png?raw=true)
+![Mapping Locations – Warehouses](./imgpart3/it_img616.png?raw=true)
 
 (5)Select an appropriate Warehouse
 
@@ -3253,11 +3254,11 @@ On the pop-up screen, click on **Mapping Locations – Warehouses**
 
 ##### Create a new Web POS
 
-![](./imgpart3/it_img617.png?raw=true)
+![Create a new Web POS](./imgpart3/it_img617.png?raw=true)
 
 Click **Add POS**
 
-![](./imgpart3/it_img618.png?raw=true)
+![Create a new Web POS](./imgpart3/it_img618.png?raw=true)
 
 Fill out or select all the required fields.
 
@@ -3273,7 +3274,7 @@ Fill out or select all the required fields.
 
 (6)**When checked:** another staff can use the POS when it is available.
 
-![](./imgpart3/it_img619.png?raw=true)
+![Create a new Web POS](./imgpart3/it_img619.png?raw=true)
 
 Click **Save** to complete the process.
 
@@ -3286,7 +3287,7 @@ Click **Save** to complete the process.
 
 Path: **Sale > Web POS** section **> Manage POS**
 
-![](./imgpart3/it_img620.png?raw=true)
+![Manage Web POS](./imgpart3/it_img620.png?raw=true)
 
 (1)	Click **Add POS** to create new POS.
 
