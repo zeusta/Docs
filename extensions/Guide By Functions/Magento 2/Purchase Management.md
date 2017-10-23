@@ -32,15 +32,15 @@ To add a new supplier to the system, you should go to **Purchase Management => M
 
 •	Supplier Information: Supplier Code, Supplier Name, Contact Person and Email are required fields. You should add description for each supplier to differentiate between this supplier and the rest. Do not forget to enable the supplier.
 
-![](./purchaseimages/pm2.png)
+![newsupplier](./purchaseimages/pm2.png)
 
 •	Supplier Address: This field contains all address information of the supplier. Since fields here are optional, you do not have to fill all of them.
 
-![](./purchaseimages/pm3.png)
+![newsupplier](./purchaseimages/pm3.png)
 
 Choose **Save** to finish entering supplier information. Now you need to assign products to this supplier. After you click on **Save** button, your screen will appear as following:
 
-![](./purchaseimages/pm4.png)
+![newsupplier](./purchaseimages/pm4.png)
 
 There are two ways to assign products to the supplier: Add product manually and import products with a csv file. If you choose to upload products manually, remember to enter related information for each one: Supplier SKU, Cost and Tax. Otherwise, importing products in mass is recommended. A csv file sample is offered. In case you have a mistake on importing products, Delete Product button can help.
 
@@ -50,7 +50,7 @@ There are two ways to assign products to the supplier: Add product manually and 
 
 To have an overview of Supplier, go to **Purchase Management => Manage Supplier**. Each warehouse comes with Supplier Code, Total SKU,  Purchase Order Value, Status and Date for last purchase order. You can view or click to edit the detail of each one.
 
-![](./purchaseimages/pm5.png)
+![managesupplier](./purchaseimages/pm5.png)
 
 
 ### Manage pricelist
@@ -59,7 +59,7 @@ To have an overview of Supplier, go to **Purchase Management => Manage Supplier*
 “**Pricelist** is a list of prices for the goods offered by a supplier. It usually consists of Minimal Qty and Cost”
 Go to **Purchase Management => Manage Pricelist**
 
-![](./purchaseimages/pm6.png)
+![pricelist](./purchaseimages/pm6.png)
 
 There are two ways to add pricelist into the system:
 
@@ -74,7 +74,7 @@ There are two ways to add pricelist into the system:
 There is only one thing you need to configure for Supplier. Please go to **Purchase Management => Supplier** (in Settings 
 section):
 
-![](./purchaseimages/pm7.png)
+![suppliersetting](./purchaseimages/pm7.png)
 
 If you choose Yes the system will automatically use and update cost from pricelist to purchase order. 
 
@@ -96,7 +96,7 @@ To create a new quotation, please go to **Purchase Management => Create Quotatio
 
 After choose to create a new quotation, you will be navigated to this view: 
 
-![](./purchaseimages/pm8.png)
+![Generalinformation](./purchaseimages/pm8.png)
 
 As can be seen, it is compulsory to choose Created Time and Supplier for the pricelist. Tick on the box next to Send Email to Supplier if you want an email to be automatically sent to supplier address (This email address can be changed in **Manage Supplier** section). Also, adding further comments is allowed here.
 
@@ -118,11 +118,11 @@ In this step, there are 5 ways for you to prepare product list:
 
 •	Prepare product list manually with All Supplier Products button
 
-![](./purchaseimages/pm9.png)
+![productlist](./purchaseimages/pm9.png)
 
 Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After enter all required fields, click **Save** button and Order Totals is automatically calculated.
 
-![](./purchaseimages/pm10.png)
+![productlist](./purchaseimages/pm10.png)
 
 
 #### Edit Shipping and Payment method
@@ -130,7 +130,7 @@ Apart from importing products via a CSV file, you need to enter Purchase Cost, T
 
 It is time to set up Shipping and Payment method for the quotation:
 
-![](./purchaseimages/pm11.png)
+![shippingandpaymen](./purchaseimages/pm11.png)
 
 •	Enter the address you want the stock to be shipped to
 
@@ -150,7 +150,7 @@ After filling out the form
 
 2) To do more update about products information, click on **Revert Quotation** and you will be brought back to the previous step and enable to update products information. Later on, you will receive quotations from suppliers and compare their RFQ.
 
-![](./PM2images/image017.png)
+![shippingandpayment](./PM2images/image017.png)
 
 
 ### Manage Quotation
@@ -158,7 +158,7 @@ After filling out the form
 
 To manage all created quotation, please go to **Purchase Management => Quotation**:
 
-![](./purchaseimages/pm13.png)
+![managequotation](./purchaseimages/pm13.png)
 
 There is a shortcut to create a new quotation. 
 
@@ -173,7 +173,7 @@ Each quotation is listed with some related information: Created Date, Supplier, 
 
 To create/ edit purchase orders, manage deliveries from suppliers to warehouses and return items from warehouses to suppliers, go to **Purchase Management => Purchase Order**. Then you will see the **Manage Purchase Orders** page as follows:
 
-![](./purchaseimages/pm14.png)
+![PO](./purchaseimages/pm14.png)
 
 
 ### Create a New Purchase Order Manually 
@@ -189,7 +189,7 @@ When creating Purchase Order, you will see a tab showing steps at which Purchase
 
 In this tab, you should configure all the required fields marked with a red star, such as Created Time and Supplier.
 
-![](./purchaseimages/pm15.png)
+![Generalinformation](./purchaseimages/pm15.png)
 
 There are several optional fields to help you add extra information to your purchase order:
 
@@ -214,11 +214,11 @@ In this step, there are 5 ways for you to prepare product list:
 
 •	Prepare product list manually with **All Supplier Products** button
 
-![](./purchaseimages/pm16.png)
+![productlist](./purchaseimages/pm16.png)
 
 Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After enter all required fields, click **Save** button and Order Totals is automatically calculated.
 
-![](./purchaseimages/pm17.png)
+![productlist](./purchaseimages/pm17.png)
 
 
 #### Setting Shipping and Payment
@@ -226,7 +226,7 @@ Apart from importing products via a CSV file, you need to enter Purchase Cost, T
 
 It is time to set up Shipping and Payment method for the purchase order:
 
-![](./purchaseimages/pm18.png)
+![shippingandpayment](./purchaseimages/pm18.png)
 
 •	Enter the address you want the stock to be shipped to
 
@@ -250,7 +250,7 @@ You should double-check all information before confirming purchase order. After 
 
 When the purchase order is processing, you can be navigated to the following view and receive or return items:
 
-![](./purchaseimages/pm19.png)
+![receiveditems](./purchaseimages/pm19.png)
 
 There are five tabs on this view:
 
@@ -260,14 +260,14 @@ There are five tabs on this view:
 
 All information you entered in the previous steps will be summarized here: Created Time, Supplier, Payment Method, Shipping Method and Selected Products.
 
-![](./purchaseimages/pm20.png)
+![information](./purchaseimages/pm20.png)
 
 
 #### Received Items
 
 This tab shows all items in the purchase order you received. Each product goes with detail information: Receive Date, SKU, Product Name, Received Qty and Created By.
 
-![](./purchaseimages/pm21.png)
+![receiveditems](./purchaseimages/pm21.png)
 
 There are two ways to receive items: **Receive Items** (This method is most suitable when you use partial shipment. You need to enter the receive date, select received products and fill Received Qty for each product) and **Receive All Items** (All products will be noted as received).
 
@@ -279,7 +279,7 @@ There are two ways to receive items: **Receive Items** (This method is most suit
 
 If you only want to return some items in the purchase order, you can create a partial return by clicking on the **Return Order** button. The **Returned Product** page is as below:
 
-![](./purchaseimages/pm22.png)
+![returneditems](./purchaseimages/pm22.png)
 
 You need to enter the return date, select returned products and fill Returned Qty for each product. After that, you click on the Save button to save your work. The system will automatically subtracted the returned Qty. that you entered from the corresponding warehouse’s inventory. Now, you can see the records of all returned items shown in the **Return Orders** tab.
 
@@ -289,22 +289,22 @@ You need to enter the return date, select returned products and fill Returned Qt
 
 Multiple invoices can be created by products for one purchase order. When you click on **Create an Invoice** button, the **Create Invoice** page will be shown like below:
 
-![](./purchaseimages/pm23.png)
+![invoices](./purchaseimages/pm23.png)
 
 You need to enter the billed date, select products and fill billed Qty, unit price, tax and discount for each product you want to create invoice for. After that, you click on the **Save** button to save your work. Now, you can see the records of all invoices shown in the **Invoices** tab.
 
-![](./purchaseimages/pm24.png)
+![invoices](./purchaseimages/pm24.png)
 
 
 #### Transferred items
 
 After receiving products, you can transfer them to warehouses. Here is what we got in **Transferred Items** tab:
 
-![](./purchaseimages/pm25.png)
+![transferreditems](./purchaseimages/pm25.png)
 
 After clicking on **Transfer Product to Warehouse** button, you need to enter the transferred date, warehouse, select products and fill transferred Qty for each product you want to transfer. After that, you click on the **Save** button to save your work. Now, you can see the records of all transferred products in the **Transferred** Items tab.
 
-![](./purchaseimages/pm26.png)
+![transferreditems](./purchaseimages/pm26.png)
 
 
 #### Shipping and Payment
@@ -324,7 +324,7 @@ From this tab, you can view and edit general information for the purchase order.
 
 You can complete a purchase order by choosing **Complete PO** button. After completing PO, the status will be changed to **Completed**
 
-![](./purchaseimages/pm27.png)
+![createPO](./purchaseimages/pm27.png)
 
 You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you still transfer received items into warehouses after that.
 
@@ -333,7 +333,7 @@ You can complete a purchase order even when you have not received all requested 
 
 If you want to generate Purchase Order from Quotation, please go to **Purchase Management => Quotations**, click to choose a pending quotation. Then choose **Convert Quotation to PO** button.
 
-![](./PM2images/image017.png)
+![generalinformation](./PM2images/image017.png)
 
 After that, a new purchase order is generated. Now you can:
 
@@ -355,7 +355,7 @@ There are 4 tabs to configure Purchase Management: Shipping method, Payment meth
 
 This tab allows you to add/edit or delete Shipping methods for purchase orders. Click on **Add**, enter name of the shipping method and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a shipping method. After all, do no forget to choose **Save Config** to save your work.
 
-![](./purchaseimages/pm29.png)
+![shippingmethod](./purchaseimages/pm29.png)
 
 
 #### Payment Method
@@ -363,7 +363,7 @@ This tab allows you to add/edit or delete Shipping methods for purchase orders. 
 
 This tab allows you to add/edit or delete Payment methods for purchase orders. Click on **Add**, enter name of the payment method and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a payment method. After all, do no forget to choose **Save Config** to save your work.
 
-![](./purchaseimages/pm30.png)
+![paymentmethod](./purchaseimages/pm30.png)
 
 
 #### Payment Terms
@@ -371,7 +371,7 @@ This tab allows you to add/edit or delete Payment methods for purchase orders. C
 
 This tab allows you to add/edit or delete Payment terms for purchase orders. Click on **Add**, enter name of the payment term and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a payment term. After all, do no forget to choose **Save Config** to save your work.
 
-![](./purchaseimages/pm31.png)
+![paymentterms](./purchaseimages/pm31.png)
 
 
 #### Tax & Shipping
@@ -379,7 +379,7 @@ This tab allows you to add/edit or delete Payment terms for purchase orders. Cli
 
 This tab allows you to edit Tax & Shipping for purchase orders. You need to uncheck all box next to **Use system value** before configure fields
 
-![](./purchaseimages/pm32.png)
+![taxandshipping](./purchaseimages/pm32.png)
 
 •	Default Shipping Cost: If you enter an shipping amount here, all purchase orders will automatically use this shipping cost as default. If you want to set different shipping cost for different purchase orders, leave this field blank
 
@@ -392,11 +392,11 @@ This tab allows you to edit Tax & Shipping for purchase orders. You need to unch
 
 In order to request a product return, go to **Purchase Management >  Return Request Management > Return Requests**
 
-![](Returnorderimages/image001.png)
+![createRO](Returnorderimages/image001.png)
 
 You will be led to the **Create Return Request** page
 
-![](Returnorderimages/image003.png)
+![createRO](Returnorderimages/image003.png)
 1) Return progress is controlled in 4 steps:<br/>
 	* New: input general information of the return process<br/>	
 	* Pending: create the list of products to return to supplier<br/>
@@ -412,7 +412,7 @@ You will be led to the **Create Return Request** page
 
 6) Click **Prepare Product List** to move to the next step
 
-![](Returnorderimages/image005.png)
+![returnorder](Returnorderimages/image005.png)
 
 On **Pending** step:
 
@@ -433,7 +433,7 @@ On **Pending** step:
 
 After adding products, you can edit product quantity to return:
 
-![](Returnorderimages/image007.png)
+![returnorder](Returnorderimages/image007.png)
 
 1) Select products to edit
 
@@ -444,13 +444,13 @@ After adding products, you can edit product quantity to return:
 ### Complete Return Order
 
 After validating the products, inventory staff can process with the product receipt:
-![](Returnorderimages/image009.png)
+![completeRO](Returnorderimages/image009.png)
 
 1) Click **Complete PO** to finish the Return request.
 
 2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
 
-![](Returnorderimages/image011.png)
+![completeRO](Returnorderimages/image011.png)
 
 In **Transfer items** page: 
 
@@ -458,17 +458,17 @@ In **Transfer items** page:
 
 2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
 
-![](Returnorderimages/image013.png)
+![transferitems](Returnorderimages/image013.png)
 
 After selecting products or scanning barcode, you will be sent back to the **Transfer Items** page:
 
-![](Returnorderimages/image015.png)
+![transferitems](Returnorderimages/image015.png)
 
 1) Input the product quantity to transfer (you can transfer partially in multiple times)
 
 2) Click **Save** to continue
 
-![](Returnorderimages/image017.png)
+![returnorder](Returnorderimages/image017.png)
 
 1) Click **Complete PO** to finish the return request
 
