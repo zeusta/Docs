@@ -287,6 +287,7 @@ When the refund order is accepted, follow this step to complete the refund proce
 
  - **Step 2:** 
 1. Select Warehouse where refund goods will be restored. 
+
 2. Input the quality to refund.
 
  ![](./image_Inventory%20M1/image069.png?raw=true)
@@ -365,6 +366,7 @@ The order has been created successfully.
 
  ![](./image_Inventory%20M1/image097.png?raw=true)
 5. Mark the checkbox to send a copy of invoice to customer via email
+
 6. Click on **Submit Invoice** to finalise
 
 ####  Shipments
