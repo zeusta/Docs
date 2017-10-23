@@ -141,7 +141,6 @@ After a new shipment has been created, if you want to print packing slips:
 
 1.	In the **Order** page, click on **Shipments** to open a shipment tab.
 
-
 ![](./Image_EcommerceManagementM1/image020.png)
 
 The **Shipment page** of a particular order will open as above. 
