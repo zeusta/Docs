@@ -106,11 +106,11 @@ To edit a pricelist, go to **Purchase Management > Supplier > Manage Pricelist**
 
 To create a new request for quotation, purchase staff can follow this path: **Purchase Management** > **Quotation Management** > **Create Quotation**
 
-![](image_purchase_manager/image003.png)
+![create quotation](image_purchase_manager/image003.png)
 
 Then the page will be shown as below:
 
-![](image_purchase_manager/image005.png)
+![create quotation](image_purchase_manager/image005.png)
 
 1) Choose **Created Time**<br/>
 2) Choose **Supplier** to ask for quotation. <br/>
@@ -119,7 +119,7 @@ Then the page will be shown as below:
 5) Adding comments is optional.<br/>
 6) Click on **Prepare Product List** for the next step. You will be navigated to  this view:
 
-![](image_purchase_manager/image007.png)
+![create quotation](image_purchase_manager/image007.png)
 
 In this step, there are 5 ways for you to prepare product list:<br/>
 - Import products via a CSV file<br/>
@@ -129,11 +129,11 @@ In this step, there are 5 ways for you to prepare product list:<br/>
 - Prepare product list manually with **All Supplier Products** button<br/>
 Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After entering all required fields, click **Save** button and Order Totals is automatically calculated.
 
-![](image_purchase_manager/image009.png)
+![create quotation](image_purchase_manager/image009.png)
 
 Then, scroll down to set up **Shipping and Payment**
 
-![](image_purchase_manager/image011.png)
+![create quotation](image_purchase_manager/image011.png)
 
 1) Enter the address you want the stock to be shipped to<br/>
 2) Select a shipping method for the quotation<br/>
@@ -148,7 +148,7 @@ After filling all the information, click **Save** to save all changes. You can s
 
 To send Request for Quotation to supplier, purchase staff go to **Purchase Management > Quotation Management**, choose **Quotation** to see quotation list. At the list of quotation, click on **View** at the quotation marked as **“confirmed”**.
 
-![](image_purchase_manager/image017.png)
+![send request for quotation to supplier](image_purchase_manager/image017.png)
 
 On this page, click on **Send Email**. The request for Quotation will be sent to supplier via the email in supplier information.
 
@@ -156,11 +156,11 @@ On this page, click on **Send Email**. The request for Quotation will be sent to
 
 To convert quotation to purchase order, in **View Quotation** page, click on **Convert Quotation to PO**.
 
-![](image_purchase_manager/image017.png)
+![Convert Quotation to Purchase Order](image_purchase_manager/image017.png)
 
 As the quotation is converted to purchase order, you will be navigated to Purchase Order view
 
-![](image_purchase_manager/image018.png)
+![Convert Quotation to Purchase Order](image_purchase_manager/image018.png)
 
 As can be seen, the purchase order is marked as **“pending”**. In this page, you are still able to update the product information as editing is allowed to be done directly in line. After finishing all editing, click on **Save** to save all changes.
 
@@ -168,40 +168,40 @@ As can be seen, the purchase order is marked as **“pending”**. In this page,
 
 To receive products, clicks on **Confirm Purchase Order** on **View Purchase Order** page and you be shown navigated to the detailed page of the Purchase Order
 
-![](image_purchase_manager/image020.png)
+![Receive Products](image_purchase_manager/image020.png)
 
 There are two ways to receive items: <br/>
 1) **Receive All Items**: All products will be noted as received. Each product goes with detailed information including Received Date, SKU, Product Name, Received Qty and Created By.<br/>
 2) **Receive Items**: By clicking on this button, you are able to choose a part of the purchase order. This method is most suitable when you use partial shipment. After selecting products, you need to enter the received date, select received products and fill Received Qty for each product.
 
-![](image_purchase_manager/image024.png)
+![Receive Products](image_purchase_manager/image024.png)
 
 #### Supplier Bill & Payment
 
 To create supplier Bill and Payment, go to **View Purchase Order** page to create an invoice. By clicking on **Invoice** tab, you will see  the form below
 
-![](image_purchase_manager/image032.png)
+![Supplier Bill & Payment](image_purchase_manager/image032.png)
 
 Multiple invoices can be created by products for one purchase order. When you click on **Create an Invoice** button, the **Create an Invoice** page will be shown like below
 
-![](image_purchase_manager/image034.png)
+![Supplier Bill & Payment](image_purchase_manager/image034.png)
 
 1. You need to enter the billed date, <br/>
 2. Select products and fill billed Qty, unit price, tax and discount for each product you want to create an invoice for. <br/>
 3. After that, you click on the **Save** button to save your work. Now, you can see the records of all invoices shown in the **Invoices** tab.
 
-![](image_purchase_manager/image036.png)
+![Invoices](image_purchase_manager/image036.png)
 
 ### Return Products to Supplier
 
 #### Create Return Order
 In order to request a product return, you can follow the path **Purchase Management >  Return Request Management > Return Requests**
 
-![](image_purchase_manager/Purchase-Management-Return-Order-0.jpg)
+![Create Return Order](image_purchase_manager/Purchase-Management-Return-Order-0.jpg)
 
 You will be led to the **Create Return Request** page
 
-![](image_purchase_manager/Purchase-Management-Return-Order-1.png)
+![Create Return Order](image_purchase_manager/Purchase-Management-Return-Order-1.png)
 
 1) Return progress is controlled in 4 steps:<br/>
 	* New: input general information of the return process,<br/>
@@ -214,7 +214,7 @@ You will be led to the **Create Return Request** page
 5) Input return reason (optional)<br/>
 6) Click **Prepare Product List** to move to the next step
 
-![](image_purchase_manager/Purchase-Management-Return-Order-2.png)
+![Create Return Order](image_purchase_manager/Purchase-Management-Return-Order-2.png)
 
 On **Pending** step:<br/>
 1) View general information of the return request that you have input in the previous step.<br/>
@@ -229,7 +229,7 @@ On **Pending** step:<br/>
 
 After adding products, you can edit product quantity to return:
 
-![](image_purchase_manager/Purchase-Management-Return-Order-4.png)
+![Create Return Order](image_purchase_manager/Purchase-Management-Return-Order-4.png)
 
 1) Select products to edit<br/>
 2) Input product quantity to return<br/>
@@ -239,27 +239,27 @@ After adding products, you can edit product quantity to return:
 
 After validating the products, you can process with the product receipt:
 
-![](image_purchase_manager/Purchase-Management-Return-Order-5.png)
+![Confirm Product Delivery](image_purchase_manager/Purchase-Management-Return-Order-5.png)
 
 1) Click **Complete PO** to finish the Return request.<br/>
 2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
 
-![](image_purchase_manager/Purchase-Management-Return-Order-6.png)
+![Confirm Product Delivery](image_purchase_manager/Purchase-Management-Return-Order-6.png)
 
 In **Transfer items** page: <br/>
 1) Input the date of transfer<br/>
 2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
 
-![](image_purchase_manager/Purchase-Management-Return-Order-7.png)
+![Transfer items](image_purchase_manager/Purchase-Management-Return-Order-7.png)
 
 After selecting products or scanning barcode, you will be sent back to the **Transfer Items** page:
 
-![](image_purchase_manager/Purchase-Management-Return-Order-8.png)
+![Transfer items](image_purchase_manager/Purchase-Management-Return-Order-8.png)
 
 1) Input the product quantity to transfer (you can transfer partially in multiple times)<br/>
 2) Click **Save** to continue
 
-![](image_purchase_manager/Purchase-Management-Return-Order-9.png)
+![Transfer items](image_purchase_manager/Purchase-Management-Return-Order-9.png)
 
 1. Click **Complete PO** to finish the return request<br/>
 2. Click **Transfer Items** to continue transferring the rest of received products.<br/>
