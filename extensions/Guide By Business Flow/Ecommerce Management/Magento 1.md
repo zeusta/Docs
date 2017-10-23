@@ -9,7 +9,7 @@ This document and the information it contains constitute a trade secret of Mages
 --------------------------
 
 ## Introduction
-According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%)online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels. 
+According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%) online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels. 
 
 So how retailers can manage their business to maximize sales on online channels in the emerging technology world? 
 
@@ -186,8 +186,6 @@ To add new list of products:
 1.	Click on the product needed 
 
 2.	Choose the quantity to transfer
-
-
 
 3.	Click on  **Start to Request**
 
@@ -706,7 +704,7 @@ On this page, you can change the number of earning points for each product by 2 
 
 Please note that Earning Points for products takes priority over catalog rules, and shopping cart rules may still apply.
 
-##### Mange Speanding Rate and Rule
+##### Mange Spending Rate and Rule
 ###### Manage Spending Rate
 
 **Path: Backend > Reward Points > Spending > Spending rates**
@@ -811,7 +809,6 @@ For example, if you want to configure that Customers need to spend at least 5 po
 ✓ Choose **Action**: Discount for every X points 
 
 ✓ Fill in field **Points** (X): 5 
-
 
 ➪  With every 5 points customers spent, they can receive a corresponding discount. For example, 5 points can be spent to get $1, 10 points can get $2 and so on.
 
