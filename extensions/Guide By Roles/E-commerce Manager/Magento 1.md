@@ -462,8 +462,8 @@ You should pay attention to these following fields:
 5.	**Customer Group**: Select types of customers you want to apply the rule. 
 
  6,7. **Validate from** and **Validate to**: These fields are used to configure the effective time of the rule.
- 
- 8.**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
+
+8.**Priority**: This field allows you to set up the priority level for every catalog rule. If there are many rules, then the one with the highest priority will be applied first.
 
 
 **Conditions tab**: 
@@ -1682,7 +1682,6 @@ Fill in the required fields:
 5.	Enter a Weight
 
 6,7. Set a period of time when a Gift Card is new
-
 9.	Select **Active** to enable the New Gift Card. 
 
 10.	Enter an **URL Key**
@@ -1834,12 +1833,14 @@ If you enter GIFT-[A.4]-[AN.6] as the sample, the system will auto-create a bunc
 5.	Expired on: Set the expiration date for gift codes 
 
 
-6.	Template image: Select template image for gift code
+6.	Template: Select a template
 
-7.	Gift code Qty: Enter the number of gift codes generated based on the pattern above. 
+7.	Template image: Select template image for gift code
+
+8.	Gift code Qty: Enter the number of gift codes generated based on the pattern above. 
 
 
-8.	 Store View: Set places where customers can use the gift code 
+9.	 Store View: Set places where customers can use the gift code 
 
 **Conditions tab**: 
 
@@ -2090,7 +2091,7 @@ You can refer to section **Use points to create orders in backend** - Reward Poi
 ######  Use points when creating orders in Web POS
 
 -	**How to earn points**
--	
+
 
 ![](./Image_EcommerceManagementM1/image418.png)
 
@@ -2203,7 +2204,6 @@ Go to section **Refund  Orders into Credit balance in backend** - Store Credit p
 
 **Path: Orders > Orders History > Select an order to refund**
 
-
 ![](./Image_EcommerceManagementM1/image442.png)
 
 1.	Click on “**Refund**”
@@ -2212,9 +2212,7 @@ On the pop-up screen:
  
 ![](./Image_EcommerceManagementM1/image444.png)
 
-
 2.	Enter the number of money to refund into **Store Credit** balance box.
-
 
 3.	Click on “**Submit Refund**” to complete.
 
@@ -2248,9 +2246,7 @@ To use Gift code to place a new order on Checkout Page (Web POS):
 
 2.	Click on “**Apply**” button.
 
-
 ![](./Image_EcommerceManagementM1/image448.png)
-
 
 Then select a payment method (such as: Credit Card) 
 
@@ -2266,6 +2262,7 @@ There are 2 ways to apply  gift codes  to refund orders into Gift Card credit ba
 ######  Refund orders into Gift Card credit balance in backend
 
 Go to section  **Refund orders into Gift Card Credit balance in backend** - Gift Card part in Role for Ecommerce Manager to know more how to do it. 
+
 ######  Refund orders into Gift Card Credit balance in Web POS
 
 **Path: Orders > Orders History > Select an order to refund**
@@ -2277,7 +2274,6 @@ Go to section  **Refund orders into Gift Card Credit balance in backend** - Gift
 On the pop-up screen:
 
 ![](./Image_EcommerceManagementM1/image451.png)
-
 
 2.	Enter the number of money to **Refund to gift** credit  balance. 
 
