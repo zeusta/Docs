@@ -1,5 +1,3 @@
-
-
 # INVENTORY MANAGEMENT 
 
 
