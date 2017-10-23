@@ -301,25 +301,33 @@ When the refund order is accepted, follow this step to complete the refund proce
  
  ![](./image_Inventory%20M1/image079.png?raw=true) 
  4. Click on **Search** and use filter to search expected products 
+ 
  5. Mark the checkbox to **select products** 
+ 
  6. Enter the **quantity** to order
+ 
  7. Click on **Add Selected Products** to order 
 
 ![](./image_Inventory%20M1/image081.png?raw=true)
 8. Mark the checkbox **Custom Price** to customize a price 
+
 9. Mark the checkbox to **Apply discount** (if any)
 ![](./image_Inventory%20M1/image083.png?raw=true)
 10. **Apply coupon code** and **Use gift card to checkout** 
+
 11.	**Customer Credit**
+
 12.	Or choose your **Reward Point(s)** to spend
  ![](./image_Inventory%20M1/image085.png?raw=true) 
 13.	Complete the **Billing Address** and **Shipping Address**
+
 14.	Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
 
  ![](./image_Inventory%20M1/image087.png?raw=true)
  15.	Select a **shipping method**
  ![](./image_Inventory%20M1/image089.png?raw=true)
 16.	Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
+
 17.	Click on **Submit Order**.
 
 The order has been created successfully.
@@ -340,7 +348,9 @@ The order has been created successfully.
  ![](./image_Inventory%20M1/image095.png?raw=true)
 
 *On the pop-up screen*
+
 3. Enter the **quantity to Invoice** 
+
 4. Click on **Update Qty’s** if there is any changes in quantities
 
  ![](./image_Inventory%20M1/image097.png?raw=true)
