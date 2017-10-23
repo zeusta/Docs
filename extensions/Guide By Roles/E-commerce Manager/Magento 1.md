@@ -1681,18 +1681,19 @@ Fill in the required fields:
 
 5.	Enter a Weight
 
-6,7. Set a period of time when a Gift Card is new
-9.	Select **Active** to enable the New Gift Card. 
+6,7.    Set a period of time when a Gift Card is new
 
-10.	Enter an **URL Key**
+8.      Select **Active** to enable the New Gift Card. 
 
-11.	Select **Catalog** or **Search** or both to display Gift Card when customers search
+9.	Enter an **URL Key**
 
-12.	Select **Yes** to enable the Gift Card on Web POS
+10.	Select **Catalog** or **Search** or both to display Gift Card when customers search
 
-13.	Select a **Gift Code Set** ( to set gift code, you can refer to Manage Gift Code Set to know more)
+11.	Select **Yes** to enable the Gift Card on Web POS
 
-14.	Select **Gift Card templates** that are available for the Gift Card products. A Gift Card product can include many templates. 
+12.	Select a **Gift Code Set** ( to set gift code, you can refer to Manage Gift Code Set to know more)
+
+13.	Select **Gift Card templates** that are available for the Gift Card products. A Gift Card product can include many templates. 
 
 **Prices tab**:
 
@@ -2204,6 +2205,7 @@ Go to section **Refund  Orders into Credit balance in backend** - Store Credit p
 
 **Path: Orders > Orders History > Select an order to refund**
 
+
 ![](./Image_EcommerceManagementM1/image442.png)
 
 1.	Click on “**Refund**”
@@ -2212,7 +2214,9 @@ On the pop-up screen:
  
 ![](./Image_EcommerceManagementM1/image444.png)
 
+
 2.	Enter the number of money to refund into **Store Credit** balance box.
+
 
 3.	Click on “**Submit Refund**” to complete.
 
@@ -2246,7 +2250,9 @@ To use Gift code to place a new order on Checkout Page (Web POS):
 
 2.	Click on “**Apply**” button.
 
+
 ![](./Image_EcommerceManagementM1/image448.png)
+
 
 Then select a payment method (such as: Credit Card) 
 
@@ -2262,7 +2268,6 @@ There are 2 ways to apply  gift codes  to refund orders into Gift Card credit ba
 ######  Refund orders into Gift Card credit balance in backend
 
 Go to section  **Refund orders into Gift Card Credit balance in backend** - Gift Card part in Role for Ecommerce Manager to know more how to do it. 
-
 ######  Refund orders into Gift Card Credit balance in Web POS
 
 **Path: Orders > Orders History > Select an order to refund**
@@ -2274,6 +2279,7 @@ Go to section  **Refund orders into Gift Card Credit balance in backend** - Gift
 On the pop-up screen:
 
 ![](./Image_EcommerceManagementM1/image451.png)
+
 
 2.	Enter the number of money to **Refund to gift** credit  balance. 
 
