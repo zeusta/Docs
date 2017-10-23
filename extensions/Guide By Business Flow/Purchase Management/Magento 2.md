@@ -20,15 +20,15 @@ Purchase management is always a headache to retailers. As the businesses grow up
 
 ### Purchase Order Process
 
-![](Image-Purchase/image000-1.png)
+![POprocess](Image-Purchase/image000-1.png)
 
 ### POS - Return Order Process
 
-![](Image-Purchase/image000-2.png)
+![ROprocess](Image-Purchase/image000-2.png)
 
 ## PERMISSION MATRIX
 Here are the full feature-list for all roles in the package:
-![](Image-Purchase/image001.png)
+![Permissionmatrix](Image-Purchase/image001.png)
 
 
 # Purchase Management Processing
@@ -39,11 +39,11 @@ Here are the full feature-list for all roles in the package:
 
 To create a new request for quotation, purchase staff can follow this path: **Purchase Management** > **Quotation Management** > **Create Quotation**
 
-![](Image-Purchase/image003.png)
+![Createquotation](Image-Purchase/image003.png)
 
 Then the page will be shown as below:
 
-![](Image-Purchase/image005.png)
+![Createquotation](Image-Purchase/image005.png)
 ➢Step 1: Fill in **General Information** tab
 
 1) Choose **Created Time**
@@ -56,7 +56,7 @@ Then the page will be shown as below:
 
 6) Click on **Prepare Product List** for the next step. You will be navigated to  this view:
 
-![](Image-Purchase/image007.png)
+![Createquotation](Image-Purchase/image007.png)
 ➢Step 2: Prepare product list
 
 In this step, there are 5 ways for you to prepare product list:
@@ -73,11 +73,11 @@ In this step, there are 5 ways for you to prepare product list:
 
 Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After entering all required fields, click **Save** button and Order Totals is automatically calculated.
 
-![](Image-Purchase/image009.png)
+![Createquotation](Image-Purchase/image009.png)
 
 ➢Step 3: set up **Shipping and Payment**
 
-![](Image-Purchase/image011.png)
+![Createquotation](Image-Purchase/image011.png)
 
 1) Enter the address you want the stock to be shipped to
 
@@ -99,12 +99,12 @@ After filling all the information, click **Save** to save all changes. You can s
 
 To validate a request for Quotation, purchase manager goes to **Purchase Management > Quotation Management**, choose **Quotation** to see quotation list. At the list of quotation, click on **View** at the quotation has status as **“confirmed”**. 
 
-![](Image-Purchase/image013.png)
+![Validaterequest](Image-Purchase/image013.png)
 
 Then, the view will be shown as below:
 
-![](Image-Purchase/image02.png)
-![](Image-Purchase/image03.png)
+![Validaterequest](Image-Purchase/image02.png)
+![Validaterequest](Image-Purchase/image03.png)
 
 In this page, you are able to edit in **Shipping and Payment** tab only. 
 
@@ -116,7 +116,7 @@ In this page, you are able to edit in **Shipping and Payment** tab only.
 
 To send Request for Quotation to supplier, purchase staff go to **Purchase Management > Quotation Management**, choose **Quotation** to see quotation list. At the list of quotation, click on **View** at the quotation marked as **“confirmed”**.
 
-![](Image-Purchase/image017.png)
+![sendrequest](Image-Purchase/image017.png)
 
 On this page, click on **Send Email**. The request for Quotation will be sent to supplier via the email in supplier information.
 
@@ -124,18 +124,18 @@ On this page, click on **Send Email**. The request for Quotation will be sent to
 
 To approve Purchase order, purchase manager convert request for quotation to purchase order. In the Quotation view, click on **Convert Quotation to PO**.
 
-![](Image-Purchase/image017.png)
+![ApprovePO](Image-Purchase/image017.png)
 
 As the quotation is converted to purchase order, you will be navigated to Purchase Order view
 
-![](Image-Purchase/image018.png)
+![ApprovePO](Image-Purchase/image018.png)
 
 As can be seen, the purchase order is marked as **“pending”**. In this page, you are still able to update the product information as editing is allowed to be done directly in line. After finishing all editing, click on **Save** to save all changes.
 
 ### Purchase Manager Confirms Purchase Order
 
 To confirm purchase order, purchase manager clicks on **Confirm Purchase Order** and the page will be shown as below:
-![](Image-Purchase/image020.png)
+![ConfirmPO](Image-Purchase/image020.png)
 
 After being confirmed, the purchase order will be marked as “processing” and supplier will deliver products to store.
 
@@ -143,11 +143,11 @@ After being confirmed, the purchase order will be marked as “processing” and
 
 To complete Purchase Order, purchase staff have to finish these tabs as shown in the list here:
 
-![](Image-Purchase/image022.png)
+![CompletePO](Image-Purchase/image022.png)
 
 #### **Received Items** tab
 
-![](Image-Purchase/image024.png)
+![Receiveditems](Image-Purchase/image024.png)
 
 There are two ways to receive items: 
 
@@ -157,11 +157,11 @@ There are two ways to receive items:
 
 #### **Returned Items** tab
 
-![](Image-Purchase/image026.png)
+![Returneditems](Image-Purchase/image026.png)
 
 **Returned Items** are records of items & Qty. returned against a purchase order. Click on **Return Products** to create a return.
 
-![](Image-Purchase/image028.png)
+![returneditems](Image-Purchase/image028.png)
 
 1) You need to enter the returned date,
 
@@ -169,15 +169,15 @@ There are two ways to receive items:
 
 3) After that, you click on the Save button to save your work. The system will automatically subtract the returned Qty. that you entered from the corresponding warehouse’s inventory. Now, you can see the records of all returned items shown in the **Return Items** tab. 
 
-![](Image-Purchase/image030.png)
+![returneditems](Image-Purchase/image030.png)
 
 #### **Invoice** tab
 
-![](Image-Purchase/image032.png)
+![invoice](Image-Purchase/image032.png)
 
 Multiple invoices can be created by products for one purchase order. When you click on **Create an Invoice** button, the **Create an Invoice** page will be shown like below:
 
-![](Image-Purchase/image034.png)
+![invoice](Image-Purchase/image034.png)
 
 1) You need to enter the billed date, 
 
@@ -185,22 +185,22 @@ Multiple invoices can be created by products for one purchase order. When you cl
 
 3) After that, you click on the **Save** button to save your work. Now, you can see the records of all invoices shown in the **Invoices** tab.
 
-![](Image-Purchase/image036.png)
+![invoice](Image-Purchase/image036.png)
 
 #### **Transferred Items** tab:
 After receiving products, you can transfer them to warehouses. Here is what we got in **Transferred Items** tab:
 
-![](Image-Purchase/image038.png)
+![transferred](Image-Purchase/image038.png)
 
 **NOTE:** after transferring products to warehouse, you will not be able to return them to vendor.
 
 After clicking on **Transfer Product to Warehouse** button, you need to enter the transferred date, warehouse, select products and fill transferred Qty for each product you want to transfer. After that, you click on the **Save** button to save your work. Now, you can see the records of all transferred products in the **Transferred Items** tab.
 
-![](Image-Purchase/image040.png)
+![transferred](Image-Purchase/image040.png)
 
 #### Shipping and Payment and General Information tabs
 
-![](Image-Purchase/image041.png)
+![ShippingandpPayment](Image-Purchase/image041.png)
 
 After finishing the first 4 tabs, checking information in the 2 last tabs before completing the Purchase Order by clicking on **Complete PO**:
 
@@ -208,7 +208,7 @@ After finishing the first 4 tabs, checking information in the 2 last tabs before
 
 2) **General Information**
 
-![](Image-Purchase/image042.png)
+![Generalinformation](Image-Purchase/image042.png)
 
 As can be seen, the PO is marked as “completed” and no more changes can be done except for transferring items. Choose **Transfer Items** to transfer the remained items in the PO to any warehouses. 
 
@@ -218,11 +218,11 @@ As can be seen, the PO is marked as “completed” and no more changes can be d
 
 In order to request a product return, inventory staff can follow the path **Purchase Management >  Return Request Management > Return Requests**
 
-![](Image-Purchase/1.png)
+![createRO](Image-Purchase/1.png)
 
 You will be led to the **Create Return Request** page
 
-![](Image-Purchase/2.png)
+![createRO](Image-Purchase/2.png)
 
 1) Return progress is controlled in 4 steps:<br/>
 	* New: input general information of the return process<br/>	
@@ -239,7 +239,7 @@ You will be led to the **Create Return Request** page
 
 6) Click **Prepare Product List** to move to the next step
 
-![](Image-Purchase/3.png)
+![createRO](Image-Purchase/3.png)
 
 On **Pending** step:
 
@@ -260,7 +260,7 @@ On **Pending** step:
 
 After adding products, you can edit product quantity to return:
 
-![](Image-Purchase/4.png)
+![createRO](Image-Purchase/4.png)
 
 1) Select products to edit
 
@@ -272,13 +272,13 @@ After adding products, you can edit product quantity to return:
 
 After validating the products, inventory staff can process with the product receipt:
 
-![](Image-Purchase/5.png)
+![confirmdelivery](Image-Purchase/5.png)
 
 1) Click **Complete PO** to finish the Return request.
 
 2) Click **Transfer Items** to transfer the received products to the warehouse that you have appointed before.
 
-![](Image-Purchase/6.png)
+![confirmdelivery](Image-Purchase/6.png)
 
 In **Transfer items** page: 
 
@@ -286,17 +286,17 @@ In **Transfer items** page:
 
 2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below
 
-![](Image-Purchase/7.png)
+![transferreditems](Image-Purchase/7.png)
 
 After selecting products or scanning barcode, you will be sent back to the **Transfer Items** page:
 
-![](Image-Purchase/8.png)
+![transferreditems](Image-Purchase/8.png)
 
 1) Input the product quantity to transfer (you can transfer partially in multiple times)
 
 2) Click **Save** to continue
 
-![](Image-Purchase/9.png)
+![transferreditems](Image-Purchase/9.png)
 
 1) Click **Complete PO** to finish the return request
 
