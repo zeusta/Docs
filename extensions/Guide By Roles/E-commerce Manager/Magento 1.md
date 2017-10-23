@@ -1,4 +1,4 @@
-# Ecommerce Management – MAGENTO 1
+# ECOMMERCE MANAGEMENT – MAGENTO 1
 
 Confidential Information Notice 
 
@@ -6,13 +6,18 @@ Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this docum
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice. 
 ## Introduction
-According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%)online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels. 
-So how retailers can manage their business to maximize sales on online channels in the emerging technology world? 
-Magento Ecommerce Management module including Store Pickup, and Loyalty programs is here to help you create more values for your customers and thus, will boost sales for the whole business. 
-With Loyalty programs module, your ebusiness can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
-This guide is specially written according to each role of an ecommerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an ecommerce business.  
 
+According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%)online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels. 
+
+So how retailers can manage their business to maximize sales on online channels in the emerging technology world? 
+
+Magento Ecommerce Management module including Store Pickup, and Loyalty programs is here to help you create more values for your customers and thus, will boost sales for the whole business. 
+
+With Loyalty programs module, your ebusiness can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
+
+This guide is specially written according to each role of an ecommerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an ecommerce business.  
 ## Permission Matrix
+
 ![](./Image_EcommerceManagementM1/image004.png)
 ## For Ecommerce Manager
 ###  Validating Orders and Store Pickup Processing
@@ -2277,6 +2282,5 @@ On the pop-up screen:
 2.	Enter the number of money to **Refund to gift** credit  balance. 
 
 3.	Click on “**Submit Refund**” to complete. 
-
 
 
