@@ -82,9 +82,13 @@ The process is divided into these steps below:
  ![enter image description here](./image_Inventory%20M1/image017.png?raw=true)
 
 *On the pop-up screen:*
+
 Besides marking the checkbox to select products, there are 2 ways to prepare a product list:
+
 7.	Click on **Scan Barcode** to scan and choose products. 
+
 8.	Or Click on **Import Products** to import a products list from your device.
+
 9.	Click on **Start Stocktaking** to activate the process.
 
 
@@ -96,7 +100,9 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
  ![enter image description here](./image_Inventory%20M1/image021.png?raw=true)
 12. Click on **Re-entry Data** to re-select the product list (if any).
+
 13.	Click on **Complete Stocktaking** to fulfil the stocktaking process.
+
 14.	Click on **Export Counted Products** to transfer the data of physical counted products to an excel file (optional).
 
 
@@ -104,18 +110,23 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
 ![enter image description here](./image_Inventory%20M1/image023.png?raw=true)
 15.	Click on “**Adjust Stock**” to update the inventory records 
+
 16. Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
  ![enter image description here](./image_Inventory%20M1/image025.png?raw=true) 
 
 *On the pop-up screen:*
+
 17.	Enter the adjust quantity
+
 18.	Click on **Adjust** to update the inventory records
 
  ![enter image description here](./image_Inventory%20M1/image027.png?raw=true)
 
 *On the pop-up screen:*
+
 This final pop-up screen summarises the data of your recently inventory adjustment, including: old quantity, change quantity (discrepancies) and adjust quantity.
+
 19. Click on **Export Products** to transfer the data to an excel file on your device. 
 
 
