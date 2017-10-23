@@ -347,7 +347,7 @@ The order has been created successfully.
 5. Mark the checkbox to send a copy of invoice to customer via email
 6. Click on **Submit Invoice** to finalise
 
-###  Shipments
+####  Shipments
 
 Pick and Pack Items are implemeted in offline. After those processes are done then the next step is to create shipment.
 
