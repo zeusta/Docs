@@ -269,6 +269,7 @@ When the refund order is accepted, follow this step to complete the refund proce
 
  - **Step 2:** 
 1. Select Warehouse where refund goods will be restored. 
+
 2. Input the quality to refund.
 
  ![](./image_%20Inventory%20M1/image059.png?raw=true)
@@ -293,8 +294,11 @@ When the refund order is accepted, follow this step to complete the refund proce
  
  ![](./image_%20Inventory%20M1/image069.png?raw=true) 
  4. Click on **Search** and use filter to search expected products 
+ 
  5. Mark the checkbox to **select products** 
+ 
  6. Enter the **quantity** to order
+ 
  7. Click on **Add Selected Products** to order 
 
 ![](./image_%20Inventory%20M1/image071.png?raw=true)
@@ -337,11 +341,14 @@ The order has been created successfully.
  ![](./image_%20Inventory%20M1/image085.png?raw=true)
 
 *On the pop-up screen*
+
 3. Enter the **quantity to Invoice** 
+
 4. Click on **Update Qty’s** if there is any changes in quantities
 
  ![](./image_%20Inventory%20M1/image087.png?raw=true)
 5. Mark the checkbox to send a copy of invoice to customer via email
+
 6. Click on **Submit Invoice** to finalise
 
 ####  Shipments
@@ -357,6 +364,7 @@ Pick and Pack Items are implemeted in offline. After those processes are done th
  3.	Click on **Select Warehouse** to select warehouse to ship
  ![](./image_%20Inventory%20M1/image095.png?raw=true)
 4.	Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
+
 5.	**Submit Shipment** to finalize
 
 ### Reports 
@@ -767,8 +775,11 @@ When the refund order is accepted, follow this step to complete the refund proce
  
  ![](./image_%20Inventory%20M1/image183.png?raw=true) 
  4. Click on **Search** and use filter to search expected products 
+ 
  5. Mark the checkbox to **select products** 
+ 
  6. Enter the **quantity** to order
+ 
  7. Click on **Add Selected Products** to order 
 
 ![](./image_%20Inventory%20M1/image185.png?raw=true)
@@ -811,11 +822,14 @@ The order has been created successfully.
  ![](./image_%20Inventory%20M1/image199.png?raw=true)
 
 *On the pop-up screen*
+
 3. Enter the **quantity to Invoice** 
+
 4. Click on **Update Qty’s** if there is any changes in quantities
 
  ![](./image_%20Inventory%20M1/image201.png?raw=true)
 5. Mark the checkbox to send a copy of invoice to customer via email
+
 6. Click on **Submit Invoice** to finalise
 
 ####  Shipments
@@ -831,5 +845,6 @@ Pick and Pack Items are implemeted in offline. After those processes are done th
  3.	Click on **Select Warehouse** to select warehouse to ship
  ![](./image_%20Inventory%20M1/image209.png?raw=true)
 4.	Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
+
 5.	**Submit Shipment** to finalize
 
