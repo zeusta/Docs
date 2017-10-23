@@ -26,23 +26,23 @@ Thanks and Best regards,
 ## WORKFLOW
 ### Inventory Adjustment 
 
-![enter image description here](./image_Inventory%20M1/image001.png?raw=true)
+![Inventory Adjustment process](./image_Inventory%20M1/image001.png?raw=true)
 
 ### Transfer Stock - Send Stock
 
-![enter image description here](./image_Inventory%20M1/image003.png?raw=true)
+![Transfer Stock - Send Stock Process](./image_Inventory%20M1/image003.png?raw=true)
 
 ### Transfer Stock - Request Stock
 
-![enter image description here](./image_Inventory%20M1/image005.png?raw=true)
+![Transfer Stock - Request Stock Process](./image_Inventory%20M1/image005.png?raw=true)
 
 ### Good Receipt
 
-![enter image description here](./image_Inventory%20M1/image007.png?raw=true)
+![Good Receipt Process](./image_Inventory%20M1/image007.png?raw=true)
 
 ### Good Delivery
 
-![enter image description here](./image_Inventory%20M1/image009.png?raw=true)
+![Good Delivery Process](./image_Inventory%20M1/image009.png?raw=true)
 
 
 ----------
