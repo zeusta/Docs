@@ -93,12 +93,14 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 ➢	**Step 2**: *Inventory Staff counts quantity of product in stock -> Update Stock Taking (input data)*
 
  ![enter image description here](./image_Inventory%20M1/image019.png?raw=true)
-10. Enter the amount of items physically counted
+ 
+10.	Enter the amount of items physically counted
 
-11. Click on “**Complete Data Entry**” 
+11. 	Click on “**Complete Data Entry**” 
 
  ![enter image description here](./image_Inventory%20M1/image021.png?raw=true)
-12. Click on **Re-entry Data** to re-select the product list (if any).
+ 
+12. 	Click on **Re-entry Data** to re-select the product list (if any).
 
 13.	Click on **Complete Stocktaking** to fulfil the stocktaking process.
 
@@ -108,9 +110,10 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 ➢	**Step 3**: *Inventory Manager creates Adjust Stock -> Complete Adjust Stock -> Update the inventory records* 
 
 ![enter image description here](./image_Inventory%20M1/image023.png?raw=true)
+
 15.	Click on “**Adjust Stock**” to update the inventory records 
 
-16. Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
+16. 	Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
  ![enter image description here](./image_Inventory%20M1/image025.png?raw=true) 
 
@@ -157,9 +160,11 @@ To prepare product list, click on the **Prepare Product List** button
 Add new list (click on **Scan Barcode** to scan and choose products) or import a list of product prepared before ( click on **Import CSV file**)
 
  ![enter image description here](./image_Inventory%20M1/image035.png?raw=true)
+ 
 1.	Click on the product needed 
 2.	Choose the quantity to transfer
 3.	Click on Start Sending
+
  ![enter image description here](./image_Inventory%20M1/image037.png?raw=true)
 
  ![enter image description here](./image_Inventory%20M1/image039.png?raw=true)
@@ -171,9 +176,10 @@ The send transfer is completed
  In Receiving History
  
 ![enter image description here](./image_Inventory%20M1/image041.png?raw=true)
-1. Mark the checkbok to select product(s).
-2. Write the quantity received in receiving history 
-3. Click on **Save Receiving**
+
+1. 	Mark the checkbok to select product(s).
+2. 	Write the quantity received in receiving history 
+3. 	Click on **Save Receiving**
 
  ![enter image description here](./image_Inventory%20M1/image043.png?raw=true)
 
@@ -216,6 +222,7 @@ Add new list (click on **Scan Barcode** to scan and choose products) or import a
 ![enter image description here](./image_Inventory%20M1/image053.png?raw=true)
 
 Then, 
+
 1.	Click on the product needed 
 2.	Choose the quantity to transfer
 3.	Click on **Start to request**
@@ -302,53 +309,53 @@ When the refund order is accepted, follow this step to complete the refund proce
 
  ![](./image_Inventory%20M1/image073.png?raw=true) 
  
-1. Click on **Create New Order** 
+1. 	Click on **Create New Order** 
 
 ![](./image_Inventory%20M1/image075.png?raw=true)
 
- 2. Click on a customer line to select a customer  
+2. 	Click on a customer line to select a customer  
     
   ![](./image_Inventory%20M1/image077.png?raw=true)
   
- 3. Then select your store. Click on **Add Products** 
+3.	Then select your store. Click on **Add Products** 
  
  ![](./image_Inventory%20M1/image079.png?raw=true) 
  
- 4. Click on **Search** and use filter to search expected products 
+4. 	Click on **Search** and use filter to search expected products 
  
- 5. Mark the checkbox to **select products** 
+5. 	Mark the checkbox to **select products** 
  
- 6. Enter the **quantity** to order
+6. 	Enter the **quantity** to order
  
- 7. Click on **Add Selected Products** to order 
+7. 	Click on **Add Selected Products** to order 
 
 ![](./image_Inventory%20M1/image081.png?raw=true)
 
-8. Mark the checkbox **Custom Price** to customize a price 
+8. 	Mark the checkbox **Custom Price** to customize a price 
 
-9. Mark the checkbox to **Apply discount** (if any)
+9. 	Mark the checkbox to **Apply discount** (if any)
 
 ![](./image_Inventory%20M1/image083.png?raw=true)
 
-10. **Apply coupon code** and **Use gift card to checkout** 
+10. 	**Apply coupon code** and **Use gift card to checkout** 
 
-11. **Customer Credit**
+11. 	**Customer Credit**
 
-12. Or choose your **Reward Point(s)** to spend
+12. 	Or choose your **Reward Point(s)** to spend
 
  ![](./image_Inventory%20M1/image085.png?raw=true) 
  
-13. Complete the **Billing Address** and **Shipping Address**
+13. 	Complete the **Billing Address** and **Shipping Address**
 
-14. Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
+14. 	Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
 
  ![](./image_Inventory%20M1/image087.png?raw=true)
  
-15. Select a **shipping method**
+15. 	Select a **shipping method**
 
  ![](./image_Inventory%20M1/image089.png?raw=true)
  
-16. Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
+16. 	Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
 
 17.	Click on **Submit Order**.
 
@@ -361,24 +368,25 @@ The order has been created successfully.
 
 ![](./image_Inventory%20M1/image091.png?raw=true)
  
-1. Click on **View** to see detailel information
+1. 	Click on **View** to see detailel information
 
  ![](./image_Inventory%20M1/image093.png?raw=true)
  
-2. Click on **Invoice** tabs 
+2. 	Click on **Invoice** tabs 
 
  ![](./image_Inventory%20M1/image095.png?raw=true)
 
 *On the pop-up screen*
 
-3. Enter the **quantity to Invoice** 
+3. 	Enter the **quantity to Invoice** 
 
-4. Click on **Update Qty’s** if there is any changes in quantities
+4. 	Click on **Update Qty’s** if there is any changes in quantities
 
  ![](./image_Inventory%20M1/image097.png?raw=true)
-5. Mark the checkbox to send a copy of invoice to customer via email
 
-6. Click on **Submit Invoice** to finalise
+5. 	Mark the checkbox to send a copy of invoice to customer via email
+
+6. 	Click on **Submit Invoice** to finalise
 
 ####  Shipments
 
@@ -386,21 +394,21 @@ Pick and Pack Items are implemeted in offline. After those processes are done th
 
  ![](./image_Inventory%20M1/image099.png?raw=true)
  
-1. Click on **Ship** tab
+1. 	Click on **Ship** tab
 
  ![](./image_Inventory%20M1/image101.png?raw=true)
  
-2. **Add Tracking Number** to track the position of the order
+2. 	**Add Tracking Number** to track the position of the order
  
  ![](./image_Inventory%20M1/image103.png?raw=true)
  
-3. Click on **Select Warehouse** to select warehouse to ship
+3. 	Click on **Select Warehouse** to select warehouse to ship
 
  ![](./image_Inventory%20M1/image105.png?raw=true)
  
-4. Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
+4. 	Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
 
-5. **Submit Shipment** to finalize
+5. 	**Submit Shipment** to finalize
 
 ### Reports 
 - *Path: Retailer Reports > Manage Reports*
@@ -413,30 +421,31 @@ Pick and Pack Items are implemeted in offline. After those processes are done th
 - *Path: Retailer Reports > Manage Reports > Product*
  ![](./image_Inventory%20M1/image107.png?raw=true)
  
-1. Click on **here** label to update the latest data before generating a report
+1. 	Click on **here** label to update the latest data before generating a report
 
-2. Define the period
+2. 	Define the period
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
-3. Select Warehouse(s)
+3. 	Select Warehouse(s)
 
-4. Click on **Show Report** to generate the report
+4. 	Click on **Show Report** to generate the report
 
-5. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+5. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 #####  Warehouse
 - *Path: Retailer Reports > Manage Reports > Warehouse*
 ![](./image_Inventory%20M1/image109.png?raw=true)
-1. Click on **here** label to update the latest data before generating a report
 
-2. Define the period
+1. 	Click on **here** label to update the latest data before generating a report
+
+2. 	Define the period
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
-3. Select Warehouse(s)
+3. 	Select Warehouse(s)
 
-4. Click on **Show Report** to generate the report
+4. 	Click on **Show Report** to generate the report
 
-5. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+5. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 
 #####  Shipping method
@@ -444,64 +453,64 @@ You have different options for your tracking period. You can use custom range to
 
 ![](./image_Inventory%20M1/image111.png?raw=true)
 
-1. Click on **here** label to update the latest data before generating a report
+1. 	Click on **here** label to update the latest data before generating a report
 
-2. Define the period
+2. 	Define the period
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
-3. Select Warehouse(s)
+3. 	Select Warehouse(s)
 
-4. Click on **Show Report** to generate the report
+4. 	Click on **Show Report** to generate the report
 
-5. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+5. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 #####  Payment method
 - *Path: Retailer Reports > Manage Reports > Payment method*
 
 ![](./image_Inventory%20M1/image113.png?raw=true)
 
-1. Click on **here** label to update the latest data before generating a report
+1. 	Click on **here** label to update the latest data before generating a report
 
-2. Define the period
+2. 	Define the period
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
-3. Select Warehouse(s)
+3. 	Select Warehouse(s)
 
-4. Click on **Show Report** to generate the report
+4. 	Click on **Show Report** to generate the report
 
-5. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+5. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 #####  Order status
 - *Path: Retailer Reports > Manage Reports > Order status*
 
 ![](./image_Inventory%20M1/image115.png?raw=true)
 
-1. Click on **here** label to update the latest data before generating a report
+1. 	Click on **here** label to update the latest data before generating a report
 
-2. Define the period
+2. 	Define the period
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
-3. Select Warehouse(s)
+3. 	Select Warehouse(s)
 
-4. Click on **Show Report** to generate the report
+4. 	Click on **Show Report** to generate the report
 
-5. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+5. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 #####  Customer
 - *Path: Retailer Reports > Manage Reports > Customer*
 
 ![](./image_Inventory%20M1/image117.png?raw=true)
 
-1. Click on **here** label to update the latest data before generating a report
+1. 	Click on **here** label to update the latest data before generating a report
 
-2. Define the period
+2. 	Define the period
 You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on **Apply**.
 
-3. Select Warehouse(s)
+3. 	Select Warehouse(s)
 
-4. Click on **Show Report** to generate the report
+4. 	Click on **Show Report** to generate the report
 
-5. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+5. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 #### Inventory Reports
 
@@ -511,31 +520,34 @@ To access Inventory Report, you go to tab **Manage Report**, there are 5 types o
 
 - *Path: Retailer Reports > Manage Reports > Value of Stock on Hand*
  ![](./image_Inventory%20M1/image119.png?raw=true)
-1. Choose the warehouse (one or all warehouses) before running report.
+ 
+1. 	Choose the warehouse (one or all warehouses) before running report.
 
-2. Click on **Select Columns** then untick the fields that you don’t want to show on the report.
+2. 	Click on **Select Columns** then untick the fields that you don’t want to show on the report.
 
-3. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+3. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 ##### Stock Quantity
 
 - *Path: Retailer Reports > Manage Reports > Stock Quantity*
 ![](./image_Inventory%20M1/image121.png?raw=true) 
-1. Choose the warehouse (one or all warehouses) before running report.
 
-2. Click on **Select Columns** then untick the fields that you don’t want to show on the report.
+1. 	Choose the warehouse (one or all warehouses) before running report.
 
-3. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+2. 	Click on **Select Columns** then untick the fields that you don’t want to show on the report.
+
+3. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 ##### Compare by Warehouse
 
 - *Path: Retailer Reports > Manage Reports > Compare by Warehouse*
  ![](./image_Inventory%20M1/image123.png?raw=true)
-1. Choose the warehouse (one or all warehouses) before running report.
+ 
+1. 	Choose the warehouse (one or all warehouses) before running report.
 
-2. Select type and click on **Show Report** to generate the report
+2. 	Select type and click on **Show Report** to generate the report
 
-3. Click on **Export** to transfer the information as an excel file or CSV file to your device.
+3. 	Click on **Export** to transfer the information as an excel file or CSV file to your device.
 
 #####  Incoming Stock
 
