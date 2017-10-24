@@ -96,7 +96,7 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
  
 10.	Enter the amount of items physically counted
 
-11. 	Click on “**Complete Data Entry**” 
+11. Click on “**Complete Data Entry**” 
 
  ![enter image description here](./image_Inventory%20M1/image021.png?raw=true)
  
@@ -113,7 +113,7 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
 15.	Click on “**Adjust Stock**” to update the inventory records 
 
-16. 	Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
+16. Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
  ![enter image description here](./image_Inventory%20M1/image025.png?raw=true) 
 
@@ -331,27 +331,27 @@ When the refund order is accepted, follow this step to complete the refund proce
 
 ![](./image_Inventory%20M1/image081.png?raw=true)
 
-8. 	Mark the checkbox **Custom Price** to customize a price 
+8. Mark the checkbox **Custom Price** to customize a price 
 
-9. 	Mark the checkbox to **Apply discount** (if any)
+9. Mark the checkbox to **Apply discount** (if any)
 
 ![](./image_Inventory%20M1/image083.png?raw=true)
 
-10. 	**Apply coupon code** and **Use gift card to checkout** 
+10. **Apply coupon code** and **Use gift card to checkout** 
 
-11. 	**Customer Credit**
+11. **Customer Credit**
 
-12. 	Or choose your **Reward Point(s)** to spend
+12. Or choose your **Reward Point(s)** to spend
 
  ![](./image_Inventory%20M1/image085.png?raw=true) 
  
-13. 	Complete the **Billing Address** and **Shipping Address**
+13. Complete the **Billing Address** and **Shipping Address**
 
-14. 	Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
+14. Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
 
  ![](./image_Inventory%20M1/image087.png?raw=true)
  
-15. 	Select a **shipping method**
+15. Select a **shipping method**
 
  ![](./image_Inventory%20M1/image089.png?raw=true)
  
