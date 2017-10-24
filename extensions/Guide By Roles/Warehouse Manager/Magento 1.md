@@ -840,11 +840,11 @@ Pick and Pack Items are implemeted in offline. After those processes are done th
 1. Click on **Ship** tab
 
  ![](./image_%20Inventory%20M1/image205.png?raw=true)
- 2.	**Add Tracking Number** to track the position of the order
+2. **Add Tracking Number** to track the position of the order
  ![](./image_%20Inventory%20M1/image207.png?raw=true)
- 3.	Click on **Select Warehouse** to select warehouse to ship
+3. Click on **Select Warehouse** to select warehouse to ship
  ![](./image_%20Inventory%20M1/image209.png?raw=true)
-4.	Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
+4. Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
 
-5.	**Submit Shipment** to finalize
+5. **Submit Shipment** to finalize
 
