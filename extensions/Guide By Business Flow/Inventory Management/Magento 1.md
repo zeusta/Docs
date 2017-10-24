@@ -100,18 +100,18 @@ Besides marking the checkbox to select products, there are 2 ways to prepare a p
 
  ![enter image description here](./image_Inventory%20M1/image021.png?raw=true)
  
-12. 	Click on **Re-entry Data** to re-select the product list (if any).
+12. Click on **Re-entry Data** to re-select the product list (if any).
 
-13.	Click on **Complete Stocktaking** to fulfil the stocktaking process.
+13. Click on **Complete Stocktaking** to fulfil the stocktaking process.
 
-14.	Click on **Export Counted Products** to transfer the data of physical counted products to an excel file (optional).
+14. Click on **Export Counted Products** to transfer the data of physical counted products to an excel file (optional).
 
 
 ➢	**Step 3**: *Inventory Manager creates Adjust Stock -> Complete Adjust Stock -> Update the inventory records* 
 
 ![enter image description here](./image_Inventory%20M1/image023.png?raw=true)
 
-15.	Click on “**Adjust Stock**” to update the inventory records 
+15. Click on “**Adjust Stock**” to update the inventory records 
 
 16. Click on “**Export Difference List**” to transfer the data of discrepancies into an excel file (optional)
 
@@ -355,9 +355,9 @@ When the refund order is accepted, follow this step to complete the refund proce
 
  ![](./image_Inventory%20M1/image089.png?raw=true)
  
-16. 	Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
+16. Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
 
-17.	Click on **Submit Order**.
+17. Click on **Submit Order**.
 
 The order has been created successfully.
 
