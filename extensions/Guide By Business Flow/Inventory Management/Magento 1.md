@@ -305,12 +305,15 @@ When the refund order is accepted, follow this step to complete the refund proce
 1. Click on **Create New Order** 
 
 ![](./image_Inventory%20M1/image075.png?raw=true)
+
  2. Click on a customer line to select a customer  
     
   ![](./image_Inventory%20M1/image077.png?raw=true)
+  
  3. Then select your store. Click on **Add Products** 
  
  ![](./image_Inventory%20M1/image079.png?raw=true) 
+ 
  4. Click on **Search** and use filter to search expected products 
  
  5. Mark the checkbox to **select products** 
@@ -320,24 +323,32 @@ When the refund order is accepted, follow this step to complete the refund proce
  7. Click on **Add Selected Products** to order 
 
 ![](./image_Inventory%20M1/image081.png?raw=true)
+
 8. Mark the checkbox **Custom Price** to customize a price 
 
 9. Mark the checkbox to **Apply discount** (if any)
+
 ![](./image_Inventory%20M1/image083.png?raw=true)
+
 10. **Apply coupon code** and **Use gift card to checkout** 
 
-11.	**Customer Credit**
+11. **Customer Credit**
 
-12.	Or choose your **Reward Point(s)** to spend
+12. Or choose your **Reward Point(s)** to spend
+
  ![](./image_Inventory%20M1/image085.png?raw=true) 
-13.	Complete the **Billing Address** and **Shipping Address**
+ 
+13. Complete the **Billing Address** and **Shipping Address**
 
-14.	Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
+14. Mark the checkbox **Same As Billing Address** to ship product(s) to the same address.
 
  ![](./image_Inventory%20M1/image087.png?raw=true)
- 15.	Select a **shipping method**
+ 
+15. Select a **shipping method**
+
  ![](./image_Inventory%20M1/image089.png?raw=true)
-16.	Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
+ 
+16. Mark the checkbox to **Append Comments** or **Email Order Confirmation** to the customer
 
 17.	Click on **Submit Order**.
 
@@ -374,15 +385,22 @@ The order has been created successfully.
 Pick and Pack Items are implemeted in offline. After those processes are done then the next step is to create shipment.
 
  ![](./image_Inventory%20M1/image099.png?raw=true)
+ 
 1. Click on **Ship** tab
 
  ![](./image_Inventory%20M1/image101.png?raw=true)
- 2.	**Add Tracking Number** to track the position of the order
+ 
+2. **Add Tracking Number** to track the position of the order
+ 
  ![](./image_Inventory%20M1/image103.png?raw=true)
- 3.	Click on **Select Warehouse** to select warehouse to ship
+ 
+3. Click on **Select Warehouse** to select warehouse to ship
+
  ![](./image_Inventory%20M1/image105.png?raw=true)
-4.	Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
-5.	**Submit Shipment** to finalize
+ 
+4. Mark the checkbox to **Append Comments** or **Email Copy of Shipment** to the customer
+
+5. **Submit Shipment** to finalize
 
 ### Reports 
 - *Path: Retailer Reports > Manage Reports*
@@ -394,6 +412,7 @@ Pick and Pack Items are implemeted in offline. After those processes are done th
 ##### Product
 - *Path: Retailer Reports > Manage Reports > Product*
  ![](./image_Inventory%20M1/image107.png?raw=true)
+ 
 1. Click on **here** label to update the latest data before generating a report
 
 2. Define the period
@@ -424,6 +443,7 @@ You have different options for your tracking period. You can use custom range to
 - *Path: Retailer Reports > Manage Reports > Shipping method*
 
 ![](./image_Inventory%20M1/image111.png?raw=true)
+
 1. Click on **here** label to update the latest data before generating a report
 
 2. Define the period
@@ -439,6 +459,7 @@ You have different options for your tracking period. You can use custom range to
 - *Path: Retailer Reports > Manage Reports > Payment method*
 
 ![](./image_Inventory%20M1/image113.png?raw=true)
+
 1. Click on **here** label to update the latest data before generating a report
 
 2. Define the period
@@ -454,6 +475,7 @@ You have different options for your tracking period. You can use custom range to
 - *Path: Retailer Reports > Manage Reports > Order status*
 
 ![](./image_Inventory%20M1/image115.png?raw=true)
+
 1. Click on **here** label to update the latest data before generating a report
 
 2. Define the period
@@ -469,6 +491,7 @@ You have different options for your tracking period. You can use custom range to
 - *Path: Retailer Reports > Manage Reports > Customer*
 
 ![](./image_Inventory%20M1/image117.png?raw=true)
+
 1. Click on **here** label to update the latest data before generating a report
 
 2. Define the period
