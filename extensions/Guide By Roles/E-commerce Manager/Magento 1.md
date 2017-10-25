@@ -19,10 +19,13 @@ Magento Ecommerce Management module including Store Pickup, and Loyalty programs
 With Loyalty programs module, your ebusiness can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
 
 This guide is specially written according to each role of an e-Commerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an e-Commerce business. 
+
 --------------------------------------- 
+
 ## II. Permission Matrix
 
 ![](./Image_EcommerceManagementM1/image004.png)
+
 ---------------------------------------
 ## III. For Ecommerce Manager
 ###  3.1. Validating Orders and Store Pickup Processing
