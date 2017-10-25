@@ -159,11 +159,14 @@ After a new shipment has been created, if you want to print packing slips:
 
 ![](./Image_EcommerceManagement/image034.png)
 
-1)	In the **Information** tab of the chosen order page, click on Invoice.
+1) In the **Order** page, click on **Shipments** to open a shipment tab.
 
 ![](./Image_EcommerceManagement/image036.png)
 
+The **Shipment page** of a particular order will open as above. 
+
 2) Click on **Print** button to print out packing slips. 
+
 
 ##### Send confirm email to customers
 
