@@ -21,7 +21,7 @@ This guide is specially written according to each role of an ecommerce business 
 
 ![](./Image_EcommerceManager/image004.png)
 
-## For Ecommerce Manager
+## User Guide For Ecommerce Manager
 
 ### Validating Orders & Store Pickup Processing
 
@@ -190,7 +190,7 @@ Then click **View** to see the order in the chosen warehouse.
 
 4)	To print it, click on **Print** button. 
 
-### Loyalty programs 
+### Running Loyalty programs 
 
 #### Reward Points
 
@@ -976,8 +976,9 @@ Scroll down to view “Order Totals” label, then click on ** (4) “Submit Ord
 
 On Gift Card History page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status. 
 
-You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience. 
-## For Ecommerce Staff
+You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience.
+
+## User Guide For Ecommerce Staff
 
 ### Validating orders and Store Pickup process 
 
@@ -1016,7 +1017,7 @@ Please go to section **Find pickup in-store order**  - Validating Orders and Sto
 
 Ecommerce staff can print receipt and invoice similar as their manager ( see section **Print invoice**  - Validating Orders and Store Pickup part in Role for Ecommerce Manager.
 
-### Loyalty programs
+### Running Loyalty programs
 ####  Reward Points
 
 For Reward Points module, ecommerce staff will have several particular roles including using points at chekout and refunding orders by points as below. 
