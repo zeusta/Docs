@@ -3193,9 +3193,9 @@ Select Staff users to assign permission
 (4)Then click on **Save Staff Permissions**
 
 
-#### Location
+### Location
 
-##### Manage Location
+#### Manage Location
 
 Path: **Sales > Web POS** section > **Manage Locations**
 
@@ -3217,7 +3217,7 @@ Path: **Sales > Web POS** section > **Manage Locations**
 
 Click on **Save**
 
-##### Mapping Locations – Warehouses
+#### Mapping Locations – Warehouses
 
 Path: **Sales > Web POS** section **> Manage Locations**
 
@@ -3249,9 +3249,9 @@ On the pop-up screen, click on **Mapping Locations – Warehouses**
 
 (7)Finally, **Save** all the changed information
 
-#### Store (POS)
+### Store (POS)
 
-##### Create a new Web POS
+#### Create a new Web POS
 
 ![Create a new Web POS](./imgpart3/it_img617.png?raw=true)
 
