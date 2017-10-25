@@ -1,4 +1,4 @@
-# ECOMMERCE MANAGERMENT - MAGENTO 2
+# ECOMMERCE MANAGEMENT - MAGENTO 2
 
 Confidential Information Notice 
 
@@ -115,7 +115,6 @@ To add new list of products:
 
 1)	Click on the product needed 
 
-
 2)	**Add Selected Products**
 
 ![](./Image_EcommerceManager/image034.png)
@@ -231,7 +230,7 @@ If you want to edit a new earning rate, do the same as above but notice the diff
 
 #####  Manage transaction
 
-1.	✓ **Path: Reward points > Transactions** 
+✓ **Path: Reward points > Transactions** 
 
 
 ![](./Image_EcommerceManager/image069.png)
