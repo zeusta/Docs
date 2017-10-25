@@ -4,7 +4,7 @@
 ----------
 Confidential Information Notice 
 
-Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
@@ -14,9 +14,9 @@ This document and the information it contains constitute a trade secret of Mages
 ----------
 ## Introduction 
 
-POS System allows user to set different authority according to user’s roles in your store. For examples, when store manager using POS, some information will be displayed just for them while others roles can’t have authority to see it. 
+This guide is going to show you how to work on POS System and get familiar to this module whether you are a store manager or want to set permissions and guide other's staffs in the store. Our POS system allows user to set different authority according to user’s roles in your store. For examples, when store manager using POS, some information will be displayed just for them while others roles can’t have authority to see it. 
 
-In this material, this amazing function will be explained in details. Each position in your store will know exactly what they can do with this POS. Because of that, they could adapt to this system and take advantage of it as much as they want.  
+This amazing function will be explained in details as below. Each position in your store (whether sale staffs or POS casher) will know exactly what they can do with this POS module. Because of that, they could adapt to this system and take advantage of it as much as they want.  
 
 With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
