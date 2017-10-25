@@ -16,6 +16,7 @@ This guide will help you – an IT Manager – to configure a successful strong 
 
 ------
 ## HOW TO INSTALL!
+
 [How to install](./img102/it_img031.png?raw=true)
 
 
@@ -3194,9 +3195,9 @@ Select Staff users to assign permission
 (4)Then click on **Save Staff Permissions**
 
 
-#### Location
+### Location
 
-##### Add a new location
+#### Add a new location
 
 Path: **Sales > Web POS** section > **Manage Locations**
 
@@ -3218,7 +3219,7 @@ Path: **Sales > Web POS** section > **Manage Locations**
 
 Click on **Save**
 
-##### Mapping Locations – Warehouses
+#### Mapping Locations – Warehouses
 
 Path: **Sales > Web POS** section **> Manage Locations**
 
@@ -3250,9 +3251,9 @@ On the pop-up screen, click on **Mapping Locations – Warehouses**
 
 (7)Finally, **Save** all the changed information
 
-#### Store (POS)
+### Store (POS)
 
-##### Create a new Web POS
+#### Create a new Web POS
 
 ![Create a new Web POS](./imgpart3/it_img617.png?raw=true)
 
