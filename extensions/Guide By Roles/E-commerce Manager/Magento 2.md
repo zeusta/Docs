@@ -74,11 +74,14 @@ After a new shipment has been created, if you want to print packing slips:
 
 ![](./Image_EcommerceManager/image018.png)
 
-1)	In the **Information** tab of the chosen order page, click on Invoice.
+1)	In the **Order** page, click on **Shipments** to open a shipment tab.
 
 ![](./Image_EcommerceManager/image020.png)
 
+The **Shipment page** of a particular order will open as above. 
+
 2)	Click on **Print** button to print out packing slips. 
+ 
 
 ######  Send confirm email to customers
 
@@ -168,6 +171,7 @@ Then click **View** to see the order in the chosen warehouse.
 **View Warehouse** page will open and in the **Orders** section, you can find the order of customer picking up in your store. **Apply Filters** to find that order easily by following steps in the image above.
 
 #####  Print invoice 
+
 ![](./Image_EcommerceManager/image049.png)
 
 1)	In the **View Warehouse** page - section **Orders**, click **View** to see the detailed information of the customer’s order.
