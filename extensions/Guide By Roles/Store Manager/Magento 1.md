@@ -36,7 +36,7 @@ The working process of POS System from Magestore is devided into 3 sections:
 In each part, the responsibility for each position in your store is different. 
 Here is the detailed assignment: 
 
-### Store Manager  ##
+### Store Manager (eCommerce Manager)  ##
 
 This position takes part in almost actions on this POS System throughout 4 steps: 
 In the step of “Session Management”: involved in all the actions 
