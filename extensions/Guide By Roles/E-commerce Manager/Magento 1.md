@@ -29,7 +29,7 @@ This guide is specially written according to each role of an ecommerce business 
 
 ---------------------------------------
 
-## III. For Ecommerce Manager
+## III. User Guide For Ecommerce Manager
 ###  3.1. Validating Orders and Store Pickup Processing
 ####   3.1.1. Customers place online  orders
 ##### 3.1.1.1. View store information
@@ -1668,7 +1668,7 @@ Fill in the required fields:
 
 4.	Enter SKU
 
-5.	Enter a Weight
+5.	Enter Weight
 
 6,7. Set a period of time when a Gift Card is new
 
@@ -2026,7 +2026,7 @@ You can filter data with the above criteria to get more accurate reports. Inform
 
 -------------------------------------
 
-## IV. For Ecommerce Staff
+## IV. User Guide For Ecommerce Staff
 ### 4.1. Validating orders and Store Pickup process 
 ####  4.1.1. Validate orders
 ##### 4.1.1.1. Check orders in store
