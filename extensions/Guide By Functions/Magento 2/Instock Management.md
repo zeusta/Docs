@@ -174,6 +174,8 @@ You can view all records of Stock Adjustments in this page with information incl
 
 If you click on a **Completed** adjustment, you will be able to export the product list of that specific adjustment by clicking the button **Export Products**.
 
+![](./instockimages/anh%216.png?raw=true)
+
 #### Stock Taking & Stock Taking History
 
 Physical Stocktaking acts can be used at any time to double-check and correct inventory discrepancy amounts in Inventory Management vs. physical inventory in your warehouses. These consist of:
@@ -186,13 +188,13 @@ Physical Stocktaking acts can be used at any time to double-check and correct in
 
 - *Path:* **Stock Management > Stock Control** section **> New Stocktaking**
 
- ![](./instockimages/anh%215.png?raw=true)
+ ![](./instockimages/anh%217.png?raw=true)
 
 There are 5 steps in Stock taking using Instock Management module:
 
 - **Step 1: Fill General information:** After finishing this step, Stock taking status is **Pending**
 
-![](./instockimages/anh%216.png?raw=true)
+![](./instockimages/anh%218.png?raw=true)
 
 (1)	Fill in the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional
 
@@ -201,7 +203,7 @@ There are 5 steps in Stock taking using Instock Management module:
 
 - **Step 2: Prepare products before doing stock take:** Select or import products to prepare before doing stock take. Stock taking status will change to **Processing**
 
-![](./instockimages/anh%217.png?raw=true)
+![](./instockimages/anh%219.png?raw=true)
 
 (1)	Click on **Add Products to Stocktake** to select products from your product list or **Import products** from CSV file (template provided)
 
@@ -211,7 +213,7 @@ There are 5 steps in Stock taking using Instock Management module:
 
 - **Step 3: Do Stock take:** Fill in the Qty of product. Now status is changed to **Verified**
 
- ![](./instockimages/anh%218.png?raw=true)
+ ![](./instockimages/anh%220.png?raw=true)
 
 (1)	Enter the product quantity that you have recently counted and the reason why there is quantity difference.
 
@@ -219,13 +221,13 @@ There are 5 steps in Stock taking using Instock Management module:
 
 - **Step 4:	Complete data entry:** Save the data that has been stock taken and waiting for admin’s approval.
 
- ![](./instockimages/anh%219.png?raw=true)
+ ![](./instockimages/anh%221.png?raw=true)
 
 This Stage allows you to have a final review of your recent quantity counts. Click either **Re-entry Data** to edit the quantity or **Complete Stocktaking** to move to Stage 5. If you are not an admin, your counting results will be submitted to the admin/ manager for approval before the new quantity is officially updated and the process is marked **Completed**.
 
 - **Step 5:	Complete Stock take:** When admin does this, Stock taking status will be changed to **Complete**.
 
- ![](./instockimages/anh%220.png?raw=true)
+ ![](./instockimages/anh%222.png?raw=true)
 
 Qty is adjusted in the warehouse. Similar to Adjust Stock, stock taking cannot be edited after status is Complete.
 After doing stock take, admin can easily view and export the difference between real stock in the warehouse and the stock level updated by the system
@@ -234,7 +236,7 @@ After doing stock take, admin can easily view and export the difference between 
 
 - *Path:* **Stock Management > Stock Control** section **> Stocktaking History**
 
- ![](./instockimages/anh%221.png?raw=true)
+ ![](./instockimages/anh%223.png?raw=true)
 
 (1)	All Stocktaking details are listed here. Click on each record to view all details of the process. Different status shows to which stage the stocktaking process is done:
 
@@ -252,7 +254,7 @@ After doing stock take, admin can easily view and export the difference between 
 
 The module records all the movements of stocks in warehouse. These movements are reflected in **Stock Movement** report under **Stock Control** submenu.
 
-![](./instockimages/anh%222.png?raw=true)
+![](./instockimages/anh%224.png?raw=true)
 
 (1)	The table shows SKU of the products added or subtracted from warehouse, the changed Qty, Warehouse name, Date and Reference number to see the details on a click. 
 
@@ -265,7 +267,7 @@ The module records all the movements of stocks in warehouse. These movements are
 #### Supply Needs
 This feature predicts how many inventory items your warehouse needs for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past. 
 
-![](./instockimages/anh%223.png?raw=true) 
+![](./instockimages/anh%225.png?raw=true) 
 
 (1)	To process a prediction, select the warehouse (in Instock Management module, you can only select 01 warehouse i.e. Primary Warehouse) 
 
@@ -277,7 +279,7 @@ This feature predicts how many inventory items your warehouse needs for each pro
 
 The forecast data will be shown in the table as below:
 
-![](./instockimages/anh%224.png?raw=true) 
+![](./instockimages/anh%226.png?raw=true) 
 
 (1)	The table displays supply needs information as below:
 
@@ -298,23 +300,23 @@ The forecast data will be shown in the table as below:
 
 ***Note: Low Stock Alert** is when a type of product is on the verge of low-stock, Low Stock Alert will alert the Inventory manager to import more items. This feature avoids lack of items to supply for stores.*
 
-![]() Anh
+![](./instockimages/anh%227.png?raw=true) 
 
 (1)	Select an existing rule to edit or click **Add New Rule** button at top right of the page. Admin can create unlimited rules to notify low stock status. One rule contains: **Rule Information, Conditions & Action**. There is no limitation in the quantity of rules set.
 
 -	**On the Rule information tab:** 
 
- ![](./instockimages/anh%225.png?raw=true)
+ ![](./instockimages/anh%228.png?raw=true)
 
 (2)	Enter the low stock rule name
 
-(3)	Add a brief about the rule (optional)
+(3)	Add a brief about the rule *(optional)*
 
 (4)	Select **Active** to enable the rule
 
 (5)	Use **Calendar** to choose **From** and **To** date for a term of validity *(optional)*
 
-![](./instockimages/anh%226.png?raw=true) 
+![](./instockimages/anh%229.png?raw=true) 
 
 (6)	Select an **update time**:
 
@@ -328,11 +330,11 @@ The system periodically check stock availability and automatically send email no
 
 -	**On the Conditions tab:** 
 
-Anh ![]()
+ ![](./instockimages/anh%230.png?raw=true)
 
 There are **2 types** of low stock rule:
 
- ![](./instockimages/anh%227.png?raw=true)
+ ![](./instockimages/anh%231.png?raw=true)
 
 ***Type 1: Availability Qty**.
 **Availability Qty.**: you can select Qty. threshold that the system will notify to import*. 
@@ -345,7 +347,7 @@ There are **2 types** of low stock rule:
 
 (11) Select **Warehouses** for those rules will be applied
 
- ![](./instockimages/anh%228.png?raw=true)
+ ![](./instockimages/anh%232.png?raw=true)
 
 ***Type 2: Availability Days**
 **Availability Days**: you can select Day Threshold that system can notify you to import items. You do not need to enter the Qty. here because the system will automatically calculate the selling rate based on the sale period you provided and the real Qty. in your warehouse and (store)*
@@ -362,13 +364,13 @@ There are **2 types** of low stock rule:
 
 -	**On Actions tab:** 
 
- ![](./instockimages/anh%229.png?raw=true)
+ ![](./instockimages/anh%233.png?raw=true)
 
 (17)	Enter an **email list** to send the low stock notifications to
 
 (18)	Enter content of the **warning message**
 
-![](./instockimages/anh%230.png?raw=true)
+![](./instockimages/anh%234.png?raw=true)
 
 (19)	Click **Save** or **Save and Apply** to finish
 
@@ -378,13 +380,13 @@ There are **2 types** of low stock rule:
 
 ***Note***: *You can edit the rule that you **Save and Apply** or **Save** by going to **Stock Management > Prediction** section **> Low Stock Rules >** clicking on Edit*
 
- ![](./instockimages/anh%231.png?raw=true)
+ ![](./instockimages/anh%235.png?raw=true)
 
 #### Low Stock Notifications
 
 - *Path:* **Stock Management > Prediction** section **> Low Stock Notifications**
 
-![](./instockimages/anh%232.png?raw=true) 
+![](./instockimages/anh%236.png?raw=true) 
 
 **Low Stock notifications** displays warning messages about the products which are nearly out of stock in warehouses. It shows all notifications with information including Sent at, Update Type, Email received, Recipients and Action. Click *view* action on each notification log to see details of products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
 
