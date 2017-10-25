@@ -1,4 +1,3 @@
-
 # ECOMMERCE MANAGEMENT – MAGENTO 1
 
 Confidential Information Notice 
@@ -31,112 +30,32 @@ This guide is specially written according to each role of an ecommerce business 
 
 ## III. User Guide For Ecommerce Manager
 ###  3.1. Validating Orders and Store Pickup Processing
-####   3.1.1. Customers place online  orders
-##### 3.1.1.1. View store information
 
-Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the **Store Pickup** module.
+####  3.1.1. Validate Orders
+##### 3.1.1.1. Check orders in store
 
-![](./Image_EcommerceManagementM1/image006.png)
-	
-Store Pickup module creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **Our Stores** on Top-Link (the top right of the page) or Footer-Link (the bottom of the page).
-
-![](./Image_EcommerceManagementM1/image008.png)
-
-The Store Listing page includes 4 sections: **Store list, Search form, Google Map** and **Tags list**.
-
-![](./Image_EcommerceManagementM1/image010.png)
-
-The list of all stores is shown on the bottom of Google Map. Customers can view store names and base images on this list. 
-
-Click on the icon ![](./Image_EcommerceManagementM1/image012.png)  on the bottom right corner on the G-Map to show store list or click on the  ![](./Image_EcommerceManagementM1/image014.png) to hide store list
-
-Store locations are displayed on Google Map. Customers can zoom in/ zoom out and choose view mode as map/ satellite as preferred. Customers can also view store address or get direction by clicking on the pin icon of any store.
-
-Click on the icon  ![](./Image_EcommerceManagementM1/image016.png) to search stores by location. Customers need to enter the key word and select criteria. Results that are matched are shown on G-Map. 
-
-
-Click on the icon  ![](./Image_EcommerceManagementM1/image018.png) to search stores by radius. After customers enter the location then choose radius, related results are shown on G-Map.
-
-![](./Image_EcommerceManagementM1/image020.png)
-
-Besides, customers can also filter by tags. Customers just have to click on tags they want to search. Then, list of stores which admin add these tags to will be shown.
-
-When customers click on a store on the map, they can instantly view the store location along with its name, address, phone number and store manager’s email address. Customers can also get direction on this box. 
-
-![](./Image_EcommerceManagementM1/image022.png)
-
-For more details of a store, customers can click on its **View more info** link to be navigated to the detailed page as above. 
-
-As you can see, this page shows all details that customers want to know about a store before arriving, such as location, contact info, working time, description and store images. 
-
-They can also view list of special days & holidays in **Special day** & **Holiday information** tab.
-
-Conveniently, they can email store manager by filling in the contact form then clicking on **Submit**.
-
-##### 3.1.1.2. Use Store Pickup at Checkout	
-
-The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the module works for customers. 
-
-###### a. Choose shipping method: Delivery in store
-
-In the **Shipping method** tab at checkout, customers can select **Store Pickup** as their shipping option. Then customers can select a store from the dropdown list as below. 
-
-
-![](./Image_EcommerceManagementM1/image024.png)
-
-
-Or customers can select on Google map as bellow:
-
-![](./Image_EcommerceManagementM1/image026.png)
-
-###### b. Choose time delivery 
-
-![](./Image_EcommerceManagementM1/image028.png)
-
-After selecting a store, customers need to choose a specific shipping date and time for arrival, and then check out as usual by clicking on the **Continue** button. 
-
-###### c. Choose payment method
-
-![](./Image_EcommerceManagementM1/image030.png)
-
-In the **Payment Information** tab, applicable payment methods for **In-store Pickup** are shown as your configuration.
-
-###### d. Place Order
-
-![](./Image_EcommerceManagementM1/image032.png)
-Before placing order, customers can also review the store address, shipping date and time along with other order information, and then customers can click on **Place Order** button to complete.
-
-##### 3.1.1.3. View Orders
-
-![](./Image_EcommerceManagementM1/image034.png)
-
-To view their orders with store pickup information, customers can go to **My Account** on Top-Link > **My Orders** tab > **View Order**.
-
-####  3.1.2. Order Fulfill Staff validate orders
-##### 3.1.2.1. Check orders in store
-
-#####  3.1.2.2. Process Shipment for customers
+#####  3.1.1.2. Process Shipment for customers
 
 **Path: Sales > Orders** 
 ###### a. Create shipment
 
-![](./Image_EcommerceManagementM1/image036.png)
+![Create shipment](./Image_EcommerceManagementM1/image036.png)
 
 
 1.	In the **Information** tab, click on **Ship** 
 
 
-![](./Image_EcommerceManagementM1/image038.png)
+![Create shipment](./Image_EcommerceManagementM1/image038.png)
 
 The **New Shipment** page like the image above will open and include a customer’s information such as sales info, account, address, payment and shipping method. 
 
-![](./Image_EcommerceManagementM1/image040.png)
+![Create shipment](./Image_EcommerceManagementM1/image040.png)
 
 2.	Click on **Submit Shipment** button to complete.
 
 When a new shipment is created, you will see the notification:   **The shipment has been created**
 
-![](./Image_EcommerceManagementM1/image042.png)
+![Create shipment](./Image_EcommerceManagementM1/image042.png)
 
 ###### b. Print  Packing Slips
 
@@ -144,12 +63,12 @@ When a new shipment is created, you will see the notification:   **The shipment 
 
 After a new shipment has been created, if you want to print packing slips:
 
-![](./Image_EcommerceManagementM1/image044.png)
+![Print Packing Slips](./Image_EcommerceManagementM1/image044.png)
 
 1.	In the **Order** page, click on **Shipments** to open a shipment tab.
 
 
-![](./Image_EcommerceManagementM1/image046.png)
+![ Print Packing Slips](./Image_EcommerceManagementM1/image046.png)
 
 The **Shipment page** of a particular order will open as above. 
 
@@ -161,26 +80,26 @@ The **Shipment page** of a particular order will open as above.
 
 Continually, to send confirm email to customers: 
 
-![](./Image_EcommerceManagementM1/image048.png)
+![Send confirm email to customers](./Image_EcommerceManagementM1/image048.png)
 
 1.	In the **Information** tab, click on **Send Email**.
 
-![](./Image_EcommerceManagementM1/image050.png)
+![ Send confirm email to customers](./Image_EcommerceManagementM1/image050.png)
 
 Then a popup will appear to make sure that you want to send confirm email to customers. 
 
 2.	Click on **OK** to complete.
 
-![](./Image_EcommerceManagementM1/image052.png)
+![ Send confirm email to customers](./Image_EcommerceManagementM1/image052.png)
 
 After that, you will see the notification as above.
-##### 3.1.2.3. Request Transfer Stock from other warehouse
+##### 3.1.1.3. Request Transfer Stock from other warehouse
 
 **Path: Inventory Management > Transfer Stock > Request Stock**.
 
 If the store where customers choose to pick up their orders doesn’t have enough stock to provide, it ‘s time  to request stock from other warehouses, firstly go to **Inventory Management > Transfer Stock > Request Stock**.
 
-![](./Image_EcommerceManagementM1/image054.png)
+![Request transfer stock from other warehouse](./Image_EcommerceManagementM1/image054.png)
 
 In the **Add a New Request Stock** tab, let’s fill in the **Transfer Code**, choose **Source Warehouse** and **Destination Warehouse**.  Besides, you can fill in the **Reason** box for resquesting stock. 
 
@@ -188,7 +107,7 @@ Then, to prepare product list, click on the **Prepare Product List** button as t
 
 To add new list of products:
 
-![](./Image_EcommerceManagementM1/image056.png)
+![ Request transfer stock from other warehouse](./Image_EcommerceManagementM1/image056.png)
 
 1.	Click on the product needed 
 
@@ -198,7 +117,7 @@ To add new list of products:
 
 A new Stock Request  is ready to deliver and receive.
 
-##### 3.1.2.4. Receice Transfer Stock 
+##### 3.1.1.4. Receice Transfer Stock 
 
 **Path: Inventory Management > Transfer Stock > Request Stock**
 
@@ -206,7 +125,7 @@ After the staff of the requested warehouse confirmed transferring their stocks a
 
 To receive stock from other warehouses, in the **Receiving History** tab of the created request:
 
-![](./Image_EcommerceManagementM1/image058.png)
+![ Receive transfer stock from other warehouse](./Image_EcommerceManagementM1/image058.png)
 
 1.	Click on the request created for receiving
 
@@ -216,44 +135,44 @@ To receive stock from other warehouses, in the **Receiving History** tab of the 
 
 4.	Click on Mark as Completed to end the process. 
 
-####  3.1.3. Store Staff delivers orders
-##### 3.1.3.1. Find pickup-in-store-orders	
+####  3.1.2. Deliver orders in store
+##### 3.1.2.1. Find pickup-in-store-orders	
 
 **Path: Inventory Management > Warehouse**.
 
-![](./Image_EcommerceManagementM1/image060.png)
+![Find pickup in store orders](./Image_EcommerceManagementM1/image060.png)
 
 In the **Manage Warehouses** page, tick to the warehouse of store in which your customer want to pick up his/her order.
 
-![](./Image_EcommerceManagementM1/image062.png)
+![ Find pickup in store orders](./Image_EcommerceManagementM1/image062.png)
 
 Then click **View** to see the order in the chosen warehouse.  
 
-![](./Image_EcommerceManagementM1/image064.png)
+![ Find pickup in store orders](./Image_EcommerceManagementM1/image064.png)
 
 **View Warehouse** page will open and in the **Orders** section, you can find the order of customer picking up in your store. **Apply Filters** to find that order easily by following steps in the image above.
 
-#####  3.1.3.2. Print invoice
+#####  3.1.2.2. Print invoice
 
-![](./Image_EcommerceManagementM1/image066.png)
+![Print invoice](./Image_EcommerceManagementM1/image066.png)
 
 In the **View Warehouse** page - section **Orders**, click on a row of the customer’s pickup-in-store order to see his or her detailed information.	
 
-![](./Image_EcommerceManagementM1/image068.png)
+![ Print invoice](./Image_EcommerceManagementM1/image068.png)
 
 An Order page will display and allow you to create new invoice for the customer. 
 
-![](./Image_EcommerceManagementM1/image070.png)
+![ Print invoice](./Image_EcommerceManagementM1/image070.png)
 
 Click on **Invoice** to create a new invoice for customers.
 
 A **New Invoice** page will appear with all information of the customer ‘ s order. 
 
-![](./Image_EcommerceManagementM1/image072.png)
+![ Print invoice](./Image_EcommerceManagementM1/image072.png)
 
 Click on **Submit Invoice** button. Then a new invoice has been created. 
 
-![](./Image_EcommerceManagementM1/image074.png)
+![ Print invoice](./Image_EcommerceManagementM1/image074.png)
 
 To print it, click on **Print** button. 
 
@@ -264,7 +183,7 @@ To print it, click on **Print** button.
 
 **General Configuration Tab**
 
-![](./Image_EcommerceManagementM1/image076.png)
+![Settings in Reward Points](./Image_EcommerceManagementM1/image076.png)
 
 1.	Choose **Yes** to enable Reward Points Extension on the Module
 
@@ -282,7 +201,7 @@ For example, if you enter “P” on this field, then instead of showing “1 Po
 
 **Earning Points Configuration Tab**
 
-![](./Image_EcommerceManagementM1/image078.png)
+![ Settings in Reward Points](./Image_EcommerceManagementM1/image078.png)
 
 1.	You have three options about Rounding Method:
 
@@ -294,7 +213,7 @@ For example, if you enter “P” on this field, then instead of showing “1 Po
 
 If you finish editing the field, remember to reindex **Catalog Earning Rules**,  as below:
 
-![](./Image_EcommerceManagementM1/image080.png)
+![ Settings in Reward Points](./Image_EcommerceManagementM1/image080.png)
 
 2.	Enter the **expiration date** of the Points
 
@@ -308,7 +227,7 @@ If you finish editing the field, remember to reindex **Catalog Earning Rules**, 
 
 **Spending Points Configuration Tab**
 
-![](./Image_EcommerceManagementM1/image082.png)
+![ Settings in Reward Points](./Image_EcommerceManagementM1/image082.png)
 
 1.	Enter the **minimum number of points** in Customer’s Balance is permitted to redeem. If you leave it blank, there will be no limitation
 
@@ -320,7 +239,7 @@ If you finish editing the field, remember to reindex **Catalog Earning Rules**, 
 
 **Display Configuration Tab**
 
-![](./Image_EcommerceManagementM1/image084.png)
+![ Settings in Reward Points](./Image_EcommerceManagementM1/image084.png)
 
 1.	Choose **Yes** to show total point balance next to My Account link
 
@@ -332,7 +251,7 @@ If you finish editing the field, remember to reindex **Catalog Earning Rules**, 
 
 **Email Configuration Tab**
 
-![](./Image_EcommerceManagementM1/image086.png)
+![ Settings in Reward Points](./Image_EcommerceManagementM1/image086.png)
 
 1.	Choose **Yes** to enable notification email
 
@@ -355,7 +274,7 @@ If you finish editing the field, remember to reindex **Catalog Earning Rules**, 
 
 **Loyalty Level Configuration Tab**
 
-![](./Image_EcommerceManagementM1/image088.png)
+![ Settings in Reward Points](./Image_EcommerceManagementM1/image088.png)
 
 1.	Choose **Yes** to enable Loyalty Level Plugin
 
@@ -363,7 +282,7 @@ If you finish editing the field, remember to reindex **Catalog Earning Rules**, 
 
 **Rules Plugin Configuration Tab**
 
-![](./Image_EcommerceManagementM1/image090.png)
+![ Settings in Reward Points](./Image_EcommerceManagementM1/image090.png)
 
 1.	Choose **Yes** to enable Rules plugin
 
@@ -376,17 +295,17 @@ If you finish editing the field, remember to reindex **Catalog Earning Rules**, 
 
 **Path:  Backend > Reward Points > Earning > Earning Rates**
 
-![](./Image_EcommerceManagementM1/image092.png)
+![Manage Earning Rate](./Image_EcommerceManagementM1/image092.png)
 
 Then the **Earning Rates** page will be shown, allowing you to do many tasks:
 
-![](./Image_EcommerceManagementM1/image094.png)
+![ Manage Earning Rate](./Image_EcommerceManagementM1/image094.png)
 
 •	**Add a new rate**
 
 In order to add a new earning rate, you can click on the **Add Rate** button and then fill out all the required data below: 
 
-![](./Image_EcommerceManagementM1/image096.png)
+![ Manage Earning Rate](./Image_EcommerceManagementM1/image096.png)
 
 1.	**Amount of money spent**: Enter a specific amount of money
 
@@ -402,7 +321,7 @@ In order to add a new earning rate, you can click on the **Add Rate** button and
 
 After you finish filling out all the required data, remember to click on the **Save** or **Save and Continue Edit** button to save your work. If you click on the **Save** button, you’ll be navigated to the **Earning rates** page and your rate will be shown as below:
 
-![](./Image_EcommerceManagementM1/image098.png)
+![ Manage Earning Rate](./Image_EcommerceManagementM1/image098.png)
 
 •	**Edit/ Delete an existing rate**
 
@@ -410,7 +329,7 @@ In case you want to edit a rate, please click on the **Edit** link in the **Acti
 
 Then you will be redirected to the **Edit Earning Rate** page:
 
-![](./Image_EcommerceManagementM1/image100.png)
+![ Manage Earning Rate](./Image_EcommerceManagementM1/image100.png)
 
 After editing the rate as you want, remember to click on the **Save** or the S**ave and Continue Edit** button to save your work.
 
@@ -420,15 +339,15 @@ To delete a rate, you can go to the **Edit Rate** page and then click on the **D
 
 **Path:  Backend > Reward Points > Earning > Catalog Earning Rules**
 
-![](./Image_EcommerceManagementM1/image102.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image102.png)
 
 Or you can follow the path **Earning > Catalog Earning Rules** as below:  
 
-![](./Image_EcommerceManagementM1/image104.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image104.png)
 
 Then you can see the **Catalog Earning Rule Manager** page as below:
 
-![](./Image_EcommerceManagementM1/image106.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image106.png)
 
 •	**Add a new rule**:
 
@@ -436,7 +355,7 @@ In order to add a new catalog rule, click on the **Add Rule** button and fill ou
 
 **General Information tab**:
 
-![](./Image_EcommerceManagementM1/image108.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image108.png)
 
 You should pay attention to these following fields:
 
@@ -457,7 +376,7 @@ You should pay attention to these following fields:
 
 **Conditions tab**: 
 
-![](./Image_EcommerceManagementM1/image110.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image110.png)
 
 
 This tab allows you to configure the products to which the rule is applicable. For example, if you want to apply this rule for **Dress and Shirts**, you can configure the condition as in the image above.
@@ -473,7 +392,7 @@ In this tab, you can configure the number of points that Customers will receive 
  Customers will receive a fixed number of points for whatever products they buy. 
 
 
-![](./Image_EcommerceManagementM1/image112.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image112.png)
 
 For example, if you want to give Customers 5 points for purchasing products, then:
 
@@ -489,7 +408,7 @@ For example, if you want to give Customers 5 points for purchasing products, the
 
 The more expensive the products Customers buy, the more points they can receive. 
 
-![](./Image_EcommerceManagementM1/image114.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image114.png)
 
 For example, if you want to give Customers 5 points for every $200.00 of price they spend and limit the number of points that can be earned to 15, then:
 
@@ -511,7 +430,7 @@ For example, if you want to give Customers 5 points for every $200.00 of price t
  The more profits get from selling products that Customers buy, the more points they can receive.
 
 
-![](./Image_EcommerceManagementM1/image116.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image116.png)
 
 
 For example, if you want to give Customers 5 points for every $200.00 of profit they make and limit the number of points that can be earned to 15, then:
@@ -534,7 +453,7 @@ For example, if you want to give Customers 5 points for every $200.00 of profit 
 
 After you finish configuring, remember to click on the **Save Rule** or **Save and Continue Edit** button to save your work. If you click on the **Save Rule** button, you will be navigated to the **Catalog Earning Rule Manager** page and the rule will be shown in the catalog rule list as below:
 
-![](./Image_EcommerceManagementM1/image118.png)
+![ Manage Catalog Earning Rules](./Image_EcommerceManagementM1/image118.png)
 
 •	**Edit/ Delete an existing rule**
 
@@ -549,11 +468,11 @@ To delete a catalog rule, you can go to the **Edit Rule** page and click on the 
 
 **Path:  Backend > Reward Points > Earning > Shopping Cart Earning Rules**
 
-![](./Image_EcommerceManagementM1/image120.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image120.png)
 
 Or follow as below: 
 
-![](./Image_EcommerceManagementM1/image122.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image122.png)
 
 •	**Add a new rule**
 
@@ -561,7 +480,7 @@ In order to add a new **Shopping Cart** rule, you can click on the **Add rule** 
 
 **General Information tab**
 
-![](./Image_EcommerceManagementM1/image124.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image124.png)
 
 You should pay attention to these following fields:
 
@@ -584,7 +503,7 @@ You should pay attention to these following fields:
 
 This tab allows you to configure the condition of shopping carts to which the rule is applicable. 
 
-![](./Image_EcommerceManagementM1/image126.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image126.png)
 
 For example, if you want to apply this rule only for carts which have **Subtotals** greater than $300, you can configure the condition as in the image above:
 
@@ -600,7 +519,7 @@ There are three options of actions for you to choose:
 
  Customers will receive a fixed number of X points for whatever order they place.
 
-![](./Image_EcommerceManagementM1/image128.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image128.png)
 
 For example, if you want to give Customers 5 points for purchasing, then:
 1.	Choose **Action**: Give fixed X points to Customers 
@@ -619,7 +538,7 @@ For example, if you want to give Customers 5 points for purchasing, then:
 The higher the order values that Customers place, the more points they can receive.
 
 
-![](./Image_EcommerceManagementM1/image130.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image130.png)
 
 For example, if you want to give Customers 5 points for every $200.00 spent and limit the number of points that can be earned to 15, then:
 
@@ -641,7 +560,7 @@ For example, if you want to give Customers 5 points for every $200.00 spent and 
 
  The more products Customers buy from your store, the more points they can receive. 
 
-![](./Image_EcommerceManagementM1/image132.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image132.png)
 
 
 For example, if you want to give Customers 5 points for every 10 items they order and limit the number of points that can be earned to 15, then:
@@ -662,7 +581,7 @@ For example, if you want to give Customers 5 points for every 10 items they orde
 
 After you finish configuring, remember to click on the **Save Rule** or **Save and Continue Edit** button to save your work. If you click on the **Save Rule** button, you will be navigated to the **Shopping Cart Earning Rule Manager** page and the rule will be shown in the catalog rule list as below:
 
-![](./Image_EcommerceManagementM1/image134.png)
+![ Manage Shopping Cart Earning Rules](./Image_EcommerceManagementM1/image134.png)
 
 •	**Edit/ Delete an existing rule**
 
@@ -676,15 +595,15 @@ To delete a catalog rule, you can go to the **Edit Rule** page and click on the 
 
 **Path:  Backend > Reward Points > Earning > Manage earning points by product**:
 
-![](./Image_EcommerceManagementM1/image136.png)
+![ Manage Earning points by product](./Image_EcommerceManagementM1/image136.png)
 
 Or follow the path **Earning > Manage earning points by product**:
 
-![](./Image_EcommerceManagementM1/image137.png)
+![ Manage Earning points by product](./Image_EcommerceManagementM1/image137.png)
 
 Then you will be redirected to the **Manage Earning Points By Product** page:
 
-![](./Image_EcommerceManagementM1/image139.png)
+![ Manage Earning points by product](./Image_EcommerceManagementM1/image139.png)
 
 On this page, you can change the number of earning points for each product by 2 ways:
 
@@ -692,7 +611,7 @@ On this page, you can change the number of earning points for each product by 2 
 
 ✓ Double click on **Earning Points** column of the product you want to edit. Insert the number of points as you prefer, then click on **Ok**
 
-![](./Image_EcommerceManagementM1/image141.png)
+![ Manage Earning points by product](./Image_EcommerceManagementM1/image141.png)
 
 Please note that Earning Points for products takes priority over catalog rules, and shopping cart rules may still apply.
 
@@ -701,11 +620,11 @@ Please note that Earning Points for products takes priority over catalog rules, 
 
 **Path: Backend > Reward Points > Spending > Spending rates**
 
-![](./Image_EcommerceManagementM1/image143.png)
+![Manage Spending Rate](./Image_EcommerceManagementM1/image143.png)
 
 Or follow the path below: 
 
-![](./Image_EcommerceManagementM1/image145.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image145.png)
 
 Then the **Spending Rates** page will be shown, allowing you to do many tasks:
 
@@ -713,7 +632,7 @@ Then the **Spending Rates** page will be shown, allowing you to do many tasks:
 
 In order to add a new spending rate, you can click on the **Add Rate** button and then fill out all the required.
 
-![](./Image_EcommerceManagementM1/image147.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image147.png)
 
 1.	**Spending Points**: Enter a specific number of spending points
 
@@ -731,7 +650,7 @@ In order to add a new spending rate, you can click on the **Add Rate** button an
 
 After you finish filling out all the required information, remember to click on the **Save** or the **Save and Continue Edit** button to save your work. If you click on the Save button, you’ll be navigated to the **Spending Rates** manager page and your rate will be shown as below:
 
-![](./Image_EcommerceManagementM1/image149.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image149.png)
 
 •	**Edit/ Delete an existing rate**
 
@@ -739,7 +658,7 @@ In case you want to edit a rate, please click on **Edit** link in the **Action**
 
 Then you will be redirected to the **Edit Spending Rate** page:
 
-![](./Image_EcommerceManagementM1/image151.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image151.png)
 
 After finish editing, remember to click on the **Save** or the **Save and Continue Edit** button to save your work.
 
@@ -749,11 +668,11 @@ To delete a rate, you can go to the **Edit Rate** page and then click on the **D
 
 **Path: Backend > Reward Points > Spending > Catalog Spending Rules**
 
-![](./Image_EcommerceManagementM1/image153.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image153.png)
 
 Or follow the path: 
 
-![](./Image_EcommerceManagementM1/image155.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image155.png)
 
 Then you will be redirected to the **Catalog Spending Rule** Manager page.
 
@@ -763,7 +682,7 @@ First you should click on the Add Rule button. And then you should configure inf
 
 **General Information Tab**:
 
-![](./Image_EcommerceManagementM1/image157.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image157.png)
 
 You should pay attention to these following fields:
 
@@ -787,7 +706,7 @@ This tab allows you to configure the conditions of products to which the rule is
 
 For example, you want to apply this rule only for Category  named Tops & Blousers; you can configure the condition as in the below:
 
-![](./Image_EcommerceManagementM1/image159.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image159.png)
 
 1.	Select the conditions you want to apply category spending  rules. . If you do not set up this field, the rule will be applied for all categories
 
@@ -849,7 +768,7 @@ Let’s take an example, to give a discount of $10 or to $10 for every X points 
 
 After being saved, the rule which has just been created will be shown as below:
 
-![](./Image_EcommerceManagementM1/image165.png)
+![ Manage Spending Rate](./Image_EcommerceManagementM1/image165.png)
 
 •	Edit/ Delete an existing rule
 
@@ -863,11 +782,11 @@ To delete a catalog rule, you can go to the **Edit Rule** page and click on the 
 
 **Path:  Backend > Reward Points > Spending > Shopping Cart Spending Rules**
 
-![](./Image_EcommerceManagementM1/image167.png)
+![ Manage Shopping Cart Spending Rules](./Image_EcommerceManagementM1/image167.png)
 
 Or follow the path below: 
 
-![](./Image_EcommerceManagementM1/image169.png)
+![ Manage Shopping Cart Spending Rules](./Image_EcommerceManagementM1/image169.png)
 
 Then you will be redirected to the **Shopping Cart Spending Rule** Manager page.
 
@@ -877,7 +796,7 @@ First you should click on the **Add Rule** button. And then you should configure
 
 **General Information Tab**:
 
-![](./Image_EcommerceManagementM1/image171.png)
+![ Manage Shopping Cart Spending Rules](./Image_EcommerceManagementM1/image171.png)
 
 Fill in all the required information as above: **Money spent for order, Earning Points, Status, Websites, Vailidity Time, Customer groups, Priority**.
 
@@ -887,7 +806,7 @@ This tab allows you to configure the conditions of shopping carts to which the r
 
 For example, you want to apply this rule only for shopping carts of subtotals equal to or greater than $200, you can configure the condition as in the image below:
 
-![](./Image_EcommerceManagementM1/image173.png)
+![ Manage Shopping Cart Spending Rules](./Image_EcommerceManagementM1/image173.png)
 
 1.	Select the shopping cart you want to apply the rule. If you do not set up this field, the rule will be applied for all carts.
 
@@ -908,7 +827,7 @@ For example, If you want to allow Customers to spend 5 points only on a shopping
 
 ➪ If Customers place an order of $500.00 or $800.00, they can spend only 5 points in both cases.
 
-![](./Image_EcommerceManagementM1/image175.png)
+![ Manage Shopping Cart Spending Rules](./Image_EcommerceManagementM1/image175.png)
 
 **Option 2: Give discount for every X points**:
  Customers can receive discounts proportionally to the number of points they spent.
@@ -919,7 +838,6 @@ If you want to give discount for every 5 points Customers spend on the order and
 
 ✓ Fill in field **Points** (X): 5 
 
-
 ✓ Fill in field  **Max points spent by this rule**: 15 
 
 ➪ With every 5 points customers spent, they can receive a corresponding discount. For example, 5 points can be spent to get $1, 10 points can get $2.00 and so on. But they cannot use more than 15 points as that is the max points that can be spent by this rule.
@@ -928,7 +846,7 @@ If you want to give discount for every 5 points Customers spend on the order and
 
 In the **Action** tab, you can configure how prices of products are discounted after Customers use points: 
 
-![](./Image_EcommerceManagementM1/image177.png)
+![ Manage Shopping Cart Spending Rules](./Image_EcommerceManagementM1/image177.png)
 
 1.	Select a condition you want to apply. 
 
@@ -957,7 +875,7 @@ Besides, you can configure the condition of products on shopping cart to apply t
 
 After being saved, the rule which has just been created will be shown as below:
 
-![](./Image_EcommerceManagementM1/image179.png)
+![ Manage Shopping Cart Spending Rules](./Image_EcommerceManagementM1/image179.png)
 
 •	**Edit/ Delete an existing rule**
 
@@ -971,15 +889,15 @@ To delete a shopping cart rule, you can go to the **Edit Rule** page and click o
 
 **Path:  Backend > Reward Points > Spending > Manage spending points by product**:
 
-![](./Image_EcommerceManagementM1/image181.png)
+![ Manage Spending Points by product](./Image_EcommerceManagementM1/image181.png)
 
 Or follow the path: 
 
-![](./Image_EcommerceManagementM1/image183.png)
+![ Manage Spending Points by product](./Image_EcommerceManagementM1/image183.png)
 
 Then you will be redirected to the **Manage Spending Points By Product** page:
 
-![](./Image_EcommerceManagementM1/image185.png)
+![ Manage Spending Points by product](./Image_EcommerceManagementM1/image185.png)
 
 On this page, you can change the number of spending points to purchase each product by 2 ways:
 
@@ -988,21 +906,21 @@ On this page, you can change the number of spending points to purchase each prod
 ✓ Double click on **Spending Points** column of the product you want to edit. Insert the number of points as you want, then click on **Ok**.
 
 
-![](./Image_EcommerceManagementM1/image187.png)
+![ Manage Spending Points by product](./Image_EcommerceManagementM1/image187.png)
 
 You can also set products to buy with points by going to **Catalog > Manage Products**. On the Product Manager page, click on your wanted product. Here, in **General** tab, you will find the field to fill in the number of points that can be used to purchase it. 
 
-![](./Image_EcommerceManagementM1/image189.png)
+![ Manage Spending Points by product](./Image_EcommerceManagementM1/image189.png)
 
 ##### 3.2.1.4. Manage transaction 
 
 **Path:  Backend > Reward Points > Transactions**
 
-![](./Image_EcommerceManagementM1/image191.png)
+![Manage transaction](./Image_EcommerceManagementM1/image191.png)
 
 Then all the transactions related to reward points will be shown as below:
 
-![](./Image_EcommerceManagementM1/image193.png)
+![ Manage transaction](./Image_EcommerceManagementM1/image193.png)
 
 On this **Transaction Manager** page, you can view a list of all point transactions together with many general information including **Customer, Transaction Type, Points Used**, etc.
 
@@ -1012,36 +930,36 @@ You can **Complete, Cancel** or make transactions expire by choosing the status 
 
 To view details of each transaction, you can click on the corresponding row: 
 
-![](./Image_EcommerceManagementM1/image195.png)
+![ Manage transaction](./Image_EcommerceManagementM1/image195.png)
 
 To add a new transaction, you can click on the **Add Transaction** button, fill out all the required data and then click on the **Save Transaction** button.
-![](./Image_EcommerceManagementM1/image197.png)
+![ Manage transaction](./Image_EcommerceManagementM1/image197.png)
 
 ##### 3.2.1.5. Mange point balances of customers
 
 **Path: Reward Points > Manage Point Balances**
 
 
-![](./Image_EcommerceManagementM1/image199.png)
+![Manage point balances of customers](./Image_EcommerceManagementM1/image199.png)
 
 Then, the Reward Point Balance Manager page will be shown. Here you can see the information of customers and their current point balance. To view in details, click on **View** link in **Action** column. 
 
-![](./Image_EcommerceManagementM1/image201.png)
+![ Manage point balances of customers](./Image_EcommerceManagementM1/image201.png)
 
 Moreover, you can also import/export customers’ points to your system via csv files. 
 
-![](./Image_EcommerceManagementM1/image203.png)
+![ Manage point balances of customers](./Image_EcommerceManagementM1/image203.png)
 
 Another way to manage point balances is to go to **Customers > Manage Customers**
 
 
-![](./Image_EcommerceManagementM1/image205.png)
+![ Manage point balances of customers](./Image_EcommerceManagementM1/image205.png)
 
 On the **Customer Manager** page, you can choose the Customer you want to change balance by clicking on the **Edit** link in the **Action** column.
 
 After clicking on the **Reward Points** tab, all of that Customer’s information will appear as below:
 
-![](./Image_EcommerceManagementM1/image207.png)
+![ Manage point balances of customers](./Image_EcommerceManagementM1/image207.png)
 
 **Reward Points Information**: In this session, you can change the Customer’s balance by filling an integer in the **Change Balance** field. For example, if you enter 5, then 5 points will be added to that customer’s balance and vice versa, -5 means that Customer’s balance will be deducted 5 points.
 
@@ -1049,7 +967,7 @@ Also, you can configure other information like **Update Points Subscription** or
 
 **Transaction history**: This part lists all of that Customer’s transactions:
 
-![](./Image_EcommerceManagementM1/image209.png)
+![ Manage point balances of customers](./Image_EcommerceManagementM1/image209.png)
 
 ##### 3.2.1.6. Change point balance 
 
@@ -1057,15 +975,15 @@ There are two ways to change point balances of customers.
 
 ✓ You can change point balances for each customer by entering the **Change Balance** in the **Reward Point** session of **Customer information** page. After you save, the **Available Points Balance** will be updated. 
 
-![](./Image_EcommerceManagementM1/image211.png)
+![Change point balance](./Image_EcommerceManagementM1/image211.png)
 
 ✓ Another way is that you can change point for many customers at the same time by importing points from csv file. Go to **Reward Points > Manage Point Balances**. On this page, the list of customers will be shown with Point Balance column. 
 
-![](./Image_EcommerceManagementM1/image213.png)
+![ Change point balance](./Image_EcommerceManagementM1/image213.png)
 
 Next step, you need to click on **Import Points** button, the Import Points page will be shown so that you can import file from your computer. Please download the sample file, edit customers’ information then import it. After being imported successfully, the Point Balance of customers will be updated.
 
-![](./Image_EcommerceManagementM1/image215.png)
+![ Change point balance](./Image_EcommerceManagementM1/image215.png)
 
 Besides, you can also export csv file from the list of customers in **Reward Point Balances Information** page. You can also use this file to import again. 
 
@@ -1073,18 +991,18 @@ Besides, you can also export csv file from the list of customers in **Reward Poi
 
 **Path:  Sales > Orders**
 
-![](./Image_EcommerceManagementM1/image217.png)
+![Use points when creating orders in backend](./Image_EcommerceManagementM1/image217.png)
 
 Then the System will display all Customers’ orders. 
 To create orders:
 First, please click on the **Create New Order** button to see the Order form.
 After selecting a Customer, a store and adding Products, you will see the **Use Customer Reward Points** box in which you can set up the number of points the Customer will spend for his order.
 
-![](./Image_EcommerceManagementM1/image219.png)
+![ Use points when creating orders in backend](./Image_EcommerceManagementM1/image219.png)
 
 The **Order Totals** box will also display the number of points that Customer will spend:
 
-![](./Image_EcommerceManagementM1/image221.png)
+![ Use points when creating orders in backend](./Image_EcommerceManagementM1/image221.png)
 
 After filling out all the required fields, please click on the **Submit Order** button to finish creating the new order. Then the **Order totals** box shows the total spent point.
 
@@ -1093,30 +1011,30 @@ After filling out all the required fields, please click on the **Submit Order** 
 When Customers refund orders, you can decide how many points to refund them as well as how many points to get back from them. By default, the System will set those values as the number of points that Customer spent and the number of points that Customer earned respectively.
 First, please choose the order your Customer wants to refund by clicking on the **View** link in the **Action** column. Then the order will appear as below:
 
-![](./Image_EcommerceManagementM1/image223.png)
+![Refund orders into points balance in backend](./Image_EcommerceManagementM1/image223.png)
 
 Now, please click on the **Credit Memo** link to process the order refund. In the **Refund Total** box, you can choose to refund a number of points you like among those that the Customer spent and get back a number of points among those that he earned.
 
 After that, please click on the **Refund Offline** button to finish your refunding.
 
-![](./Image_EcommerceManagementM1/image225.png)
+![ Refund orders into points balance in backend](./Image_EcommerceManagementM1/image225.png)
 
 ##### 3.2.1.9. Manage Loyalty Level
 
 **Path:  Backend > Reward Points > Manage Loyalty Level**
 
-![](./Image_EcommerceManagementM1/image227.png)
+![Manage Loyalty Level](./Image_EcommerceManagementM1/image227.png)
 
 Then you will be naviagted to the **Loyalty Level Manager** page as the image below: 
 
-![](./Image_EcommerceManagementM1/image229.png)
+![ Manage Loyalty Level](./Image_EcommerceManagementM1/image229.png)
 
 In this page, you can add new cutomer group by clicking on **Add New Customer Group** button. 
 Then, the Loyalty Level Information wiill be displayed and you can create a new level in 3 tabs: 
 
 **General Information Tab**: 
 
-![](./Image_EcommerceManagementM1/image231.png)
+![ Manage Loyalty Level](./Image_EcommerceManagementM1/image231.png)
 
 1.	**Create Level From**: Choose group that you want to create leve from: New Group or / Existed Group
 
@@ -1148,7 +1066,7 @@ Then, the Loyalty Level Information wiill be displayed and you can create a new 
 
 **Benefits Tab**: 
 
-![](./Image_EcommerceManagementM1/image233.png)
+![ Manage Loyalty Level](./Image_EcommerceManagementM1/image233.png)
 
 In the Benefits tab, you can configure Earning, Spending Rule and Promotion policy for the new loyalty level:
 
@@ -1158,7 +1076,7 @@ When you click on the icon (+), you will be navigated to other pages to configur
 
 For example, when clicking on the icon (+) next to Earning Rate, a Earning Rate Information page will open and you can continue configuring  in several fields as same as the section **Manage Earning Rate- Add Earning Rate**. 
 
-![](./Image_EcommerceManagementM1/image235.png)
+![ Manage Loyalty Level](./Image_EcommerceManagementM1/image235.png)
 
 ####  3.2.2. Store Credit
 
@@ -1166,11 +1084,11 @@ For example, when clicking on the icon (+) next to Earning Rate, a Earning Rate 
 
 **Path:  Store Credit > Settings**
 
-![](./Image_EcommerceManagementM1/image237.png)
+![Settings in Store Credit](./Image_EcommerceManagementM1/image237.png)
 
 **General Configuration Tab**:
 
-![](./Image_EcommerceManagementM1/image239.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image239.png)
 
 1.	**Enable Store Credit**: to activate Store Credit on your site
 
@@ -1181,14 +1099,14 @@ For example, when clicking on the icon (+) next to Earning Rate, a Earning Rate 
 
 **Spend Credit On Tab**
 
-![](./Image_EcommerceManagementM1/image241.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image241.png)
 
 1.	**Apply Customer Credit**: If you choose **After tax**, it means the Customer Credit Discount will be applied to order value including tax
 
 2.	**Shipping fee**: If you choose **No**, credit balance cannot be used to pay for Shipping Fee
 
 **Email Configuration Tab**:
-![](./Image_EcommerceManagementM1/image243.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image243.png)
 
 1.	**Email template with credit code sent to recipients**: default
 
@@ -1202,7 +1120,7 @@ For example, when clicking on the icon (+) next to Earning Rate, a Earning Rate 
 
 **Adjust time for Customers credit reports on total used and total received credit Tab**:
 
-![](./Image_EcommerceManagementM1/image245.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image245.png)
 
 
 1.	**Select start time for current year**: choose Month, then Date
@@ -1212,7 +1130,7 @@ For example, when clicking on the icon (+) next to Earning Rate, a Earning Rate 
 
 **Style Configuration tab**: on this tab, you will be able to change background and color of Title
 
-![](./Image_EcommerceManagementM1/image247.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image247.png)
 
 1.	**Background of Title**: enter Hexadecimal code
 
@@ -1225,9 +1143,9 @@ For example, when clicking on the icon (+) next to Earning Rate, a Earning Rate 
 **Path:  Store Credit > Manage Customers Using Credit**
 
 Then the **Customers Using Credit Manager** page will be displayed as below:
-![](./Image_EcommerceManagementM1/image249.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image249.png)
 
-![](./Image_EcommerceManagementM1/image251.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image251.png)
 
 This page shows a list of all Customers using credit and their information such as name, email, credit balance, telephone, etc.
 
@@ -1235,29 +1153,29 @@ In order to view more details about a Customer, you can click on the **Edit** li
 
 Then you will be navigated to the **Store Credit** tab on the **Customer Manage** page that shows you all of that Customer’s transaction history and credit balance:
 
-![](./Image_EcommerceManagementM1/image253.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image253.png)
 
 Besides, you can change the Customer’s credit balance by entering an integer (a positive or negative number) and a comment in text fields as below:
 
-![](./Image_EcommerceManagementM1/image255.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image255.png)
 
 Our module will auto send email to Customer to announce about this transaction if you tick on **Send email to customer** checkbox. The email will be sent to the customer as bellow: 
 
-![](./Image_EcommerceManagementM1/image257.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image257.png)
 
 After you save, our module will auto update the Customer’s credit balance, send an email to that Customer and create a transaction as follows:
 
-![](./Image_EcommerceManagementM1/image259.png)
+![ Settings in Store Credit](./Image_EcommerceManagementM1/image259.png)
 
 ##### 3.2.2.3. Manage Credit Products
 
 **Path:  Store Credit > Manage Credit Products**
 
-![](./Image_EcommerceManagementM1/image261.png)
+![Manage Credit Products](./Image_EcommerceManagementM1/image261.png)
 
 Then the **Credit Product Manager** page will be shown:
 
-![](./Image_EcommerceManagementM1/image263.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image263.png)
 
 This page shows you all credit products with a lot of information such as **product ID, name, SKU, quantity, status**, etc. 
 
@@ -1267,7 +1185,7 @@ You can add a credit product just in a similar way to adding a normal product. Y
 
 **General Tab:**
 
-![](./Image_EcommerceManagementM1/image265.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image265.png)
 
 Fill in all required information such as **Product Name, Description, SKU, Status, Visibility**, … the same as creating new normal product. 
 
@@ -1277,21 +1195,21 @@ In this tab, you can configure the price of the credit product.
 
 There are three kinds of credit products you can use including **fixed price, option price** and **range price**.
 
-![](./Image_EcommerceManagementM1/image267.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image267.png)
 
 If you select **Fixed value**, enter the only value you want to apply for the credit product. 
 
-![](./Image_EcommerceManagementM1/image269.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image269.png)
 
 If you select **Range of value**, you need to enter the maximum and minimum store credit value as the image above. 
 
-![](./Image_EcommerceManagementM1/image271.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image271.png)
 
 If you select **Dropdown value**, you need to enter which credit values you want to display and they should be seperated by a comma (for example: 10, 30, 50, 60)
 
 Inventory Tab:
 
-![](./Image_EcommerceManagementM1/image273.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image273.png)
 
 In this tab, by default, our module sets up the field **Manage Stock** as **No**. It means that you do not need to manage the quantity of credit products.
 
@@ -1299,11 +1217,11 @@ If you choose **Yes** in **Manage Stock** box , you need to enter all the inform
 
 Besides the **Credit Product Manager** page, you can also create a new credit product by clicking on the **Add Product** button on the **Manage Product** page:
 
-![](./Image_EcommerceManagementM1/image275.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image275.png)
 
 Then you will be navigated to the **New Product** page. In the **Settings** tab, you need to select **Customer Credit** for the **Product Type** field before going on to configure the product as above.
 
-![](./Image_EcommerceManagementM1/image277.png)
+![ Manage Credit Products](./Image_EcommerceManagementM1/image277.png)
 
 ##### 3.2.2.4. Manage Credit Transactions and Report Charts
 
@@ -1311,11 +1229,11 @@ Then you will be navigated to the **New Product** page. In the **Settings** tab,
 
 **Path: Store Credit > Credit Transactions > Credit Transactions**
 
-![](./Image_EcommerceManagementM1/image279.png)
+![Manage Credit Transactions](./Image_EcommerceManagementM1/image279.png)
 
 Then the **Credit Transactions** page will be shown: 
 
-![](./Image_EcommerceManagementM1/image281.png)
+![ Manage Credit Transactions](./Image_EcommerceManagementM1/image281.png)
 
 This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction and **transaction time**.
 
@@ -1327,16 +1245,15 @@ If you click on a Customer’s email, you will be navigated to the Customer Mana
 
 **Path:  Store Credit > Credit Transactions > Credit Report Charts**
 
-![](./Image_EcommerceManagementM1/image283.png)
+![Manage Credit Report Charts](./Image_EcommerceManagementM1/image283.png)
 
 or follow the path below: 
 
-![](./Image_EcommerceManagementM1/image285.png)
-
+![ Manage Credit Report Charts](./Image_EcommerceManagementM1/image285.png)
 
 Then the **Report Charts** page will be shown as follows:
 
-![](./Image_EcommerceManagementM1/image287.png)
+![ Manage Credit Report Charts](./Image_EcommerceManagementM1/image287.png)
 
 This page can be divided into two main sections including **Life-time Reports** and **Period-of-time Report Charts**.
 
@@ -1352,15 +1269,15 @@ This page can be divided into two main sections including **Life-time Reports** 
 
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
 
-![](./Image_EcommerceManagementM1/image289.png)
+![Use Credit when creating orders in backend](./Image_EcommerceManagementM1/image289.png)
 
 Firstly,  enter a credit amount and then click on the **Use Credit** button. Our module will auto-update and calculate the grand total of the order.
 
-![](./Image_EcommerceManagementM1/image291.png)
+![ Use Credit when creating orders in backend](./Image_EcommerceManagementM1/image291.png)
 
 After submitting the order, the Customer’s credit balance will be also auto updated and you can check the transaction on the **Credit Transaction** page.
 
-![](./Image_EcommerceManagementM1/image293.png)
+![ Use Credit when creating orders in backend](./Image_EcommerceManagementM1/image293.png)
 
 ##### 3.2.2.6. Refund Orders into Credit Balance in backend
 
@@ -1368,13 +1285,13 @@ When Customers want to refund an order, our module allows you to transfer the or
 
 After clicking on the **Credit Memo** button, our module shows a text field for you to enter the amount you want to refund into credit:
 
-![](./Image_EcommerceManagementM1/image295.png)
+![Refund orders into Credit balance in backend](./Image_EcommerceManagementM1/image295.png)
 
 After that, when you click on the **Refund Offline** button, the amount you entered as well as the credit that the Customer used for paying for the order will be refunded to his current credit balance. 
 
 Once the refund is finished, you can check the transaction on the **Manage Transaction** page:
 
-![](./Image_EcommerceManagementM1/image297.png)
+![ Refund orders into Credit balance in backend](./Image_EcommerceManagementM1/image297.png)
 
 ####  3.2.3. Gift Cards
 
@@ -1386,14 +1303,14 @@ Administrators can change parameters as follows:
 
 **General tab** :
 
-![](./Image_EcommerceManagementM1/image299.png)
+![Settings in Gift Cards](./Image_EcommerceManagementM1/image299.png)
 
 Choose **Yes** if you want to enable Gift Card. Otherwise, choose No.
 
 •	**Gift Code**
 
 
-![](./Image_EcommerceManagementM1/imag301.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/imag301.png)
 
 
 1.	Configure the **pattern** to auto-generate gift codes for Gift Card products when customers purchase in frontend
@@ -1404,7 +1321,7 @@ Choose **Yes** if you want to enable Gift Card. Otherwise, choose No.
 
 •	**Gift Card Usage**
 
-![](./Image_EcommerceManagementM1/image303.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image303.png)
 
 1.	Enter the term of validity that Gift Cards can be used after being activated.
 
@@ -1427,7 +1344,7 @@ Choose **Yes** if you want to enable Gift Card. Otherwise, choose No.
 •	**Tax Configuration**
 
 
-![](./Image_EcommerceManagementM1/image305.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image305.png)
 
 
 Here, you have two options to apply Gift Card Discount:
@@ -1440,7 +1357,7 @@ Here, you have two options to apply Gift Card Discount:
 
 •	**Gift Card Value**
 
-![](./Image_EcommerceManagementM1/image307.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image307.png)
 
 1.	Enter the default gift card value 
 
@@ -1449,7 +1366,7 @@ Here, you have two options to apply Gift Card Discount:
 
 •	**Gift Card Template**
 
-![](./Image_EcommerceManagementM1/image309.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image309.png)
 
 1.	Select **Yes** to allow customers to change the image inserted in the template
 
@@ -1457,7 +1374,7 @@ Here, you have two options to apply Gift Card Discount:
 
 •	**Gift Card Shipping Information**
 
-![](./Image_EcommerceManagementM1/image311.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image311.png)
 
 1.	Select **Yes**: Gift card can be sent through the post office
 
@@ -1469,7 +1386,7 @@ Here, you have two options to apply Gift Card Discount:
 
 **Shopping Cart Page tab**:
 
-![](./Image_EcommerceManagementM1/image313.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image313.png)
 
 1.	Select **Yes** to Enable a Gift Card box for customers to apply gift codes right on the shopping cart page.
 
@@ -1479,7 +1396,7 @@ Here, you have two options to apply Gift Card Discount:
 
 **Checkout Page tab**
 
-![](./Image_EcommerceManagementM1/image315.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image315.png)
 
 Select **Yes** to show Gift Card box on the checkout page
  
@@ -1488,7 +1405,7 @@ Select **Yes** to show Gift Card box on the checkout page
 •	**General**
 
 
-![](./Image_EcommerceManagementM1/image317.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image317.png)
 
 1.	Select **Yes** to allow sending notification emails to customers and recipients
 
@@ -1501,7 +1418,7 @@ Select **Yes** to show Gift Card box on the checkout page
 5.	Select **Yes** to allow sending a copy of gift card via email if customers choose to ship through post office.
 •	**Notification Email send to Purchaser**
 
-![](./Image_EcommerceManagementM1/image319.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image319.png)
 
 1.	Select the email template **sent to purchasers after buying Gift Card** successfully. 
 
@@ -1509,7 +1426,7 @@ Select **Yes** to show Gift Card box on the checkout page
 
 •	**Notification Email send to Recipient**
 
-![](./Image_EcommerceManagementM1/image321.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image321.png)
 
 1.	Select the email template **sent to the gift card’s recipient**.
 
@@ -1523,7 +1440,7 @@ Select **Yes** to show Gift Card box on the checkout page
  
 **Gift Card Printout tab**:
 
-![](./Image_EcommerceManagementM1/image323.png)
+![ Settings in Gift Cards](./Image_EcommerceManagementM1/image323.png)
 
 1.	Click on **Choose File** to upload your Logo image. **Notice that**: this image is used in PDF and HTML, recommended sixe is 17x63 px ndn the supported format is jpeg, jpg and png
 
@@ -1542,11 +1459,11 @@ After installing the module, you can start with Gift Card templates. This functi
 
 **Path: Gift Card > Manage Gift Card Template** 
 
-![](./Image_EcommerceManagementM1/image325.png)
+![Manage Gift Card templates](./Image_EcommerceManagementM1/image325.png)
 
 The **Gift Card Template Manager** page will be displayed as below:
 
-![](./Image_EcommerceManagementM1/image327.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image327.png)
 
 As you can see, this page lists all available templates in the system. You can add/edit/delete a template and export the list of templates to .CSV/.XML files. If you want to change status /delete templates in mass, simply select multiple rows, apply an action then click on **Submit** button.
 
@@ -1566,23 +1483,23 @@ In **Template Design** column, there are 5 default Gift Card templates with 4 di
 
 ✓ **Amazon gift card style**: a template which is similar to Amazon gift card
 
-![](./Image_EcommerceManagementM1/image329.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image329.png)
 
 **Left template** 
 
-![](./Image_EcommerceManagementM1/image331.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image331.png)
 
 **Top template** 
 
-![](./Image_EcommerceManagementM1/image333.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image333.png)
 
 **Center template** 
 
-![](./Image_EcommerceManagementM1/image335.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image335.png)
 
 **Simple template**
 
-![](./Image_EcommerceManagementM1/image337.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image337.png)
 
 **Amazon Gift Card template**
 
@@ -1590,7 +1507,7 @@ If you want to create new Gift Card templates, select **Add Gift Card Template**
 
 **General Information tab**:
 
-![](./Image_EcommerceManagementM1/image339.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image339.png)
 
 1.	**Template name**:  Enter  a name of the Gift Card template 
 
@@ -1616,7 +1533,7 @@ You can click on **Preview** button at the top right corner to see how Gift Card
 
 **Images tab**:
 
-![](./Image_EcommerceManagementM1/image341.png)
+![ Manage Gift Card templates](./Image_EcommerceManagementM1/image341.png)
 
 In this tab, you can create a list of images for Customers to select when buying Gift Card in frontend. Just click on **Add** button and choose image files to upload. 
 
@@ -1634,7 +1551,7 @@ You should use images with the following recommended sizes for better display:
 
 Click **Preview** under each image to see how Gift Card will look like. When you finish, remember to click on **Save** or **Save and Continue Edit** to save your work. 
 
-##### 3.2.3.3. Create/Edit a Gift Card Products
+##### 3.2.3.3. Create/Edit Gift Card Products
 
 There are two ways to create a Gift Card product: on **Manage Gift Card Products** page and on **Manage Products** page.
 
@@ -1642,13 +1559,13 @@ There are two ways to create a Gift Card product: on **Manage Gift Card Products
 
 **Path: Gift Card > Manage Gift Card Products**
 
-![](./Image_EcommerceManagementM1/image343.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image343.png)
 
-![](./Image_EcommerceManagementM1/image345.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image345.png)
 
 Click on **Add Gift Card Product** button
 
-![](./Image_EcommerceManagementM1/image347.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image347.png)
 
 Click on **Continue** button then enter information as a normal product. You should pay attention to the following tabs:
 
@@ -1656,7 +1573,7 @@ Click on **Continue** button then enter information as a normal product. You sho
 
 Different from normal products, there is another required field, **Select Gift Card template**, allowing you to choose templates for Gift Card product. You can add more templates to this field in **Manage Gift Card Templates**.
 
-![](./Image_EcommerceManagementM1/image349.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image349.png)
 
 Fill in the required fields:
 
@@ -1668,11 +1585,11 @@ Fill in the required fields:
 
 4.	Enter SKU
 
-5.	Enter Weight
+5.	Enter a Weight
 
 6,7. Set a period of time when a Gift Card is new
 
-8.Select **Active** to enable the New Gift Card. 
+ 8.  Select **Active** to enable the New Gift Card. 
 
 9.	Enter an **URL Key**
 
@@ -1688,12 +1605,11 @@ Fill in the required fields:
 
 In **Prices** tab, Admin can configure prices and values of a Gift Card Product. 
 
-![](./Image_EcommerceManagementM1/image351.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image351.png)
 
 1.	Select a type of tax class to apply for the new Gift card product 
 
 2.	Select **a type of Gift Card value**. 
-
 
 The system  provides 3 types of Gift Card value, including **fixed value, range of values** and **dropdown values**. You can base on the type chosen to set Gift Card value(s) accordingly such as 50-100 (USD) for the **range of value**s type.
 
@@ -1714,7 +1630,7 @@ For example:
 If you choose **Range of values**, you need tofill in all the required information below:  
 
 
-![](./Image_EcommerceManagementM1/image353.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image353.png)
 
 
 ✓ **Type of Gift Card value**: Range values
@@ -1743,14 +1659,14 @@ So Customers only have to pay 90% of Gift Card value, which means $45 for a $50 
 
 This tab enables you to set up the conditions applied to shopping cart when Customers use Gift Card, for example: Customers can only use their Gift Card for orders which have Subtotal is greater than $200.
 
-![](./Image_EcommerceManagementM1/image355.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image355.png)
 
 **Cart Item Conditions** tab:
 
 It  allows you to set up Gift Card usage conditions applied to each item in Customers’ shopping cart. For example, Customers can use their Gift Cards to pay for orders only if the Category  is Women - Top, and Blousers.
 
 
-![](./Image_EcommerceManagementM1/image357.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image357.png)
 
 ***Note:** Normally some common product attributes are enabled to use with promotion rules by default. If you don’t see the attribute you want when setting **Gift Card’s Conditions**, such as SKU, you can go to **Catalog→ Attributes→ Manage Attributes**. Search and choose Attribute Code, such as SKU. Then change **Use for Promo Rule Conditions** to **Yes**.
 
@@ -1768,7 +1684,7 @@ Remember to click on **Save** or **Save and Continue Edit** button to save your 
 ✓ Click on **Add Product** button
 
 
-![](./Image_EcommerceManagementM1/image361.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image361.png)
 
 
 ✓ Select **Product Type: Gift Card**
@@ -1776,13 +1692,13 @@ Remember to click on **Save** or **Save and Continue Edit** button to save your 
 
 ✓ Click on **Continue** button and enter information as in **Manage Gift Card Product** page. 
 
-![](./Image_EcommerceManagementM1/image363.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image363.png)
 
 After saving, Gift Card product which you have just created is shown on both **Manage Products** page and  **Gift Card Product Manager** page as below:
 
-![](./Image_EcommerceManagementM1/image365.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image365.png)
 
-![](./Image_EcommerceManagementM1/image367.png)
+![ Create Gift Card Product](./Image_EcommerceManagementM1/image367.png)
 
 In order to edit any Gift product, you need to click on corresponding row or link **Edit**. Remember to click on **Save** or **Save and Continue Edit** button after editing to save your work.
 
@@ -1792,17 +1708,17 @@ This function helps you to generate a wide range of synchronous Gift Card codes,
 
 **Path: Gift Card → Generate Gift Codes**
 
-![](./Image_EcommerceManagementM1/image368.png)
+![Generate Gift Codes](./Image_EcommerceManagementM1/image368.png)
 
  You will be navigated to **Gift Code Pattern Manager** page. 
 
-![](./Image_EcommerceManagementM1/image370.png)
+![ Generate Gift Codes](./Image_EcommerceManagementM1/image370.png)
 
 To add a new template to generate gift codes, click on **Add Gift Code Pattern** button and configure information as below: 
 
 **General Information tab**:
 
-![](./Image_EcommerceManagementM1/image372.png)
+![ Generate Gift Codes](./Image_EcommerceManagementM1/image372.png)
 
 1.	Pattern name: Enter a name of the template to generate gift codes 
 
@@ -1834,24 +1750,24 @@ If you enter GIFT-[A.4]-[AN.6] as the sample, the system will auto-create a bunc
 
 **Conditions tab**: 
 
-![](./Image_EcommerceManagementM1/image374.png)
+![ Generate Gift Codes](./Image_EcommerceManagementM1/image374.png)
 
 
 In this tab, you can set special conditions applied to shopping carts when Customers use gift codes generated to check out.
 
 After setting up, click on Save Pattern, Save and Continue Edit or Save And Generate button, the template created will be shown in the Gift Code Pattern Manager grid as below:
 
-![](./Image_EcommerceManagementM1/image376.png)
+![ Generate Gift Codes](./Image_EcommerceManagementM1/image376.png)
 
 When you click on Save And Generate button, gift codes will be auto-generated. After that, Gift Codes Information page will show a new tab as below:
 
 Gift Codes Information tab: 
 
-![](./Image_EcommerceManagementM1/image378.png)
+![ Generate Gift Codes](./Image_EcommerceManagementM1/image378.png)
 
 Besides viewing details and status of gift codes generated, you can export the list of Gift Card codes to .CSV or .XML file by clicking on the drop-down list Export to, choose one of the options provided and then click on Export button.
 
-![](./Image_EcommerceManagementM1/image380.png)
+! Generate Gift Codes [](./Image_EcommerceManagementM1/image380.png)
 
 #####  3.2.3.5. Manage Gift Codes	
 
@@ -1860,9 +1776,9 @@ Besides viewing details and status of gift codes generated, you can export the l
 
 You will be navigated to **Gift Code Manager** page.
 
-![](./Image_EcommerceManagementM1/image382.png)
+![Manage Gift Codes](./Image_EcommerceManagementM1/image382.png)
 
-![](./Image_EcommerceManagementM1/image384.png)
+![ Manage Gift Codes](./Image_EcommerceManagementM1/image384.png)
 
 This page gives you a detailed list of all gift codes in your system, including gift codes created from Gift Card orders in front-end and gift codes created/ generated in back-end. Each gift code is provided with essential information, such as the Initial Value, the Current Balance and gift code’s status, etc. To help save much time in managing, our module allows you to select multiple gift codes and apply the following action(s) in mass.
 
@@ -1870,7 +1786,7 @@ This page gives you a detailed list of all gift codes in your system, including 
 
 ✓ Change status/send email/delete/print gift codes. Please note that gift codes without recipient email address cannot be sent.
 
-![](./Image_EcommerceManagementM1/image386.png)
+![ Manage Gift Codes](./Image_EcommerceManagementM1/image386.png)
 
 Besides, you can add new gift codes manually, import gift codes in bulk from CSV files and edit each gift code by clicking on **Edit**  link at the end of each corresponding row.
 
@@ -1878,7 +1794,7 @@ If you want to create a new gift code manually, select **Add Gift Code** and fin
 
 **General Information tab**:
 
-![](./Image_EcommerceManagementM1/image388.png)
+![ Manage Gift Codes](./Image_EcommerceManagementM1/image388.png)
 
 1.	**Gift Code Pattern**: Configure the pattern to generate a gift code as the following example: 
 
@@ -1914,37 +1830,37 @@ For adding or editting more templates, you can refer to the **Manage Gift Card T
 
 Similar to**Shopping Cart Conditions** tab and **Cart Item Conditions** tab when creating new Gift Cards, these two tabs on **New Gift Code** page allow you to set conditions applied to shopping carts and items in cart when Customers use this gift code to check out.
 
-![](./Image_EcommerceManagementM1/image390.png)
+![ Manage Gift Codes](./Image_EcommerceManagementM1/image390.png)
 
 **Message Information tab**:
 
 If you intend to send the gift code to a specific person, a Customer for example, this tab allows you to add information about the Customer, the recipient and a custom message.
 
-![](./Image_EcommerceManagementM1/image392.png)
+![ Manage Gift Codes](./Image_EcommerceManagementM1/image392.png)
 
 After entering all data, remember to click on **Save, Save And Send Email** or **Save and Continue Edit** to save your work.
 
 Moreover, you can add new gift codes by importing voucher codes from a CSV file. You need to click on **Import Gift Code** button on the top right corner of the **Gift Code Manager** page.
 
-![](./Image_EcommerceManagementM1/image394.png)
+![ Manage Gift Codes](./Image_EcommerceManagementM1/image394.png)
 
 The **Import Gift Code** page will be shown as below for you to browse a CSV file. And then, click on **Import** or **Import and Print** button.
 
-![](./Image_EcommerceManagementM1/image396.png)
+![ Manage Gift Codes](./Image_EcommerceManagementM1/image396.png)
 
 ##### 3.2.3.6. Manage Gift Code Sets
 
 Gift code set is a list of code that store owners import into the system to sell. When you create gift card product, you can choose gift code set for that gift card product: 
 
-![](./Image_EcommerceManagementM1/image398.png)
+![ Manage Gift Codes Sets](./Image_EcommerceManagementM1/image398.png)
 
 **Path: Gift Card -> Manage Gift Code Sets**. 
 
-![](./Image_EcommerceManagementM1/image400.png)
+! Manage Gift Codes Sets [](./Image_EcommerceManagementM1/image400.png)
 
 To create gift code sets: You choose **Add Gift Code Set**.
 
-![](./Image_EcommerceManagementM1/image402.png)
+![ Manage Gift Codes Sets](./Image_EcommerceManagementM1/image402.png)
 
 1.	Enter a name for a new Gift Code set 
 
@@ -1955,7 +1871,7 @@ To create gift code sets: You choose **Add Gift Code Set**.
 
 To edit gift code set: Click on the Gift Code Set you would like to edit. You can upload a new CSV file of gift code or edit each gift code’s information in the set.
 
-![](./Image_EcommerceManagementM1/image404.png)
+![ Manage Gift Codes Sets](./Image_EcommerceManagementM1/image404.png)
 
 ##### 3.2.3.7. Manage Gift Card Credit Balance
 
@@ -1966,19 +1882,18 @@ To edit gift code set: Click on the Gift Code Set you would like to edit. You ca
 ✓ Choose **Gift Card Credit** tab 
 
 
-![](./Image_EcommerceManagementM1/image406.png)
+![ Manage Gift Card Credit Balance](./Image_EcommerceManagementM1/image406.png)
 
 On this page, you can view current Gift Card credit balance and Balance History of a Customer.
 
-![](./Image_EcommerceManagementM1/image408.png)
+![ Manage Gift Card Credit Balance](./Image_EcommerceManagementM1/image408.png)
 
 To change Customers’ Gift Card balance
 1.	Enter the amount of money into **Change Balance** text field 
 
 2.	Click on **Save Customer** or **Save and Continue Edit** button.
 
- The balance will be updated and the change will be added to **Balance History** grid as above.
-
+The balance will be updated and the change will be added to **Balance History** grid as above.
 
 ##### 3.2.3.8. Use Gift Card/ Code when creating orders in backend
 
@@ -1986,7 +1901,7 @@ To change Customers’ Gift Card balance
 
 On **Create New Order** page, after selecting a Customer and adding a product to an order, the system will show the Gift Card box, which allowing you to use Gift Card credit balance or Gift Card code(s) of the Customer to pay for this order. 
 
-![](./Image_EcommerceManagementM1/image410.png)
+![Use Gift Card/Code when creating orders in backend](./Image_EcommerceManagementM1/image410.png)
 
 1.	Select **Use gift card to checkout** and enter the amount of money in the box: it means that customers will spend their gift credit balance to place order. 
 
@@ -1997,7 +1912,7 @@ On **Create New Order** page, after selecting a Customer and adding a product to
 
 After applying, the discount from Credit Balance/Gift Card Code will be subtracted from the Subtotal as below:
 
-![](./Image_EcommerceManagementM1/image412.png)
+![ Use Gift Card/Code when creating orders in backend](./Image_EcommerceManagementM1/image412.png)
 
 #####  3.2.3.9. Refund Ordersinto Gift Card Credit Balance
 
@@ -2007,7 +1922,7 @@ If Customers have their own account on your site, this amount will be refunded i
 
 If Customers don’t have accounts on your site, this amount will be refunded into their Gift Card codes.
 
-![](./Image_EcommerceManagementM1/image414.png)
+![Refund Orders into Gift Card Credit Balance](./Image_EcommerceManagementM1/image414.png)
 
 
 ***Note**: Once Gift Card is used (redeemed or used to buy other products), it cannot be refunded to cash.
@@ -2022,11 +1937,11 @@ On Gift Card History page, you will know when Gift Cards were created/ updated/ 
 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience.
 
-![](./Image_EcommerceManagementM1/image416.png)
+![History in Gift Card module](./Image_EcommerceManagementM1/image416.png)
 
 -------------------------------------
 
-## IV. User Guide For Ecommerce Staff
+## IV.  User Guide For Ecommerce Staff
 ### 4.1. Validating orders and Store Pickup process 
 ####  4.1.1. Validate orders
 ##### 4.1.1.1. Check orders in store
@@ -2084,7 +1999,7 @@ You can refer to section **Use points to create orders in backend** - Reward Poi
 -	**How to earn points**
 
 
-![](./Image_EcommerceManagementM1/image418.png)
+![ How to earn points in web pos](./Image_EcommerceManagementM1/image418.png)
 
 
 1.	Click on products customers request
@@ -2092,16 +2007,16 @@ You can refer to section **Use points to create orders in backend** - Reward Poi
 2.	Click on **Check out** button
 
 
-![](./Image_EcommerceManagementM1/image420.png)
+![ How to earn points in web pos](./Image_EcommerceManagementM1/image420.png)
 
 
 The amount of points earned by customers will be shown below the substotal amount
 
-![](./Image_EcommerceManagementM1/image422.png)
+![How to earn points in web pos](./Image_EcommerceManagementM1/image422.png)
 
 Choose the customer to receive the points by click on the symbol as in the above image.
 
-![](./Image_EcommerceManagementM1/image424.png)
+![ How to earn points in web pos](./Image_EcommerceManagementM1/image424.png)
 
 Click on the customers in the list or create new ones
 
@@ -2109,7 +2024,7 @@ Click on the customers in the list or create new ones
 
 **Path: Web POS screen > Orders > Checkout**
 
-After select customers and add products, Web POS users click on ![](./Image_EcommerceManagementM1/image427.png) button to access the payment and shipment procurements. 
+After select customers and add products, Web POS users click on ![ How to use spending points in web pos](./Image_EcommerceManagementM1/image427.png) button to access the payment and shipment procurements. 
 ![](./Image_EcommerceManagementM1/image428.png)
 
 
@@ -2119,25 +2034,25 @@ Or Mark the **Use Max points**  checkbox if customers want to spend the maximum 
 
 2.	Click on **Apply**  button.
 
-![](./Image_EcommerceManagementM1/image430.png)
+![ How to use spending points in web pos](./Image_EcommerceManagementM1/image430.png)
 
 On **Checkout Page**, the system will show a details summary of the order. 
 
 Spending points which were converted into $$$ for discount would be shown in the **Use point** field.
 
-![](./Image_EcommerceManagementM1/image432.png)
+![ How to use spending points in web pos](./Image_EcommerceManagementM1/image432.png)
 
 3.	Click **Place Order** button to finish
 
 -  **How to manage Reward Points of customers**
 
-![](./Image_EcommerceManagementM1/image44=34.png)
+![ How manage reward points in web pos](./Image_EcommerceManagementM1/image44=34.png)
 
-![](./Image_EcommerceManagementM1/image436.png)
+![ How manage reward points in web pos](./Image_EcommerceManagementM1/image436.png)
 
 Click on the symbol highlighted as in the first image, then click on **Customer List**
 
-![](./Image_EcommerceManagementM1/image438.png)
+![ How manage reward points in web pos](./Image_EcommerceManagementM1/image438.png)
 
 Click on a **customer** to view the points left in that customer’s account
 
@@ -2170,7 +2085,7 @@ On **Checkout** page, after selecting a customer and adding a product to an orde
 
 To use credit to place new orders : 
 
-![](./Image_EcommerceManagementM1/image440.png)
+![Use credit when creating orders in web pos](./Image_EcommerceManagementM1/image440.png)
 
 1.	Enter the store credit  in the blank. Tick **Use max credit** if a customers wants to spend all credit in their purse.
 
@@ -2196,13 +2111,13 @@ Go to section **Refund  Orders into Credit balance in backend** - Store Credit p
 **Path: Orders > Orders History > Select an order to refund**
 
 
-![](./Image_EcommerceManagementM1/image442.png)
+![Refund orders into credit balance in Web POS](./Image_EcommerceManagementM1/image442.png)
 
 1.	Click on “**Refund**”
 
 On the pop-up screen:
  
-![](./Image_EcommerceManagementM1/image444.png)
+![ Refund orders into credit balance in Web POS](./Image_EcommerceManagementM1/image444.png)
 
 
 2.	Enter the number of money to refund into **Store Credit** balance box.
@@ -2234,14 +2149,13 @@ On Checkout page, after selecting a customer and adding a product to an order, t
 
 To use Gift code to place a new order on Checkout Page (Web POS):
 
-![](./Image_EcommerceManagementM1/image446.png)
+![Use gift code to place orders in web pos](./Image_EcommerceManagementM1/image446.png)
 
 1.	Enter the gift code in the blank
 
 2.	Click on “**Apply**” button.
 
-
-![](./Image_EcommerceManagementM1/image448.png)
+![ Refund orders into credit balance in Web POS](./Image_EcommerceManagementM1/image448.png)
 
 
 Then select a payment method (such as: Credit Card) 
@@ -2262,13 +2176,13 @@ Go to section  **Refund orders into Gift Card Credit balance in backend** - Gift
 
 **Path: Orders > Orders History > Select an order to refund**
 
-![](./Image_EcommerceManagementM1/image450.png)
+![Refund orders into Gift Card credit balance in web pos](./Image_EcommerceManagementM1/image450.png)
 
 1.	Click on “**Refund**”
 
 On the pop-up screen:
 
-![](./Image_EcommerceManagementM1/image451.png)
+![ Refund orders into Gift Card credit balance in web pos](./Image_EcommerceManagementM1/image451.png)
 
 2.	Enter the number of money to **Refund to gift** credit  balance. 
 
