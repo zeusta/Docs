@@ -6,11 +6,11 @@ Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this docum
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice. 
 
-----------------------------------------
+---------------------------
 
 ## I. Introduction
 
-According to Big Commerce and Square, e-Commerce is growing 23% year-over-year. Even 2 in 5 (40%) online shoppers say they couldn’t live without online shopping. However, many e-Commerce businesses are struggling to capitailize on their digital sales channels. 
+According to Big Commerce and Square, ecommerce is growing 23% year-over-year. Even 2 in 5 (40%) online shoppers say they couldn’t live without online shopping. However, many e-commerce businesses are struggling to capitailize on their digital sales channels. 
 
 So how retailers can manage their business to maximize sales on online channels in the emerging technology world? 
 
@@ -18,15 +18,16 @@ Magento Ecommerce Management module including Store Pickup, and Loyalty programs
 
 With Loyalty programs module, your ebusiness can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
 
-This guide is specially written according to each role of an e-Commerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an e-Commerce business. 
+This guide is specially written according to each role of an ecommerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an ecommerce business.  
 
---------------------------------------- 
+-----------------------------
 
 ## II. Permission Matrix
 
 ![](./Image_EcommerceManagementM1/image004.png)
 
 ---------------------------------------
+
 ## III. For Ecommerce Manager
 ###  3.1. Validating Orders and Store Pickup Processing
 ####   3.1.1. Customers place online  orders
@@ -609,6 +610,7 @@ For example, if you want to give Customers 5 points for purchasing, then:
 
 4.	Choose the conditions of card items to apply the rule 
 
+
 ➪  If Customers place an order of $100 or $1000, they will earn 5 points.
 
 **Option 2: Give X points for every Y money spent**: 
@@ -742,7 +744,7 @@ After finish editing, remember to click on the **Save** or the **Save and Contin
 
 To delete a rate, you can go to the **Edit Rate** page and then click on the **Delete** button on top of that page.
 
-###### b.  Manage Catalog Spending rules
+######  b.  Manage Catalog Spending rules
 
 **Path: Backend > Reward Points > Spending > Catalog Spending Rules**
 
@@ -2021,7 +2023,8 @@ You can filter data with the above criteria to get more accurate reports. Inform
 
 ![](./Image_EcommerceManagementM1/image416.png)
 
-----------------------------
+-------------------------------------
+
 ## IV. For Ecommerce Staff
 ### 4.1. Validating orders and Store Pickup process 
 ####  4.1.1. Validate orders
