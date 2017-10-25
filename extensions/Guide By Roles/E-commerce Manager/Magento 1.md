@@ -5,7 +5,9 @@ Confidential Information Notice
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice. 
+
 ----------------------------------------
+
 ## I. Introduction
 
 According to Big Commerce and Square, e-Commerce is growing 23% year-over-year. Even 2 in 5 (40%) online shoppers say they couldn’t live without online shopping. However, many e-Commerce businesses are struggling to capitailize on their digital sales channels. 
