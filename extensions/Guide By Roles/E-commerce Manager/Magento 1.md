@@ -25,7 +25,7 @@ This guide is specially written according to each role of an e-Commerce business
 ![](./Image_EcommerceManagementM1/image004.png)
 ## For Ecommerce Manager
 ###  Validating Orders and Store Pickup Processing
-####   Customer place online  orders
+####   Customers place online  orders
 ##### View store information
 
 Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the **Store Pickup** module.
