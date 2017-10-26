@@ -70,7 +70,7 @@ In the Step of “POS Return Order”
 
 In the step of “POS Report”: not involved 
 
-### Store Cashier##
+### Store Cashier###
 Store Cashier will take those tasks: 
 In the step of “Session Management”: involved in all the actions. 
 
