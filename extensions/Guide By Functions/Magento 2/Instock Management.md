@@ -330,11 +330,9 @@ The system periodically check stock availability and automatically send email no
 
 -	**On the Conditions tab:** 
 
- ![](./instockimages/image033.png?raw=true)
-
 There are **2 types** of low stock rule:
 
- ![](./instockimages/image034.png?raw=true)
+ ![](./instockimages/image033.png?raw=true)
 
 ***Type 1: Availability Qty**.
 **Availability Qty.**: you can select Qty. threshold that the system will notify to import*. 
@@ -347,7 +345,7 @@ There are **2 types** of low stock rule:
 
 (11) Select **Warehouses** for those rules will be applied
 
- ![](./instockimages/image035.png?raw=true)
+ ![](./instockimages/image034.png?raw=true)
 
 ***Type 2: Availability Days**
 **Availability Days**: you can select Day Threshold that system can notify you to import items. You do not need to enter the Qty. here because the system will automatically calculate the selling rate based on the sale period you provided and the real Qty. in your warehouse and (store)*
@@ -364,13 +362,13 @@ There are **2 types** of low stock rule:
 
 -	**On Actions tab:** 
 
- ![](./instockimages/image036.png?raw=true)
+ ![](./instockimages/image035.png?raw=true)
 
 (17)	Enter an **email list** to send the low stock notifications to
 
 (18)	Enter content of the **warning message**
 
-![](./instockimages/image037.png?raw=true)
+![](./instockimages/image036.png?raw=true)
 
 (19)	Click **Save** or **Save and Apply** to finish
 
@@ -380,12 +378,12 @@ There are **2 types** of low stock rule:
 
 ***Note***: *You can edit the rule that you **Save and Apply** or **Save** by going to **Stock Management > Prediction** section **> Low Stock Rules >** clicking on Edit*
 
- ![](./instockimages/image038.png?raw=true)
+ ![](./instockimages/image037.png?raw=true)
 
 #### Low Stock Notifications
 
 - *Path:* **Stock Management > Prediction** section **> Low Stock Notifications**
 
-![](./instockimages/image039.png?raw=true) 
+![](./instockimages/image038.png?raw=true) 
 
 **Low Stock notifications** displays warning messages about the products which are nearly out of stock in warehouses. It shows all notifications with information including Sent at, Update Type, Email received, Recipients and Action. Click *view* action on each notification log to see details of products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
