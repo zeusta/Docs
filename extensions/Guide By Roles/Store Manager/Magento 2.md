@@ -96,7 +96,7 @@ All the tasks which will be involved in the system by Store Manager will be incl
 
 This role will mainly take charge of the following tasks regarding Point of Sale system:
 
-###General Sales Process
+### General Sales Process
 In this part, Store Manager will open session at the beginning of working day. 
 The number of Opening Balance will be set. Then, in the last shift of the day, POS System could provide users daily revenue records. 
 
