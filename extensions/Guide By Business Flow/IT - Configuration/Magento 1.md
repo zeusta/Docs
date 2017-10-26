@@ -1374,3 +1374,6 @@ After all, remember to click **Save Role** or **Save And Continue Edit**
 (4)	**Status:** choose **Enabled** to activate the User
 
 Click **Save User** or **Save And Continue to Edit** to finish this phase
+
+------
+
