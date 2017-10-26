@@ -1,5 +1,5 @@
 
-# USER GUIDE FOR IT ADMIN
+# USER GUIDE FOR IT CONFIGURATION
 -----
 
 *Confidential Information Notice.* 
