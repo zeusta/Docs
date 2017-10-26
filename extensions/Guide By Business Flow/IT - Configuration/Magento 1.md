@@ -1377,3 +1377,373 @@ Click **Save User** or **Save And Continue to Edit** to finish this phase
 
 ------
 
+## HOW TO MANAGE MASTER DATA
+
+
+### Customers
+
+
+#### Manage Customers
+
+
+Path: **Customers > Manage Customers** 
+
+![Manage Customers](./imgpart02/img17.png?raw=true)
+
+(1)	The Manage Customers Table will be shown in grid, including columns named **ID, Name, Email, Group, Telephone, Zip, Country, State/Province, Customer Since, Website** and **Action**
+
+You can edit Action by ticking on Customer(s) and choose Action on **Actions** Field, then clicking **Submit** as below:
+
+![Action Option](./imgpart02/img18.png?raw=true)
+
+(2)	**Add New Customer:** if you have not known how to add New customer, you can read the Magento Guide by clicking on **Get help for this page**
+
+![Get help for this page](./imgpart02/img19.png?raw=true)
+
+Besides, you can edit Customers’ Information by clicking on the Customer you want to edit.
+
+#### Customer Groups
+
+![Customer Groups](./imgpart02/img20.png?raw=true)
+
+(1)	The Customer Groups will be shown in grid, including columns named **ID, Group Name** and **Tax Class**. 
+
+(2)	**Add New Customer Group:**
+
+![Add New Customer Group](./imgpart02/img21.png?raw=true)
+
+**1/ Group Name:** enter the name (less than 32 symbols)
+
+**2/ Tax Class:** choose the tax class
+
+![Tax Class](./imgpart02/img22.png?raw=true)
+
+Then, click on **Save Customer Group** to finish
+
+
+### Supplier
+
+
+#### Manage Suppliers
+
+
+Path: **Supplier > Manage Suppliers**  
+
+![Manage Suppliers](./imgpart02/img23.png?raw=true)
+
+(1)	The Supplier Management will be shown in grid, including columns named **ID, Supplier, Supplier Code, Contact Email, Status** and **Action**
+
+(2)	**Add New Supplier**
+
+
+#### Add New Supplier
+
+
+##### Supplier Information
+
+![Suppliers Information](./imgpart02/img24.png?raw=true)
+
+(1)	**Supplier Name:** enter the name
+
+(2)	**Supplier Code:** enter the code. It can be Commercial and Government Entity (CAGE) code of supplier, or supplier number, or supplier code, etc.
+
+(3)	**Contact Person:** enter the name of the contact person
+
+(4)	**Email:** enter the supplier email to contact
+
+(5)	**Status:** enabled or disabled this supplier
+
+(6)	**Description:** enter the description about supplier (if have)
+
+
+##### Mailing Address
+
+![Mailing Address](./imgpart02/img25.png?raw=true)
+
+Fill in **Telephone, Fax, Street Address, City, Country, State/Provice** and **Zip/Postal Code**
+
+
+##### Product List
+
+![Mailing Address](./imgpart02/img26.png?raw=true)
+
+Tick on which product(s) the supplier provide
+
+
+##### Pricelist
+
+![Pricelist](./imgpart02/img27.png?raw=true)
+
+Tick on which pricelist(s) the supplier provide
+
+After all, click **Save** to complete the phase
+
+
+#### Manage Pricelist
+
+![Pricelist Management](./imgpart02/img28.png?raw=true)
+
+(1)	The Pricelist Management will be shown in grid, including columns named **ID, Product SKU, Product Name, Supplier, Maximum Qty, Purcahse Price (USD), Start Date, End Date** and **Action**
+
+(2)	You can click on
+
+-	**Mass Remove:** to remove all pricelist
+
+-	**Mass Update:** to update what you have editted
+
+-	**Import Pricelist:** to import the pricelist. If you click on this, a pop-up will be shown as below:
+
+![Import Pricelist](./imgpart02/img29.png?raw=true)
+
+**Choose file** and upload a **CSV File** to import
+
+If you do not have it, click on **Download sample file** to get the sample of CSV
+
+After you finish uploading, click on **Import** to complete this phase
+
+
+### Product
+
+
+#### Attributes
+
+
+Path: **Catalog > Attributes > Manage Attributes**
+
+![Attributes](./imgpart02/img30.png?raw=true)
+
+(1)	The Management Tab will be shown in grid, including columns named **Attribute Code, Attribute Label, Required, System, Visible, Scope, Searchable, Used in Layered Navigation**, and **Comparable**. 
+
+(2)	**Add New Attribute:** If you do not know how to fill in required fields, click on 
+
+![Get help for this page](./imgpart02/img31.png?raw=true)
+
+
+#### Attribute Sets
+
+
+Path: **Catalog > Attributes > Manage Attribute Sets**
+
+![Attribute Sets](./imgpart02/img32.png?raw=true)
+
+(1)	The Attribute Sets will be shown in table
+
+(2)	**Add New Set:** If you do not know how to fill in required fields, click on 
+
+![Get help for this page](./imgpart02/img33.png?raw=true)
+
+
+#### Categories
+
+
+Path: **Catalog > Manage Categories**
+
+![Categories](./imgpart02/img34.png?raw=true)
+
+When selecting a category on the left, all the information will be displayed on the right.
+
+You can easily edit any Category Information. Remember to click on **Save Category** to complete it. 
+
+Or else, you can delete Category from your store by click on **Delete Category** button. 
+
+![Categorie button](./imgpart02/img35.png?raw=true)
+
+(1)	**Add Root Category** and **Add Subcategory:** click on the button
+
+(2)	**Get help for this page:** if you are not clear how to fill in required fields, click to read guidelines
+
+(3)	**Reset** and **Save Category:** to save the new category, click on **Save Category**. To delete what you have created, click on **Reset**
+
+#### Products 
+##### Types
+
+•	**Simple Product**
+
+A simple product is a physical item with a single SKU. Simple products have a variety of pricing and of input controls which makes it possible to sell variations of the product. Simple products can be used in association with grouped, bundle, and configurable products.
+
+•	**Grouped Product**
+
+A grouped product presents multiple, standalone products as a group. You can offer variations of a single product, or group them for a promotion. The products can be purchased separately, or as a group.
+
+•	**Configurable Product**
+
+A configurable product appears to be a single product with lists of options for each variation. However, each option represents a separate, simple product with a distinct SKU, which makes it possible to track inventory for each variation.
+
+•	**Virtual Product**
+
+Virtual products are not tangible products, and are typically used for products such as services, memberships, warranties, and subscriptions. Virtual products can be used in association with grouped and bundle products.
+
+•	**Bundle Product**
+
+A bundle product let customers “build their own” from an as sort of options. The bundle could be a gift basket, computer, or any things else that can be customized. Each item in the bundle is a separate, standalone product.
+
+•	**Downloadable Product**
+
+A digitally downloadable product that consists of one or more files that are downloaded. The files can reside on your server or be provided as URLs to any other server.
+
+•	**Custom Sale**
+
+A custom sale product is a special product that can be ordered personally or customized along Customer Demand. This product will only be shown in POS.
+
+•	**Store Credit**
+ 
+A store credit helps customer save and earn credit after purchasing a product, or or refund products “without using money”. Besides, Store Credit can be used in purchasing. 
+
+•	**Gift Card**
+
+A gift card is a prepaid stored-value money product. Customer can use gift card as an alternative to cash for purchases within a particular store or related business.
+
+
+
+### Warehouse
+
+
+Path: **Inventory Management > Stock Listing > Warehouses**
+
+![Warehouse Listing](./imgpart02/img36.png?raw=true)
+
+Inventory Information will be shown in grid, inlcuding columns as **ID, Warehouses, Total SKU, Total Qty, Contact Email, Telephone, Street, City, Country** and **Action**
+
+
+#### New Warehouse
+
+Click on **Add a New Warehouse**
+
+![Add New Warehouse](./imgpart02/img37.png?raw=true)
+
+Fill basic information about the new Warehouse. 
+
+
+***Notes:*** You are required to fill **Warehouse Name** and **Warehouse Code**
+
+
+#### Warehouse Management
+
+![Warehouse Management](./imgpart02/img38.png?raw=true)
+
+The grid shows Warehouse basic information such as **ID, Warehouse Name, Total SKUs, Total Qty, Contact Email, Telephone, Street, City, Country**, and **Action**
+
+Click on **View** 
+
+![Warehouse Information](./imgpart02/img39.png?raw=true)
+Here, you can edit Warehouse information, including **General Information, Stock On Hand, Stock Movement, Warehouse Permission**, and **Dashboard:**
+
+•	**General Information:** name,code, email and location
+
+•	**Stock On Hand:** illustrate the Qty of products that are availble in the warehouse at the moment. 
+
+•	**Stock Movement:** show the opening and closing data between dates, such as: purchases made, sales order totals, external transfer and internal transfer (send stock) and returned items. 
+
+•	**Warehouse Permission:** manage and decentralize warehouse permission
+
+•	**Dashboard:** show Inventory Report in lines and tables. 
+Then, remember to click **Save General Information** to save what you have edited. 
+
+Or you can click on **Delete Warehouse** to delete the warehouse.
+
+Or click on **Back**, to get back the Management Page.
+
+
+#### Warehouse Permission
+
+
+After having created a warehouse, Admin Users can give different warehouse access permissions to different (admin) users.
+
+Click on **View** to see the warehouse’s detail information 
+
+![Warehouse Permission](./imgpart02/img40.png?raw=true)
+
+If you want to edit **Warehouse Roles**,
+
+(1)	Tick on the staff you want to edit roles
+
+(2)	Click on tab to select role. For example:
+
+![Warehouse Roles Options](./imgpart02/img41.png?raw=true)
+
+(3)	Click on **Delete** if you want to delete the staff completely.
+If you want to add new staff(s), 
+
+(4)	Click on **Assign Staffs**. 
+
+Then a pop-up will be shown as below:
+
+![Assign Staffs](./imgpart02/img42.png?raw=true)
+
+(1)	Tick on the staff you want to add
+
+(2)	Click on tab to select **Admin Role** or **Staff Role** or both
+
+(3)	Click on **Add Selected Staff** to finish this phase. 
+
+
+### Location
+
+
+Path: **Sales > Web POS > Manage Locations**
+
+
+#### Add new Location
+
+![Add New Location](./imgpart02/img43.png?raw=true)
+
+Click on **Add New Location** to add a new one. Then you will have to fill in two sections:
+
+
+##### Location Information
+
+![Location Information](./imgpart02/img44.png?raw=true)
+
+(1)	**Display Name** and **Address:** these are required fields
+
+(2)	**Description:** fill in description about the warehouse
+
+(3)	**Warehouse:** select one of these options:
+
+![Warehouse List Option](./imgpart02/img45.png?raw=true)
+
+-	**Don’t link to any warehouse:** if the warehouse works separatedly
+
+-	**Create a new Warehouse:** if you are creating the location for the new warehouse
+
+-	**List of warehouses: ** Select one warehouse that you want to add new location
+
+
+##### User List
+
+![User List](./imgpart02/img46.png?raw=true)
+
+(1)	Tick on which user you want to edit
+
+(2)	Click on the tab in the **Status** Column to edit **Status** of the User. 
+
+After all, remember to click **Save Location** to complete the new Location
+
+
+#### Maping Locations – Warehouses
+
+
+Path: **Sales > Web POS > Manage Locations > Maping Locatons – Warehouses**
+
+Or 
+
+Path: **Inventory Management > Stock Listing > Warehouses > Maping Locations-Warehouses**
+
+![Maping Warehouse and Location](./imgpart02/img47.png?raw=true)
+
+(1)	Tick on the **Location** you want to edit. 
+
+Here, you can also edit the Status of the Location. 
+
+-	**Yes:** Available
+
+-	**No:** Inavailable
+
+(2)	**Warehouses:** select the warehouse you want to link to the location
+Besides, you can search for location by filling in the tab on **Locations** Column.
+
+
+### Store (POS) : Coming soon
+
+-----
+
