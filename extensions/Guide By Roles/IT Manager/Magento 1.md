@@ -1,4 +1,4 @@
-# USER GUIDE FOR IT ADMIN
+# USER GUIDE FOR IT CONFIGURATION
 
 -------
 
@@ -795,7 +795,8 @@ Path: **Store Credit > Settings**
 (2)	**Allow sending credit:** Choose **Yes** to allow customers to send credit to their friends
 
 (3)	**Groups can use edit:** allow only **General/Wholesaler/Retailer** or all customers able to use credits
-Spend Credit On
+
+##### Spend Credit On
 
 ![Store Credit Spend Credit On Configuration](./imgpart1/i53.png?raw=true)
 
@@ -817,7 +818,7 @@ If you choose **After tax**, it means the Customer Credit Discount will be appli
 
 (4)	**Send-to-customer email template when recipient receives credit:** default
 
-Adjust time for Customer Credit reports on total used and total received credit
+##### Adjust time for Customer Credit reports on total used and total received credit
 
 ![Store Credit Time Configuration](./imgpart1/i55.png?raw=true)
 
@@ -1191,7 +1192,8 @@ Path: **System > Permissions > Roles > Add New Role**
 (1)	**Role Name:** enter Role Name
 
 (2)	**Current Admin Password:** Enter the Role Creator’s Password (for example, IT Admin creates the Role, so enter IT Admin Password)
-Role Resources
+
+##### Role Resources
 
 ![Role Resources](./imgpart02/img5.png?raw=true)
 
