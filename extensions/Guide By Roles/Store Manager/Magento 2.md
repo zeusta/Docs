@@ -88,7 +88,7 @@ In the “POS Report”:
  - X Report 
  - Z Report 
 
-![](./IM/image001.png?raw=true)
+![Guide by role](./IM/image001.png?raw=true)
 
 ## FOR STORE MANAGER ##
 This section is the separated guide for Store Manager only. 
@@ -107,26 +107,26 @@ Here are the Store Manager authorities:
  - Set Closing Balance 
  - Put Money In 
  - Take Money Out 
-![](./IM/R5%20.png?raw=true)
-![](./IM/R8%20.png?raw=true)
+![Store Manager authorities](./IM/R5%20.png?raw=true)
+![Store Manager authorities](./IM/R8%20.png?raw=true)
 
 If there is no difference between **Theoretical Closing Balance** & **Real Closing Balance**, just click the green button on the screen and the Session will be ended. 
 
 If they are not the same, so when you tap “**Set Closing Balance**”, a pop-up will appear automatically. 
 
-![](./IM/R9%20.png?raw=true)
+![Set Closing Balance](./IM/R9%20.png?raw=true)
 If users tap “**OK**”, then the window below will be displayed. 
 
-![](./IM/R10%20.png?raw=true)
+![Set Closing Balance](./IM/R10%20.png?raw=true)
 
 In case users didn’t want to accept the different and close session with the loss/benefit, they can do the action of Put Money In or Take Money Out. 
 
-![](./IM/R11.png?raw=true)
+![Put Money In](./IM/R11.png?raw=true)
 
-![](./IM/R12.png?raw=true)
+![Take Money Out](./IM/R12.png?raw=true)
  
 Once again, the window will be popped-up to help you make sure about all the data before closing session.
-![](./IM/R13.png?raw=true)
+![Set Closing balance](./IM/R13.png?raw=true)
 
 Click “**Confirm**” to close the Session successfully. 
  
@@ -134,10 +134,10 @@ Click “**Confirm**” to close the Session successfully.
 
  - Manager can **search product** and search quantity on hands 
 Users can enter terms or scan barcode to search products
-![](./anh/image017.png )
+![search product](./anh/image017.png )
  - 	Manager can create Orders
- ![](./IM/R14.png?raw=true)
- ![](./IM/R15.png?raw=true)
+ ![Manager can create Orders](./IM/R14.png?raw=true)
+ ![Manager can create Orders](./IM/R15.png?raw=true)
  
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
@@ -145,39 +145,39 @@ Users can enter terms or scan barcode to search products
 Here is the detailed instruction: 
 Tap the **human icon** > “**Create Customer**”
 
-![](./IM/R16.png?raw=true)
-![](./IM/R17.png?raw=true)
+![Create Customer](./IM/R16.png?raw=true)
+![Create Customer](./IM/R17.png?raw=true)
 
  - Otherwise, Cashier could search and create order based on customer history data. All the staffs need to do is typing the customer information (such as: phone number, email, address,…)
 
  - After adding products to carts, Sales staffs would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit. 
  
-![](./IM/R19%20.png?raw=true) 
-![](./IM/R20%20.png?raw=true)
+![Promotion and Loyalty Program](./IM/R19%20.png?raw=true) 
+![Promotion and Loyalty Program](./IM/R20%20.png?raw=true)
 
  - Manager can apply Gift Card 
- ![](./IM/R22.png?raw=true)
+ ![Manager can apply Gift Card ](./IM/R22.png?raw=true)
  
 
  - Manager can choose Payment & Shipping Method 
- ![](./IM/R21.png?raw=true)
+ ![Payment & Shipping Method](./IM/R21.png?raw=true)
 
  - Manager can aslo checkout 
- ![](./IM/R15.png?raw=true)
+ ![ Manager can checkout ](./IM/R15.png?raw=true)
 
 
 ### POS Return Order ##
 
  - Manager can search old orders and check the Return Policy 
- ![](./IM/R25.png?raw=true)
- ![](./IM/R26.png?raw=true)
+ ![search old orders and check the Return Policy ](./IM/R25.png?raw=true)
+ ![search old orders and check the Return Policy ](./IM/R26.png?raw=true)
  
 ###Z- Report ##
 Store Manager can also be able to view and manage the Z-report in the system: 
 
 [1] You can export all the data of shift ID, Staff, POS location and session information to a .CSV file and use it for further business analysis. 
 [2] The data of working session will be recorded and automatically sent to this Z-report in the backend system of WebPOS. 
-![](./anh/image041.png?raw=true)
+![Z- Report](./anh/image041.png?raw=true)
 
 ## FOR SALES STAFF ##
 Those sections below will show readers detailed instruction for Sale Staff(s). 
@@ -200,42 +200,38 @@ In brief, we will list out all the responsibilities for this role to help reader
 Sales staffs do not often have the permission to manage working session.  They will be able to make orders for customers at the point of sale. 
 The following will list out all the capabilities of sale staff at the point of sale: 
 
- - They can **search product** and search quantity on hands  Users
+ - They can **search product** and search quantity on hands. Users
    can enter terms or scan barcode to search products
-    ![](./anh/image043.png?raw=true)
+    ![search product](./anh/image043.png?raw=true)
 
  
  - They can also create Orders
- ![](./IM/R14.png?raw=true)
- ![](./IM/R15.png?raw=true)
+ ![sales staff create orders](./IM/R14.png?raw=true)
+ ![sales staff create orders](./IM/R15.png?raw=true)
 
 Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store
 
  - 	If this buyer were a brand new customer, Sales Staff would create a new one. 
 Here is the detailed instruction: 
 	Tap the **human icon** > **“Create Customer"**
-	![](./IM/R16.png?raw=true)
-	![](./IM/R17.png?raw=true)
+	![sales staffs create customer](./IM/R16.png?raw=true)
+	![sales staffs create customer](./IM/R17.png?raw=true)
  - 	Otherwise, Sales Staff could search and create order based on customer history data. All the staffs need to do is typing the customer information (such as: phone number, email, address,…)
   
- - After adding products to carts, Sales staffs would push sales by
-   applying Promotion and Loyalty Program – which are available
-   functions when retailers install specialized extensions for their own
-   POS System. For instance, they are Coupon Code, Gift Card, and Reward
-   Point.
-![](./IM/R19%20.png?raw=true) 
-![](./IM/R20%20.png?raw=true)
+ - After adding products to carts, Sales staffs would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, and Reward Point.
+![Promotion and Loyalty Program](./IM/R19%20.png?raw=true) 
+![Promotion and Loyalty Program](./IM/R20%20.png?raw=true)
  - Staffs can apply Gift Card
- ![](./IM/R22.png?raw=true)
+ ![Staffs can apply Gift Card](./IM/R22.png?raw=true)
  
  - They can choose Payment & Shipping Method
- ![](./IM/R21.png?raw=true)
+ ![Payment & Shipping Method](./IM/R21.png?raw=true)
 
 ### Return Order ##
 
  - They can search old orders and check the Return Policy 
 
-![](./IM/R25.png?raw=true)
+![search old orders and check the Return Policy](./IM/R25.png?raw=true)
 
 ## Cashier POS ##
 It is the only role who has authority as much as Store Manager.
@@ -250,16 +246,16 @@ They directly receive payment from customer and put the change back to them in p
 Those actions they can take is totally as same as Manager POS: 
 
  - Open Session 
-![](./IM/R5%20.png?raw=true) 
+![Cashier Opens Session ](./IM/R5%20.png?raw=true) 
 
  - Set Closing Balance 
- ![](./IM/R13.png?raw=true) 
+ ![Cashier Sets Closing Balance  ](./IM/R13.png?raw=true) 
 
  - Put Money In 
- ![](./IM/R11.png?raw=true)
+ ![Cashier Pus Money In ](./IM/R11.png?raw=true)
 
  - Take Money Out
-  ![](./IM/R12.png?raw=true) 
+  ![Cashier Takes Money Out](./IM/R12.png?raw=true) 
 
 *(All the pictures demonstrate for those actions is similar to the section for Ecommerce Manager)* 
 
@@ -268,9 +264,9 @@ It’s so obvious to see that Cashier is a position which directly connect and s
 Most steps in customer purchasing process are accomplished by Cashier. 
 For instance:
 
- - They can search products 
- ![](./anh/image073.png?raw=true)
- ![](./IM/R14.png?raw=true)
+ - They can search for products 
+ ![Cashier can search for products](./anh/image073.png?raw=true)
+ ![Cashier can search for products](./IM/R14.png?raw=true)
   
  - They also could apply promotion and loyalty program for customers (such as Reward Point, Gift Card, Coupon Code) 
  
