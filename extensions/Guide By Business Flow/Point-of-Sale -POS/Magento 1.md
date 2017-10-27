@@ -26,16 +26,16 @@ Magestore Team
 ## Business Workflow ##
 ### General Process ##
 
-![](./Anh%20M1/top%201%20.png?raw=true)
+![General Process](./Anh%20M1/top%201%20.png?raw=true)
 
 
 
 ### POS Order ##
-![](./Anh%20M1/top%202%20.png?raw=true)
+![POS Order](./Anh%20M1/top%202%20.png?raw=true)
 
 
 ### POS Return Order ##
-![](./Anh%20M1/top%203%20.png?raw=true)
+![POS Return Order](./Anh%20M1/top%203%20.png?raw=true)
 
 
 ----------
@@ -104,7 +104,7 @@ Store Cashier will take the following tasks:
 	 - X Report
 	 - Z Report
 
-![](./Anh%20M1/top%204.png?raw=true)
+![Permission matrix](./Anh%20M1/top%204.png?raw=true)
 
 
 ----------
@@ -131,7 +131,7 @@ We will explain this workflow according to the timing circle: Opening the store,
 	They receive the payment from customers and then put the change back to them. Those actions happen in turn, again and again, so your store will have cash in as well as cash out. 
 
 
-**NOTE: **Thís function is available now in Magento 2 and will be updated soon for  Magento 1. 
+**NOTE: **This function is available now in Magento 2 and will be updated soon for  Magento 1. 
 
 
 
@@ -145,17 +145,17 @@ Like the flow we explain above, this section is also instructed according to the
 
  - Then, Cashier could add them to carts.
  
- 	![](./Anh%20M1/anh%201%20M1%20.png?raw=true)  
+ 	![Cashier add products to carts](./Anh%20M1/anh%201%20M1%20.png?raw=true)  
  	
-	![](./Anh%20M1/anh%202%20m1%20.png?raw=true) 
+	![Cashier add products to carts](./Anh%20M1/anh%202%20m1%20.png?raw=true) 
 	
  Anyway, one thing to remind retailers is that having a customer card system is extremely necessary for sales strategy. So, it exists a demand from POS System: make sure all of the shoppers, even when they are not regular consumers, have member cards at your store. 
  
 - If this buyer were a brand new customer, Cashier would create a new one.  Here is the detailed instruction:
    
-![](./Anh%20M1/anh%203%20m1%20.png?raw=true)  
+![Cashier creates a new customer](./Anh%20M1/anh%203%20m1%20.png?raw=true)  
 	
-![](./Anh%20M1/anh%204%20m1%20.png?raw=true) 
+![Cashier creates a new customer](./Anh%20M1/anh%204%20m1%20.png?raw=true) 
 
 Tap the human icon > “Create Customer”
   
@@ -163,19 +163,19 @@ Tap the human icon > “Create Customer”
 
  - After adding products to carts, Cashiers would push sales by applying Promotion and Loyalty Program – which are available functions when retailers install specialized extensions for their own POS System. For instance, they are Coupon Code, Gift Card, Reward Point and Store Credit.
    
-    ![](./Anh%20M1/anh%205%20m1%20.png?raw=true) 
-    ![](./Anh%20M1/anh%206%20m1%20.png?raw=true)  
-    ![](./Anh%20M1/anh%207%20m1%20.png?raw=true) 
+    ![Promotion and Loyalty Program](./Anh%20M1/anh%205%20m1%20.png?raw=true) 
+    ![Promotion and Loyalty Program](./Anh%20M1/anh%206%20m1%20.png?raw=true)  
+    ![Promotion and Loyalty Program](./Anh%20M1/anh%207%20m1%20.png?raw=true) 
 
  - Next step, Cashier must select shipping method:
 	 -	Customers would receive goods at store if they buy in-store. 
 	 -	The other option is shipping to customer’s address. 
 
- - Then, Cashiers have to choose payment method
+ - Then, Cashiers have to choose shipping and payment method
 	 - In this step, if customers require invoice, Cashiers will take the output of Customer Invoice. 
 	 
-	 ![](./Anh%20M1/anh%208%20m1%20.png?raw=true) 
-	![](./Anh%20M1/anh%209%20m1%20.png?raw=true) 
+	 ![shipping and payment method](./Anh%20M1/anh%208%20m1%20.png?raw=true) 
+	![shipping and payment method](./Anh%20M1/anh%209%20m1%20.png?raw=true) 
 	
 
 	
@@ -218,12 +218,12 @@ If this Return Order is valid, all those steps below need accomplishing:
  
 	- To issue refund, go to Orders tab in POS screen, choose Orders History, select the order that is required to refund.  Tap on Refund button at the end of the popup.
 
-	![](./Anh%20M1/anh%2010%20m1%20.png?raw=true) 
+	![Implement Refund Process ](./Anh%20M1/anh%2010%20m1%20.png?raw=true) 
 
 
 	- A popup will display so that you can fill in the information before making refund.  Tick “Return to stock” if you want to return those items back to your stock.
 
-	![](./Anh%20M1/anh%2011%20m1%20.png?raw=true)
+	![Implement Refund Process ](./Anh%20M1/anh%2011%20m1%20.png?raw=true)
 
 	[1]  Name of the refund product
 	
