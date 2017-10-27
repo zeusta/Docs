@@ -212,7 +212,7 @@ This module is a powerful assistance to help you keep track of any changes in th
 
 Sometimes your recorded product quantity does not match the actual physical number. Then, this function is exactly what you need to make changes quickly.
 
-![enter image description here](./image_IM%20Rebuilt/image023.png)
+![ New Stock Adjustment](./image_IM%20Rebuilt/image023.png)
 
 To make a new stock adjustment, you need to:
 1. Follow path: **Stock Control > New Stock Adjustment**
@@ -221,7 +221,7 @@ To make a new stock adjustment, you need to:
 
 The next window allows you to select whatever product you want to adjust its quantity and type in the new figure. Alternatively, you can import product quantities via a CSV file with a provided sample. This means you can adjust quantities of several products at once.
 
-![enter image description here](./image_IM%20Rebuilt/image024.png)
+![ New Stock Adjustment](./image_IM%20Rebuilt/image024.png)
 
 1. You can import product quantities via a CSV file with a provided sample. 
 2. Alternatively, you can select products and input the quantity in line. Note: as mentioned in *How to Configure* section above, if you enable **Adjust Stock by entering the change qty** setting, you can enter the difference quantity and the system will calculate the final balance in warehouse. Otherwise, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product.
