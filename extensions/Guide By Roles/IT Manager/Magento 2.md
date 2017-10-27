@@ -1726,7 +1726,7 @@ If you want to apply some payment methods only, choose **Specific Shipping**. Th
 **Default Payment Method:** Choose the payment method that you would want to set as default payment method. This payment method must be in **Specific Shipping Methods.**
 
 
-#### 7.	Magento – Odoo connector (Coming soon)
+### Magento – Odoo connector (Coming soon)
 
 ----------
 ## HOW TO MANAGE USER PERMISSION
