@@ -258,7 +258,7 @@ Click on **Edit** of the customer needed to be managed
 
 ![ Manage point balances of customers](./Image_EcommerceManager/image075.png)
 
-Click on **Reward Points** to manage the customer’s balance by filling the** change balance, change title,  time when points expire** on box.
+Click on **Reward Points** to manage the customer’s balance by filling the **change balance, change title,  time when points expire** on box.
 
 Also, update points subscription and expire transaction subscription can be configured in **Reward Points**.
 
@@ -522,9 +522,9 @@ This page can be divided into two main sections including **Life-time Reports** 
 
 •	**Life-time Reports**: There are 2 types of reports.
 
-     -	**Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.
+-	**Customer Credit Statistics** with the total credit, the total spent credit and the number of Customers with credit in your system.
 
-     -	**Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
+-	**Top 5 Customers with The Greatest Credit Balances** with their names and current balances in your system.
 
 •	**Period-of-time Report Charts**: This chart shows you the total spent credit and received credit of all Customers per day in your chosen time range such as **last 24 hours, last 7 days, current month**, etc.
 
@@ -636,11 +636,11 @@ To configure default configurations and settings of the extension, please log in
 
 **Gift code**
 
-1)	Select ** “YES”** in the dropdown list to enable Gift Card
+1)	Select **“YES”** in the dropdown list to enable Gift Card
 
 2)	Configure the pattern to auto-generate gift codes for Gift Card products when customers purchase in WebPOS frontend
 
-3)	Enter the number of **prefix characters** which are shown in a voucher code
+3)	Enter the number of  **prefix characters** which are shown in a voucher code
 
 4)	Enter one **letter to replace hidden characters**
 
@@ -650,7 +650,7 @@ To configure default configurations and settings of the extension, please log in
 
 1)	Enter the term of validity that Gift Cards can be used after being activated.
 
-2)	Enter the **maximum time(s) ** that allows users to enter gift code incorrectly.
+2)	Enter the **maximum time(s)** that allows users to enter gift code incorrectly.
 
 3)	Enter the **maximum number of users per gift code.**
 
