@@ -46,8 +46,11 @@ These details include **Available Qty, Qty to Ship** and **Total Qty** and **She
 You can easily edit Qty of products in-line within a few steps:
 
 1) Mark the checkbox to select products
+
 2) Edit product quantity in line
+
 3) Input product location in the physical warehouse
+
 4) Click on **Update Stock** to save changes
 
 #### Non-warehouse product
