@@ -22,7 +22,7 @@ Purchase management is always a headache to retailers. As the businesses grow up
 
 ![POprocess](Image-Purchase/image000-1.png)
 
-### POS - Return Order Process
+### Return Order Process
 
 ![ROprocess](Image-Purchase/image000-2.png)
 
