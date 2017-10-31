@@ -182,7 +182,7 @@ The send transfer is completed
 
  In Receiving History
  
-![Transfer Stock - Send Stock(./image_Inventory%20M1/image041.png?raw=true)
+![Transfer Stock - Send Stock](./image_Inventory%20M1/image041.png?raw=true)
 
 (1) Mark the checkbok to select product(s).
 
