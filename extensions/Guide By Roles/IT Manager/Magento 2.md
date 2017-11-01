@@ -1,5 +1,5 @@
 
-# USER GUIDE FOR IT ADMIN
+# USER GUIDE FOR IT CONFIGURATION
 -----
 
 *Confidential Information Notice.* 
@@ -15,8 +15,9 @@
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business.    Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
-## HOW TO INSTALL
-![HOW TO INSTALL](./img102/it_img031.png?raw=true)
+## HOW TO INSTALL!
+
+[How to install](./img102/it_img031.png?raw=true)
 
 
 
@@ -25,11 +26,11 @@ This guide will help you – an IT Manager – to configure a successful strong 
 
 After purchasing an module, you will receive an email that includes the link to access **My License Certificates** on Magestore website.
 
-![Generate License Certificate](./img102/it_img001.png?raw=true)
+![generate license certificate](./img102/it_img001.png?raw=true)
 
 If you don’t receive the email, you can directly log in to your account dashboard at Magestore then go to **My Account/My License Certificates**.
 
-![Generate License Certificate](./img102/it_img002.png?raw=true)
+![generate license certificate](./img102/it_img002.png?raw=true)
 
 Here you will select your Order number and a corresponding Product then type the **back-end domain of your live site**. It is optional to add your Development Domains right away or later.
 
@@ -113,7 +114,7 @@ If your website is in the Production mode, you should re-run the Magento compile
 
 ***php bin/magento setup:di:compile*** 
 
-![](./img102/it_img006.png?raw=true)
+![Install the Package Downloaded](./img102/it_img006.png?raw=true)
 
 After that, if your website is in the Default or the Production mode, please type the command line to deploy the static content:
 
@@ -161,7 +162,7 @@ Path: **Stores > Settings** section> **Configuration > MageStore Module > Invent
 
 Path: **Stores > Settings** section **> Configuration > MageStore Module > Supplier Configuration**
 
-![Pricelist Configuration](./img102/it_img009.png?raw=true)
+![Stock Control Configuration](./img102/it_img009.png?raw=true)
 
 (1)	Select **Yes** to allow using and importing supplier pricelist, and vice versa.
 
@@ -279,7 +280,7 @@ There are 2 types of low stock rule:
 
 (11)	 Select **Warehouses** for those rules will be applied
 
-![Type 1: Availability Qty.](./img102/it_img017.png?raw=true)
+![Product Stock Options](./img102/it_img017.png?raw=true)
 
 **Type 2: Availability Days**
 
@@ -295,7 +296,7 @@ There are 2 types of low stock rule:
 
 (16)	Select **warehouses** for those rules will be applied
 
-![Type 2: Availability Days](./img102/it_img018.png?raw=true)
+![Product Stock Options](./img102/it_img018.png?raw=true)
 
 On **Actions** Tab:
 
@@ -303,7 +304,7 @@ On **Actions** Tab:
 
 (18)	Enter content of the **warning message** 
 
-![Actions tab](./img102/it_img019.png?raw=true)
+![Product Stock Options](./img102/it_img019.png?raw=true)
 
 (19)	Click **Save** or **Save and Apply** to finish
 
@@ -315,7 +316,7 @@ On **Actions** Tab:
 
 ***Note:** You can edit the rule that you **Save and Apply** or **Save** by going to **Inventory Management > Prediction** section **> Low Stock Rules >** clicking on **Edit***
 
-![Actions tab](./img102/it_img020.png?raw=true)
+![](./img102/it_img020.png?raw=true)
 
 
 
@@ -358,9 +359,9 @@ Path: **Marketing > Promotions** Section **> Catalog Price Rule**
 
 ![Manage Catalog Price Rule](./img102/it_img022.png?raw=true)
 
-(1)	Click Add New Rule to create a new catalog price rules.
+(1)	Click **Add New Rule** to create a new catalog price rules.
 
-(2)	Fill out the blank with a value to search, after click Search.
+(2)	Fill out the blank with a value to search, after click **Search**.
 
 (3)	Search catalog price rules information with keyword. View or edit a rule’s detail by clicking on each line.
 
@@ -397,16 +398,17 @@ Click on **Add New Rule**
 
 (7)	Choose **Priority** (a number that indicates the priority of this rule in relation to others. The highest priority is number 1)
 
-![Create a new Catalog Price Rule](./img102Create a new Catalog Price Rule/it_img025.png?raw=true)
+![Create a new Catalog Price Rule](./img102/it_img025.png?raw=true)
 
 **Conditions**
+
 Click the small green button to add conditions.
 
-![Conditions](./img102/it_img026.png?raw=true)
+![Create a new Catalog Price Rule](./img102/it_img026.png?raw=true)
 
 **Action**
 
--	Select type of pricing rule what you want.
+-	Select type of pricing rule that you want.
 -	Enter the **Discount Amount** to apply.
 -	Set **Yes** to stop processing other rules. This prevents customers from receiving multiple discounts for the same product. 
 To finish, click **Save**
@@ -481,7 +483,7 @@ Click **Add New Rule** to create a new Cart Price Rule
 Click  the small green button to add conditions.
 
 
-![Conditions](./img102/it_img032.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img032.png?raw=true)
 
 **Define the Actions**
 
@@ -517,7 +519,7 @@ The shopping cart price rule actions describe how prices are updated when the co
 
 (8)	Define as many additional conditions as needed for the action. When complete, click **Save and Continue Edit.**
 
-![Define the Actions](./img102/it_img033.png?raw=true)
+![Create a Cart Price Rule](./img102/it_img033.png?raw=true)
 
 **The labels**
 
@@ -595,7 +597,7 @@ Path: **Marketing > Gift Card** section **> Settings**
 
 To configure default configurations and settings of the module, please log in to backend screen, and then do the following stages as below: 
 
-![Gift Card Setting](./img102/it_img038.png?raw=true)
+![Free Gift Promotions](./img102/it_img038.png?raw=true)
 
 **GENERAL**
 
@@ -609,7 +611,7 @@ To configure default configurations and settings of the module, please log in to
 
 (4)	Enter one **letter to replace hidden characters**
 
-![Gift Card Usage](./img102/it_img039.png?raw=true)
+![Gift code](./img102/it_img039.png?raw=true)
 
 **Gift Card Usage**
 
@@ -628,7 +630,7 @@ To configure default configurations and settings of the module, please log in to
 (7)	Select **Yes** to show the expiration date of Gift Cards on website, and vice versa.
 
 
-![Tax Configuration](./img102/it_img040.png?raw=true)
+![Gift Card Usage](./img102/it_img040.png?raw=true)
 
 **Tax Configuration**
 
@@ -638,7 +640,7 @@ To configure default configurations and settings of the module, please log in to
 
 •	**Before Tax:**  to allow applying Gift Card w/o tax
 
-![ON PRODUCT PAGE](./img102/it_img041.png?raw=true)
+![Tax Configuration](./img102/it_img041.png?raw=true)
 
 **ON PRODUCT PAGE**
 
@@ -648,7 +650,7 @@ To configure default configurations and settings of the module, please log in to
 
 (2)	Enter the description of gift card value *(follow the below instruction)*
 
-![Gift Card Template](./img102/it_img042.png?raw=true)
+![Gift Card Value](./img102/it_img042.png?raw=true)
 
 **Gift Card Template**
 
@@ -665,7 +667,7 @@ To configure default configurations and settings of the module, please log in to
 (5) Limit the maximum length of a custom message on Gift Card. Select **Yes** to allow users to schedule gift card delivery date.
 
 
-![ON SHOPPING CART PAGE](./img102/it_img043.png?raw=true)
+![Gift Card Shipping Information](./img102/it_img043.png?raw=true)
 
 **ON SHOPPING CART PAGE**
 
@@ -675,13 +677,13 @@ To configure default configurations and settings of the module, please log in to
 
 (3)	Select **Yes** to allow showing Gift Card printout preview as product image on shopping cart page
 
-![ON CHECKOUT PAGE](./img102/it_img044.png?raw=true)
+![ON SHOPPING CART PAGE](./img102/it_img044.png?raw=true)
 
 **ON CHECKOUT PAGE**
 
 Select **Yes** to show Gift Card box on the checkout page
 
-![EMAIL NOTIFICATION](./img102/it_img045.png?raw=true)
+![ON CHECKOUT PAGE](./img102/it_img045.png?raw=true)
 
 **EMAIL NOTIFICATION**
  
@@ -695,7 +697,7 @@ Select **Yes** to show Gift Card box on the checkout page
 
 (4)	Select **Yes** to allow sending a copy of gift card via email if customers choose to ship through post office.
 
-![Notification email sent to purchasers](./img102/it_img046.png?raw=true)
+![EMAIL NOTIFICATION](./img102/it_img046.png?raw=true)
 
 **Notification email sent to purchasers**
 
@@ -715,7 +717,7 @@ Select **Yes** to show Gift Card box on the checkout page
 
 (7)	Enter the **number of days** to **send notification to customers before the expiration date of a Gift card.** 
 
-![GIFT CARD PRINTOUT](./img102/it_img047.png?raw=true)
+![Notification email sent to recipient](./img102/it_img047.png?raw=true)
 
 **GIFT CARD PRINTOUT**
 
@@ -727,11 +729,11 @@ Click **Choose File** to upload an image used as a logo when Gift Cards are prin
 
 Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
-![Manage Gift Card Templates](./img102/it_img048.png?raw=true)
+![Add new template](./img102/it_img048.png?raw=true)
 
 (1)	Click **Add New Template**
 
-![Add New Template](./img102/it_img049.png?raw=true)
+![Add new template](./img102/it_img049.png?raw=true)
 
 *On the popup screen*
 
@@ -745,7 +747,7 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 (5)	Choose **link/ special text color**
 
-![background image](./img102/it_img050.png?raw=true)
+![Add new template](./img102/it_img050.png?raw=true)
 
 (6)	Upload a **background image**. 
 
@@ -755,7 +757,7 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 Path: **Marketing > Gift Card** section > **Manage Gift Card Templates**
 
-![Manage Gift Card Templates](./img102/it_img051.png?raw=true)
+![Preview Existing Template](./img102/it_img051.png?raw=true)
 
 Click **Preview** to see the gift card template
 
@@ -763,7 +765,7 @@ Click **Preview** to see the gift card template
 
 Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
-![Manage Gift Card Templates](./img102/it_img052.png?raw=true)
+![Edit and Delete Existing Template](./img102/it_img052.png?raw=true)
 
 (1)	Mark the template checkbox
 
@@ -771,7 +773,7 @@ Path: **Marketing > Gift Card** section **> Manage Gift Card Templates**
 
 (3)	Click **Edit** to update templates data
 
-![Manage Gift Card Templates](./img102/it_img053.png?raw=true)
+![Edit and Delete Existing Template](./img102/it_img053.png?raw=true)
 
 *On the popup screen*
 
@@ -789,9 +791,9 @@ Path: **Marketing > Gift Card** section **> Generate Gift Code**
 
 (1) Click on **Add Gift Code Pattern** to create new pattern code
 
-![Add Gift Code Pattern](./img102/it_img055.png?raw=true)
+![Generate Gift Code](./img102/it_img055.png?raw=true)
 
-![Add Gift Code Pattern](./img102/it_img056.png?raw=true)
+![Generate Gift Code](./img102/it_img056.png?raw=true)
 
 *On the popup screen*
 
@@ -817,13 +819,13 @@ Path: **Marketing > Gift Card** section **> Generate Gift Code**
 
 •	**Save** to finish
 
-![Save and Generate](./img102/it_img057.png?raw=true)
+![Generate Gift Code](./img102/it_img057.png?raw=true)
 
 A status ***The pattern has been generated successfully*** would be shown on the pop-up screen
 
-![A list of generated Gift Codes](./img102/it_img058.png?raw=true)
+![Generate Gift Code](./img102/it_img058.png?raw=true)
 
-A list of generated Gift Codes would be shown at the bottom of the pop-up screen
+A list a generated Gift Codes would be shown at the bottom of the pop-up screen
 
 ##### Manage Gift Codes
 
@@ -835,11 +837,11 @@ Path: **Marketing > Gift Card** section **> Manage Gift Code**
 
 (1)	Click on **Add Gift Code** to create a new gift code
 
-Moreover, click on **Import Gift Codes** to import data from your device to the system.
+Moreover, click on I**mport Gift Codes** to import data from your device to the system.
 
-![Import Gift Codes](./img102/it_img060.png?raw=true)
+![Manage Gift Codes](./img102/it_img060.png?raw=true)
 
-![Import Gift Codes](./img102/it_img061.png?raw=true)
+![Manage Gift Codes](./img102/it_img061.png?raw=true)
 
 *On the popup screen:*
 
@@ -859,9 +861,9 @@ Moreover, click on **Import Gift Codes** to import data from your device to the 
 
 (9)	Write a comment *(optional)*
 
-![Message Information](./img102/it_img063.png?raw=true)
+![Manage Gift Codes](./img102/it_img063.png?raw=true)
 
-![Message Information](./img102/it_img064.png?raw=true)
+![Manage Gift Codes](./img102/it_img064.png?raw=true)
 
 *Scroll down, on the **Message Information** tab, click  to expand:*
 
@@ -874,7 +876,7 @@ Moreover, click on **Import Gift Codes** to import data from your device to the 
 (4)	Enter the **message to the recipient**
 
 
-![Message Information](./img102/it_img065.png?raw=true)
+![Manage Gift Codes](./img102/it_img065.png?raw=true)
 
 *Finally, scroll up, tab the arrow on the right hand-side of **Save** button:* 
 
@@ -976,11 +978,11 @@ The new earning rate will be shown as the beside image
 
 Path: **Reward Point > Spending** section **> Spending Rates**
 
-![Edit existing rate ](./img102/it_img079.png?raw=true)
+![Edit existing rate](./img102/it_img079.png?raw=true)
 
 Click on **Edit** on action column of the rate needed to be edited
 
-![Edit existing rate ](./img102/it_img080.png?raw=true)
+![Edit existing rate](./img102/it_img080.png?raw=true)
 
 Edit the rate, then click **Save** spending rate, or **Delete** it
 
@@ -1241,11 +1243,11 @@ Besides the **Credit Product Manager** page, you can also create a new credit pr
 
 Path: **Store Credit > Credit Transactions** Section **> Manage Credit Transactions**
 
-![Manage Credit Transaction](./imgpart2/it_img117.png?raw=true)
+![Manage Credit Transactions](./imgpart2/it_img117.png?raw=true)
 
 Then the **Credit Transactions** page will be shown: 
 
-![Manage Credit Transaction](./imgpart2/it_img118.png?raw=true)
+![Manage Credit Transactions](./imgpart2/it_img118.png?raw=true)
 
 This page shows all credit-related transactions with a lot of information such as **type, detail, customer name/email, added/deducted credit, credit balance** after transaction.
 
@@ -1311,13 +1313,13 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 
 Path: **Store Credit > Settings**
 
-![Store Credit Settings](./imgpart2/it_img126.png?raw=true)
+![Settings](./imgpart2/it_img126.png?raw=true)
 
 **a)**	**General Configuration** Tab:
 
 Path: **Magento Extension > Store Credit**
 
-![Store Credit Settings](./imgpart2/it_img127.png?raw=true)
+![General Configuration](./imgpart2/it_img127.png?raw=true)
 
 (1)	**Enable Store Credit:** to activate Store Credit on your site
 
@@ -1327,7 +1329,7 @@ Path: **Magento Extension > Store Credit**
 
 **b)**	**Spend Credit On** Tab
 
-![Store Credit Settings](./imgpart2/it_img128.png?raw=true)
+![Spend Credit On](./imgpart2/it_img128.png?raw=true)
 
 (1)	**Apply Customer Credit:** If you choose **After tax**, it means the Customer Credit Discount will be applied to order value including tax
 
@@ -1335,7 +1337,7 @@ Path: **Magento Extension > Store Credit**
 
 **c)**	**Email Configuration** Tab:
 
-![Store Credit Settings](./imgpart2/it_img129.png?raw=true)
+![Email Configuration](./imgpart2/it_img129.png?raw=true)
 
 (1)	**Email template with credit code sent to recipients:** default
 
@@ -1347,7 +1349,7 @@ Path: **Magento Extension > Store Credit**
 
 **d)**	**Adjust time for Customer credit reports on total used and total received credit** Tab:
 
-![Store Credit Settings](./imgpart2/it_img130.png?raw=true)
+![Adjust time for Customer credit reports on total used and total received credit](./imgpart2/it_img130.png?raw=true)
 
 (1)	**Select start time for current year:** choose Month, then Date
 
@@ -1355,7 +1357,7 @@ Path: **Magento Extension > Store Credit**
 
 **e)**	**Style configuration** tab: on this tab, you will be able to change background and color of Title
 
-![Store Credit Settings](./imgpart2/it_img131.png?raw=true)
+![Style configuration](./imgpart2/it_img131.png?raw=true)
 
 (1)	**Background of Title:** enter Hexadecimal code
 
@@ -1375,13 +1377,13 @@ Path: **Magento Extension > Store Credit**
 
 Path: **Store Pickup > Settings > Magento Extensions** Tab **> Store Pickup**
 
-![Store Pickup Setting](./storepickup/i1.png?raw=true)
+![Setting](./storepickup/i1.png?raw=true)
 
 The configuration is divided into 3 groups including **General, Service API,**  and **Store Search** 
 
 •	**General** 
 
-![Store Pickup Setting](./storepickup/i2.png?raw=true)
+![Setting](./storepickup/i2.png?raw=true)
 
 (1)	Choose **Yes** if you want to enable the module on your site
 
@@ -1405,7 +1407,7 @@ The configuration is divided into 3 groups including **General, Service API,**  
 
 •	**Service API**
 
-![Store Pickup Setting](./storepickup/i3.png?raw=true)
+![Service API](./storepickup/i3.png?raw=true)
 
 (1)	To integrate **Google API** or **Facebook API** in your site, fill your Google Map API and Facebook API key into the relevant field. You can get this key by clicking on **here** under **Google Map API Key** tab or **Facebook API Key** tab. Or else, you can go to **Store Pickup > Guide** 
 
@@ -1413,7 +1415,7 @@ The configuration is divided into 3 groups including **General, Service API,**  
 
 •	**Store Search**
 
-![Store Pickup Setting](./storepickup/i4.png?raw=true)
+![Service API](./storepickup/i4.png?raw=true)
 
 (1)	Select which c**riteria customers** can search for stores by area
 
@@ -1435,7 +1437,7 @@ The **Store Manager** grid shows all stores created in your system with their ad
 
 There are two ways to add new store: **Import Store** or **Add New Store**
 
-###### Import Stores
+###### **Import Stores**
 
 ![Import Stores](./storepickup/i7.png?raw=true)
 
@@ -1443,7 +1445,7 @@ Click on **Choose file** to upload **CSV file**.
 
 Then to finish, click on **Import Stores** button on your right hand.
 
-###### Add new store
+###### **Add new store**
 
 Path: **Store Pickup > Manage Store > Add New Store**
 
@@ -1455,7 +1457,7 @@ Path: **Add New Store > Store Information** section **> General Information**
 
 There are 4 sessions: **General Information, Contact Information, Owner Information** and **Meta Information**
 
-![Add new store](./storepickup/i8.png?raw=true)
+![General Information](./storepickup/i8.png?raw=true)
 
 Fill **Store Name, Description, Status, Store link** and **Sort order** in **General Information** session. 
 
@@ -1465,13 +1467,13 @@ Besides important information such as **Store name, Description, Status,** here 
 
 **+ Sort Order:** Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of List Store by in Settings.
 
-![Add new store](./storepickup/i9.png?raw=true)
+![General Information](./storepickup/i9.png?raw=true)
 
 **Contact Information:** customers can contact to the store whenever they have any questions/problems.
 
 **Owner Information:** an auto email will be sent to owner whenever customers want to pick up order in store. 
 
-![Add new store](./storepickup/i10.png?raw=true)
+![General Information](./storepickup/i10.png?raw=true)
 
 Fill in **URL key, Meta Title, Meta Keywords,** and **Meta Description** for better SEO. It can help your customers find your store website easier. 
 
@@ -1479,7 +1481,7 @@ Fill in **URL key, Meta Title, Meta Keywords,** and **Meta Description** for bet
 
 Path: **Add New Store > Store Information** section **> Google Map Location**
  
-![Add new store](./storepickup/i11.png?raw=true)
+![Google Map Location](./storepickup/i11.png?raw=true)
 
 Fill your store’s address in this field or pin from the map, remember to click on the **Save Store** or **Save And Continue Edit** button to save your work. After that, store’s location will be updated automatically on Google Map.
 
@@ -1499,7 +1501,7 @@ By clicking **Apply to Form** before saving, the store coordinates & the store a
 
 •	**Image Gallery**
 
-![Add new store](./storepickup/i12.png?raw=true)
+![Image Gallery](./storepickup/i12.png?raw=true)
 
 Upload as many store images as you want. 
 
@@ -1511,13 +1513,13 @@ The base image will be shown in the store list.
 
 Path: **Add New Store > Store Information** section **> Store’s Schedule**
 
-![Add new store](./storepickup/i13.png?raw=true)
+![Store’s Schedule](./storepickup/i13.png?raw=true)
 
 **[1]**	Click on **Click here** to create new schedule
 
 You will be linked to a new page named **New Schedule**
 
-![](./storepickup/i14.png?raw=true)
+![Store’s Schedule](./storepickup/i14.png?raw=true)
 
 (1)	Enter **Schedule Name**
 
@@ -1530,31 +1532,31 @@ You will be linked to a new page named **New Schedule**
 
 **[2]**	Select a schedule that you have created for your store. For example: 
 
-![Add new store](./storepickup/i15.png?raw=true)
+![Store’s Schedule](./storepickup/i15.png?raw=true)
 
 After selecting **Store in January**, a timetable will be shown below the tab.  
 
 •	**Store’s Tag**
 
-![Add new store](./storepickup/i16.png?raw=true)
+![Store’s Tag](./storepickup/i16.png?raw=true)
 
 For easier search, you can tag each store in multiple categories. Choose tags for each in this tab by search for the tag and select suitable ones. Please note that one store can belongs to more than one tag.
 
 •	**Store’s Holiday**
 
-![Add new store](./storepickup/i17.png?raw=true)
+![Store’s Holiday](./storepickup/i17.png?raw=true)
 
 Select **Holidays** to be applied for this store by searching/filtering and select Holiday(s) that you set up before.
 
 •	**Store’s Special days**
 
-![Add new store](./storepickup/i18.png?raw=true)
+![Store’s Special days](./storepickup/i18.png?raw=true)
 
 Select **Special days** to be applied for this store by searching/filtering and select Special day(s) that you set up before.
 
 After all, if you finish everything, you can
 
-![Add new store](./storepickup/i19.png?raw=true)
+![Store’s Special days](./storepickup/i19.png?raw=true)
 
 **+ Save Store:**  save all changes and come back the Manage Store page
 
@@ -1585,7 +1587,7 @@ This tab manages all tags that are used to filter stores. Click on the **Add New
 
 **General Information:** Choose a suitable **Tag Name**, write a description and upload Icon to make it pop out on store listing page.
 
-![Manage Tag](./storepickup/i23.png?raw=true)
+![General Information](./storepickup/i23.png?raw=true)
 
 **Stores of Tag:** Select stores from the list to be shown up when Customers click on the tab you have created. Then **Save Tag** to save changes and come back the main page.
 
@@ -1707,21 +1709,21 @@ You can enable **Mark as shipped** by default.
 Click **Save Config** to complete the process.
 
 
-### Payment method
+### Payment 
 
 Path: **Stores > Settings** Section **> Configuration > Sales > Setting > Shipping for POS**
 
-![Payment method](./imgpart2/it_img138.png?raw=true)
+![Payment ](./imgpart2/it_img138.png?raw=true)
 
-![Payment method](./imgpart2/it_img139.png?raw=true)
+![Payment ](./imgpart2/it_img139.png?raw=true)
 
 If you want to apply all shipping methods, choose **All Allowed Payments in Applicable Shipping Methods** field.
 
-![Payment method](./imgpart2/it_img140.png?raw=true)
+![Payment ](./imgpart2/it_img140.png?raw=true)
 
 If you want to apply some payment methods only, choose **Specific Shipping**. Then in Specific Shipping Methods field, select payment method as your preference. Hold **Ctrl + Click** to choose more than one.
 
-![Payment method](./imgpart2/it_img141.png?raw=true)
+![Payment ](./imgpart2/it_img141.png?raw=true)
 
 **Default Payment Method:** Choose the payment method that you would want to set as default payment method. This payment method must be in **Specific Shipping Methods.**
 
@@ -1739,11 +1741,11 @@ If you want to apply some payment methods only, choose **Specific Shipping**. Th
 
 **Note**: *Users are the one who get permission to access in the Backend*    
 
-#### Decentralize User Roles
+####	Decentralize User Roles
 
    Path: **System > Permission** section > **User Roles**
    	
-##### Manage user role
+#####	 **Manage user role**
  
 ![Manage user role](./imgpart2/it_img402.png?raw=true)
  
@@ -1757,16 +1759,16 @@ View or edit a role’s detail by clicking on each line.
 
 #####	**Create a new user role**
  
-![Manage user role](./imgpart2/it_img403.png?raw=true)
+![Create a new user role](./imgpart2/it_img403.png?raw=true)
 
 Click **Add New Role**
  
-![Manage user role](./imgpart2/it_img404.png?raw=true)
+![Create a new user role](./imgpart2/it_img404.png?raw=true)
 
 In tab **Role Info**
 
 Fill in all required fields 
-![Manage user role](./imgpart2/it_img406.png?raw=true)
+![Create a new user role](./imgpart2/it_img406.png?raw=true)
 
 In tab **Role Resources**
 
@@ -1776,9 +1778,9 @@ In tab **Role Resources**
 
 Click **Save** to complete the process.
 
-#### Decentralize Users
+####	Decentralize Users
 
-##### Manage user
+#####	Manage user
  
 ![Manage user](./imgpart2/it_img407.png?raw=true)
 
@@ -1790,7 +1792,7 @@ Click **Save** to complete the process.
 
 View or edit a user’s detail by clicking on each line.
 
-##### Create a new user
+#####	Create a new user
  
 ![Create a new user](./imgpart2/it_img408.png?raw=true)
 
@@ -1832,13 +1834,13 @@ In tab Warehouse, click **Assign Warehouses** to assign warehouses to this user.
 
 Click **Save User** to complete the process.
 
-### How to manage staff
+###	How to manage staff
 
-#### Decentralize access permission of Web POS users
+####	Decentralize access permission of Web POS users
 
 Path: **Sales > Web POS** section **> Manage Roles**
 
-##### Manage role
+#####	Manage role
  
 ![Manage role](./imgpart2/it_img413.png?raw=true)
 
@@ -1850,7 +1852,7 @@ Path: **Sales > Web POS** section **> Manage Roles**
 
 (4)	**Edit**: You can view role’s details (edit) by click Edit or click each line.
 
-##### Add a new role
+#####	Add a new role
  
 ![Add a new role](./imgpart2/it_img414.png?raw=true)
 
@@ -1871,13 +1873,13 @@ In **General** tab, fill out the blank.
 
 In **Permission** tab.
 
-(1)	**Resource Access**: You can choose **Custom** or **All**. Choose **All** if you want users having this role will have access to all resources, click on **Save** or S**ave And Continue Edit** button to save your work.
+(1)	**Resource Access**: You can choose **Custom** or **All**. Choose **All** if you want users having this role will have access to all resources, click on **Save** or **Save And Continue Edit** button to save your work.
 
 (2)	If you choose **Custom**, you can tick to assign specific permissions for that role.
 
-#### Decentralize staff
+####	Decentralize staff
 
-##### Manage Staff
+#####	Manage Staff
 
 Path: **Sales > Web POS** section **> Manage Staff**
  
@@ -1891,7 +1893,7 @@ Path: **Sales > Web POS** section **> Manage Staff**
 
 Click **Detail** to view a staff’s details or edit.
 
-##### Create a new staff
+#####	Create a new staff
 
 Path: **Sales > Web POS** section **> Manage Staff**
  
@@ -1938,40 +1940,40 @@ Other admins (which can be called as business managers) can only create and dece
 
 Moreover, **if** IT admin activates the **Permissions** button on **Role Resources** these admins (managers) can create roles and users within their permission. 
  
-![Create a new staff](./imgpart2/it_img423.png?raw=true)
+![](./imgpart2/it_img423.png?raw=true)
 
 *Notice that: Roles on Sales Section and Roles on System Section ARE NOT synchronized.* 
 
 **For more basic details how to set up role – user and role-staff, you can read the section below:**  
 
-### Basic role for each admin in the System
+###	Basic role for each admin in the System
 
 **Note**: For reference only! With each business feature has different roles for users. 
 
-#### Store Manager
+####	Store Manager
 
  
 ![Store Manager](./imgpart2/it_img425.png?raw=true)
 
 Moreover, Store Manager can access to **Sales** Tab and decentralize roles for Sale Staff
 
-#### Inventory Manager
+####	Inventory Manager
  
 ![Inventory Manager](./imgpart2/it_img426.png?raw=true)
 
 Moreover, Inventory Manager can access to **Sales** Tab and decentralize Inventory Staff
 
-#### Purchase Manager
+####	Purchase Manager
  
 ![Purchase Manager](./imgpart2/it_img427.png?raw=true)
 
 Moreover, Purchase Manager can access to **Sales** Tab and decentralize Purchase Staff
 
-#### ECommerce Manager
+####	eCommerce Manager
  
-![ECommerce Manager](./imgpart2/it_img428.png?raw=true)
+![eCommerce Manager](./imgpart2/it_img428.png?raw=true)
 
-#### Accountant
+####	Accountant
  
 ![Accountant](./imgpart2/it_img429.png?raw=true)
 
@@ -2056,15 +2058,15 @@ For Dropdown and Multiple Select input types, do the following:
 
 (6)	**Use in Filter Option**: Adds a filter a control to the column header in the Products grid.
  
-![Create a new attribute](./imgpart2/it_img507.png?raw=true)
+![Advanced Properties](./imgpart2/it_img507.png?raw=true)
 
 **Input Validation**.
  
-![Create a new attribute](./imgpart2/it_img508.png?raw=true)
+![Input Validation](./imgpart2/it_img508.png?raw=true)
 
 In tab **Manage Labels**: Enter a **Title** to be used as a label for the field. If your store is available in different languages, you can enter a translated title for each view.
  
-![Create a new attribute](./imgpart2/it_img509.png?raw=true)
+![Input Validation](./imgpart2/it_img509.png?raw=true)
 
 In tab **Storefront Properties**
 
@@ -2096,7 +2098,7 @@ For dropdown, multiple select and price fields, do the following:
 To use attribute as a sort parameter for product listings, set Used for Sorting in Product Listing to **Yes**
 
  
-![Create a new attribute](./imgpart2/it_img510.png?raw=true)
+![Input Validation](./imgpart2/it_img510.png?raw=true)
 
 When complete, click **Save Attribute**.
 
@@ -2282,447 +2284,439 @@ Path: **Products > Catalog**
 
 **Workspace Controls**
 
-|Control|	Description|
-|---|--|
-|-	Add Product|	Initiates the process to create a new simple product. To choose a specific product type, click the down arrow. There are two options: **Simple Product** and **Configurable Product** (Grouped Product, Virtual Product,	Bundle Product,	Downloadable Product)|
-|-	Action|	Lists all actions that can be applied to selected products in the list. To apply an action to a product or group of products, mark the check box in the first column of each product. Options:	Delete, Change,  Status, Update Attributes.|
-|-	Filters|	Initiates a catalog search based on the current filters.|
-|-	Edit|	Opens the product in edit mode or view product’s detail.  You can accomplish the same thing by clicking any where on the row.|
+(1) **Add Product**: Initiates the process to create a new simple product. 
+
+To choose a specific product type, click the down arrow. 
+
+There are two options: **Simple Product** and **Configurable Product** (Grouped Product, Virtual Product,Bundle Product,Downloadable Product)
+
+(2) **Action**:	Lists all actions that can be applied to selected products in the list. To apply an action to a product or group of products, mark the check box in the first column of each product. Options:	**Delete, Change,  Status, Update Attributes**
+
+(3) **Filters**:Initiates a catalog search based on the current filters.
+
+(4) **Edit**: Opens the product in edit mode or view product’s detail. You can accomplish the same thing by clicking any where on the row.
 
  
 
 #####	Create a new product
 
-**Simple product**
- 
-![Create a new product](./imgpart3/it_img524.png?raw=true)
+**a/ Simple product**
 
-In the upper-right corner on the Add Product    menu, choose Simple Product.
- 
-![Create a new product](./imgpart3/it_img525.png?raw=true)
+![Add Simple Product](./imgaddition/im1.png?raw=true)
+
+In the upper-right corner on the **Add Product** menu, choose **Simple Product**.
+
+![Choose attribute set](./imgaddition/im2.png?raw=true)
 
 Choose the attribute set that is used as a template for the product.
 
-![Create a new product](./imgpart3/it_img526.png?raw=true)
 
-**Complete the required setting.**
+![Fill in required setting](./imgaddition/im3.png?raw=true)
 
-(1)	Enter **Product Name**. (required)
+**Complete the required setting**
 
-(2)	The default SKU that is based on the product name, or enter another.
+(1)	Enter **Product Name** (required)
 
-(3)	**Price**: enter the product price.
+(2)	The default **SKU** that is based on the product name, or enter another.
+
+(3)	**Price** - enter the product price.
 
 Then, Click **Save** to continue.
- 
-![Create a new product](./imgpart3/it_img527.png?raw=true)
+
+![Complete New Product basic settings](./imgaddition/im4.png?raw=true)
 
 **Complete the basic settings**
 
-Set Tax Class to one of the following:
+(1)	Set **Tax Class** to one of the following: **Taxable Goods**/**None**
 
-(1)	Taxable Goods/None
+(2)	Enter the **Quantity** of the product that is currently in stock. 
 
-(2)	Enter the Quantity of the product that is currently in stock. 
+(3)	By default, **Stock Status** is set to **In Stock**
 
-(3)	By default, Stock Status is set to In **Stock**
+(4)	Enter the **Weight** of the product.
 
-(4)	Enter the Weight of the product.
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click on **New Category**
 
-(5)	Assign Categories to the product. Tap the Select to select available category or you can create new category by click **New Category**
+(6)	Accept the default Visibility setting, **Catalog, Search**
 
-(6)	Accept the default Visibility setting, **Catalog, Search**.
+(7)	Mark the Set Product as **New checkbox** to add the product in the list of new products.
 
-(7)	Mark the Set Product as New checkbox to add the product in the list of new products.
+(8)	Choose the **Country of Manufacture**.
 
-(8)	Choose the Country of Manufacture.
-
-(9)	Enable On Web POS
+(9)	**Enable** On Web POS
 
 Then, click **Save** to continue
- 
-![Create a new product](./imgpart3/it_img528.png?raw=true)
 
-Complete the product information
+![List of product information](./imgaddition/im5.png?raw=true)
+
+**Complete the product information**
 
 Scroll down and complete the information in the following sections as needed:
 
- - Content
+ * Content
  
- - Configurations
+ * Configurations
  
- - Images and Videos
+ * Images and Videos
  
- - Search Engine Optimization
+ * Search Engine Optimization
  
- - Related Products, Up-Sells, and Cross-Sells
+ * Related Products, Up-Sells, and Cross-Sells
  
- - Customizable Options
+ * Customizable Options
  
- - Products in Websites
+ * Products in Websites
  
- - Design
+ * Design
  
- - Schedule Design Update
+ * Schedule Design Update 
  
- - Gift Options
+ * Downloadable Information 
  
- - Downloadable Information
+ * Barcode
  
- - Barcode
- 
- - Suppliers
+ * Suppliers
 
-**Configurable product**
+**b/Configurable product**
 
 Create a new configurable product
 
- 
-![Create a new product](./imgpart3/it_img529.png?raw=true)
+![Add Configurable Product](./imgaddition/im6.png?raw=true)
 
-In the upper-right corner on the **Add Product** menu, choose **Configurable Product**.
- 
-![Create a new product](./imgpart3/img530.png?raw=true)
+In the upper-right corner on the **Add Product** menu, choose **Configurable Product**
+
+![Choose the attribute set](./imgaddition/im7.png?raw=true)
 
 Choose the attribute set that is used as a template for the product.
+
+![Complete Product Name, SKU and Price](./imgaddition/im8.png?raw=true)
+
+**Complete the required setting**
+
+(1)	Enter **Product Name**. (required)
+
+(2)	The **default SKU** that is based on the product name, or enter another.
+
+(3)	Enter the product **Price**.
+
+(4)	Click **Save** to continue.
+
+![Complete basic setting](./imgaddition/im9.png?raw=true)
+
+**Complete the basic settings**
+
+(1)	Set **Tax Class** to one of the following:
+
+ - **None**.
  
-![Create a new product](./imgpart3/it_img531.png?raw=true)
+ -  **Taxable Goods**.
 
-Complete the required setting
-(1)	Enter **Product Name.** (required)
+(2)	Enter the **Quantity** of the product that is currently in stock. 
 
-(2)	The default SKU that is based on the product name, or enter another.
+(3)	By default, **Stock Status** is set to **In Stock**.
 
-(3)	Enter the product Price.
+(4)	Enter the **Weight** of the product.
 
-Then, Click **Save** to continue.
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click **New Category**
 
- 
-![Create a new product](./imgpart3/it_img532.png?raw=true)
+(6)	Accept the default Visibility setting, **Catalog, Search**
 
-Complete the basic settings
+(7)	To feature Mark the Set Product as **New checkbox** to add the product in 
+the list of new products.
 
-(1)	Set Tax Class to one of the following:
+(8)	Choose the **Country of Manufacture**.
 
- - None.
- 
- - Taxable Goods.
-
-(2)	Enter the Quantity of the product that is currently in stock. 
-
-(3)	By default, Stock Status is set to In **Stock.**
-
-(4)	Enter the Weight of the product.
-
-(5)	Assign Categories to the product. Tap the Select to select available category or you can create new category by click **New Category**
-
-(6)	Accept the default Visibility setting, **Catalog, Search**.
-
-(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
-
-(8)	Choose the Country of Manufacture.
-
-(9)	Enable on Web POS
+(9)	**Enable** on Web POS
 
 Then, click **Save to continue**.
 
- 
-![Create a new product](./imgpart3/it_img533.png?raw=true)
+![List of Product Information](./imgaddition/im10.png?raw=true)
 
 Complete the product information.
 
 **Adding configurations**
- 
-![Create a new product](./imgpart3/it_img534.png?raw=true)
 
-After creating a product, scroll down the **Configuration** section **>** Click **Create Configurations**.
- 
-![Create a new product](./imgpart3/it_img535.png?raw=true)
+![Configuration Explanation](./imgaddition/im11.png?raw=true)
 
-Choose the attributes
+After creating a product, scroll down the **Configuration** section > Click **Create Configurations**
+
+![Product Configuration Creation](./imgaddition/im12.png?raw=true)
+
+**Choose the attributes**
 
 (1)	Mark the checkbox of each attribute that you want to include as a configuration.
 
 (2)	Add a new attribute.
 
-(3)	Click to continue.
- 
-![Create a new product](./imgpart3/it_img536.png?raw=true)
+(3)	Click **Next** to continue.
+
+![Product Configuration Creation Step 2](./imgaddition/im13.png?raw=true)
 
 For each attribute, mark the checkbox of the values that apply to the product.
 
-Click **Next to continue**
- 
-![Create a new product](./imgpart3/it_img537.png?raw=true)
+Click **Next** to continue
 
-Configure the Images, Price, and Quantity.
+![Product Configuration Creation Step 3](./imgaddition/im14.png?raw=true)
+
+Configure the **Images**, **Price**, and **Quantity**.
 
 Click **Next** to continue.
 
 You will see list product.
- 
-![Create a new product](./imgpart3/it_img538.png?raw=true)
+
+![Product Configuration Creation Step 4](./imgaddition/im15.png?raw=true)
 
 Click **Next** to finish the process.
 
-**Grouped product**
+**c/Grouped product**
 
-![Create a new product](./imgpart3/it_img539.png?raw=true)
+In the upper-right corner on the **Add Product**   menu, choose **Grouped Product**.
 
-In the upper-right corner on the **Add Product** menu, choose **Grouped Product.**
- 
-![Create a new product](./imgpart3/it_img540.png?raw=true)
+![Grouped Product Listing](./imgaddition/im16.png?raw=true)
+
 Choose the attribute set that is used as a template for the product.
- 
-![Create a new product](./imgpart3/it_img541.png?raw=true)
 
-Complete the required setting
+![Fill required information](./imgaddition/im17.png?raw=true)
 
-(1)	Enter **Product Name**. (required)
+**Complete the required setting**
 
-(2)	The default SKU that is based on the product name, or enter another.
+(1)	Enter **Product Name** (required)
 
-(3)	Enter the product Price.
+(2)	The default **SKU** that is based on the product name, or enter another.
+
+(3)	Enter the **Quantity** of the product that is currently in stock 
 
 Then, Click **Save to continue**.
- 
-![Create a new product](./imgpart3/it_img542.png?raw=true)
 
-Complete the basic settings
+![Basic Settings for Grouped Product](./imgaddition/im18.png?raw=true)
 
-(1)	Set Tax Class to one of the following:
+**Complete the basic settings**
 
- - None
- 
- - Taxable Goods.
+(1)	By default, Stock Status is set to **In Stock**
 
-(2)	Enter the Quantity of the product that is currently in stock. 
+(2)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click **New Category**
 
-(3)	By default, Stock Status is set to **In Stock**
+(3)	Accept the default Visibility setting, **Catalog, Search**.
 
-(4)	Enter the Weight of the product.
+(4)	To feature Mark the Set Product as **New checkbox** to add the product in the list of new products.
 
-(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click  **New Category**
+(5)	Choose the **Country of Manufacture**.
 
-(6)	Accept the default Visibility setting, **Catalog, Search.**
+(6)	**Enable** on Web POS
 
-(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
+Then, click **Save to continue**.
 
-(8)	Choose the Country of Manufacture.
+**Add products to Group**
 
-Then, click **Save to continue.**
+![Add Products to group Explanation](./imgaddition/im19.png?raw=true)
 
- 
-![Create a new product](./imgpart3/it_img543.png?raw=true)
-**Add product to Group**.
+![Add Selected Products](./imgaddition/im20.png?raw=true)
 
-![Create a new product](./imgpart3/it_img544.png?raw=true)
+(1)	Select **product** that you want to include in the group.
 
-(1)	Select product that you want to include in the group.
+(2)	Click **Add Selected Products** to add them to group.
 
-(2)	Click to add them to group.
- 
-![Create a new product](./imgpart3/it_img545.png?raw=true)
+![Grouped Products Action Button](./imgaddition/im21.png?raw=true)
 
-(1)	Enter a quantity.
+(1)	Enter a **quantity**.
 
-(2)	Remove a product from group.
+(2)	**Remove** a product from group.
 
 Click **Save** to finish the process.
 
- 
-![Create a new product](./imgpart3/it_img546.png?raw=true)
+![List of Product Information](./imgaddition/im22.png?raw=true)
 
 Complete the product information
 
-**Virtual product**
+**d/Virtual product**
 
-Aside from the absence of the Weight field, the process of creating a virtual product and a simple product is the same.
- 
-**Bundle product**
+Aside from the absence of the **Weight** field, the process is as mentioned above.
 
- 
-![](./imgpart3/it_img547.png?raw=true)
+**e/Bundle product**
 
-In the upper-right corner on the Add Product menu, choose Grouped Product.
- 
-![Create a new product](./imgpart3/it_img548.png?raw=true)
+![Add Bundle Product](./imgaddition/im23.png?raw=true)
+
+In the upper-right corner on the **Add Product**   menu, choose **Bundle  Product**
+
+![Fill required fields in attribute setting](./imgaddition/im24.png?raw=true)
 
 Choose the attribute set that is used as a template for the product
- 
-![Create a new product](./imgpart3/it_img549.png?raw=true)
 
-Complete the required setting
+![Fill required setting](./imgaddition/im25.png?raw=true)
 
-(1)	Enter Product Name. (required)
+**Complete the required setting**
 
-(2)	The default SKU that is based on the product name, or enter another.
+(1)	Enter **Product Name**. (required)
 
-(3)	Enter the product Price.
+(2)	The default **SKU** that is based on the product name, or enter another.
+
+(3)	Enter the product **Price**.
 
 Then, Click **Save to continue**.
 
- 
-![Create a new product](./imgpart3/it_img550.png?raw=true)
+![Fill basic setting for Bundle Product](./imgaddition/im26.png?raw=true)
 
-Complete the basic settings
-(1)	Set Tax Class to one of the following:
+**Complete the basic settings**
 
- - None.
- 
- - Taxable Goods.
+(1)	Enable **Dynamic Price**
 
-(2)	Enter the Quantity of the product that is currently in stock. 
+(2)	Set **Tax Class** to one of the following:
 
-(3)	By default, Stock Status is set to **In Stock**
+•	**None**
 
-(4)	Enter the **Weight** of product.
+•	**Taxable Goods**
 
-(5)	Assign **Categories** to the product. Tap the **Select** to select available category or you can create new category by clicking on **New Category** 
+(3)	Enter the **Quantity** of the product that is currently in stock. 
 
-(6)	Accept the default **Visibility** setting, **Catalog, Search**
+(4)	By default, Stock Status is set to **In Stock**
 
-(7)	To feature Mark the **Set Product as New** checkbox to add the product in the list of new products.
+(5)	Enter the **Dynamic Weight** of product.
 
-(8)	Choose the **Country of Manufacture.**
+(6)	Assign **Categories** to the product. Tap the **Select** to select available category or you can create new category by clicking on  **New Category**
 
-(9)	**Enable on Web POS**
+(7)	Accept the default **Visibility** setting, **Catalog, Search**
+
+(8)	To feature Mark the **Set Product as New** checkbox to add the product in the list of new products.
+
+(9)	Choose the **Country of Manufacture**.
+
+(10)	**Enable** on Web POS
 
 Finally, click **Save** to continue.
- 
-![Create a new product](./imgpart3/it_img551.png?raw=true)
+
+![Ship Bundle Items](./imgaddition/im27.png?raw=true)
 
 Add **Bundle items**
 
 Scroll down to the **Bundle Items** section. Then, set **Ship Bundle Items** one of the following:
 
-1.	Separately
-2.	Together
+1.	**Separately**
+
+2.	**Together**
 
 Click **Add Option**
- 
-![Create a new product](./imgpart3/it_img552.png?raw=true)
+
+![Bundle Item Information](./imgaddition/im28.png?raw=true)
 
 (1)	**Option Title** to be used field label.
 
 (2)	Set **Input Type** to one of the following:
 
 •	Drop-down.
+
 •	Radio buttons.
+
 •	Checkbox.
+
 •	Multiple Select.
 
 (3)	Mark to make the field a **required** entry.
 
 (4)	Tap **Add Products to Option**, then mark the checkbox of each product that you want to include in this option.
- 
-![Create a new product](./imgpart3/it_img553.png?raw=true)
+
+![Add Selected Products](./imgaddition/im29.png?raw=true)
 
 Mark the checkbox of each product.
 
 Click **Add Selected Products**, you will see.
- 
-![Create a new product](./imgpart3/it_img554.png?raw=true)
+
+![Enter the default quantity](./imgaddition/im30.png?raw=true)
 
 (1)	Mark the checkbox of a product that you want it is default.
 
 (2)	Enter **Default Quantity**.
 
 Finally, click **Save**.
- 
-![Create a new product](./imgpart3/it_img555.png?raw=true)
+
+![List of Bundle Product](./imgaddition/im31.png?raw=true)
 
 Complete products information
 
+**f/Downloadable product**
 
-**Downloadable product**
- 
-![Create a new product](./imgpart3/it_img556.png?raw=true)
+![Add Downloaded Products](./imgaddition/im32.png?raw=true)
 
-In the upper-right corner on the Add Product menu, choose Grouped Product.
+In the upper-right corner on the **Add Product**   menu, choose **Downloadable Product**.
 
- 
-![Create a new product](./imgpart3/it_img557.png?raw=true)
+
+![Choose Attribute Set](./imgaddition/im33.png?raw=true)
 
 Choose **Downloadable** as the **attribute set**
- 
-![Create a new product](./imgpart3/it_img558.png?raw=true)
 
-Complete the required setting
+![Fill in required setting](./imgaddition/im34.png?raw=true)
 
-(1)	Enter **Product Name**. (required)
+**Complete the required setting**
+
+(1)	Enter **Product Name** (required)
 
 (2)	The default **SKU** that is based on the product name, or enter another
 
 (3)	Enter the product **Price**
 
 Then, Click **Save** to continue.
- 
-![Create a new product](./imgpart3/it_img559.png?raw=true)
 
-Complete the basic settings
+![Complete basic settings](./imgaddition/im35.png?raw=true)
+
+**Complete the basic settings**
 
 (1)	Set **Tax Class** to one of the following:
 
- - None.
- 
- - Taxable Goods
+•	None.
+
+•	Taxable Goods
 
 (2)	Enter the **Quantity** of the product that is currently in stock. 
 
-(3)	By default, **Stock Status** is set to **Out of Stock.**
+(3)	By default, **Stock Status** is set to **Out of Stock**.
 
-(4)	The **Weight** is not used, because downloadable products are not shipped.
+(4)	The **Weight** is not used, because downloadable products are not 
+shipped.
 
-(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by clicking on **New Category**
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by clicking on  **New Category**
 
-(6)	Accept the default **Visibility** setting, **Catalog, Search**.
+(6)	Accept the default Visibility setting, **Catalog, Search**.
 
-(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
+(7)	To feature Mark the Set Product as **New checkbox** to add the product in 
+the list of new products.
 
-(8)	Choose the **Country of Manufacture**.
-
-(9)	Enable on Web POS
+(8)	**Enable** on Web POS
 
 Then, click **Save** to continue.
 
- 
-![Create a new product](./imgpart3/it_img560.png?raw=true)
+![Downloadable Information](./imgaddition/im36.png?raw=true)
 
-Complete **downloadable product.**
+**Complete downloadable product**.
 
- 1. Mark the checkbox “**Is this downloadable product**”
- 
- 2. Enter the **Title** - to use as a heading for the download links.
- 
- 3. Click **Add Link**, then:
+(1)	Mark the checkbox **Is this downloadable product**
 
-   Enter **Title** and **Price**. For both File and Sample files, choose:
-                
- - Upload File: To upload the the distribution file to the server.
-   Browse to the file, and select it for upload.
- 
- - URL: To access the distribution file from a URL. Enter the full URL
-   to the download file.
+(2)	Enter the **Title** - to use as a heading for the download links.
 
- 
-![Create a new product](./imgpart3/it_img561.png?raw=true)
+(3)	Click **Add Link**, then:
+          
+ Enter **Title** and **Price**. For both **File** and **Sample files**, choose:
 
-Complete the **Sample**.
+•	**Upload File**: To upload the the distribution file to the server. Browse to the file, and select it for upload.
+
+•	**URL**: To access the distribution file from a URL. Enter the full URL to the download file.
+
+![Sample Setting](./imgaddition/im37.png?raw=true)
+
+**Complete the Sample**
 
 (1) Enter the **Title** - to use as a heading for the samples.
 
 (2) Enter the **Title** of the individual sample.
 
-(3) Choose distribution methods.
+(3) Choose **distribution methods**.
 
-(4) Click to add another sample.
+(4) Click **Add Link** to add another sample.
 
 When complete, click **Save**.
- 
-![Create a new product](./imgpart3/it_img562.png?raw=true)
+
+![List of product information](./imgaddition/im38.png?raw=true)
 
 Complete the product information
+
 
 ##### Product settings
 
@@ -2762,19 +2756,19 @@ Fill in the box and the click on **Choose File** to upload new video
  
 **c)	Search Engine Optimization**
  
-![Product settings](./imgpart3/it_img569.png?raw=true)
+![Search Engine Optimization](./imgpart3/it_img569.png?raw=true)
 
  - Click on **Products**
  - Click on **Catalog**
  - Click on **Edit** of product
 
-![Product settings](./imgpart3/it_img570.png?raw=true)
+![Search Engine Optimization](./imgpart3/it_img570.png?raw=true)
 
 Scroll down to search **Engine Optimization,** and click on  , then fill in the box
 
 **d)	 Related Products, Up-sells and Cross-sells** 
  
-![Product settings](./imgpart3/it_img571.png?raw=true)
+! [Related Products, Up-sells and Cross-sells](./imgpart3/it_img571.png?raw=true)
 
 o	Click on respectively
 1.	**Add Related Products**
@@ -2782,20 +2776,20 @@ o	Click on respectively
 3.	**Add Cross-sell Products**
 
  
-![Product settings](./imgpart3/it_img572.png?raw=true)
+![Related Products, Up-sells and Cross-sells](./imgpart3/it_img572.png?raw=true)
 
 (2)Mark the checkbox to select products
 
 (3)Click on **Add Selected Product**
  
-![Product settings](./imgpart3/it_img573.png?raw=true)
+![Related Products, Up-sells and Cross-sells](./imgpart3/it_img573.png?raw=true)
 
 Click on **Save** to finish
 
  
 **e)	Customizable Options**
  
-![Product settings](./imgpart3/it_img574.png?raw=true)
+![Customizable Options](./imgpart3/it_img574.png?raw=true)
 
 This function allows users to set and manage extra price for each product's variant separately.
 
@@ -2823,20 +2817,20 @@ To remove a value, click  on the right hand-side of the column
 
 **f)	Gift Option**
  
-![Product settings](./imgpart3/it_img575.png?raw=true)
+![Gift Option](./imgpart3/it_img575.png?raw=true)
 
  - Click on **Products**
  - Click on **Catalog**
  - Click on **Edit of a product**
 
  
-![Product settings](./imgpart3/it_img576.png?raw=true)
+![Gift Option](./imgpart3/it_img576.png?raw=true)
 
 Scroll down to **Gift Option**, and click  on  , then set the allow gift massage to **Yes**
 
 **g)	Downloadable Information**
  
-![Product settings](./imgpart3/it_img577.png?raw=true)
+![Downloadable Information](./imgpart3/it_img577.png?raw=true)
 
 (1)	Mark the checkbox
 
@@ -2868,7 +2862,7 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 
 **h)	Barcode**
  
-![Product settings](./imgpart3/it_img578.png?raw=true)
+![Barcode](./imgpart3/it_img578.png?raw=true)
 
 -	Enter barcode 
 -	Select a barcode template and see the preview as below 
@@ -2877,10 +2871,10 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 
 **i)	Suppliers**
  
-![Product settings](./imgpart3/it_img579.png?raw=true)
+![Suppliers](./imgpart3/it_img579.png?raw=true)
 
  
-![Product settings](./imgpart3/it_img580.png?raw=true)
+![Suppliers](./imgpart3/it_img580.png?raw=true)
 
 (1)	Click on **Add Supplier**
 
@@ -2888,7 +2882,7 @@ Otherwise, to allow unlimited downloads, mark the **Unlimited checkbox**
 
 (3)	Click on **Add Selected Supplier**
  
-![Product settings](./imgpart3/it_img581.png?raw=true)
+![Suppliers](./imgpart3/it_img581.png?raw=true)
 
 (4)	Enter the **Supplier SKU, Cost, Tax**
 
@@ -2956,7 +2950,7 @@ Path: **Purchase Management > Supplier** section **> Manage Suppliers**
 
 (1)	Click on **Add New Suppliers** to create a new supplier’s contact
 
-![](./imgpart3/it_img587.png?raw=true)
+![How to create a new supplier](./imgpart3/it_img587.png?raw=true)
 
 (2)	Fill in all the required fields, including: 
 
@@ -3027,13 +3021,13 @@ Pricelist Management provides users lots of benefits mentioned as below:
 
 •	Create pricelists in multiple currencies
 
-![Manage Pricelist ](./imgpart3/it_img591.png?raw=true)
+![Manage Pricelist](./imgpart3/it_img591.png?raw=true)
 
 (1)	Click on **Add Pricelist** to make a document listing multiple prices.
 
 ***Note:** You also can prepare a Pricelist on your device then import it to system by tabbing **Import Pricelist.***
 
-![Manage Pricelist ](./imgpart3/it_img592.png?raw=true)
+![Manage Pricelist](./imgpart3/it_img592.png?raw=true)
 
 (2)	Select a supplier (require)
 
@@ -3054,7 +3048,7 @@ Pricelist Management provides users lots of benefits mentioned as below:
 
 Path: **Purchase Management > Supplier** section **> Manage Pricelist**
 
-![Edit a pricelist ](./imgpart3/it_img593.png?raw=true)
+![Edit a pricelist](./imgpart3/it_img593.png?raw=true)
 
 (1)	Make double clicks on the label **Product SKU**
 
@@ -3129,7 +3123,7 @@ Fill in all the required fields with information of a warehouse.
 
 Click on the **Arrow Button**, then choose **Save and Continue**
 
-![How to create a new warehouse](./imgpart3/it_img604.png?raw=true)
+![General Informatio](./imgpart3/it_img604.png?raw=true)
 
 *On the pop-up screen:*
 
@@ -3195,17 +3189,17 @@ Select Staff users to assign permission
 
 ### Location
 
-#### Manage Location
+#### Add a new location
 
 Path: **Sales > Web POS** section > **Manage Locations**
 
-![Manage Location](./imgpart3/it_img611.png?raw=true)
+![Add a new location](./imgpart3/it_img611.png?raw=true)
 
 (1)Click on **Add Location** to create new locations
 
 (2)*Additional Guidance:* Click on **Edit** to amend existing locations’ information.
 
-![Manage Location](./imgpart3/it_img612.png?raw=true)
+![Add a new location](./imgpart3/it_img612.png?raw=true)
 
 *On the pop-up screen:*
 
