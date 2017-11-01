@@ -3,15 +3,15 @@
 **Version 4.7**
 
 (Magento [Gift Card](https://www.magestore.com/gift-card) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.)
-
+<div id="secion1"></div>
 -----------------------
 ## INTRODUCTION
-<div id="secion1">introduction
+
 
 More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size- fits-all gift? With this module, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
 ![Gift Card for Magento ](./Image_GiftcardM1/image008.png)
-</div>
+
 
 -------------
 <a href="#user-content-secion1">terminologies</a>
