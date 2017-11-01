@@ -3,7 +3,9 @@
 **Version 4.7**
 
 (Magento [Gift Card](https://www.magestore.com/gift-card) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.)
-<div id="secion1"></div>
+
+<div id="secion1">.</div>
+
 -----------------------
 ## INTRODUCTION
 
