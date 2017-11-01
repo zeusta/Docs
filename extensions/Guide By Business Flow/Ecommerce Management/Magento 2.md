@@ -9,7 +9,7 @@ So how retailers can manage their business to maximize sales on online channels 
 
 Magento 2 Ecommerce Management module including Store Pickup, and Loyalty programs is here to help you create more values for your customers and thus, will boost sales for the whole business. 
 
-With Loyalty programs module, your business can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
+With Loyalty programs, a module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers, your business can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
 This guide is specially written according to business flow which happens reguarly in reality. Therefore, you can quickly understand a sales execution process  during the operation of an ecommerce business.  
 
 -----------------------------------
