@@ -14,7 +14,7 @@ More and more Customers go online to find gifts for their friends and families, 
 </div>
 
 -------------
-<a href="#section1">terminologies</a>
+<a href="#user-content-secion1">terminologies</a>
 ## Table of terminologies
 
 **No.**|**Terms**|**Explanation**
