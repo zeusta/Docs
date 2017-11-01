@@ -1,22 +1,11 @@
-# User Guide for Store Manager in Magento 2 
-
-
-----------
-Confidential Information Notice 
-
-Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
- 
-
+# STORE MANAGER - USER GUIDE FOR MAGENTO 2
 
 ----------
 ## Introduction 
 
 POS System allows user to set different authority according to user’s roles in your store. For examples, when store manager using POS, some information will be displayed just for them while others roles can’t have authority to see it. 
 
-In this material, this amazing function will be explained in details. Each position in your store will know exactly what they can do with this POS. Because of that, they could adapt to this system and take advantage of it as much as they want.  
+In this material, this amazing function will be explained in details under the lens of a [Store Manager](https://www.magestore.com/magento-store-manager) so that each position in your store will know exactly what they can do with this POS. Because of that, they could adapt to this system and take advantage of it as much as they want.  
 
 With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
@@ -285,6 +274,12 @@ In case customer wanted to return products, Cashier needs doing all those follow
 
 ### POS Report
 Like we said above right from the start of this section, Cashiers have the ability to access 2 types of Report which were A & Z Report. 
+----------
+Confidential Information Notice 
+
+Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
  
 
