@@ -16,6 +16,7 @@ With this guide, hope that you can transform your business into a true [Omnichan
 
 
 1.	After purchasing a module, you will receive an email that includes the link to access **My License Certificates** on MageStore website. If you don’t receive the email, you can directly login to your account dashboard at MageStore then go to **My Account/My License Certificates**. Here you will select your **Order number** and a corresponding **Product** then type the **back-end domain of your live site**. It is optional to add your Development Domains right or later. Click on the **Generate Certificate** button to get your **License Certificate.**
+
 ***Note:*** **License Certificate** is a PDF document that contains your License Information including your Product Name, License Serial, License Type, Registered Domain, Expiration date, etc. Your **License Serial** is unique and can only be used once for one module. You can go to MageStore **Check License Information** page, enter your License Serial to check your license status. You can also view your License Information in back-end when your module installation is finished.
 
 2.	Go to **My Downloadable Products**. Choose the version of the module then download it. The file that you download is normally a zip file.
@@ -31,6 +32,7 @@ With this guide, hope that you can transform your business into a true [Omnichan
 7.	Now if you get access denied error when click on the module tab, you need to log out admin panel and log in again.
 
 8.	Go to front-end and try to process, make sure that everything is OK.
+
 ***Note:*** In the case that you have followed all above steps but couldn’t make the module work properly, to make your website function as normal, you can delete the file or change the module’s filename module in **app/etc/magestore_module_name.xml** (for example, change **Magestore_Affiliateplus.xml** to **Magestore_Affiliateplus.xml.bka** ). Then please contact us at support@magestore.com, our supporters will assist you in resolving any issues within 24 hours.
 
 -----
