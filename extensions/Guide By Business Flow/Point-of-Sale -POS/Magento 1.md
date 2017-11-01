@@ -1,24 +1,14 @@
-# Point-of Sale (POS) - Magento 1
-
-
-----------
-Confidential Information Notice 
-
-Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
- 
-
+# POINT OF SALE - POS - USER GUIDE FOR MAGENTO 1
 
 ----------
+
 ## Introduction 
 It’s so true to claim that POS System’s the revolution for Retailer. This system allows your online as well as offline stores to synchronize product data. Thus,  all the selling process becomes increasingly convenient in a blink for both staff and customer. 
 
 And in those following sections of this materials, the detailed explanation about using POS will be provided to you in the most simple way to get and to do. 
 All those steps in using process and  POS functions will be divided into logical parts according to Businees workflow. We believe that under this approaching aspect, users could quickly get familiar, adapt to this amazing system soon. 
 
-With the latest upgraded version and its convenience , we kee the high hope that you would enjoy and feel exhilarated when experience this newest ones. 
+With the latest upgraded version of [Web POS module](https://www.magestore.com/webpos) , we kee the high hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
 Thanks and Best regards,
 Magestore Team 
@@ -243,3 +233,10 @@ If this Return Order is valid, all those steps below need accomplishing:
 
 	- End the exchange product.
 
+----------
+
+Confidential Information Notice 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
