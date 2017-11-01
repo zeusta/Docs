@@ -2284,12 +2284,17 @@ Path: **Products > Catalog**
 
 **Workspace Controls**
 
-|Control|	Description|
-|---|--|
-|-	Add Product|	Initiates the process to create a new simple product. To choose a specific product type, click the down arrow. There are two options: **Simple Product** and **Configurable Product** (Grouped Product, Virtual Product,	Bundle Product,	Downloadable Product)|
-|-	Action|	Lists all actions that can be applied to selected products in the list. To apply an action to a product or group of products, mark the check box in the first column of each product. Options:	Delete, Change,  Status, Update Attributes.|
-|-	Filters|	Initiates a catalog search based on the current filters.|
-|-	Edit|	Opens the product in edit mode or view product’s detail.  You can accomplish the same thing by clicking any where on the row.|
+(1) **Add Product**: Initiates the process to create a new simple product. 
+
+To choose a specific product type, click the down arrow. 
+
+There are two options: **Simple Product** and **Configurable Product** (Grouped Product, Virtual Product,Bundle Product,Downloadable Product)
+
+(2) **Action**:	Lists all actions that can be applied to selected products in the list. To apply an action to a product or group of products, mark the check box in the first column of each product. Options:	**Delete, Change,  Status, Update Attributes**
+
+(3) **Filters**:Initiates a catalog search based on the current filters.
+
+(4) **Edit**: Opens the product in edit mode or view product’s detail. You can accomplish the same thing by clicking any where on the row.
 
  
 
