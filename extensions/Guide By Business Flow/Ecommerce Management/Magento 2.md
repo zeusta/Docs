@@ -1,6 +1,5 @@
 # ECOMMERCE MANAGEMENT - MAGENTO 2
 
--------------------
 
 ## Introduction
 
