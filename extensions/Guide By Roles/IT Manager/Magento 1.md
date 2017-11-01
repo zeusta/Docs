@@ -4,15 +4,16 @@
 
 --------
 
-## INTRODUCTION
+## Introduction
 
 
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business. Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 With this guide, hope that you can transform your business into a true [Omnichannel Retailer](https://www.magestore.com/omnichannel-retail?) easily. 
+
 --------
 
-## HOW TO INSTALL
+## How to install
 
 
 1.	After purchasing a module, you will receive an email that includes the link to access **My License Certificates** on MageStore website. If you don’t receive the email, you can directly login to your account dashboard at MageStore then go to **My Account/My License Certificates**. Here you will select your **Order number** and a corresponding **Product** then type the **back-end domain of your live site**. It is optional to add your Development Domains right or later. Click on the **Generate Certificate** button to get your **License Certificate.**
@@ -36,7 +37,7 @@ With this guide, hope that you can transform your business into a true [Omnichan
 -----
 
 
-## HOW TO CONFIGURE
+## How to configure
 
 
 ### Multi-companies (Coming soon)
@@ -1374,7 +1375,7 @@ Click **Save User** or **Save And Continue to Edit** to finish this phase
 
 ------
 
-## HOW TO MANAGE MASTER DATA
+## How to manage master data
 
 
 ### Customers
@@ -1588,168 +1589,4 @@ A store credit helps customer save and earn credit after purchasing a product, o
 
 •	**Gift Card**
 
-A gift card is a prepaid stored-value money product. Customer can use gift card as an alternative to cash for purchases within a particular store or related business.
-
-
-
-### Warehouse
-
-
-Path: **Inventory Management > Stock Listing > Warehouses**
-
-![Warehouse Listing](./imgpart02/img36.png?raw=true)
-
-Inventory Information will be shown in grid, inlcuding columns as **ID, Warehouses, Total SKU, Total Qty, Contact Email, Telephone, Street, City, Country** and **Action**
-
-
-#### New Warehouse
-
-Click on **Add a New Warehouse**
-
-![Add New Warehouse](./imgpart02/img37.png?raw=true)
-
-Fill basic information about the new Warehouse. 
-
-
-***Notes:*** You are required to fill **Warehouse Name** and **Warehouse Code**
-
-
-#### Warehouse Management
-
-![Warehouse Management](./imgpart02/img38.png?raw=true)
-
-The grid shows Warehouse basic information such as **ID, Warehouse Name, Total SKUs, Total Qty, Contact Email, Telephone, Street, City, Country**, and **Action**
-
-Click on **View** 
-
-![Warehouse Information](./imgpart02/img39.png?raw=true)
-Here, you can edit Warehouse information, including **General Information, Stock On Hand, Stock Movement, Warehouse Permission**, and **Dashboard:**
-
-•	**General Information:** name,code, email and location
-
-•	**Stock On Hand:** illustrate the Qty of products that are availble in the warehouse at the moment. 
-
-•	**Stock Movement:** show the opening and closing data between dates, such as: purchases made, sales order totals, external transfer and internal transfer (send stock) and returned items. 
-
-•	**Warehouse Permission:** manage and decentralize warehouse permission
-
-•	**Dashboard:** show Inventory Report in lines and tables. 
-Then, remember to click **Save General Information** to save what you have edited. 
-
-Or you can click on **Delete Warehouse** to delete the warehouse.
-
-Or click on **Back**, to get back the Management Page.
-
-
-#### Warehouse Permission
-
-
-After having created a warehouse, Admin Users can give different warehouse access permissions to different (admin) users.
-
-Click on **View** to see the warehouse’s detail information 
-
-![Warehouse Permission](./imgpart02/img40.png?raw=true)
-
-If you want to edit **Warehouse Roles**,
-
-(1)	Tick on the staff you want to edit roles
-
-(2)	Click on tab to select role. For example:
-
-![Warehouse Roles Options](./imgpart02/img41.png?raw=true)
-
-(3)	Click on **Delete** if you want to delete the staff completely.
-If you want to add new staff(s), 
-
-(4)	Click on **Assign Staffs**. 
-
-Then a pop-up will be shown as below:
-
-![Assign Staffs](./imgpart02/img42.png?raw=true)
-
-(1)	Tick on the staff you want to add
-
-(2)	Click on tab to select **Admin Role** or **Staff Role** or both
-
-(3)	Click on **Add Selected Staff** to finish this phase. 
-
-
-### Location
-
-
-Path: **Sales > Web POS > Manage Locations**
-
-
-#### Add new Location
-
-![Add New Location](./imgpart02/img43.png?raw=true)
-
-Click on **Add New Location** to add a new one. Then you will have to fill in two sections:
-
-
-##### Location Information
-
-![Location Information](./imgpart02/img44.png?raw=true)
-
-(1)	**Display Name** and **Address:** these are required fields
-
-(2)	**Description:** fill in description about the warehouse
-
-(3)	**Warehouse:** select one of these options:
-
-![Warehouse List Option](./imgpart02/img45.png?raw=true)
-
--	**Don’t link to any warehouse:** if the warehouse works separatedly
-
--	**Create a new Warehouse:** if you are creating the location for the new warehouse
-
--	**List of warehouses: ** Select one warehouse that you want to add new location
-
-
-##### User List
-
-![User List](./imgpart02/img46.png?raw=true)
-
-(1)	Tick on which user you want to edit
-
-(2)	Click on the tab in the **Status** Column to edit **Status** of the User. 
-
-After all, remember to click **Save Location** to complete the new Location
-
-
-#### Maping Locations – Warehouses
-
-
-Path: **Sales > Web POS > Manage Locations > Maping Locatons – Warehouses**
-
-Or 
-
-Path: **Inventory Management > Stock Listing > Warehouses > Maping Locations-Warehouses**
-
-![Maping Warehouse and Location](./imgpart02/img47.png?raw=true)
-
-(1)	Tick on the **Location** you want to edit. 
-
-Here, you can also edit the Status of the Location. 
-
--	**Yes:** Available
-
--	**No:** Inavailable
-
-(2)	**Warehouses:** select the warehouse you want to link to the location
-Besides, you can search for location by filling in the tab on **Locations** Column.
-
-
-### Store (POS) : Coming soon
-
------
-
-
-
--------
-
-*Confidential Information Notice.* 
-
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
-
-*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
+A gift card is a prepaid stored-value money product. Customer can use gift card as an alternative to cash 
