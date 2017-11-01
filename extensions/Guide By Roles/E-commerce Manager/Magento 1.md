@@ -1,10 +1,5 @@
-# ECOMMERCE MANAGEMENT – MAGENTO 1
+# ECOMMERCE MANAGER – MAGENTO 1
 
-Confidential Information Notice 
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice. 
 
 ---------------------------
 
@@ -19,6 +14,8 @@ Magento Ecommerce Management module including Store Pickup, and Loyalty programs
 With Loyalty programs module, your ebusiness can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
 
 This guide is specially written according to each role of an ecommerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an ecommerce business.  
+
+Power up yourself with our [Magento Ecommerce Manager solution](https://www.magestore.com/ecommerce-manager) to convert online sales smarter!
 
 -----------------------------
 
@@ -2189,4 +2186,10 @@ On the pop-up screen:
 
 3.	Click on “**Submit Refund**” to complete. 
 
+------------------
 
+Confidential Information Notice 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice. 
