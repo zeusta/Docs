@@ -3,17 +3,13 @@
 # INVENTORY MANAGEMENT 
 
 
-*Confidential Information Notice.* 
 
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
-
-*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 -------------
 
 ## INTRODUCTION
 
-Having an **Inventory Management** solution is a must-have for retail businesses that want to be more efficient and keep data accurate. If your inventory is not enough to supply, you may lose customer. But if the inventory you keep is more than needed, it will cost you lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification... in your warehouses in the most efficient way.  Moreover, this guide is specially written by  business flow which divided into processes so you can quickly access to the part you need.
+Having a powerful **Inventory Management** module is a must for retail businesses that want to be more efficient and keep data accurate. If your inventory is not enough to supply, you may lose customers. But if the inventory you keep is more than need, you will waste lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable Inventory management, a module in our [Omnichannel Solution](https://www.magestore.com/omnichannel-retail), with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification,etc, in your warehouses in the most efficient way.  Moreover, this guide is specially written by  business flow which divided into processes so you can quickly access to the part you need.
 
 With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
@@ -589,6 +585,12 @@ When supplier created Shipments and confirmed email to the customer. Then we wil
 
 ### Reports 
 *(Coming soon)*
+------------------------
+*Confidential Information Notice.* 
+
+*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
+
+*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 
 
