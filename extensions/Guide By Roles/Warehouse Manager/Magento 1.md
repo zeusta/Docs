@@ -1,30 +1,20 @@
 # WAREHOUSE MANAGER - USERGUIDE FOR MAGENTO 1
 
 
-*Confidential Information Notice.* 
-
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
-
-*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
-
 -------------
 
-## INTRODUCTION
+## Introduction
 
 
 Having an **Inventory Management** solution is a must-have for retail businesses that want to be more efficient and keep data accurate. If your inventory is not enough to supply, you may lose customer. But if the inventory you keep is more than needed, it will cost you lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 1 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification... in your warehouses in the most efficient way.  Moreover, this guide is specially written by roles which divided into processes for Inventory Manager and Staff to quickly access to the needed part .
 
-Hope that you will have a great time using our module and free your mind from messy stock management.
-
-*Thanks and Best regards,*
-
-**Magestore Team** 
+Power up yourself and free your mind from messy stock management with [Warehouse Manager solution](https://www.magestore.com/warehouse-fulfillment-manager)
 
 
 -------------
 
 
-## PERMISSION MATRIX
+## Permission Matrix
 ### For Warehouse Manager
 
 ![PERMISSION MATRIX - For Warehouse Manager](./image_%20Inventory%20M1/image002%201.38.48%20PM.png?raw=true) 
@@ -37,7 +27,7 @@ Hope that you will have a great time using our module and free your mind from me
 -------------
 
 
-## FOR WAREHOUSE MANAGER
+## User guide for Warehouse Manager
 ### Inventory Adjustment
 
 - *Path: Inventory Management > Stock Control > New Stocktaking*
@@ -530,7 +520,7 @@ You can view inventory statistics of each warehouse by day and keep the reports 
 ----------
 
 
-## FOR WAREHOUSE STAFF
+## User guide for Warehouse Staff
 
 ### Inventory Adjustment
 
@@ -866,3 +856,9 @@ Pick and Pack Items are implemeted in offline. After those processes are done th
 
 5. **Submit Shipment** to finalize
 
+---------------------
+*Confidential Information Notice.* 
+
+*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
+
+*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
