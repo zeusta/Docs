@@ -3,19 +3,16 @@
 
 -------------
 
-## INTRODUCTION
+## Introduction
 
 Having an [**Inventory Management** solution](https://www.magestore.com/inventory-sales-report) is a must-have for retail businesses that want to be more efficient and keep data accurate. If your inventory is not enough to supply, you may lose customer. But if the inventory you keep is more than needed, it will cost you lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 1 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification... in your warehouses in the most efficient way.  Moreover, this guide is specially written by  business flow which divided into processes so you can quickly access to the part you need.
 
 Hope that you will have a great time using our module and free your mind from messy stock management.
 
-Thanks and Best regards,
-
-**Magestore Team** 
 
 -----------
 
-## WORKFLOW
+## Workflow
 ### Inventory Adjustment 
 
 ![Inventory Adjustment process](./image_Inventory%20M1/image001.png?raw=true)
@@ -40,7 +37,7 @@ Thanks and Best regards,
 ----------
 
 
-## PERMISSION MATRIX
+## Permission matrix
 
 ![PERMISSION MATRIX](./image_Inventory%20M1/image013.png?raw=true) 
 
@@ -48,7 +45,7 @@ Thanks and Best regards,
 ----------
 
 
-## HOW TO USE 
+## How to use 
 
 ### Inventory Adjustment
 
