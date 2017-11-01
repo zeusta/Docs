@@ -1,12 +1,6 @@
-# BARCODE MANAGEMENT - MAGENTO 1
+# BARCODE MANAGEMENT - USER GUIDE FOR MAGENTO 1
 
 **Version 1.0**
-
-Confidential Information Notice 
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 -------------
 
@@ -112,4 +106,9 @@ In our inventory management modules, you need to use a Barcode scanner which is 
 
 ![product's barcode is displayed after scanned](./Image_Barcode/image014.png)
 
-This is the end of Magento Barcode Management user guide, we hope this manual is useful for you. If you have any further question, feel free to send us email at **_support@magestore.com_** to receive best assistance!
+-------
+Confidential Information Notice 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
