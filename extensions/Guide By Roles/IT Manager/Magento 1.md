@@ -1,7 +1,5 @@
 #  IT MANGER - USER GUIDE FOR MAGENTO 1
 
-
-
 --------
 
 ## INTRODUCTION
