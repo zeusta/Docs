@@ -4,7 +4,7 @@
 
 In this user guide, we provide you a very detailed instruction in how a Purchase Manager controls all tasks involved in purchase management. Managing suppliers, pricelist, quotation and purchase order is easier than ever for a purchase manager with our step-by-step user guide by role.
 
-Power up yourself with our [Purchasing Manager solution](https://www.magestore.com/purchasing-manager) to ensure cost-saving purchases in a timely manner.
+Power up yourself with our [Purchasing Manager solution](https://www.magestore.com/purchasing-manager) to ensure cost-saving purchases in a timely manner!
 
 ## Permission Matrix
 ![permissionmatrix](./PM1images/image000.png)
