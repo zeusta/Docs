@@ -1,17 +1,7 @@
-# Point-of Sale (POS) - Magento 1 
-
-
-----------
-Confidential Information Notice 
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
- 
-
+# STORE MANAGER - MAGENTO 1
 
 ----------
+
 ## Introduction 
 
 This guide is going to show you how to work on POS System and get familiar to this module whether you are a store manager or want to set permissions and guide other's staffs in the store. Our POS system allows user to set different authority according to user’s roles in your store. For examples, when store manager using POS, some information will be displayed just for them while others roles can’t have authority to see it. 
@@ -20,9 +10,7 @@ This amazing function will be explained in details as below. Each position in yo
 
 With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
-Thanks & Best regards,
-Magestore Team 
-
+Power up yourself with our [Magento Store Manager solution](https://www.magestore.com/magento-store-manager) to keep your store running safe and sound with minimum effort.
 
 ----------
 ## Permission Metrix  ##
@@ -271,4 +259,11 @@ In case customer wanted to return products, Cashier needs doing all those follow
 ### POS Report
 Like we said above right from the start of this section, Cashiers have the ability to access 2 types of Report which were A & Z Report. 
 
+-------------------
+
+Confidential Information Notice 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
