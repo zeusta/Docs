@@ -4,7 +4,7 @@
 
 --------
 
-## Introduction
+## INTRODUCTION
 
 
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business. Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
@@ -13,7 +13,7 @@ With this guide, hope that you can transform your business into a true [Omnichan
 
 --------
 
-## How to install
+## HOW TO INSTALL
 
 
 1.	After purchasing a module, you will receive an email that includes the link to access **My License Certificates** on MageStore website. If you don’t receive the email, you can directly login to your account dashboard at MageStore then go to **My Account/My License Certificates**. Here you will select your **Order number** and a corresponding **Product** then type the **back-end domain of your live site**. It is optional to add your Development Domains right or later. Click on the **Generate Certificate** button to get your **License Certificate.**
@@ -37,7 +37,7 @@ With this guide, hope that you can transform your business into a true [Omnichan
 -----
 
 
-## How to configure
+## HOW TO CONFIGURE
 
 
 ### Multi-companies (Coming soon)
@@ -1375,8 +1375,7 @@ Click **Save User** or **Save And Continue to Edit** to finish this phase
 
 ------
 
-## How to manage master data
-
+## HOW TO MANAGE MASTER DATA
 
 ### Customers
 
