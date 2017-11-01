@@ -9,6 +9,7 @@
 
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business. Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
+With this guide, hope that you can transform your business into a true [Omnichannel Retailer](https://www.magestore.com/omnichannel-retail?) easily. 
 --------
 
 ## HOW TO INSTALL
