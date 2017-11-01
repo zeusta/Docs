@@ -1,20 +1,12 @@
 
 # WAREHOUSE MANAGER - USERGUIDE FOR MAGENTO 2
 
-
-*Confidential Information Notice.* 
-
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
-
-*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
-
 -------------
 
 ## INTRODUCTION
 
 
-Having an **Inventory Management** solution is a must-have for a Warhouse Manager to efficiently control up-to-thousands of inventory and keep data accurate. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification... in your warehouses in the most efficient way.  Moreover, this guide is specially written by  business flow which divided into processes so you can quickly access to the part you need.
-
+Having an **Inventory Management** solution is a must-have for a Warhouse Manager to efficiently control up-to-thousands of inventory and keep data accurate. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification, etc, in your warehouses in the most efficient way.  Moreover, this guide is specially written under the lens of a [Warehouse Manager](https://www.magestore.com/warehouse-fulfillment-manager) so that each member in inventory staff will know what they can do in their positions. 
 With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
 Thanks and Best regards,
@@ -1127,12 +1119,12 @@ The supplier need to enter the carrier information and shipped Qty to create shi
 When supplier created Shipments and confirmed email to the customer. Then we will move to **Step 3**.
 
 ➢	**Step 3**: *Admin receives Tracking Information from Supplier -> Export Payment Transaction and creates Invoice.*
+-----------------------
+*Confidential Information Notice.* 
 
+*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
 
-
-
-
-
+*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 
 
