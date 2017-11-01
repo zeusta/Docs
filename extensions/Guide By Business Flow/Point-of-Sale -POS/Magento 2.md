@@ -1,24 +1,11 @@
 # Point-of Sale (POS) - Magento 2 
-
-
-----------
-Confidential Information Notice 
-
-Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
- 
-
-
 ----------
 ## Introduction 
 It’s so true to claim that POS System’s the revolution for Retailer. This system allows your online as well as offline stores to synchronize product data. Thus,  all the selling process becomes increasingly convenient in a blink for both staff and customer. 
 
-And in those following sections of this materials, the detailed explanation about using POS will be provided to you in the most simple way to get and to do. 
-All those steps in using process and  POS functions will be divided into logical parts according to Businees workflow. We believe that under this approaching aspect, users could quickly get familiar, adapt to this amazing system soon. 
+And in those following sections of this materials, the detailed explanation about using POS will be provided to you in the most simple way to get and to do. All those steps in using process and  POS functions will be divided into logical parts according to Businees workflow. We believe that under this approaching aspect, users could quickly get familiar, adapt to this amazing module in our [Omnichannel Solution](https://www.magestore.com/omnichannel-retail) soon. 
 
-With the latest upgraded version and its convenience , we kee the high hope that you would enjoy and feel exhilarated when experience this newest ones. 
+With the latest upgraded version and its convenience , we see the high hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
 Thanks and Best regards,
 Magestore Team 
@@ -309,3 +296,10 @@ If this Return Order is valid, all those steps below need accomplishing:
 	- If the customer want to exchange the product, create a refund like the same steps above at Make Order(s).  Then create the same order, with the exchange product. After that,  proceed with the order and check out.  
 
 	- End the exchange product.
+	
+----------
+Confidential Information Notice 
+
+Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
