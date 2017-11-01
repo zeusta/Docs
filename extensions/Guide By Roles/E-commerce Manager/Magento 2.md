@@ -1,10 +1,4 @@
-# ECOMMERCE MANAGEMENT - MAGENTO 2
-
-Confidential Information Notice 
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+# ECOMMERCE MANAGER - MAGENTO 2
 
 ---------------------------------
 
@@ -18,7 +12,7 @@ Magento 2 Ecommerce Management module including Store Pickup, and Loyalty progra
 
 With Loyalty programs module, your ebusiness can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
 
-This guide is specially written according to each role of an ecommerce business including manager and staff members. Therefore, you can quickly understand the responsibility of your workforce during the operation of an ecommerce business.  
+This guide is specially written to give you an comprehensive understanding about our Omnichannel Solution under the lens of an [Ecommerce Manager](https://www.magestore.com/ecommerce-manager). Thus, you can quickly understand the responsibility of your workforce during the operation of an ecommerce business.  
 
 -------------------------
 
@@ -1224,5 +1218,11 @@ On the pop-up screen:
 2)	Enter the number of money to refund to gift credit 
 
 3)	Click on “**Submit Refund**” to complete.
+------------------
+Confidential Information Notice 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 
