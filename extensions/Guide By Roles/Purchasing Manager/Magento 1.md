@@ -1,6 +1,11 @@
-# Purchase Manager - User Guide for Magento 1
+# PURCHASING MANAGER - USER GUIDE FOR MAGENTO 1
+
 ## Introduction
+
 In this user guide, we provide you a very detailed instruction in how a Purchase Manager controls all tasks involved in purchase management. Managing suppliers, pricelist, quotation and purchase order is easier than ever for a purchase manager with our step-by-step user guide by role.
+
+Power up yourself with our [Purchasing Manager solution](https://www.magestore.com/purchasing-manager) to ensure cost-saving purchases in a timely manner.
+
 ## Permission Matrix
 ![permissionmatrix](./PM1images/image000.png)
 ## User Guide for Purchasing Manager
@@ -254,11 +259,5 @@ Confidential Information Notice
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
 This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
-
-
-
-
-
 
 
