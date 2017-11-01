@@ -2295,436 +2295,423 @@ Path: **Products > Catalog**
 
 #####	Create a new product
 
-**Simple product**
- 
-![Create a new product](./imgpart3/it_img524.png?raw=true)
+**a/ Simple product**
 
-In the upper-right corner on the Add Product    menu, choose Simple Product.
- 
-![Create a new product](./imgpart3/it_img525.png?raw=true)
+![Add Simple Product](./imgaddition/im1.png?raw=true)
+
+In the upper-right corner on the **Add Product** menu, choose **Simple Product**.
+
+![Choose attribute set](./imgaddition/im2.png?raw=true)
 
 Choose the attribute set that is used as a template for the product.
 
-![Create a new product](./imgpart3/it_img526.png?raw=true)
 
-**Complete the required setting.**
+![Fill in required setting](./imgaddition/im3.png?raw=true)
 
-(1)	Enter **Product Name**. (required)
+**Complete the required setting**
 
-(2)	The default SKU that is based on the product name, or enter another.
+(1)	Enter **Product Name** (required)
 
-(3)	**Price**: enter the product price.
+(2)	The default **SKU** that is based on the product name, or enter another.
+
+(3)	**Price** - enter the product price.
 
 Then, Click **Save** to continue.
- 
-![Create a new product](./imgpart3/it_img527.png?raw=true)
+
+![Complete New Product basic settings](./imgaddition/im4.png?raw=true)
 
 **Complete the basic settings**
 
-Set Tax Class to one of the following:
+(1)	Set **Tax Class** to one of the following: **Taxable Goods**/**None**
 
-(1)	Taxable Goods/None
+(2)	Enter the **Quantity** of the product that is currently in stock. 
 
-(2)	Enter the Quantity of the product that is currently in stock. 
+(3)	By default, **Stock Status** is set to **In Stock**
 
-(3)	By default, Stock Status is set to In **Stock**
+(4)	Enter the **Weight** of the product.
 
-(4)	Enter the Weight of the product.
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click on **New Category**
 
-(5)	Assign Categories to the product. Tap the Select to select available category or you can create new category by click **New Category**
+(6)	Accept the default Visibility setting, **Catalog, Search**
 
-(6)	Accept the default Visibility setting, **Catalog, Search**.
+(7)	Mark the Set Product as **New checkbox** to add the product in the list of new products.
 
-(7)	Mark the Set Product as New checkbox to add the product in the list of new products.
+(8)	Choose the **Country of Manufacture**.
 
-(8)	Choose the Country of Manufacture.
-
-(9)	Enable On Web POS
+(9)	**Enable** On Web POS
 
 Then, click **Save** to continue
- 
-![Create a new product](./imgpart3/it_img528.png?raw=true)
 
-Complete the product information
+![List of product information](./imgaddition/im5.png?raw=true)
+
+**Complete the product information**
 
 Scroll down and complete the information in the following sections as needed:
 
- - Content
+ * Content
  
- - Configurations
+ * Configurations
  
- - Images and Videos
+ * Images and Videos
  
- - Search Engine Optimization
+ * Search Engine Optimization
  
- - Related Products, Up-Sells, and Cross-Sells
+ * Related Products, Up-Sells, and Cross-Sells
  
- - Customizable Options
+ * Customizable Options
  
- - Products in Websites
+ * Products in Websites
  
- - Design
+ * Design
  
- - Schedule Design Update
+ * Schedule Design Update 
  
- - Gift Options
+ * Downloadable Information 
  
- - Downloadable Information
+ * Barcode
  
- - Barcode
- 
- - Suppliers
+ * Suppliers
 
-**Configurable product**
+**b/Configurable product**
 
 Create a new configurable product
 
- 
-![Configurable product](./imgpart3/it_img529.png?raw=true)
+![Add Configurable Product](./imgaddition/im6.png?raw=true)
 
-In the upper-right corner on the **Add Product** menu, choose **Configurable Product**.
- 
-![Configurable product](./imgpart3/img530.png?raw=true)
+In the upper-right corner on the **Add Product** menu, choose **Configurable Product**
+
+![Choose the attribute set](./imgaddition/im7.png?raw=true)
 
 Choose the attribute set that is used as a template for the product.
+
+![Complete Product Name, SKU and Price](./imgaddition/im8.png?raw=true)
+
+**Complete the required setting**
+
+(1)	Enter **Product Name**. (required)
+
+(2)	The **default SKU** that is based on the product name, or enter another.
+
+(3)	Enter the product **Price**.
+
+(4)	Click **Save** to continue.
+
+![Complete basic setting](./imgaddition/im9.png?raw=true)
+
+**Complete the basic settings**
+
+(1)	Set **Tax Class** to one of the following:
+
+ - **None**.
  
-![Configurable product](./imgpart3/it_img531.png?raw=true)
+ -  **Taxable Goods**.
 
-Complete the required setting
-(1)	Enter **Product Name.** (required)
+(2)	Enter the **Quantity** of the product that is currently in stock. 
 
-(2)	The default SKU that is based on the product name, or enter another.
+(3)	By default, **Stock Status** is set to **In Stock**.
 
-(3)	Enter the product Price.
+(4)	Enter the **Weight** of the product.
 
-Then, Click **Save** to continue.
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click **New Category**
 
- 
-![Configurable product](./imgpart3/it_img532.png?raw=true)
+(6)	Accept the default Visibility setting, **Catalog, Search**
 
-Complete the basic settings
+(7)	To feature Mark the Set Product as **New checkbox** to add the product in 
+the list of new products.
 
-(1)	Set Tax Class to one of the following:
+(8)	Choose the **Country of Manufacture**.
 
- - None.
- 
- - Taxable Goods.
-
-(2)	Enter the Quantity of the product that is currently in stock. 
-
-(3)	By default, Stock Status is set to In **Stock.**
-
-(4)	Enter the Weight of the product.
-
-(5)	Assign Categories to the product. Tap the Select to select available category or you can create new category by click **New Category**
-
-(6)	Accept the default Visibility setting, **Catalog, Search**.
-
-(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
-
-(8)	Choose the Country of Manufacture.
-
-(9)	Enable on Web POS
+(9)	**Enable** on Web POS
 
 Then, click **Save to continue**.
 
- 
-![Configurable product](./imgpart3/it_img533.png?raw=true)
+![List of Product Information](./imgaddition/im10.png?raw=true)
 
 Complete the product information.
 
 **Adding configurations**
- 
-![Adding configurations](./imgpart3/it_img534.png?raw=true)
 
-After creating a product, scroll down the **Configuration** section **>** Click **Create Configurations**.
- 
-![Adding configurations](./imgpart3/it_img535.png?raw=true)
+![Configuration Explanation](./imgaddition/im11.png?raw=true)
 
-Choose the attributes
+After creating a product, scroll down the **Configuration** section > Click **Create Configurations**
+
+![Product Configuration Creation](./imgaddition/im12.png?raw=true)
+
+**Choose the attributes**
 
 (1)	Mark the checkbox of each attribute that you want to include as a configuration.
 
 (2)	Add a new attribute.
 
-(3)	Click to continue.
- 
-![Adding configurations](./imgpart3/it_img536.png?raw=true)
+(3)	Click **Next** to continue.
+
+![Product Configuration Creation Step 2](./imgaddition/im13.png?raw=true)
 
 For each attribute, mark the checkbox of the values that apply to the product.
 
-Click **Next to continue**
- 
-![Adding configurations](./imgpart3/it_img537.png?raw=true)
+Click **Next** to continue
 
-Configure the Images, Price, and Quantity.
+![Product Configuration Creation Step 3](./imgaddition/im14.png?raw=true)
+
+Configure the **Images**, **Price**, and **Quantity**.
 
 Click **Next** to continue.
 
 You will see list product.
- 
-![Adding configurations](./imgpart3/it_img538.png?raw=true)
+
+![Product Configuration Creation Step 4](./imgaddition/im15.png?raw=true)
 
 Click **Next** to finish the process.
 
-**Grouped product**
+**c/Grouped product**
 
-![Grouped product](./imgpart3/it_img539.png?raw=true)
+In the upper-right corner on the **Add Product**   menu, choose **Grouped Product**.
 
-In the upper-right corner on the **Add Product** menu, choose **Grouped Product.**
- 
-![Grouped product](./imgpart3/it_img540.png?raw=true)
+![Grouped Product Listing](./imgaddition/im16.png?raw=true)
+
 Choose the attribute set that is used as a template for the product.
- 
-![Grouped product](./imgpart3/it_img541.png?raw=true)
 
-Complete the required setting
+![Fill required information](./imgaddition/im17.png?raw=true)
 
-(1)	Enter **Product Name**. (required)
+**Complete the required setting**
 
-(2)	The default SKU that is based on the product name, or enter another.
+(1)	Enter **Product Name** (required)
 
-(3)	Enter the product Price.
+(2)	The default **SKU** that is based on the product name, or enter another.
+
+(3)	Enter the **Quantity** of the product that is currently in stock 
 
 Then, Click **Save to continue**.
- 
-![Grouped product](./imgpart3/it_img542.png?raw=true)
 
-Complete the basic settings
+![Basic Settings for Grouped Product](./imgaddition/im18.png?raw=true)
 
-(1)	Set Tax Class to one of the following:
+**Complete the basic settings**
 
- - None
- 
- - Taxable Goods.
+(1)	By default, Stock Status is set to **In Stock**
 
-(2)	Enter the Quantity of the product that is currently in stock. 
+(2)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click **New Category**
 
-(3)	By default, Stock Status is set to **In Stock**
+(3)	Accept the default Visibility setting, **Catalog, Search**.
 
-(4)	Enter the Weight of the product.
+(4)	To feature Mark the Set Product as **New checkbox** to add the product in the list of new products.
 
-(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by click  **New Category**
+(5)	Choose the **Country of Manufacture**.
 
-(6)	Accept the default Visibility setting, **Catalog, Search.**
+(6)	**Enable** on Web POS
 
-(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
+Then, click **Save to continue**.
 
-(8)	Choose the Country of Manufacture.
+**Add products to Group**
 
-Then, click **Save to continue.**
+![Add Products to group Explanation](./imgaddition/im19.png?raw=true)
 
- 
-![Grouped product](./imgpart3/it_img543.png?raw=true)
-**Add product to Group**.
+![Add Selected Products](./imgaddition/im20.png?raw=true)
 
-![Add product to Group](./imgpart3/it_img544.png?raw=true)
+(1)	Select **product** that you want to include in the group.
 
-(1)	Select product that you want to include in the group.
+(2)	Click **Add Selected Products** to add them to group.
 
-(2)	Click to add them to group.
- 
-![Add product to Group](./imgpart3/it_img545.png?raw=true)
+![Grouped Products Action Button](./imgaddition/im21.png?raw=true)
 
-(1)	Enter a quantity.
+(1)	Enter a **quantity**.
 
-(2)	Remove a product from group.
+(2)	**Remove** a product from group.
 
 Click **Save** to finish the process.
 
- 
-![Add product to Group](./imgpart3/it_img546.png?raw=true)
+![List of Product Information](./imgaddition/im22.png?raw=true)
 
 Complete the product information
 
-**Virtual product**
+**d/Virtual product**
 
-Aside from the absence of the Weight field, the process of creating a virtual product and a simple product is the same.
- 
-**Bundle product**
+Aside from the absence of the **Weight** field, the process is as mentioned above.
 
- 
-![Bundle product](./imgpart3/it_img547.png?raw=true)
+**e/Bundle product**
 
-In the upper-right corner on the Add Product menu, choose Grouped Product.
- 
-![Bundle product](./imgpart3/it_img548.png?raw=true)
+![Add Bundle Product](./imgaddition/im23.png?raw=true)
+
+In the upper-right corner on the **Add Product**   menu, choose **Bundle  Product**
+
+![Fill required fields in attribute setting](./imgaddition/im24.png?raw=true)
 
 Choose the attribute set that is used as a template for the product
- 
-![Bundle product](./imgpart3/it_img549.png?raw=true)
 
-Complete the required setting
+![Fill required setting](./imgaddition/im25.png?raw=true)
 
-(1)	Enter Product Name. (required)
+**Complete the required setting**
 
-(2)	The default SKU that is based on the product name, or enter another.
+(1)	Enter **Product Name**. (required)
 
-(3)	Enter the product Price.
+(2)	The default **SKU** that is based on the product name, or enter another.
+
+(3)	Enter the product **Price**.
 
 Then, Click **Save to continue**.
 
- 
-![Bundle product](./imgpart3/it_img550.png?raw=true)
+![Fill basic setting for Bundle Product](./imgaddition/im26.png?raw=true)
 
-Complete the basic settings
-(1)	Set Tax Class to one of the following:
+**Complete the basic settings**
 
- - None.
- 
- - Taxable Goods.
+(1)	Enable **Dynamic Price**
 
-(2)	Enter the Quantity of the product that is currently in stock. 
+(2)	Set **Tax Class** to one of the following:
 
-(3)	By default, Stock Status is set to **In Stock**
+•	**None**
 
-(4)	Enter the **Weight** of product.
+•	**Taxable Goods**
 
-(5)	Assign **Categories** to the product. Tap the **Select** to select available category or you can create new category by clicking on **New Category** 
+(3)	Enter the **Quantity** of the product that is currently in stock. 
 
-(6)	Accept the default **Visibility** setting, **Catalog, Search**
+(4)	By default, Stock Status is set to **In Stock**
 
-(7)	To feature Mark the **Set Product as New** checkbox to add the product in the list of new products.
+(5)	Enter the **Dynamic Weight** of product.
 
-(8)	Choose the **Country of Manufacture.**
+(6)	Assign **Categories** to the product. Tap the **Select** to select available category or you can create new category by clicking on  **New Category**
 
-(9)	**Enable on Web POS**
+(7)	Accept the default **Visibility** setting, **Catalog, Search**
+
+(8)	To feature Mark the **Set Product as New** checkbox to add the product in the list of new products.
+
+(9)	Choose the **Country of Manufacture**.
+
+(10)	**Enable** on Web POS
 
 Finally, click **Save** to continue.
- 
-![Bundle product](./imgpart3/it_img551.png?raw=true)
+
+![Ship Bundle Items](./imgaddition/im27.png?raw=true)
 
 Add **Bundle items**
 
 Scroll down to the **Bundle Items** section. Then, set **Ship Bundle Items** one of the following:
 
-1.	Separately
-2.	Together
+1.	**Separately**
+
+2.	**Together**
 
 Click **Add Option**
- 
-![Bundle product](./imgpart3/it_img552.png?raw=true)
+
+![Bundle Item Information](./imgaddition/im28.png?raw=true)
 
 (1)	**Option Title** to be used field label.
 
 (2)	Set **Input Type** to one of the following:
 
 •	Drop-down.
+
 •	Radio buttons.
+
 •	Checkbox.
+
 •	Multiple Select.
 
 (3)	Mark to make the field a **required** entry.
 
 (4)	Tap **Add Products to Option**, then mark the checkbox of each product that you want to include in this option.
- 
-![Bundle product](./imgpart3/it_img553.png?raw=true)
+
+![Add Selected Products](./imgaddition/im29.png?raw=true)
 
 Mark the checkbox of each product.
 
 Click **Add Selected Products**, you will see.
- 
-![Bundle product](./imgpart3/it_img554.png?raw=true)
+
+![Enter the default quantity](./imgaddition/im30.png?raw=true)
 
 (1)	Mark the checkbox of a product that you want it is default.
 
 (2)	Enter **Default Quantity**.
 
 Finally, click **Save**.
- 
-![Bundle product](./imgpart3/it_img555.png?raw=true)
+
+![List of Bundle Product](./imgaddition/im31.png?raw=true)
 
 Complete products information
 
+**f/Downloadable product**
 
-**Downloadable product**
- 
-![Downloadable product](./imgpart3/it_img556.png?raw=true)
+![Add Downloaded Products](./imgaddition/im32.png?raw=true)
 
-In the upper-right corner on the Add Product menu, choose Grouped Product.
+In the upper-right corner on the **Add Product**   menu, choose **Downloadable Product**.
 
- 
-![Downloadable product](./imgpart3/it_img557.png?raw=true)
+
+![Choose Attribute Set](./imgaddition/im33.png?raw=true)
 
 Choose **Downloadable** as the **attribute set**
- 
-![Downloadable product](./imgpart3/it_img558.png?raw=true)
 
-Complete the required setting
+![Fill in required setting](./imgaddition/im34.png?raw=true)
 
-(1)	Enter **Product Name**. (required)
+**Complete the required setting**
+
+(1)	Enter **Product Name** (required)
 
 (2)	The default **SKU** that is based on the product name, or enter another
 
 (3)	Enter the product **Price**
 
 Then, Click **Save** to continue.
- 
-![Downloadable product](./imgpart3/it_img559.png?raw=true)
 
-Complete the basic settings
+![Complete basic settings](./imgaddition/im35.png?raw=true)
+
+**Complete the basic settings**
 
 (1)	Set **Tax Class** to one of the following:
 
- - None.
- 
- - Taxable Goods
+•	None.
+
+•	Taxable Goods
 
 (2)	Enter the **Quantity** of the product that is currently in stock. 
 
-(3)	By default, **Stock Status** is set to **Out of Stock.**
+(3)	By default, **Stock Status** is set to **Out of Stock**.
 
-(4)	The **Weight** is not used, because downloadable products are not shipped.
+(4)	The **Weight** is not used, because downloadable products are not 
+shipped.
 
-(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by clicking on **New Category**
+(5)	Assign Categories to the product. Tap the **Select** to select available category or you can create new category by clicking on  **New Category**
 
-(6)	Accept the default **Visibility** setting, **Catalog, Search**.
+(6)	Accept the default Visibility setting, **Catalog, Search**.
 
-(7)	To feature Mark the Set Product as New checkbox to add the product in the list of new products.
+(7)	To feature Mark the Set Product as **New checkbox** to add the product in 
+the list of new products.
 
-(8)	Choose the **Country of Manufacture**.
-
-(9)	Enable on Web POS
+(8)	**Enable** on Web POS
 
 Then, click **Save** to continue.
 
- 
-![Downloadable product](./imgpart3/it_img560.png?raw=true)
+![Downloadable Information](./imgaddition/im36.png?raw=true)
 
-Complete **downloadable product.**
+**Complete downloadable product**.
 
- 1. Mark the checkbox “**Is this downloadable product**”
- 
- 2. Enter the **Title** - to use as a heading for the download links.
- 
- 3. Click **Add Link**, then:
+(1)	Mark the checkbox **Is this downloadable product**
 
-   Enter **Title** and **Price**. For both File and Sample files, choose:
-                
- - Upload File: To upload the the distribution file to the server.
-   Browse to the file, and select it for upload.
- 
- - URL: To access the distribution file from a URL. Enter the full URL
-   to the download file.
+(2)	Enter the **Title** - to use as a heading for the download links.
 
- 
-![Downloadable product](./imgpart3/it_img561.png?raw=true)
+(3)	Click **Add Link**, then:
+          
+ Enter **Title** and **Price**. For both **File** and **Sample files**, choose:
 
-Complete the **Sample**.
+•	**Upload File**: To upload the the distribution file to the server. Browse to the file, and select it for upload.
+
+•	**URL**: To access the distribution file from a URL. Enter the full URL to the download file.
+
+![Sample Setting](./imgaddition/im37.png?raw=true)
+
+**Complete the Sample**
 
 (1) Enter the **Title** - to use as a heading for the samples.
 
 (2) Enter the **Title** of the individual sample.
 
-(3) Choose distribution methods.
+(3) Choose **distribution methods**.
 
-(4) Click to add another sample.
+(4) Click **Add Link** to add another sample.
 
 When complete, click **Save**.
- 
-![Downloadable product](./imgpart3/it_img562.png?raw=true)
+
+![List of product information](./imgaddition/im38.png?raw=true)
 
 Complete the product information
+
 
 ##### Product settings
 
