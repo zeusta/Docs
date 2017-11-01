@@ -1,17 +1,17 @@
-# GIFT CARD - MAGENTO 1
+# GIFT CARD - USER GUIDE FOR MAGENTO 1
 
 **Version 4.7**
 
-Confidential Information Notice 
+(Magento [Gift Card](https://www.magestore.com/gift-card) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.)
 
-Copyright 2017. 
+-----------------------
+## INTRODUCTION
 
-All Rights Reserved.Any unauthorized reproduction of this document is prohibited.
+More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size- fits-all gift? With this module, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+![Gift Card for Magento ](./Image_GiftcardM1/image008.png)
 
-----------
-
+-------------
 ## Table of terminologies
 
 **No.**|**Terms**|**Explanation**
@@ -27,13 +27,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 -------------
 
-## INTRODUCTION
 
-More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size- fits-all gift? With this module, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
-
-![Gift Card for Magento ](./Image_GiftcardM1/image008.png)
-
--------------
 
 ##  HOW TO USE
 
@@ -610,7 +604,87 @@ On Gift Card History page, you will know when Gift Cards were created/ updated/ 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience.
 
 ![Filter data](./Image_GiftcardM1/image150.png)
+--------------
+## Release Notes
 
-You have just explored the Gift Card user guide. We hope that this manual is useful for you to use Gift Card module effectively. If you have any questions, feel free to contact us at **_support@magestore.com_**, we would be glad to assist you!
+### Version 4.7 (Released on Apr 16, 2017)
+### Version 4.6 (Released on Nov 2, 2016)
+- Allow importing gift code set 
+- A new gift card template (similar to Amazon Gift Card)
+- A new type of print: Fold Paper
+- Remove attached PDF
+- Update new free templates
+### Version 4.5 (Released on Jan 18, 2016)
+### Version 4.4 (Released on Oct 26, 2015)
+- Perfectly compatible with latest security patch SUPEE-6788
+- A brand-new template is added with clean design (looks like Amazon Gift Card) 
+- Allow admin to set permission for Gift Card tab management in backend
+### Version 4.3 (Released on Mar 10, 2015)
+- Show expiration date on Gift Cards
+- Allow admin to check whether Gift Cards are sent or not in back-end
+- Allow customers to send Gift Cards to themselves via post office
+- Allow customers to choose time zone to send Gift Cards via email
+- Enable customers to drag & drop to upload images used for Gift Cards
+- Hide template selector from customers if there is only 1 option available
+- Allow customers to use gift codes, Gift Card credit with coupon codes or not
+- Be compatible with other One Step Checkout modules
+- Remove HTML and JS tags in input boxes
+### Version 4.2 EE (Released on Oct 28, 2014)
+Support Magento Enterprise v1.9 - 1.14
+### Version 4.2 CE (Released on Sep 26, 2014)
+Optimize design of Gift Card templates
+Support Magento Community v1.4 - 1.9
+### Version 4.1 (Released on Aug 25, 2014)
+- Responsive and Compatible with Magento Community 1.9 
+- Compatible with Magestore One Step Checkout 3.2
+- Admin can enable/disable Gift Card on Checkout page
+### Version 4.0 (updated on Feb 18th, 2014)
+- Separate Gift Card price and Gift Card value, allowing Admin to - - - configure prices of Gift Card products based on their actual value.
+- Add Gift Card Template function: Admin can add and manage templates and images of Gift Card products. Customers can upload their own image in frontend.
+- Allow Customers to preview Gift Card created before adding to cart.
+- Allow setting shopping cart conditions and cart item conditions when using Gift Cards.
+- Add notification emails when sending Gift Card to friends.
+- Allow managing Gift Card transaction history.
+- Allow generating Gift Card increment codes.
+- Allow adding Gift Card product with recipient information when creating order in backend.
+- Allow using Gift Card discount after or before tax.
+- Be compatible with Reward Points and Web POS extensions.
+### Version 3.3 (updated on Sep 20th, 2013)
+Support Soap API version 2
+### Version 3.2 (updated on June 27th 2013)
+- Auto-add gift card to customer list when using gift card at checkout
+- Allow recipients to add gift card to their list by clicking on the link in the email
+- Allow customers to check gift card information without logging in to the website
+### Version 3.1 (updated on June 19th 2013)
+Support Magento Enterprise Edition
+### Version 3.0 (updated on Jan 17th 2013)
+- Allow Customers to schedule Gift card Delivery date
+- Enable Customers to have Gift card credit balance
+- Add Gift card box in shopping cart page.
+- Modify payment form when checkout using Gift code
+- Able to generate a list of Gift codes in admin
+- Able to use Gift code to create order in admin
+- Add API's functions for Gift card
+### Version 2.3 (updated on Sept 20rd 2012)
+### Version 2.2 (updated on Jul 3rd 2012)
+Allow automatically generating invoice after placed order by using gift card code.
+### Version 2.1 (updated on Dec 25th 2011)
+Compatible with OnestepCheckout extension.
+### Version 2.0 (updated on Dec 8th 2011)
+- Add Weigh attribute to Gift Cart product.
+- Add Importing feature: Admin can import gift card codes from a CSV file.
+- Add Printing feature: Admin can print the gift card codes, then send them to customers.
+### Version 1.2 (updated on Nov 9th 2011)
+### Version 1.1 (updated on Sep 21th 2011)
+Add more configuration fields to change position of Gift Card Box on the checkout page.
+### Version 1.0 (released on Aug 30th 2011)
+Release extension.
 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -END- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+-------------
+Confidential Information Notice 
+
+Copyright 2017. 
+
+All Rights Reserved.Any unauthorized reproduction of this document is prohibited.
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
