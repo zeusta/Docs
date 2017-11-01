@@ -1,10 +1,5 @@
-# ECOMMERCE MANAGEMENT -  MAGENTO 1
+# ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 1
 
-Confidential Information Notice 
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 --------------------------
 
@@ -14,9 +9,9 @@ According to Big Commerce and Square, ecommerce is growing 23% year-over-year. E
 	
 So how retailers can manage their business to maximize sales on online channels in the emerging technology world? 
 
-Magento Ecommerce Management module including Store Pickup, and Loyalty programs is here to help you create more values for your customers and thus, will boost sales for the whole business. 
+Magento Ecommerce Management module including [Store Pickup](https://www.magestore.com/store-locator-pickup), and Loyalty programs is here to help you create more values for your customers and thus, will boost sales for the whole business. 
 
-With Loyalty programs module, your business can build a strong relationship with their customers and drive more sales from returning ones as well through Reward Points, Store Credit and Gift Cards. Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
+With Loyalty programs module, your business can build a strong relationship with their customers and drive more sales from returning ones as well through [Reward Points](https://www.magestore.com/reward-points), [Store Credit](https://www.magestore.com/store-credit) and [Gift Cards](https://www.magestore.com/gift-card). Besides, Store Pickup will satisfy your shoppers with the convenient option of ordering online - picking up in store.  
 
 This guide is specially written according to business flow which happens reguarly in reality. Therefore, you can quickly understand a sales execution process  during the operation of an ecommerce business.
 
@@ -2474,4 +2469,12 @@ On **Checkout** page:
 Customers can choose to use Gift Card or Gift Card credit and enter the amount of money as on **Shopping Cart** page. Then click on **Add Gift Card** button to apply.
 
 ***Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
+
+----------------------------------
+
+Confidential Information Notice 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
