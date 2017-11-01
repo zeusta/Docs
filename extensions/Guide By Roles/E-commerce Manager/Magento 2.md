@@ -1,4 +1,4 @@
-# ECOMMERCE MANAGER - MAGENTO 2
+# ECOMMERCE MANAGER - USER GUIDE FOR MAGENTO 2
 
 ---------------------------------
 
