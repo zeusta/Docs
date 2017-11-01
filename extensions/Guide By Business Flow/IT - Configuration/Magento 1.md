@@ -1,12 +1,5 @@
-# USER GUIDE FOR IT CONFIGURATION
+#  IT CONFIGURATION - USER GUIDE FOR MAGENTO 1
 
--------
-
-*Confidential Information Notice.* 
-
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
-
-*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 --------
 
@@ -14,6 +7,8 @@
 
 
 This guide will help you – an IT Manager – to configure a successful strong system for the retailers and support you to activate the most suitable features for the business. Through the guide, you will understand how Omni-channel company will be built and work with MageStore packages. Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
+
+With this guide, hope that you can transform your business into a true [Omnichannel Retailer](https://www.magestore.com/omnichannel-retail?) easily and quickly. 
 
 --------
 
@@ -1748,4 +1743,12 @@ Besides, you can search for location by filling in the tab on **Locations** Colu
 ### Store (POS) : Coming soon
 
 -----
+
+-------
+
+*Confidential Information Notice.* 
+
+*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.* 
+
+*This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
