@@ -8,7 +8,7 @@
 This guide will help you – an IT Manager – to configure a successful and strong system for the retailers and support you to activate the most suitable features for the business. Through the guide, you will understand work with modules included in Magestore's [Omnichannel Solution](https://www.magestore.com/omnichannel-retail). Moreover, you will get basic knowledge about how you can decentralize roles, users and staffs for your company.
 
 ------
-## HOW TO INSTALL!
+## HOW TO INSTALL
 
 [How to install](./img102/it_img031.png?raw=true)
 
