@@ -71,6 +71,7 @@ checkbox.
 ![Preview Gift Card](./Image_GiftcardM1/image016.png)
 
 - After Customers add a Gift Card to cart and click on **Proceed to Checkout**, they will be directed to the following page:
+<div id="p5">
 
     - *When Customers send the Gift Card to their friend*
  ![Proceed to Checkout](./Image_GiftcardM1/image018.png)
@@ -81,6 +82,7 @@ checkbox.
 - Then Gift Cards products can be checked out as normal products. Customers will receive a Gift Card code if they buy for themselves. In case Customers purchase the Gift Card to send to their friends, the code will be delivered to their friends’ email with the following form:
 
 ![purchase the Gift Card to send to their friends](./Image_GiftcardM1/image022.png)
+<div>
 
 If the Sender has ticked the checkbox **Get notification email when your friend receives Gift Card**, a notification will be sent to his email address immediately after the Gift Card is delivered to the friend’s email as below:
 
@@ -256,6 +258,7 @@ To configure default configurations and settings of the module, please log in to
 13 | Send-to- recipient email template when Gift Card is refunded | 5 | The number of days to send notification toCustomers before the expiration date of a Gift card
 
  - **Gift Card Printout** tab:
+ <div id="p4">
  
 ![Gift Card Printout tab](./Image_GiftcardM1/image060.png)
 
@@ -265,7 +268,7 @@ To configure default configurations and settings of the module, please log in to
 2 |Show barcode on Gift Card | Yes | Show barcode on Gift Cards when they are printed or sent via email.
 3| Type of Barcode | QR Code | Show QR code on Gift Cards when they are printed or sent via email.
 4 | Gift Card notes | Converting to cash is not allowed. | The notes shown on Gift Cards when theyare printed or sent via email.
-
+<div>
 ## Manage Gift Card Templates (Updated)
 
 After installing the module, you can start with Gift Card templates. This function helps you create unlimited templates for Gift Card with different titles, designs, images and notes. You can flexibly customize Gift Cards for different purposes, such as X-mas Gift Card or Birth Day Gift Card, offering Customers a wide range of choices.
@@ -404,6 +407,7 @@ The following example will help you have better understanding about these config
 So Customers only have to pay 90% of Gift Card value, which means $36 for a $40 Gift Card for instance.
 
 - **Conditions** tabs:
+<div id="p2">
 
 The difference between a Gift Card product and a normal product is that a Gift Card product contains 2 more condition tabs, which are **Shopping Cart Conditions** and **Cart Item Conditions**.
 
@@ -415,7 +419,9 @@ The difference between a Gift Card product and a normal product is that a Gift C
   
 ![set up Gift Card usage conditions applied to each item in Customers’ shopping cart](./Image_GiftcardM1/image094.png)
 
-**_Note_**: Normally some common product attributes are enabled to use with promotion rules by default. If you don’t see the attribute you want when setting **Gift Card’s Conditions**, such as SKU, you can go to Catalog→ Attributes→ Manage Attributes. Search and choose Attribute Code, such as &quot;SKU&quot;. Then change &quot;Use for Promo Rule Conditions&quot; to &quot;Yes&quot;.
+**_Note_**: Normally some common product attributes are enabled to use with promotion rules by default. If you don’t see the attribute you want when setting **Gift Card’s Conditions**, such as SKU, you can go to Catalog→ Attributes→ Manage Attributes. Search and choose Attribute Code, such as &quot;SKU&quot;. Then change &quot;Use for Promo Rule Conditions&quot; to &quot;Yes&quot;
+
+<div>
 
 Remember to click on **Save** or **Save and Continue Edit** button to save your work. After saving, the Gift Card product which you have just created will be shown on **Manage Gift Products** page as below:
 
@@ -486,6 +492,7 @@ Besides viewing details and status of gift codes generated, you can export the l
 
 
 ### Manage Gift Codes
+<div id="p3">
 
 
 Our module enables you to manage gift codes with ease. Go to **Gift Card** menu → **Manage Gift Codes,** you will be navigated to **Gift Code Manager** page.
@@ -504,7 +511,7 @@ This page gives you a detailed list of all gift codes in your system, including 
 Besides, you can add new gift codes manually, import gift codes in bulk from CSV files and edit each gift code by clicking on Edit link at the end of each corresponding row.
 
 - If you want to create a new gift code manually, select Add Gift Code and finish the form as below:
-
+<div>
   - **General Information** tab:
 ![General Information tab](./Image_GiftcardM1/image124.png)
 
@@ -678,13 +685,13 @@ Support Magento Enterprise Edition
 ### Version 2.2 (updated on Jul 3rd 2012)
 Allow automatically generating invoice after placed order by using gift card code.
 ### Version 2.1 (updated on Dec 25th 2011)
-Compatible with OnestepCheckout extension.
+<a href="#p5">Compatible with OnestepCheckout extension</a>
 ### Version 2.0 (updated on Dec 8th 2011)
-Add Weigh attribute to Gift Cart product.
+<a href="#p2">Add Weight attribute to Gift Cart product</a>
 
-Add Importing feature: Admin can import gift card codes from a CSV file
+<a href="#p3">Add Importing feature: Admin can import gift card codes from a CSV file</a>
 
-- Add Printing feature: Admin can print the gift card codes, then send them to customers.
+<a href="#p4">Add Printing feature: Admin can print the gift card codes, then send them to customers</a>
 ### Version 1.2 (updated on Nov 9th 2011)
 ### Version 1.1 (updated on Sep 21th 2011)
 <a href="#p1">Add more configuration fields to change position of Gift Card Box on the checkout page</a>
