@@ -219,6 +219,7 @@ To configure default configurations and settings of the module, please log in to
 8 | Enable scheduling Gift card delivery | Yes | Allow Customers to set dates to send Gift Cards
 
  - **Shopping Cart Page &amp; Checkout page tabs:**
+ <div id="p1">
 
 ![Shopping Cart Page & Checkout page tabs](./Image_GiftcardM1/image054.png)
 
@@ -228,6 +229,7 @@ To configure default configurations and settings of the module, please log in to
 2 | Information displayed on shopping cart page | Gift Card value Gift Card template Recipient name | Show selected information of Gift Card on shopping cart page
 3 | Show Gift Card image as product image in shopping cart | Yes | Allow showing Gift Card printout preview as product image on shopping cart page
 4 |Show Gift Card box in the Payment section | Yes | Show Gift Card box for customers to apply gift codes right on the Payment Method section at checkout
+<div>
 
  - **Email Notification** tab: 
 
@@ -685,7 +687,7 @@ Add Importing feature: Admin can import gift card codes from a CSV file
 - Add Printing feature: Admin can print the gift card codes, then send them to customers.
 ### Version 1.2 (updated on Nov 9th 2011)
 ### Version 1.1 (updated on Sep 21th 2011)
-Add more configuration fields to change position of Gift Card Box on the checkout page.
+<a href="#p1">Add more configuration fields to change position of Gift Card Box on the checkout page</a>
 ### Version 1.0 (released on Aug 30th 2011)
 Release extension.
 
