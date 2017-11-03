@@ -647,7 +647,7 @@ In order to add a new spending rate, you can click on the **Add Rate** button an
 
 ---------------
 
-Confidential Information Notice 
+**_Confidential Information Notice_** 
 
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
