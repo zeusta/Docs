@@ -91,7 +91,7 @@ If Customers purchase Gift Card for themselves, the notification email that they
 ![notification email when Customers purchase Gift Card for themselves](./Image_GiftcardM1/image026.png)
 
 ###  Manage Gift Card/Credit 
-<div id="1">
+<div id="p1">
 
 After receiving a voucher code, Customers can check their voucher balance and credit by clicking on **Gift Card** tab on the navigator bar in “My account” section:
 
@@ -132,6 +132,7 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 ![View the detailed information of credit balance](./Image_GiftcardM1/image038.png)
 
   - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
+  
 <div>
   
 ###  Use Gift Card/Credit to Place an Order
@@ -679,7 +680,7 @@ Compatible with OnestepCheckout extension.
 ### Version 2.0 (updated on Dec 8th 2011)
 Add Weigh attribute to Gift Cart product.
 
-<a href="1">Add Importing feature: Admin can import gift card codes from a CSV file</a>
+<a href="#p1">Add Importing feature: Admin can import gift card codes from a CSV file</a>
 - Add Printing feature: Admin can print the gift card codes, then send them to customers.
 ### Version 1.2 (updated on Nov 9th 2011)
 ### Version 1.1 (updated on Sep 21th 2011)
