@@ -4,19 +4,18 @@
 
 (Magento [Gift Card](https://www.magestore.com/gift-card) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.)
 
-<div id="section1">.</div>
-
 -----------------------
 ## INTRODUCTION
 
 
 More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size- fits-all gift? With this module, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
+
+
 ![Gift Card for Magento ](./Image_GiftcardM1/image008.png)
 
 
 -------------
-<a href="#user-content-secion1">terminologies</a>
 ## Table of terminologies
 
 **No.**|**Terms**|**Explanation**
@@ -38,7 +37,7 @@ More and more Customers go online to find gifts for their friends and families, 
 
 This section demonstrates how Customers can use Gift Cards in frontend.
 
-### Order a Gift Card Product
+### Order a Gift Card Product 
 
 - Gift Card can be ordered as a normal product. Customers can enter or choose the value and quantity of Gift Card they want to order, then click on **Add to Cart** button.
 
@@ -90,8 +89,8 @@ If the Sender has ticked the checkbox **Get notification email when your friend 
 If Customers purchase Gift Card for themselves, the notification email that they receive is as below:
 
 ![notification email when Customers purchase Gift Card for themselves](./Image_GiftcardM1/image026.png)
-
-###  Manage Gift Card/Credit
+<div id="2">
+###  Manage Gift Card/Credit 
 
 After receiving a voucher code, Customers can check their voucher balance and credit by clicking on **Gift Card** tab on the navigator bar in “My account” section:
 
@@ -132,7 +131,7 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 ![View the detailed information of credit balance](./Image_GiftcardM1/image038.png)
 
   - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
-
+<div>
 ###  Use Gift Card/Credit to Place an Order
 
 When Customers have Gift Card codes or Gift Card credit balances, they can use them to get discount when ordering a product. There are two ways to use Gift Card code/credit balance:
@@ -676,8 +675,9 @@ Allow automatically generating invoice after placed order by using gift card cod
 ### Version 2.1 (updated on Dec 25th 2011)
 Compatible with OnestepCheckout extension.
 ### Version 2.0 (updated on Dec 8th 2011)
-- Add Weigh attribute to Gift Cart product.
-- Add Importing feature: Admin can import gift card codes from a CSV file.
+Add Weigh attribute to Gift Cart product.
+
+<a href="2">Add Importing feature: Admin can import gift card codes from a CSV file</a>
 - Add Printing feature: Admin can print the gift card codes, then send them to customers.
 ### Version 1.2 (updated on Nov 9th 2011)
 ### Version 1.1 (updated on Sep 21th 2011)
@@ -686,7 +686,7 @@ Add more configuration fields to change position of Gift Card Box on the checkou
 Release extension.
 
 -------------
-Confidential Information Notice 
+**_Confidential Information Notice _**
 
 Copyright 2017. 
 
