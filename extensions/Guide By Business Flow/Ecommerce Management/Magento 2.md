@@ -1430,7 +1430,7 @@ When Customers have Gift Card codes, they can use them as a discount coupon when
 
 **Note**: Gift Card codes cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin‟s settings.
 --------------------
-Confidential Information Notice 
+**_Confidential Information Notice_** 
 
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
