@@ -261,7 +261,7 @@ Like we said above right from the start of this section, Cashiers have the abili
 
 -------------------
 
-Confidential Information Notice 
+**_Confidential Information Notice_** 
 
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
