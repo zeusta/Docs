@@ -260,7 +260,7 @@ After selecting products or scanning barcode, you will be sent back to the **Tra
 ### Report & Advanced Features _(coming soon)_
 
 -----------
-Confidential Information Notice. 
+**_Confidential Information Notice_** 
 
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
