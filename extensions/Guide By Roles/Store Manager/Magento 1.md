@@ -10,7 +10,7 @@ This amazing function will be explained in details as below. Each position in yo
 
 With the latest upgraded version and its convenience and the amount of time saved, we hope that you would enjoy and feel exhilarated when experience this newest ones. 
 
-Power up yourself with our [Magento Store Manager solution](https://www.magestore.com/magento-store-manager) to keep your store running safe and sound with minimum effort.
+Power up yourself with our Omnichannel guide for [Store Manager](https://www.magestore.com/magento-store-manager) to keep your store running safe and sound with minimum effort.
 
 ----------
 ## Permission Metrix  ##
