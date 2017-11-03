@@ -58,6 +58,7 @@ Customers can also see the expiration date of the Gift Card on Gift Card image.
 Customers can also send Gift Cards to their friends by ticking **Send Gift Card to friend** checkbox and enter all the required fields:
 
 ![Send Gift Card to friend](./Image_GiftcardM1/image014.png)
+<div id="p6">
 
 - **Recipient name**: the name of the recipient
 - **Recipient email address**: the email address of the recipient. The system will send an email which contains a Gift Card code to this address.
@@ -67,6 +68,7 @@ Customers can also send Gift Cards to their friends by ticking **Send Gift Card 
 - If Customers want to get the notification email when their friend receives Gift Card,they need to tick the **Get notification email when your friend receives Gift Card**
 checkbox.
 - To preview how the Gift Card actually looks like when recipients receive, Customers can click on the Gift Card thumbnail image or the **Preview Gift Card** button. A popup of Gift Card interface will be shown as below:
+<div>
 
 ![Preview Gift Card](./Image_GiftcardM1/image016.png)
 
@@ -93,8 +95,8 @@ If Customers purchase Gift Card for themselves, the notification email that they
 ![notification email when Customers purchase Gift Card for themselves](./Image_GiftcardM1/image026.png)
 
 ###  Manage Gift Card/Credit 
-
-
+<div id="p7">
+ 
 After receiving a voucher code, Customers can check their voucher balance and credit by clicking on **Gift Card** tab on the navigator bar in “My account” section:
 
 ![My account section](./Image_GiftcardM1/image028.png)
@@ -134,7 +136,7 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 ![View the detailed information of credit balance](./Image_GiftcardM1/image038.png)
 
   - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
-  
+<div>
 
   
 ###  Use Gift Card/Credit to Place an Order
@@ -142,6 +144,7 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 When Customers have Gift Card codes or Gift Card credit balances, they can use them to get discount when ordering a product. There are two ways to use Gift Card code/credit balance:
 
 - On **Shopping Cart** page:
+<div id="p8">
 
 ![Shopping Cart page](./Image_GiftcardM1/image040.png)
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
@@ -161,7 +164,7 @@ After Customers click on **Apply Gift Card** button, the Grand Total will be upd
 Customers can choose to use Gift Card or Gift Card credit and enter the amount of money as on **Shopping Cart** page. Then click on **Add Gift Card** button to apply.
 
 **Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
-
+<div>
 -------------
 
 ## HOW TO CONFIGURE
@@ -446,11 +449,11 @@ Remember to click on **Save** or **Save and Continue Edit** button to save your 
 In order to edit any Gift product, you need to click on corresponding row or link **Edit**. Remember to click on **Save** or **Save and Continue Edit** button after editing to save your work.
 
 ### Generate Gift Codes
-
+<div id="p9>
 
 This function helps you to generate a wide range of synchronous Gift Card codes, then you can print and give them to your Customers.
 Go to **Gift Card** menu→ **Generate Gift Codes,** you will be navigated to **Gift Code Pattern Manager** page.
-
+<div>
 ![Gift Code Pattern Manager page](./Image_GiftcardM1/image106.png)
 
 To add a new template to generate gift codes, click on **Add Gift Code Pattern** button and configure information as below:
@@ -674,12 +677,17 @@ Support Soap API version 2
 ### Version 3.1 (updated on June 19th 2013)
 Support Magento Enterprise Edition
 ### Version 3.0 (updated on Jan 17th 2013)
-- Allow Customers to schedule Gift card Delivery date
-- Enable Customers to have Gift card credit balance
-- Add Gift card box in shopping cart page.
-- Modify payment form when checkout using Gift code
-- Able to generate a list of Gift codes in admin
-- Able to use Gift code to create order in admin
+<a href="#p6">Allow Customers to schedule Gift card Delivery date</a>
+
+<a href="#p7">Enable Customers to have Gift card credit balance</a>
+
+<a href="#p1">Add Gift card box in shopping cart page</a>
+
+<a href="#p8">Modify payment form when checkout using Gift code</a>
+
+<a href="#p9">Able to generate a list of Gift codes in admin</a>
+
+<a href="#p3">Able to use Gift code to create order in admin</a>
 - Add API's functions for Gift card
 ### Version 2.3 (updated on Sept 20rd 2012)
 ### Version 2.2 (updated on Jul 3rd 2012)
