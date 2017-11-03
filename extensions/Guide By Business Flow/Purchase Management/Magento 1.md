@@ -145,6 +145,12 @@ During the process of Confirm Purchase Order, you can complete the purchase orde
 
 You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you can still transfer received items into warehouses by clicking on **Transfer Items**
 ![CompletePO](PM1images/image041.png)
+-----------------------------
+**_Confidential Information Notice_** 
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 
 
