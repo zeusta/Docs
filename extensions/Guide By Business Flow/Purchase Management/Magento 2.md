@@ -298,11 +298,10 @@ After selecting products or scanning barcode, you will be sent back to the **Tra
 3&4) Select products and click button to **Return to Supplier**.
 
 -----------------------------
-Confidential Information Notice.
+**_Confidential Information Notice_** 
 
-Copyright 2017. 
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
-All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 
