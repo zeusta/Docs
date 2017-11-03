@@ -6,6 +6,7 @@
 
 -----------------------
 ## INTRODUCTION
+
 <div id="name">
 
 
@@ -40,7 +41,7 @@ More and more Customers go online to find gifts for their friends and families, 
 
 ##  HOW TO USE
 
-<a href="#name">This section demonstrates how Customers can use Gift Cards in frontend.</a>
+<a href="#name">This section demonstrates how Customers can use Gift Cards in frontend</a>
 
 ### Order a Gift Card Product 
 
