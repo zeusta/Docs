@@ -729,6 +729,7 @@ View customers’ order history
 Enable reload orders: add to cart items from an old order
 
 View sales report from Web POS screen
+
 ----------
 **_Confidential Information Notice_**
 
