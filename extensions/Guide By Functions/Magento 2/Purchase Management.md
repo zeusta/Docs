@@ -37,10 +37,13 @@ To add a new supplier to the system, you should go to **Purchase Management => M
 ![newsupplier](./purchaseimages/pm3.png)
 
 <div id="p1">
+	
 Choose **Save** to finish entering supplier information. Now you need to assign products to this supplier. After you click on **Save** button, your screen will appear as following:
 
 ![newsupplier](./purchaseimages/pm4.png)
+
 </div>
+
 There are two ways to assign products to the supplier: Add product manually and import products with a csv file. If you choose to upload products manually, remember to enter related information for each one: Supplier SKU, Cost and Tax. Otherwise, importing products in mass is recommended. A csv file sample is offered. In case you have a mistake on importing products, Delete Product button can help.
 
 
