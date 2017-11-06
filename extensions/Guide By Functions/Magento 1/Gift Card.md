@@ -44,7 +44,9 @@ This section demonstrates how Customers can use Gift Cards in frontend
 ![Customer can enter or choose the value and quantity of Gift Card](./Image_GiftcardM1/image010.png)
 
 - The price of Gift Card product may differ from Gift Card value. It depends on Admin’s configuration in backend, which could be a fixed value or a percentage of Gift Card value. If the price type is “percentage”, Customers will see the corresponding Gift Card prices when they choose different Gift Card values.
+
 <div id="p11">
+  
 - For better Gift Card appearance, after choosing a preferred template, Customers can select between 1 of provided images. It is possible for Customers to personalize their Gift Card by uploading their own image as well. The recommended size for image to upload is 250x365px. 3 file types are supported including .GIF, .JPG and .PNG.
 
   If Customers upload an image with an unsupported file type or the image is larger than the maximum file size configured by Admin, the system will auto-show an alert message to notify Customers. 
@@ -98,8 +100,7 @@ If Customers purchase Gift Card for themselves, the notification email that they
 
 ###  Manage Gift Card/Credit 
 
-<div id="p7">
- 
+ <div id="p7">
 After receiving a voucher code, Customers can check their voucher balance and credit by clicking on **Gift Card** tab on the navigator bar in “My account” section:
 
 ![My account section](./Image_GiftcardM1/image028.png)
@@ -137,9 +138,10 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
   - Customers are able to view the detailed information of their credit balance by clicking on **View detail** link. **Credit Detail** page is shown as below:
  
 ![View the detailed information of credit balance](./Image_GiftcardM1/image038.png)
-
-  - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
 </div>
+  - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
+  
+
 
   
 ###  Use Gift Card/Credit to Place an Order
@@ -150,6 +152,7 @@ When Customers have Gift Card codes or Gift Card credit balances, they can use t
 <div id="p8">
 
 ![Shopping Cart page](./Image_GiftcardM1/image040.png)
+
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
 
   - **Use Gift Card credit to checkout**: Customers need to enter an amount of money they want to use. After applying, this amount will be deducted from their Gift Car credit balance immediately.
@@ -173,7 +176,8 @@ Customers can choose to use Gift Card or Gift Card credit and enter the amount o
 ## HOW TO CONFIGURE
 
 **_Important Note_**: If you use a different theme from the default theme of Magento, you need to move template, skin and layout files into your theme folder:
-- app/design/frontend/base/default/....
+
+- app/design/frontend/base/default/....<br/>
 - skin/frontend/base/default/css/magestore/...
 
 ### Settings
@@ -301,16 +305,20 @@ There are 5 default Gift Card templates with 4 different design styles for you t
   - **Simple**: a template for any stores with simple &amp; clean design
   - **Amazon gift card style**: a template which is similar to Amazon gift card
  
-![Gift Card Left template](./Image_GiftcardM1/image066.png)
+ ![Gift Card Left template](./Image_GiftcardM1/image066.png)
+ 
 **_Left template_**
 
 ![Gift Card Top template](./Image_GiftcardM1/image068.png)
+
 **_Top template_**
 
 ![Gift Card Center template](./Image_GiftcardM1/image070.png)
+
 **_Center template_**
 
 ![Gift Card Simple template](./Image_GiftcardM1/image072.png)
+
 **_Simple template_**
 <div id="Amazon">
 ![Amazon Gift Card template](./Image_GiftcardM1/image074.png)
@@ -507,6 +515,7 @@ Besides viewing details and status of gift codes generated, you can export the l
 
 
 ### Manage Gift Codes
+
 <div id="p3">
 
 
@@ -524,9 +533,10 @@ This page gives you a detailed list of all gift codes in your system, including 
 ![Change status/send email/delete/print gift codes](./Image_GiftcardM1/image122.png)
 
 Besides, you can add new gift codes manually, import gift codes in bulk from CSV files and edit each gift code by clicking on Edit link at the end of each corresponding row.
+</div>
 
 - If you want to create a new gift code manually, select Add Gift Code and finish the form as below:
-</div>
+
   
   - **General Information** tab:
 ![General Information tab](./Image_GiftcardM1/image124.png)
@@ -580,9 +590,10 @@ To create and manage gift code sets, you go to **Gift Card** -&gt; **Manage Gift
 ![Download the sample CSV file](./Image_GiftcardM1/image136.png)
 
 - To edit gift code set: Click on the Gift Code Set you would like to edit. You can upload a new CSV file of gift code or edit each gift code’s information in the set.
+</div>
  
 ![Upload a new CSV file of gift code or edit each gift code’s information](./Image_GiftcardM1/image138.png)
-</div>
+
 
 ### Manage Gift Card Credit Balance
 
@@ -600,9 +611,9 @@ On this page, you can view current Gift Card credit balance and Balance History 
 In order to change Customers’ Gift Card balance, you need to enter the amount of money into **&quot;Change Balance&quot**; text field and click on **Save Customer** or **Save and Continue Edit** button.
 
 The balance will be updated and the change will be added to **Balance History** grid as below:
-
-![Balance History](./Image_GiftcardM1/image142.png)
 </div>
+![Balance History](./Image_GiftcardM1/image142.png)
+
 ### Create New Order
 
 
@@ -635,9 +646,9 @@ All actions related to Gift Card such as: **Create, Update, Mass Update, Spend o
 On Gift Card History page, you will know when Gift Cards were created/ updated/ redeemed/ spent/ refunded and by whom as well as their values and status.
 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience.
-
-![Filter data](./Image_GiftcardM1/image150.png)
 </div>
+![Filter data](./Image_GiftcardM1/image150.png)
+
 --------------
 ## Release Notes
 
