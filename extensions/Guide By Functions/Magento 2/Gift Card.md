@@ -1,4 +1,4 @@
-# **GIFT CARD - MAGENTO 2**
+# GIFT CARD - USER GUIDE FOR MAGENTO 2
 
 **Version 2.0.1**
 
@@ -334,7 +334,8 @@ No.|Field|Sample|Description
 
 - **Conditions** tab:
 
-<id ="p1">
+<div id ="p1">
+
 ![Conditions tab](./GC2%20Image/image074.jpg)
 In this tab, you can set special conditions applied to shopping carts when Customers use gift codes generated to check out.
 After setting up, click on **Save Pattern, Save and Continue Edit** or **Save And Generate** button, the template created will be shown in the **Gift Code Pattern Manager** grid as below:
