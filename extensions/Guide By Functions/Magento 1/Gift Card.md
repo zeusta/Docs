@@ -72,8 +72,9 @@ Customers can also send Gift Cards to their friends by ticking **Send Gift Card 
 checkbox.
 - To preview how the Gift Card actually looks like when recipients receive, Customers can click on the Gift Card thumbnail image or the **Preview Gift Card** button. A popup of Gift Card interface will be shown as below:
 </div>
-<div id="p5">
+
 ![Preview Gift Card](./Image_GiftcardM1/image016.png)
+<div id="p5">
 
 - After Customers add a Gift Card to cart and click on **Proceed to Checkout**, they will be directed to the following page:
 
@@ -148,9 +149,10 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 When Customers have Gift Card codes or Gift Card credit balances, they can use them to get discount when ordering a product. There are two ways to use Gift Card code/credit balance:
 
 - On **Shopping Cart** page:
-<div id="p8">
+
 
 ![Shopping Cart page](./Image_GiftcardM1/image040.png)
+<div id="p8">
 
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
 
@@ -184,11 +186,12 @@ Customers can choose to use Gift Card or Gift Card credit and enter the amount o
 To configure default configurations and settings of the module, please log in to **backend**, and then choose **Gift Card** tab under **Settings** menu. Administrators can change parameters as follows:
 
  - **General** tab :
- <div id="dedate">
+
 
 ![General tab](./Image_GiftcardM1/image046.png)
 
 ![General tab](./Image_GiftcardM1/image048.png)
+ <div id="dedate">
 
 **No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
@@ -213,11 +216,12 @@ To configure default configurations and settings of the module, please log in to
 
   - **Gift Card Product page tab:**
   
- <div id="creba">
+
   
 ![Gift Card Product page tab](./Image_GiftcardM1/image050.png)
 
 ![Gift Card Product page tab](./Image_GiftcardM1/image052.png)
+ <div id="creba">
 
 **No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
@@ -235,10 +239,10 @@ To configure default configurations and settings of the module, please log in to
 </div>
 
  - **Shopping Cart Page &amp; Checkout page tabs:**
- <div id="p1">
+
 
 ![Shopping Cart Page & Checkout page tabs](./Image_GiftcardM1/image054.png)
-
+ <div id="p1">
 **No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Show Gift Card box on shopping cart page | Yes | Enable a Gift Card box for customers to apply gift codes right on the shopping cart page.
@@ -249,11 +253,11 @@ To configure default configurations and settings of the module, please log in to
 
  - **Email Notification** tab: 
  
-<div id="p12">
+
 ![Email Notification tab](./Image_GiftcardM1/image056.png)
 
 ![Email Notification tab](./Image_GiftcardM1/image058.png)
- 
+ <div id="p12">
  **No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 **General**|
