@@ -1,12 +1,7 @@
-# PURCHASE MANAGEMENT - MAGENTO 1
+# PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 1
 
 **Version 1.0.1**
 
-Confidential Information Notice 
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 ----------
 
@@ -47,6 +42,7 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
 ![](PMimages/image007.png)
 
+<div id="p1">
 
 - **Product List**: This tab allows you to add and manage products of the supplier you are creating. You can assign products to your supplier by importing a CSV file.<br/>
    - Please click on the **Import products >>> Choose File button**, select a CSV file, then click on the Import button.<br/>
@@ -54,6 +50,7 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
 ![](PMimages/image009.png)
 
+</div>
 
 - **Pricelist**: This is a page where view all pricelist of the supplier. In this page, you also can export the pricelist to CSV/XML files by clicking on the Export button
 
@@ -189,7 +186,10 @@ In this step, there are 6 ways for you to prepare product list. (These 6 ways ar
 
 ![](PMimages/image037.png)
 
+<div id="p2">
+
 - **Import Products** via a CSV file (a sample file is provided);
+</div>
 
 - **Scan Barcode** to prepare product (if Barcode Management module is also installed);
 
@@ -348,3 +348,25 @@ This tab allows you to edit Tax & Default Shipping Cost for purchase orders.
 - Default Shipping Cost: If you enter a shipping amount here, all purchase orders will automatically use this shipping cost as default. If you want to set different shipping cost for different purchase orders, leave this field blank.
 - Apply Customer Tax: Set customer tax applied before or after discount.
 - Default Tax (%): Enter default tax for purchase order items
+----------------
+## Release Note
+
+### Version 1.1.0 (released on Sep 12, 2017)
+
+<a href="#p2">Allow to import CSV when delivery/receipt/transfer items in Purchase Order</a>
+
+### Version 1.0.1 (released on Jul 13, 2017)
+
+<a href="#p1">Allow to assign product to many suppliers in product edit page</a>
+
+### Version 1.0.0 (released on Mar 7, 2017)
+
+Release stable version of Purchase Management
+
+----
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
