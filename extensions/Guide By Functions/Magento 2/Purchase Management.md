@@ -474,6 +474,7 @@ After selecting products or scanning barcode, you will be sent back to the **Tra
 2) Click **Transfer Items** to continue transferring the rest of received products.
 
 3&4) Select products and click button to **Return to Supplier**.
+
 ----------
 ## Release Note
 
@@ -482,6 +483,7 @@ After selecting products or scanning barcode, you will be sent back to the **Tra
 ### Version 1.0.1 (released on Jul 19, 2017)
 
 <a href="#p1">Allow to assign product to suppliers when adding new product</a>
+
 ------------------------------
 **_Confidential Information Notice_**
 
