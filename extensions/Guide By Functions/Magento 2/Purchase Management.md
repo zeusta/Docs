@@ -6,17 +6,9 @@
 
 ## Introduction
 
-**Purchase Management** is a Magento 2 module, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order, Quotation and Suppliers are kept track and automatically updated in the system. The module is:
+**Purchase Management** is a Magento 2 module, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order, Quotation and Suppliers are kept track and automatically updated in the system. 
 
-•	Compatible with Magento CE 2.1.0, 2.1.1, 2.1.2
-
-•	Open source 100%
-
-•	License Certificate valid for 1 live Magento installation and unlimited test Magento installations (No license key required)
-
-•	Easy to install and configure
-
-•	User-friendly interface
+[Purchase Management](https://www.magestore.com/purchase-order-management) is a module in our [Omnichannel Solution](https://www.magestore.com/omnichannel-retail).
 
 
 ## How to manage suppliers
@@ -36,13 +28,12 @@ To add a new supplier to the system, you should go to **Purchase Management => M
 
 ![newsupplier](./purchaseimages/pm3.png)
 
-<div id="p1">
 	
 Choose **Save** to finish entering supplier information. Now you need to assign products to this supplier. After you click on **Save** button, your screen will appear as following:
 
 ![newsupplier](./purchaseimages/pm4.png)
 
-</div>
+
 
 There are two ways to assign products to the supplier: Add product manually and import products with a csv file. If you choose to upload products manually, remember to enter related information for each one: Supplier SKU, Cost and Tax. Otherwise, importing products in mass is recommended. A csv file sample is offered. In case you have a mistake on importing products, Delete Product button can help.
 
@@ -485,7 +476,7 @@ After selecting products or scanning barcode, you will be sent back to the **Tra
 
 ### Version 1.0.1 (released on Jul 19, 2017)
 
-<a href="#p1">Allow to assign product to suppliers when adding new product</a>
+Allow to assign product to suppliers when adding new product
 
 ------------------------------
 **_Confidential Information Notice_**
