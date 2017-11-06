@@ -68,7 +68,7 @@ Customers can also send Gift Cards to their friends by ticking **Send Gift Card 
 - If Customers want to get the notification email when their friend receives Gift Card,they need to tick the **Get notification email when your friend receives Gift Card**
 checkbox.
 - To preview how the Gift Card actually looks like when recipients receive, Customers can click on the Gift Card thumbnail image or the **Preview Gift Card** button. A popup of Gift Card interface will be shown as below:
-<div>
+</div>
 
 ![Preview Gift Card](./Image_GiftcardM1/image016.png)
 
@@ -84,7 +84,7 @@ checkbox.
 - Then Gift Cards products can be checked out as normal products. Customers will receive a Gift Card code if they buy for themselves. In case Customers purchase the Gift Card to send to their friends, the code will be delivered to their friends’ email with the following form:
 
 ![purchase the Gift Card to send to their friends](./Image_GiftcardM1/image022.png)
-<div>
+</div>
 
 If the Sender has ticked the checkbox **Get notification email when your friend receives Gift Card**, a notification will be sent to his email address immediately after the Gift Card is delivered to the friend’s email as below:
 
@@ -136,7 +136,7 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
 ![View the detailed information of credit balance](./Image_GiftcardM1/image038.png)
 
   - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
-<div>
+</div>
 
   
 ###  Use Gift Card/Credit to Place an Order
@@ -164,7 +164,7 @@ After Customers click on **Apply Gift Card** button, the Grand Total will be upd
 Customers can choose to use Gift Card or Gift Card credit and enter the amount of money as on **Shopping Cart** page. Then click on **Add Gift Card** button to apply.
 
 **Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
-<div>
+</div>
 -------------
 
 ## HOW TO CONFIGURE
@@ -234,7 +234,7 @@ To configure default configurations and settings of the module, please log in to
 2 | Information displayed on shopping cart page | Gift Card value Gift Card template Recipient name | Show selected information of Gift Card on shopping cart page
 3 | Show Gift Card image as product image in shopping cart | Yes | Allow showing Gift Card printout preview as product image on shopping cart page
 4 |Show Gift Card box in the Payment section | Yes | Show Gift Card box for customers to apply gift codes right on the Payment Method section at checkout
-<div>
+</div>
 
  - **Email Notification** tab: 
 
@@ -271,7 +271,8 @@ To configure default configurations and settings of the module, please log in to
 2 |Show barcode on Gift Card | Yes | Show barcode on Gift Cards when they are printed or sent via email.
 3| Type of Barcode | QR Code | Show QR code on Gift Cards when they are printed or sent via email.
 4 | Gift Card notes | Converting to cash is not allowed. | The notes shown on Gift Cards when theyare printed or sent via email.
-<div>
+</div>
+  
 ## Manage Gift Card Templates (Updated)
 
 After installing the module, you can start with Gift Card templates. This function helps you create unlimited templates for Gift Card with different titles, designs, images and notes. You can flexibly customize Gift Cards for different purposes, such as X-mas Gift Card or Birth Day Gift Card, offering Customers a wide range of choices.
@@ -423,15 +424,16 @@ The difference between a Gift Card product and a normal product is that a Gift C
 ![set up Gift Card usage conditions applied to each item in Customers’ shopping cart](./Image_GiftcardM1/image094.png)
 
 **_Note_**: Normally some common product attributes are enabled to use with promotion rules by default. If you don’t see the attribute you want when setting **Gift Card’s Conditions**, such as SKU, you can go to Catalog→ Attributes→ Manage Attributes. Search and choose Attribute Code, such as &quot;SKU&quot;. Then change &quot;Use for Promo Rule Conditions&quot; to &quot;Yes&quot;
+</div>
 
-<div>
+
 
 Remember to click on **Save** or **Save and Continue Edit** button to save your work. After saving, the Gift Card product which you have just created will be shown on **Manage Gift Products** page as below:
 
 ![Manage Gift Products page](./Image_GiftcardM1/image096.png)
 
 - Create Gift Card on **Manage Products** page:
-  - Go to Catalog menu → **Manage Products**   -
+  - Go to Catalog menu → **Manage Products**   
   - Click on **Add Product** button
   - Select **Product Type: Gift Card**
   
@@ -453,7 +455,7 @@ In order to edit any Gift product, you need to click on corresponding row or lin
 
 This function helps you to generate a wide range of synchronous Gift Card codes, then you can print and give them to your Customers.
 Go to **Gift Card** menu→ **Generate Gift Codes,** you will be navigated to **Gift Code Pattern Manager** page.
-<div>
+</div>
 ![Gift Code Pattern Manager page](./Image_GiftcardM1/image106.png)
 
 To add a new template to generate gift codes, click on **Add Gift Code Pattern** button and configure information as below:
@@ -506,7 +508,7 @@ Our module enables you to manage gift codes with ease. Go to **Gift Card** menu 
 
 This page gives you a detailed list of all gift codes in your system, including gift codes created from Gift Card orders in front-end and gift codes created/ generated in back-end. Each gift code is provided with essential information, such as the Initial Value, the Current Balance and gift code’s status, etc. To help save much time in managing, our module allows you to select multiple gift codes and apply the following action(s) in mass.
 
-  - Export the list of gift codes to CSV/XML files
+  - Export the list of gift codes to CSV/XML files<br/>
   - Change status/send email/delete/print gift codes. Please note that gift codes without recipient email address cannot be sent.
 
 ![Change status/send email/delete/print gift codes](./Image_GiftcardM1/image122.png)
@@ -514,7 +516,8 @@ This page gives you a detailed list of all gift codes in your system, including 
 Besides, you can add new gift codes manually, import gift codes in bulk from CSV files and edit each gift code by clicking on Edit link at the end of each corresponding row.
 
 - If you want to create a new gift code manually, select Add Gift Code and finish the form as below:
-<div>
+</div>
+  
   - **General Information** tab:
 ![General Information tab](./Image_GiftcardM1/image124.png)
 
