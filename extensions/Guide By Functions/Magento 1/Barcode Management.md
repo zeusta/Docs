@@ -107,7 +107,7 @@ In our inventory management modules, you need to use a Barcode scanner which is 
 ![product's barcode is displayed after scanned](./Image_Barcode/image014.png)
 
 -------
-Confidential Information Notice 
+**_Confidential Information Notice_**
 
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 
