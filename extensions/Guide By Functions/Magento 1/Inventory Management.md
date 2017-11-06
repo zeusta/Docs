@@ -2,9 +2,6 @@
 
 **Version 2.1.1**
 
-Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
--------------
 
 ## Introduction
 
@@ -14,7 +11,7 @@ Having trouble with managing hundreds of items that you sold every minute, from 
 * Reduce cost by low stock notifications and supply need forecast in time;
 * Avoid stock loss with convenient 5-step stock taking process.
 
------------
+Magento [Inventory Management](https://www.magestore.com/inventory-management) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ## Terminologies and principles
 
@@ -347,4 +344,52 @@ Each notification allows you to track the low stock products’ information such
 
 The Low Stock Notification will be sent to recipients’ email as well as be displayed on the Instock Management panel.
 
+-----
+## Release Note
 
+### Version 2.1.1 (released on Oct 5, 2017)
+
+
+Do not allow to delete primary warehouse
+
+Show list short fall items after completed stock transfer, allow to send back short fall item of delivery Warehouse
+
+Show list order items of qty-to-ship item
+
+Add product status filter into the product list (transfer stock, adjust stock, etc)
+
+Add status column into grid of request/send stock history
+
+### Version 2.1.0 (released on Jul 13, 2017)
+
+Check permission when create request & sending stocks
+
+Show stock movement in product edit page
+
+Integrate with Magmi
+
+### Version 2.0.1 (released on Jun 23, 2017)
+
+Update inventory database schema (add warehouse_id to order_item, shipment_item & creditmemo_item)
+
+Upgrade version to compatible with extension on Magento Marketplace
+
+### Version 1.1.0 (released on Mar 29, 2017)
+
+Release "force edit product qty" feature which allows to edit available qty of product in each Warehouse & global
+
+### Version 1.0.1 (released on Mar 25, 2017)
+
+Implement the export warehouse stocks feature
+
+Allow to assign multiple Magento store views to one Warehouse
+
+### Version 1.0.0 (released on Feb 13, 2017)
+
+Release stable rebuilt version of Inventory Management
+-----
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
