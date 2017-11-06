@@ -186,10 +186,10 @@ In this step, there are 6 ways for you to prepare product list. (These 6 ways ar
 
 ![](PMimages/image037.png)
 
-<div id="p2">
+
 
 - **Import Products** via a CSV file (a sample file is provided);
-</div>
+
 
 - **Scan Barcode** to prepare product (if Barcode Management module is also installed);
 
@@ -235,6 +235,8 @@ This tab displays all the PO’s information you have entered in the previous st
 
 ##### Received Item:
 
+<div id="p2">
+   
 This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management module, you can also enter the product’s barcode and update its delivery status.
 
 ![](PMimages/image045.png)
@@ -271,7 +273,7 @@ A **Transfer Items** window will appear. Enter the date of transferring; choose 
 - **Shipping and Payment**: views and edits shipping and payment information for the PO which you may have input in creating the PO.
 
 - **General Information**: displays the General Information that you input when creating the PO.
-
+</div>
 #### Complete Purchase Order
 
 During the process of **Confirm Purchase Order**, you can complete the purchase order any time by clicking the **Complete PO** button at the right of the page. You can also **Print, Send Email, Cancel or Save** the PO during the process.
