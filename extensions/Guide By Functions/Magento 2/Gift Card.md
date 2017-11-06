@@ -334,13 +334,10 @@ No.|Field|Sample|Description
 
 - **Conditions** tab:
 
-<div id ="p1">
-
 ![Conditions tab](./GC2%20Image/image074.jpg)
 In this tab, you can set special conditions applied to shopping carts when Customers use gift codes generated to check out.
 After setting up, click on **Save Pattern, Save and Continue Edit** or **Save And Generate** button, the template created will be shown in the **Gift Code Pattern Manager** grid as below:
 
-</div>
 
 ![Gift Code Pattern Manager grid](./GC2%20Image/image076.jpg)
 When you click on **Save And Generate** button, gift codes will be auto-generated. After that, **Gift Codes Information** page will show a new tab as below:<br/>
@@ -444,7 +441,7 @@ Update translation file
 ### Version 1.0.4 (released on Mar 10, 2017)
 
 ### Version 1.0.3 (released on May, 2016)
-<a href="#p1">Temporary suspend feature: Limit Gift Card usage using Shopping Cart Conditions and/or Cart Item Conditions</a>
+Temporary suspend feature: Limit Gift Card usage using Shopping Cart Conditions and/or Cart Item Conditions
 ### Version 1.0 (released on Jan 20th, 2016)
 
 Release the stable version for Magento 2.0
