@@ -50,6 +50,7 @@ This section demonstrates how Customers can use Gift Cards in frontend
 - For better Gift Card appearance, after choosing a preferred template, Customers can select between 1 of provided images. It is possible for Customers to personalize their Gift Card by uploading their own image as well. The recommended size for image to upload is 250x365px. 3 file types are supported including .GIF, .JPG and .PNG.
 
   If Customers upload an image with an unsupported file type or the image is larger than the maximum file size configured by Admin, the system will auto-show an alert message to notify Customers. 
+  
   </div>
   
 Customers can also see the expiration date of the Gift Card on Gift Card image.
@@ -61,6 +62,7 @@ Customers can also see the expiration date of the Gift Card on Gift Card image.
 Customers can also send Gift Cards to their friends by ticking **Send Gift Card to friend** checkbox and enter all the required fields:
 
 ![Send Gift Card to friend](./Image_GiftcardM1/image014.png)
+
 <div id="p6">
 
 - **Recipient name**: the name of the recipient
@@ -74,8 +76,9 @@ checkbox.
 </div>
 
 ![Preview Gift Card](./Image_GiftcardM1/image016.png)
-<div id="p5">
 
+<div id="p5">
+  
 - After Customers add a Gift Card to cart and click on **Proceed to Checkout**, they will be directed to the following page:
 
     - *When Customers send the Gift Card to their friend*
@@ -87,6 +90,7 @@ checkbox.
 - Then Gift Cards products can be checked out as normal products. Customers will receive a Gift Card code if they buy for themselves. In case Customers purchase the Gift Card to send to their friends, the code will be delivered to their friends’ email with the following form:
 
 ![purchase the Gift Card to send to their friends](./Image_GiftcardM1/image022.png)
+
 </div>
 
 If the Sender has ticked the checkbox **Get notification email when your friend receives Gift Card**, a notification will be sent to his email address immediately after the Gift Card is delivered to the friend’s email as below:
@@ -101,6 +105,7 @@ If Customers purchase Gift Card for themselves, the notification email that they
 ###  Manage Gift Card/Credit 
 
  <div id="p7">
+  
 After receiving a voucher code, Customers can check their voucher balance and credit by clicking on **Gift Card** tab on the navigator bar in “My account” section:
 
 ![My account section](./Image_GiftcardM1/image028.png)
@@ -138,7 +143,9 @@ After entering the code, Customers need to click on &quot;Redeem Gift Card&quot;
   - Customers are able to view the detailed information of their credit balance by clicking on **View detail** link. **Credit Detail** page is shown as below:
  
 ![View the detailed information of credit balance](./Image_GiftcardM1/image038.png)
+
 </div>
+
   - This page shows their current balance and their **Balance history** (Action, Balance Change, Gift Card code, Order, Balance, and Date).
   
 
@@ -152,6 +159,7 @@ When Customers have Gift Card codes or Gift Card credit balances, they can use t
 
 
 ![Shopping Cart page](./Image_GiftcardM1/image040.png)
+
 <div id="p8">
 
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
@@ -171,6 +179,7 @@ After Customers click on **Apply Gift Card** button, the Grand Total will be upd
 Customers can choose to use Gift Card or Gift Card credit and enter the amount of money as on **Shopping Cart** page. Then click on **Add Gift Card** button to apply.
 
 **Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
+
 </div>
 
 
@@ -191,6 +200,7 @@ To configure default configurations and settings of the module, please log in to
 ![General tab](./Image_GiftcardM1/image046.png)
 
 ![General tab](./Image_GiftcardM1/image048.png)
+
  <div id="dedate">
 
 **No.** | **Field** | **Sample** | **Description**
@@ -212,6 +222,7 @@ To configure default configurations and settings of the module, please log in to
 12 | Show Gift Card expiry date on website | Yes | Allow showing the expiration date of the Gift Card on frontend
 **Tax Configuration**|
 13 | Apply Gift Card discount | Before Tax | Apply Gift Card discount to Customers’ order value (tax excluded).
+
 </div>
 
   - **Gift Card Product page tab:**
@@ -221,6 +232,7 @@ To configure default configurations and settings of the module, please log in to
 ![Gift Card Product page tab](./Image_GiftcardM1/image050.png)
 
 ![Gift Card Product page tab](./Image_GiftcardM1/image052.png)
+
  <div id="creba">
 
 **No.** | **Field** | **Sample** | **Description**
@@ -236,28 +248,34 @@ To configure default configurations and settings of the module, please log in to
 6 | Minimum days for store owner to send Gift Card through post office | Yes | After Customers order Gift Cards for friends and choose **Send through post office** option, Gift Cards will be sent to recipients within 5 days.
 7 | Message max length | 240 | Customers can write a custom message within 240 letters
 8 | Enable scheduling Gift card delivery | Yes | Allow Customers to set dates to send Gift Cards
+
 </div>
 
  - **Shopping Cart Page &amp; Checkout page tabs:**
 
 
 ![Shopping Cart Page & Checkout page tabs](./Image_GiftcardM1/image054.png)
+
  <div id="p1">
+  
 **No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 1 | Show Gift Card box on shopping cart page | Yes | Enable a Gift Card box for customers to apply gift codes right on the shopping cart page.
 2 | Information displayed on shopping cart page | Gift Card value Gift Card template Recipient name | Show selected information of Gift Card on shopping cart page
 3 | Show Gift Card image as product image in shopping cart | Yes | Allow showing Gift Card printout preview as product image on shopping cart page
 4 |Show Gift Card box in the Payment section | Yes | Show Gift Card box for customers to apply gift codes right on the Payment Method section at checkout
+
 </div>
 
- - **Email Notification** tab: 
+- **Email Notification** tab: 
  
 
 ![Email Notification tab](./Image_GiftcardM1/image056.png)
 
 ![Email Notification tab](./Image_GiftcardM1/image058.png)
+
  <div id="p12">
+  
  **No.** | **Field** | **Sample** | **Description**
 --- | --- | --- | ---
 **General**|
@@ -275,9 +293,11 @@ To configure default configurations and settings of the module, please log in to
 11 | Send-to- recipient email template when Gift Card is refunded |  | Choose the email template sent to recipient when Gift Card is refunded.
 12 |Auto-send reminder email before Gift Card expires | Yes | Enable auto reminder email sent to Customers before Gift card expires
 13 | Send-to- recipient email template when Gift Card is refunded | 5 | The number of days to send notification toCustomers before the expiration date of a Gift card
+
 </div>
 
  - **Gift Card Printout** tab:
+ 
  <div id="p4">
  
 ![Gift Card Printout tab](./Image_GiftcardM1/image060.png)
@@ -697,14 +717,9 @@ You can filter data with the above criteria to get more accurate reports. Inform
 
 <a href="#Amz">A new gift card template (similar to Amazon Gift Card)</a>
 
-A new type of print: Fold Paper<br/>
-
-Remove attached PDF<br/>
-
 <a href="#new">Update new free templates</a>
 ### Version 4.5 (Released on Jan 18, 2016)
 ### Version 4.4 (Released on Oct 26, 2015)
-Perfectly compatible with latest security patch SUPEE-6788<br/>
 
 <a href="#Amz">A brand-new template is added with clean design (looks like Amazon Gift Card)</a>
 
@@ -724,9 +739,6 @@ Allow admin to set permission for Gift Card tab management in backend
 
 <a href="#dedate">Allow customers to use gift codes, Gift Card credit with coupon codes or not</a>
 
-Be compatible with other One Step Checkout modules<br/>
-
-Remove HTML and JS tags in input boxes
 ### Version 4.2 EE (Released on Oct 28, 2014)
 Support Magento Enterprise v1.9 - 1.14
 ### Version 4.2 CE (Released on Sep 26, 2014)
@@ -735,8 +747,6 @@ Optimize design of Gift Card templates<br/>
 Support Magento Community v1.4 - 1.9
 ### Version 4.1 (Released on Aug 25, 2014)
 Responsive and Compatible with Magento Community 1.9<br/>
-
-Compatible with Magestore One Step Checkout 3.2<br/>
 
 <a href="#p1">Admin can enable/disable Gift Card on Checkout page</a>
 ### Version 4.0 (updated on Feb 18th, 2014)
@@ -758,7 +768,6 @@ Allow adding Gift Card product with recipient information when creating order in
 
 <a href="#dedate">Allow using Gift Card discount after or before tax</a><br/>
 
-Be compatible with Reward Points and Web POS extensions.
 ### Version 3.3 (updated on Sep 20th, 2013)
 Support Soap API version 2
 ### Version 3.2 (updated on June 27th 2013)
@@ -787,7 +796,6 @@ Add API's functions for Gift card
 ### Version 2.2 (updated on Jul 3rd 2012)
 Allow automatically generating invoice after placed order by using gift card code.
 ### Version 2.1 (updated on Dec 25th 2011)
-<a href="#p5">Compatible with OnestepCheckout extension</a>
 ### Version 2.0 (updated on Dec 8th 2011)
 <a href="#p2">Add Weight attribute to Gift Cart product</a>
 
