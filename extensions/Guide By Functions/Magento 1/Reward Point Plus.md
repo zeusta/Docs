@@ -1,14 +1,8 @@
-# REWARD POINT PLUS - MAGENTO 1
+# REWARD POINT PLUS - USER GUIDE FOR MAGENTO 1
 
-**Version 2.5**
+**Version 2.5.1**
 
-Confidential Information Notice. 
-
-Copyright 2017. All Rights Reserved.
-
-Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
---------------------------
+-------------------------
 ## Introduction
 
 
@@ -186,11 +180,14 @@ There are two ways to change point balances of customers.
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image028.png?raw=true)
 
+ 
  - Another way is that you can change point for many customers at the same time by importing points from csv file. Go to **Reward Points > Manage Point Balances**. On this page, the list of customers will be shown with **Point Balance** column. 
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image029.png?raw=true)
 
 Next step, you need to click on **Import Points** button, the Import Points page will be shown so that you can import file from your computer. Please download the sample file, edit customers’ information then import it. After being imported successfully, the Point Balance of customers will be updated.
+
+
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image030.png?raw=true)
 
@@ -281,6 +278,8 @@ Then you will see 5 tabs to configure: **General Configuration, Earning Configur
 |2|On Product Page|Yes|Yes|The points collected will be shown on Product page|
 |3|On Minicart|Yes|The points collected will be shown on Minicart|
 
+
+
  - **Email Configuration**
  
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image041.png?raw=true)
@@ -294,3 +293,32 @@ Then you will see 5 tabs to configure: **General Configuration, Earning Configur
 |5|Send reminder email before a transaction expires|7|Notification email will be automatically sent to remind Customers 7 days before the transaction expires.|
 
 Remember to click on **Save** or **Save and Continue Edit** button to save your configuration. 
+--------------------
+## Release Notes
+### Version 2.5.1 (released on Jul 29, 2017)
+
+Auto calculate earning points based on option price (product view page)
+
+Insert reward field to soap api v2
+
+### Version 2.5 (updated on Sept 24, 2015)
+
+Add point import/export function to Standard Edition (Hot)
+ 
+Allow customers to set coupon code & url by themselves (Refer Friend plugin) (Hot)
+
+Set specific products to be purchased by points only (Rule plugin) (Hot)
+
+Reward customers for their sharing on Pinterest (Behavior plugin) (Hot)
+
+Allow showing earning rules on Shopping Cart page (Rule plugin)
+
+Allow customers to auto join different loyalty groups (Loyalty Level plugin)
+
+Optimize backend configuration for quick & easy-to-understand settings
+----------------------------
+**_Confidential Information Notice_**
+
+**_Copyright 2017. All Rights Reserved_**
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
