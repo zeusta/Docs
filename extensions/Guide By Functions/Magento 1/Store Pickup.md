@@ -335,6 +335,109 @@ The configuration is divided into 4 groups including **General**, **Store List**
 
 You can modify default email template sent to store manager and admin when pickup order is created, changed status or customers send message through the **Contact Form**.
 After configuring all fields, click on the **Save Config** button to save your work
+-----------
+## Release Note
+
+###  Version 4.3 (Updated on Aug 2016)
+
+### Version 4.1 (Updated on 8 July 2015)
+
+Updated responsive interface (Hot)
+
+Allow adding shipping fee for each store
+
+Allow adding lunch break time for each store
+
+Allow adding store tags
+
+Allow uploading preferred image for store pin icon shown on Google Map
+
+### Version 4.0 (upgraded on Apr 29th 2014)
+
+Allow setting special days with special working time for selected stores
+
+Allow setting holidays as a period of time
+
+Allow setting holidays for multiple stores at once
+
+Allow adding Date and Time to CSV files when importing stores
+
+Allow applying Monday time schedule to other days when creating/ editing stores
+
+Allow calculating distance by miles or kilometers
+
+Customize store’s pin color on Google Map
+
+Rewrite stores’ URLs instead of using store ID to make them more friendly
+
+Optimize configurations in backend
+
+Redesign the View Store section at checkout and the Store Listing page
+
+Sort stores in selector by distance at checkout
+
+Allow Customers to choose pickup time only after choosing a store and a pickup date
+
+Disable store’s days off on calendar
+
+Show pickup date and time in Shipping Method review (right column on checkout page)
+
+### Version 3.9 (upgraded on Jul 16th 2013)
+
+### Version 3.8 (upgraded on May 21th 2013)
+
+Work with the new version of Google Maps API.
+
+### Version 3.7 (upgraded on April 18th 2013)
+
+### Version 3.6 (upgraded on Feb 18th 2013)
+
+### Version 3.5 (upgraded on Dec 17th 2012)
+
+Add multi-store features.
+
+### Version 3.4 (upgraded on Oct 12th 2012)
+
+Improve speed of loading and calculating store distance.
+
+Add feature of paging for all store views page.
+
+### Version 3.3 (upgraded on Oct 1st 2012)
+
+
+Add function of sending email to store owner when order status is changed.
+
+Allow admin to choose default store when customer checks out by store pickup
+
+### Version 3.2 (upgraded on Aug 23th 2012)
+
+Allow administrator to add image(s) to all store showrooms.
+
+Enable customers to contact both store owner and admin via email.
+
+### Version 3.1 (upgraded on Jul 2nd 2012)
+
+### Version 3.0 (upgraded on Apr 16th 2012)
+
+Allow creating order that uses store pickup method in back-end.
+
+### Version 2.3 (upgraded on Mar 24th 2012)
+
+Work with new version of Google Map (API v3).
+
+### Version 2.2 (upgraded on Nov 21th 2011)
+
+### Version 2.1 (upgraded on Oct 27th 2011)
+
+Optimize the speed of loading stores in checkout page.
+
+### Version 2.0 (upgraded on Apr 7th 2011)
+
+Show Google map on the store list page. Customers can view all searched stores on the map.
+Show Google map on the checkout page. Customers can select shipped store by clicking store on the map.
+
+### Version 1.4 (upgraded Feb 25th 2011)
+
 ------
 **_Confidential Information Notice_**
 
