@@ -3,12 +3,7 @@
 
 **Version 1.2.0**
 
-
-*Confidential Information Notice*
-*Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
-
-
+------------
 ## Introduction
 
 
@@ -134,3 +129,10 @@ In Inventory Management module, you need to use a Barcode scanner which is able 
   Scanning can be applied at step 2: Prepare product before Stock take. From this step, there is an option to import products and sample files are provided. You can use a barcode scanner to scan product with Qty. into an excel/csv file. Then upload the file with Qty. counted by barcode scanner into the system to update Stock take Qty. About detailed steps of Physical Stock taking, please refer to Inventory Management user guide.
 
 ![Stock-taking](./barcode-images/bm13.png)
+---------------
+
+**_Confidential Information Notice_**
+
+Copyright2016
+
+All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
