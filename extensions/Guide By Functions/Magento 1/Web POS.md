@@ -666,6 +666,69 @@ The Z-report will be refreshed to serve new shift/working day after you select C
 
 
 We hope that this manual is useful to help you master Magestore Web POS for Magento. If you have any concern, feel free to _send us your questions_, we would be glad to assist you. Enjoy making sales 10x times faster!
+---------------
+## Release Note 
+### Version 3.1.0 (released on Oct 5th, 2017)
+
+### Version 3.0.5 (released on Jun 20th, 2017)
+Integrate with Pay.nl payment
+
+Allow to sync orders from Webpos by manual
+
+Add more labels to translation file
+
+### Version 3.0.4 (updated on May 23th, 2017)
+Integrate with Magestore PDF Invoice extension
+
+Save payment method code to Order when do not use split payment
+
+Provide more custom shipping method
+
+### Version 3.0.3 (updated on Apr 28th, 2017)
+Hide Reward point, gift card discount field when checkout without using point or gift card
+
+Always show view product information icon in tablet
+
+Reload order list & order detail after finished an action (cancel, ship, refund, invoice & take payment)
+
+Integration with module Aitoc_Aitoptionstemplate
+
+Display order creation date by timezone of current Store view
+
+### Version 3.0.2 (updated on Apr 13th, 2017)
+
+Add missing translation labels in .html file
+
+### Version 3.0.1 (updated on Mar 20th, 2017)
+
+Do not show disabled categories in Webpos
+
+Optimize product image size in Webpos
+
+### Version 3.0.0 (updated on January 23, 2017)
+Save & store data in IndexedDB browser
+
+Being updated with new design & interface
+
+Quick view product description
+
+Support partial payment - pay part of the order value & pay the due amount later
+
+Enable partial shipment - ship in 1, 2 or more consignments
+
+Being compatible with customer pole display (Hot)
+
+Show sales reports by staff, sales location or by payment method
+
+### Version 2.3.2 (updated on April 22, 2016)
+
+New API key to connect with Retailer POS app for iOS
+
+View customers’ order history
+
+Enable reload orders: add to cart items from an old order
+
+View sales report from Web POS screen
 ----------
 **_Confidential Information Notice_**
 
