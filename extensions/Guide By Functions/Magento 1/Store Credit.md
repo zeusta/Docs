@@ -369,6 +369,36 @@ Go to **Store Credit > Settings**
 
 This is the end of Store Credit User Guide. We hope this manual is helpful for you to use the function effectively. If you have any question, please contact us at support@magestore.com , we would be glad to assist you!
 -------
+## Release Note
+
+### Version 2.0 (updated on June 2, 2015)
+Enhance user experience by allowing customers to buy/choose the value of credits instead of price as in previous version.
+
+Easily send credits to friends right on Store Credit Product Detail page.
+
+Allow adding Store Credit product to cart when admin creates order in backend.
+
+## Version 1.5 (updated on March 20 2015)
+
+Allow cancelling to use credit on Shopping Cart page and Checkout page.
+
+Auto send email when admin add/subtract customers' credit value.
+
+Allow configuring Title color & background on My Credit page.
+
+### Version 1.1 (updated on August 1st 2014)
+
+Allow calculating customer credit for each item in an order.
+
+Allow using customer credit before or after tax.
+
+Separate value and price of credit products: allow product discount by store credit.
+
+
+### Version 1.0 (Sept 24th 2013)
+
+Release stable version.
+---------------
 **_Confidential Information Notice_**
 
 Copyright 2016. All Rights Reserved.
