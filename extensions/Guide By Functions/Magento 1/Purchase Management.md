@@ -42,7 +42,6 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
 ![](PMimages/image007.png)
 
-<div id="p1">
 
 - **Product List**: This tab allows you to add and manage products of the supplier you are creating. You can assign products to your supplier by importing a CSV file.<br/>
    - Please click on the **Import products >>> Choose File button**, select a CSV file, then click on the Import button.<br/>
@@ -50,7 +49,7 @@ To add a new supplier, click to the **Add Supplie**r button on the top-right cor
 
 ![](PMimages/image009.png)
 
-</div>
+
 
 - **Pricelist**: This is a page where view all pricelist of the supplier. In this page, you also can export the pricelist to CSV/XML files by clicking on the Export button
 
@@ -235,8 +234,7 @@ This tab displays all the PO’s information you have entered in the previous st
 
 ##### Received Item:
 
-<div id="p2">
-   
+
 This tab updates how many of each product in the PO you have received. You can mark all items as received, or manually do that for some products. If you have installed the Barcode Management module, you can also enter the product’s barcode and update its delivery status.
 
 ![](PMimages/image045.png)
@@ -273,7 +271,7 @@ A **Transfer Items** window will appear. Enter the date of transferring; choose 
 - **Shipping and Payment**: views and edits shipping and payment information for the PO which you may have input in creating the PO.
 
 - **General Information**: displays the General Information that you input when creating the PO.
-</div>
+
 #### Complete Purchase Order
 
 During the process of **Confirm Purchase Order**, you can complete the purchase order any time by clicking the **Complete PO** button at the right of the page. You can also **Print, Send Email, Cancel or Save** the PO during the process.
@@ -355,11 +353,11 @@ This tab allows you to edit Tax & Default Shipping Cost for purchase orders.
 
 ### Version 1.1.0 (released on Sep 12, 2017)
 
-<a href="#p2">Allow to import CSV when delivery/receipt/transfer items in Purchase Order</a>
+Allow to import CSV when delivery/receipt/transfer items in Purchase Order
 
 ### Version 1.0.1 (released on Jul 13, 2017)
 
-<a href="#p1">Allow to assign product to many suppliers in product edit page</a>
+Allow to assign product to many suppliers in product edit page
 
 ### Version 1.0.0 (released on Mar 7, 2017)
 
