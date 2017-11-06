@@ -105,7 +105,7 @@ If Customers purchase Gift Card for themselves, the notification email that they
 ###  Manage Gift Card/Credit 
 
  <div id="p7">
-  
+
 After receiving a voucher code, Customers can check their voucher balance and credit by clicking on **Gift Card** tab on the navigator bar in “My account” section:
 
 ![My account section](./Image_GiftcardM1/image028.png)
@@ -160,7 +160,7 @@ When Customers have Gift Card codes or Gift Card credit balances, they can use t
 
 ![Shopping Cart page](./Image_GiftcardM1/image040.png)
 
-
+<span id="p8">
 
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
 
@@ -177,6 +177,8 @@ After Customers click on **Apply Gift Card** button, the Grand Total will be upd
 ![Checkout page](./Image_GiftcardM1/image044.png)
 
 Customers can choose to use Gift Card or Gift Card credit and enter the amount of money as on **Shopping Cart** page. Then click on **Add Gift Card** button to apply.
+
+</span>
 
 **Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
 
