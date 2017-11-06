@@ -2,17 +2,13 @@
 
 **Version 1.0**
 
-Confidential Information Notice
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
 ----------------------
 ## Introduction
 
 
 Magestore Inventory Report module for Magento provides you with a detailed overview of your sales, stock, warehouse, suppliers. You get access to 11 types of report which are divided into 2 categories of **Sales** and **Inventory report**. They help you easily keep track your inventory system as well as your business performance.
+
+Magento [Inventory Report](https://www.magestore.com/inventory-sales-report) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 **Note**: Magestore Inventory Management module is required to make Inventory Report module work properly.
 
@@ -289,9 +285,11 @@ No.|	Metrics |		Sign|	Equation|	Explain|
 8| Overdue Incoming Stock| Overdue Incoming Stock|qty_ordered - qty_refund - qty_tranfer|Quantity of stock in overdue Purchase Orders that have not been transferred to warehouse (the current date has passed the expected due date on Purchase Order)
 9|	Total cost of incoming stock| Total cost of incoming stock| (qty_ordered - qty_refund - qty_tranfer) x cost| Total cost
 
+-------
+**_Confidential Information Notice_**
 
-		
-				
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
 
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 
