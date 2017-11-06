@@ -2,16 +2,12 @@
 
 **Version 3.0.5**
 
-Confidential Information Notice
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
 ---------------
 ## INTRODUCTION
 
 Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s **Magento POS** integration module, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you will be fascinated by its convenience and the amount of time saved.
+
+Magento [Web-based Point-of-Sale](https://www.magestore.com/webpos) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ---------------
 
@@ -670,3 +666,9 @@ The Z-report will be refreshed to serve new shift/working day after you select C
 
 
 We hope that this manual is useful to help you master Magestore Web POS for Magento. If you have any concern, feel free to _send us your questions_, we would be glad to assist you. Enjoy making sales 10x times faster!
+----------
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
