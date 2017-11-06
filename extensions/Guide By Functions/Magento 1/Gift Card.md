@@ -160,7 +160,7 @@ When Customers have Gift Card codes or Gift Card credit balances, they can use t
 
 ![Shopping Cart page](./Image_GiftcardM1/image040.png)
 
-<span id="p8">
+<div id="p8">
 
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
 
@@ -178,7 +178,7 @@ After Customers click on **Apply Gift Card** button, the Grand Total will be upd
 
 Customers can choose to use Gift Card or Gift Card credit and enter the amount of money as on **Shopping Cart** page. Then click on **Add Gift Card** button to apply.
 
-</span>
+</div>
 
 **Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
 
@@ -519,7 +519,7 @@ In order to edit any Gift product, you need to click on corresponding row or lin
 
 ### Generate Gift Codes
 
-<div id="p9>
+<div id="p9">
 
 This function helps you to generate a wide range of synchronous Gift Card codes, then you can print and give them to your Customers.
 Go to **Gift Card** menu→ **Generate Gift Codes,** you will be navigated to **Gift Code Pattern Manager** page.
