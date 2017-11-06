@@ -1,12 +1,8 @@
 # **GIFT CARD - MAGENTO 2**
 
-
 **Version 2.0.1**
 
 
-*Confidential Information Notice
-Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 **Table of Terminologies**
 
@@ -338,9 +334,12 @@ No.|Field|Sample|Description
 
 - **Conditions** tab:
 
+<id ="p1">
 ![Conditions tab](./GC2%20Image/image074.jpg)
 In this tab, you can set special conditions applied to shopping carts when Customers use gift codes generated to check out.
 After setting up, click on **Save Pattern, Save and Continue Edit** or **Save And Generate** button, the template created will be shown in the **Gift Code Pattern Manager** grid as below:
+
+</div>
 
 ![Gift Code Pattern Manager grid](./GC2%20Image/image076.jpg)
 When you click on **Save And Generate** button, gift codes will be auto-generated. After that, **Gift Codes Information** page will show a new tab as below:<br/>
@@ -425,3 +424,34 @@ On Gift Card History page, you will know when Gift Cards were created/ updated/ 
 You can filter data with the above criteria to get more accurate reports. Information can be exported to .CSV or .XML files for your convenience.
 
 ![Export Gift Card History](./GC2%20Image/image106.jpg)
+---------------
+## Release Note
+
+### Version 2.1.0 (released on Oct 10, 2017)
+
+### Version 2.0.1 (released on July 31, 2017)
+
+#### Version 2.0.0 (released on July 17, 2017)
+Using UI component in gift card management in backend
+
+Improve UI/UX in backend of Gift card management
+
+Storing gift card template in one .html file. Easy to edit/ write new gift card print-out template
+
+### Version 1.0.5 (released on Mar 31, 2017)
+Update translation file
+### Version 1.0.4 (released on Mar 10, 2017)
+
+### Version 1.0.3 (released on May, 2016)
+<a href="#p1">Temporary suspend feature: Limit Gift Card usage using Shopping Cart Conditions and/or Cart Item Conditions</a>
+### Version 1.0 (released on Jan 20th, 2016)
+
+Release the stable version for Magento 2.0
+------
+**_Confidential Information Notice_**
+
+Copyright2016. 
+
+All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
