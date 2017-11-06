@@ -1,19 +1,12 @@
-# STORE CREDIT - MAGENTO 1
+# STORE CREDIT - USER GUIDE FOR MAGENTO 1
 
 **Version 2.0**
-
-
-Confidential Information Notice. 
-
-Copyright 2016. All Rights Reserved.
-
-Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 ## INTRODUCTION
 
 How to engage your Customers more in one’s business is a regular question in store-owners’ minds! With Magento Store Credit module, you can enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. After that, Customers can use the credit to make purchases on your store or even share with their friends. Also with our Magento Store Credit module, credit can be used as a convenient and time-saving payment method when it just requires your Customers to recharge their credit accounts one time and then use for many future purchases.
+
+Magento [Store Credit](https://www.magestore.com/store-credit) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ![enter image description here](./image_Store%20Credit%20M1/image001.png?raw=true)
 
@@ -375,3 +368,11 @@ Go to **Store Credit > Settings**
 ![enter image description here](./image_Store%20Credit%20M1/image056.png?raw=true)
 
 This is the end of Store Credit User Guide. We hope this manual is helpful for you to use the function effectively. If you have any question, please contact us at support@magestore.com , we would be glad to assist you!
+-------
+**_Confidential Information Notice_**
+
+Copyright 2016. All Rights Reserved.
+
+Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
