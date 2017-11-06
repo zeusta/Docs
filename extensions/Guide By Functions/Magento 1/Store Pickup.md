@@ -1,19 +1,14 @@
-**STORE PICKUP - MAGENTO 1**
-----------
+# STORE PICKUP - USER GUIDE FOR MAGENTO 1
 
 **Version 4.3**
-
-Confidential Information Notice 
-
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
-
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 ## INTRODUCTION
 ----------
 
 
 According to ComScore, 61% of shoppers would rather use free in-store pickup than pay for shipping. Thus, 72% of retailers start allowing Customers to purchase online before coming to a store and receive purchased products. If there is a chain of stores available, undoubtedly Customers will choose the nearest one as well as an appropriate time to arrive. How can the store-owner make that happen? The answer is Magento Store Pickup module – the most professional Magento shipping module, which allows setting up multiple Magento stores, showing addresses and opening time of each store for the Customers’ convenience.
+
+Magento [Store Pickup](https://www.magestore.com/store-locator-pickup) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image001.png?raw=true)
 
@@ -340,4 +335,11 @@ The configuration is divided into 4 groups including **General**, **Store List**
 
 You can modify default email template sent to store manager and admin when pickup order is created, changed status or customers send message through the **Contact Form**.
 After configuring all fields, click on the **Save Config** button to save your work
+------
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
+
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
  
