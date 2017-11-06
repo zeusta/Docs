@@ -2,11 +2,7 @@
 
 **Version 1.0.0**
 
-
-*Confidential Information Notice
-Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
-
+-----------------
 
 ##  Introduction
 
@@ -152,3 +148,12 @@ Go to **Fulfillment > Dropship Configuration**
 ---|---|---|---
 1| Email notice dropship request for supplier|Submit request notice to suppliers|Supplier will get notifications email if there are new drop-ship requests
 2| Email cancel dropship request for supplier|Cancel request notcie to suppliers|Supplier will get notifications email if admin cancels drop-ship requests 
+
+--------
+
+**_Confidential Information Notice_**
+
+Copyright2016
+
+All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
