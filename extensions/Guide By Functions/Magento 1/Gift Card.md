@@ -160,11 +160,11 @@ When Customers have Gift Card codes or Gift Card credit balances, they can use t
 
 ![Shopping Cart page](./Image_GiftcardM1/image040.png)
 
-<div id="p8">
+
 
 Customers can choose to use credit or Gift Card by ticking either **Use Gift Card credit to checkout** or **Use Gift Card to checkout** checkbox or both.
 
-  - <strong>Use Gift Card credit to checkout</strong>: Customers need to enter an amount of money they want to use. After applying, this amount will be deducted from their Gift Car credit balance immediately.
+  - **Use Gift Card credit to checkout**: Customers need to enter an amount of money they want to use. After applying, this amount will be deducted from their Gift Car credit balance immediately.
   
   - **Use Gift Card to checkout**: The system shows a box where Customers can enter gift codes. Besides, they can use gift codes they added to the list on **Gift Card/Credit Management** page.
   
@@ -180,7 +180,7 @@ Customers can choose to use Gift Card or Gift Card credit and enter the amount o
 
 **Note**: Gift Card codes or Credit Card credit balances cannot be used to purchase Gift Card products but they can be spent on shipping fee, depending on Admin’s settings.
 
-</div>
+
 
 
 ## HOW TO CONFIGURE
