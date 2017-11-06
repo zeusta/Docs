@@ -2,14 +2,13 @@
 
 **Version 2.5.1**
 
--------------------------
 ## Introduction
-
-
 
 There is no doubt about the benefits of Customer loyalty to your business. The question is how to keep Customers returning and buying in your store? We offer you a wonderful solution- that is Magento Reward Points Plus module. It is designed to maximize Customers engagement in your store by many useful features. 
 
 With Reward Points –Standard Edition, your Customers can receive reward points when placing orders on your site. These points then can be converted to money for checkout at the rate configured by you. The System will show messages about the number of points Customers will earn and spend. Customers certainly feel more encouraged to purchase at your site when they can get some bonus for doing that!
+
+Magento [Reward Points](https://www.magestore.com/reward-points) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image001.png)
 
