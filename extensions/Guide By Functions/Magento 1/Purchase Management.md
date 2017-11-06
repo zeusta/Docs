@@ -3,12 +3,11 @@
 **Version 1.1.0**
 
 
-----------
-
-
 ## INTRODUCTION
 
 Purchase Management is a Magento 1 module, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order and Quotation are kept track and automatically updated in the system.
+
+[Purchase Management](https://www.magestore.com/purchase-order-management) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ----------
 
