@@ -284,8 +284,9 @@ To configure default configurations and settings of the module, please log in to
 12 |Auto-send reminder email before Gift Card expires | Yes | Enable auto reminder email sent to Customers before Gift card expires
 13 | Send-to- recipient email template when Gift Card is refunded | 5 | The number of days to send notification toCustomers before the expiration date of a Gift card
 
+<a name="p2"> </a>
 
- - **Gift Card Printout** tab:
+- **Gift Card Printout** tab:
  
   
 ![Gift Card Printout tab](./Image_GiftcardM1/image060.png)
@@ -464,6 +465,7 @@ The difference between a Gift Card product and a normal product is that a Gift C
   - The **Cart Item Conditions** tab allows you to set up Gift Card usage conditions applied to each item in Customers’ shopping cart. For example, Customers can use their Gift Cards to pay for orders only if the Qty. in cart is equal or greater than 2.
   
 ![set up Gift Card usage conditions applied to each item in Customers’ shopping cart](./Image_GiftcardM1/image094.png)
+<a name="p4"> </a>
 
 **_Note_**: Normally some common product attributes are enabled to use with promotion rules by default. If you don’t see the attribute you want when setting **Gift Card’s Conditions**, such as SKU, you can go to Catalog→ Attributes→ Manage Attributes. Search and choose Attribute Code, such as &quot;SKU&quot;. Then change &quot;Use for Promo Rule Conditions&quot; to &quot;Yes&quot;
 
@@ -588,6 +590,7 @@ If you intend to send the gift code to a specific person, a Customer for example
 
 After entering all data, remember to click on **Save, Save And Send Email** or **Save and Continue Edit** to save your work.
 
+<a name="p3"> </a>
 
 - Moreover, you can add new gift codes by importing voucher codes from a CSV file. You need to click on **Import Gift Code** button on the top right corner of the **Gift Code Manager** page.
 
@@ -596,6 +599,7 @@ After entering all data, remember to click on **Save, Save And Send Email** or *
 The Import Gift Code page will be shown as below for you to browse a CSV file. And then, click on **Import** or **Import and Print** button.
 
 ![Import and Print](./Image_GiftcardM1/image132.png)
+<a name="p5"> </a>
 
 ### Manage Gift Code Sets
 
@@ -749,7 +753,7 @@ Add Gift card box in shopping cart page
 
 Modify payment form when checkout using Gift code
 
-Able to generate a list of Gift codes in admin
+<a href="#p5">Able to generate a list of Gift codes in admin</a>
 
 Able to use Gift code to create order in admin
 
@@ -759,11 +763,11 @@ Add API's functions for Gift card
 Allow automatically generating invoice after placed order by using gift card code.
 ### Version 2.1 (updated on Dec 25th 2011)
 ### Version 2.0 (updated on Dec 8th 2011)
-Add Weight attribute to Gift Cart product
+<a href="#p4">Add Weight attribute to Gift Cart product<a>
 
-Add Importing feature: Admin can import gift card codes from a CSV file
+<a href="#p3">Add Importing feature: Admin can import gift card codes from a CSV file</a>
 
-Add Printing feature: Admin can print the gift card codes, then send them to customers
+<a href="#p2">Add Printing feature: Admin can print the gift card codes, then send them to customers</a>
 ### Version 1.2 (updated on Nov 9th 2011)
 ### Version 1.1 (updated on Sep 21th 2011)
 <a href="#p1">Add more configuration fields to change position of Gift Card Box on the checkout page</a>
