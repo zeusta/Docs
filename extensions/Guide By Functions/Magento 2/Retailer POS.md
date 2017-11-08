@@ -1,12 +1,12 @@
 # RETAILER POS MAGENTO 2
 (Version 1.1)
 
-*Confidential Information Notice* 
-
-*Copyright 2017 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 ## 	INTRODUCTION
 Magento 2 Retailer POS is a point-of-sale app for iOS. With an iPad on hand, sales staff can process easy and fast transactions either on the go or at the counter. Natively build for Magento retail business, this POS allows automatic data synchronization between the app and your Magento store. You can apply custom discounts in cart, accept split payment, note shipping details for each order from your iPad. Ready to sell your products 10 times faster?
+
+[Magento Point-of-sale app](https://www.magestore.com/retail-pos) (Retailer POS) for iPad/tablet is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
+
 ## 	HOW TO CONFIGURE
 Before using Retailer POS to check out, admin needs to configure it in backend first. Please read the user guide carefully to know how to configure information you want
 ### 	How to enable a payment method for Retailer POS
@@ -533,6 +533,14 @@ Tap **“Confirm”** and Close Session. The popup following will be shown to en
 Click to **“Validate”** to close session and view Z-report. The Current Balance will be shown in the Z-report, which will be automatically reset to 0 or certain amount set after you close store.
 
 ![RetailerPOS](./Retailer%20POS%20image/image070.png)
+
+------------
+**_Confidential Information Notice_** 
+
+Copyright 2017. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
 
 
 
