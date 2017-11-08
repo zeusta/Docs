@@ -1,6 +1,6 @@
 
 
-# Purchase Management - Magento 2
+# PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2
 
 -------------
 
