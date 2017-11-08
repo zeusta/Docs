@@ -9,18 +9,7 @@
 
 Do you know that 45 - 90% of all business expenses are as results of inventory costs? (upstreamcommerce.com). Therefore, it is vital to have an effective inventory management strategy in order to save costs and gain profits. 
 
-Dropship for Magento 2 is one module from Order Success solution, which allows your suppliers to ship items to customers directly. This plugin is:
-
-•	Compatible with Magento CE 2.1.x
-
-•	Open source 100%
-
-•	License Certificate valid for 1 live Magento installation and unlimited test Magento installations (No license key required)
-
-•	Easy to install and configure
-
-•	User-friendly interface
-
+[Dropship for Magento 2](https://www.magestore.com/dropship) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ##  How to Prepare and Ship Items for Sales Order
 
