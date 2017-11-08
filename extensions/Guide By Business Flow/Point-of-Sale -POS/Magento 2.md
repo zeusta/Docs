@@ -1,4 +1,4 @@
-# Point-of Sale (POS) - Magento 2 
+# WEB-BASED POINT-OF-SALE (WEBPOS) - USER GUIDE FOR MAGENTO 2
 ----------
 ## Introduction 
 It’s so true to claim that POS System’s the revolution for Retailer. This system allows your online as well as offline stores to synchronize product data. Thus,  all the selling process becomes increasingly convenient in a blink for both staff and customer. 
