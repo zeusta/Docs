@@ -1,15 +1,15 @@
 # INSTOCK MANAGEMENT - MAGENTO 2
 
-
-*Confidential Information Notice*<br/>
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
+**Version 1.5.0**
 
 ------
 
 ## INTRODUCTION
 
 If you are looking for a simple solution to manage a warehouse and all stocks within, this Magento inventory management module is exactly what you need: Reduce time wasted on actually visiting your warehouses, now you can view and adjust all information of stock on-hand on your computer; Minimize mistakes in manual counting with step-by-step Stock Taking; Save more cost with accurate Supply Need Forecast and automatic Low Stock Alert. It's time to spend less time on stock management & more time on selling them.
+
+[Magento Inventory Management](https://www.magestore.com/inventory-management) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
+
 
 ------
 
@@ -390,3 +390,57 @@ There are **2 types** of low stock rule:
 ![Low Stock Notifications](./instockimages/image038.png?raw=true) 
 
 **Low Stock notifications** displays warning messages about the products which are nearly out of stock in warehouses. It shows all notifications with information including Sent at, Update Type, Email received, Recipients and Action. Click *view* action on each notification log to see details of products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
+
+---------------
+## Release Note
+### Version 1.4.0 (released on Oct 9th 2017)
+
+Compatible with Magento 2.2
+
+### Version 1.2.1 (released on Aug 28th 2017)
+
+Remove stock-data after delete warehouse
+
+### Version 1.2.0 (released on Jul 18th 2017)
+
+Validate receive qty & delivery qty when transfer stock
+
+Allow to add product to more warehouses in product edit page
+
+Allow to view stock movement in product edit page
+
+Integrate with Magmi
+
+### Version 1.1.3 (released on May 23th 2017)
+
+Validate receiving qty & delivery qty in Stock Transferring feature
+
+Do not allow to mass update product qty
+
+### Version 1.1.2 (updated on Apr 17th 2017)
+
+Allow to show supplyneeds of products if it is zero
+
+### Version 1.1.1 (updated on Mar 27th 2017)
+
+Allow to link multiple Magento stores to a Warehouse
+
+### Version 1.1.0 (updated on Mar 24th 2017)
+
+Validate data before submitting send/request stock
+
+Allow to add product to more warehouse in product edit page
+
+Force edit product qty feature
+
+Allow to link Warehouse to Front Magento Store (link products & stock data)
+
+
+
+---------------
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited.
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
