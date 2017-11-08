@@ -1,14 +1,13 @@
-# **STORE CREDIT MAGENTO 2**
-(Version 2.0.0)
+# STORE CREDIT - USER GUIDE FOR MAGENTO 2
+**(Version 2.1.0)**
 
-*Confidential Information Notice*
-*Copyright 2016 All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 ## INTRODUCTION
 Keep the Customers around, that’s what store owners care about! Magento Store Credit module for Magento 2 allows you to enhance the interaction with your Customers by many activities such as adding credit or refunding Customers by credit. 
 Customers can use the credit to make purchases on your store or even share with their friends. 
 With Magento Store Credit module for Magento 2, credit can be used as a convenient and time-saving payment method. Customers just need to recharge their credit accounts one time and then use for many future purchases.
 
+[Magento Store Credit](https://www.magestore.com/store-credit) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 ![Storecredit](./SC%20Image/image003.png)
 
 ## HOW TO USE (Frontend)
@@ -339,6 +338,24 @@ Shipping Fee|	No	|Credit balance cannot be used to pay for Shipping Fee
        - **Style Configuration** tab: on this tab, you will be able to change background and color of Title
 
 ![Storecredit](./SC%20Image/image058.png)
+------
+## Release Note
+### Version 2.1.0 for Magento 2 (released on Oct 19th, 2017)
 
-*This is the end of the Store Credit User Guide. We hope that this manual is helpful for you to use the module effectively. If you have any question, feel free to contact us at support@magestore.com, we would be glad to assist you!*
+Compatible with Magento 2.2
+
+### Version 2.0.0 for Magento 2 (released on Jun 06, 2017)
+
+Re-structure coding
+
+### Version 1.0.0 for Magento 2 (released on May 4th, 2016)
+
+Release the stable version for Magento 2.0
+----
+**_Confidential Information Notice_**
+
+Copyright 2016. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
        
