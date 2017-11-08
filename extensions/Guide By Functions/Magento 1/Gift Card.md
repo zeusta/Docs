@@ -383,7 +383,9 @@ You can click on **Preview** button at the top right corner to see how Gift Card
 In this tab, you can create a list of images for Customers to select when buying Gift Card in frontend. Just click on **Add** button and choose image files to upload.
 
 **_Note_**:
+
 1. You should use images with the following recommended sizes for better display:
+
  - Template style is “Top”: 600x190px.<br/>
  - Template style is “Left”: 250x365px.<br/>
  - Template style is “Center”: 600x365px.<br/>
@@ -420,7 +422,7 @@ Click on Continue button then enter information as a normal product. You should 
 
 - **General** tab:
 
-Different from normal products, there is another required field, **Select Gift Card template**, allowing you to choose templates for Gift Card product. You can add more templates to this field in **Manage Gift Card Templates** (please refer to section 3.1 for more details).
+Different from normal products, there is another required field, **Select Gift Card template**, allowing you to choose templates for Gift Card product. You can add more templates to this field in **Manage Gift Card Templates** 
 
 ![Add more templates](./Image_GiftcardM1/image088.png)
 
