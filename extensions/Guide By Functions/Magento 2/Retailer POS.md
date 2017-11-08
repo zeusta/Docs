@@ -19,6 +19,7 @@ To set up payment method for Retailer POS, go to **Sales > Web POS > Settings > 
  •	If you want to apply all payments, choose **All Allowed Payments**
 
  •	If you want to apply some particular payment methods only, choose **Specific Payments**. Then in **Specific Payments** field, select payment method as your preference. Hold Shift + Click to choose more than one.
+ 
 - **Default Payment Method**: You can choose any payment method as default payment method for POS
 
 If you want to set Cash on Delivery (COD) to be the default payment method for instance, you first have to choose it in Specific Payments field. Then, select option Web POS – Cash on Delivery in Default Payment Method field.
@@ -38,7 +39,8 @@ To set up Shipping Methods for Retailer POS, go to **Sales > Web POS > Settings 
 
 - 	**Default Shipping Method**: You can choose one of three shipping methods supported to set as default payment method for POS
 
-If you want to set Flat Rate - Fixed to be the default shipping method for instance, you first have to choose it in Specific Shipping field. Then, select option Flat Rate - Fixed in Default Shipping Method field.<br/>
+If you want to set Flat Rate - Fixed to be the default shipping method for instance, you first have to choose it in Specific Shipping field. Then, select option Flat Rate - Fixed in Default Shipping Method field.
+
 - 	**Enable "Mark as shipped" by default**: choose Yes if you want to mark items as shipped.
 
 After finishing, click on Save Config button to save your work.
@@ -58,6 +60,7 @@ To change logo of Retailer POS, go to **Sales > Web POS > Settings > Web POS Log
 ![RetailerPOS](./Retailer%20POS%20image/image008.png)
 
 - **Allow synchronizing from Web POS if there are out-of-stock items**: If you want to show out-of-stock products in search results, choose “Yes”. If not, select “No”.
+
 - **Web POS logo: Upload your logo here**. Please note that recommended size is 250x50px & supported files are jpg, png
 After finishing, click on **Save** or **Save And Continue Edit** button to save your work.
 
@@ -283,8 +286,10 @@ After adding products to cart, besides editing the quantity of each product (ref
 ![RetailerPOS](./Retailer%20POS%20image/image042.png)
 
 - 	You can set custom price for products by tap **Custom Price** button. 
+
 In the popup, please choose type you want to adjust for the price, according to fixed number or percentage. 
     - 	If you edit fixed price, the price will be changed to the price you have entere
+    
     - 	If you edit by percentage, the price will be decrease by the percent you have entered (it is similar to Discount by percentage)
 Then, products in cart will be updated with the price you edit
  
@@ -356,6 +361,7 @@ You will be redirected to the next page with information of Shipping & Payment M
 ![RetailerPOS](./Retailer%20POS%20image/image053.png)
 
 - In Shipping method tab:
+
     -	Need to Ship: Turn on to add Shipping Address
     -	Choose Shipping method 
     -	Select Delivery date
