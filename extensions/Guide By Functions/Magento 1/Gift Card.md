@@ -5,8 +5,7 @@
 (Magento [Gift Card](https://www.magestore.com/gift-card) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.)
 
 -----------------------
- <a name="id1"> </a>
-## INTRODUCTION
+ ## INTRODUCTION
 
 More and more Customers go online to find gifts for their friends and families, instead of wandering from shop to shop to buy the best gift. Why not join this trend by creating Gift Card/ Gift Voucher as a 1-size- fits-all gift? With this module, Customers can purchase Gift Cards to present others and then recipients can use them to buy products at your store. It’s a great idea for helping you increase customer satisfaction.
 
@@ -36,7 +35,7 @@ More and more Customers go online to find gifts for their friends and families, 
 
 ##  HOW TO USE
 
-<a href="#id1">This section demonstrates how Customers can use Gift Cards in frontend</a>
+This section demonstrates how Customers can use Gift Cards in frontend
 
 ### Order a Gift Card Product 
 
@@ -243,7 +242,9 @@ To configure default configurations and settings of the module, please log in to
 7 | Message max length | 240 | Customers can write a custom message within 240 letters
 8 | Enable scheduling Gift card delivery | Yes | Allow Customers to set dates to send Gift Cards
 
- - **Shopping Cart Page &amp; Checkout page tabs:**
+<a name="p1"> </a>
+ 
+ - **Shopping Cart Page &amp; Checkout page tabs:** 
 
 
 ![Shopping Cart Page & Checkout page tabs](./Image_GiftcardM1/image054.png)
@@ -765,7 +766,7 @@ Add Importing feature: Admin can import gift card codes from a CSV file
 Add Printing feature: Admin can print the gift card codes, then send them to customers
 ### Version 1.2 (updated on Nov 9th 2011)
 ### Version 1.1 (updated on Sep 21th 2011)
-Add more configuration fields to change position of Gift Card Box on the checkout page
+<a href="#p1">Add more configuration fields to change position of Gift Card Box on the checkout page</a>
 ### Version 1.0 (released on Aug 30th 2011)
 Release extension.
 
