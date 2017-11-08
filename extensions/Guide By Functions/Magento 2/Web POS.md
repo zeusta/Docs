@@ -1,5 +1,5 @@
 # WEB POS - USER GUIDE FOR MAGENTO 2
-**(Version 2.1.0)**
+**(Version 2.0.0)**
 
 [[Magento Web-based Point-of-Sale](https://www.magestore.com/webpos)  is one module in our [[Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 ## Introduction
