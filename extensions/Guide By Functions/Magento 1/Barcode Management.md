@@ -11,6 +11,8 @@ Barcode by definition is the small image of lines (bars) and spaces that is affi
 
 Barcode management module from Magestore provides your business with a handful solution to generate barcode, print barcode label and scan barcode, all in one.
 
+[Magento Barcode Management](https://www.magestore.com/barcode-management) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
+
 -------------
 
 ## HOW IT WORKS
@@ -109,6 +111,6 @@ In our inventory management modules, you need to use a Barcode scanner which is 
 -------
 **_Confidential Information Notice_**
 
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
+Copyright 2017. All Rights Reserved.
 
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
