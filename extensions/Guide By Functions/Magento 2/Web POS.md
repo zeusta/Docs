@@ -1,9 +1,7 @@
-# Web POS - Magento 2
-**(Version 1.1.1)**
+# WEB POS - USER GUIDE FOR MAGENTO 2
+**(Version 2.1.0)**
 
-*Confidential Information Notice*
-
-*Copyright 2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
+[[Magento Web-based Point-of-Sale](https://www.magestore.com/webpos)  is one module in our [[Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 ## Introduction
 Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s **Magento 2 POS** integration module, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you   will   be   fascinated   by   its   convenience   and   the   amount   of   time   saved.
 We would love to discuss your specific needs but we think you might like some of our customer favorite features below.
@@ -577,4 +575,79 @@ When your working shift ends, you go to **Register Shifts** tab to close shift. 
 Z-report shows the cash drawer balance in a certain time like a shift or a working day. The Z-report records opened – closed time of each working shift, with details of transactions, sales and sales by payment methods. 
 
 ![WebPOS](./Web%20POS%20Image/image089.png)
+-------------
+## Release Note 
+### Version 2.0.0 (released on Oct 10th, 2017)
+
+Working session management feature (open session, close session)
+
+Open cash drawer without print receipt
+
+Print receipt without opening popup
+
+Compatible with Magento 2.2
+
+### Version 1.3.0 (released on Sep 21, 2017)
+
+Allow auto print receipt in offline mode
+
+### Version 1.2.0 (released on Aug 4, 2017)
+
+Allow to enable/ disable custom order number format
+
+Allow to config default tax of custom sale item
+
+Allow to clear offline data of WebPOS by clicking on Reset-Local-Database button
+
+### Version 1.1.4 (released on Jun 06th 2017)
+
+Support online mode (real-time sync data)
+
+Integrate with Paypal Pro
+
+Remove 'pub' folder in extension package
+
+### Version 1.1.3 (updated on Apr 15th 2017)
+
+Support Authorize.net direct post method
+
+Allow to apply catalog rules when add item to checkout in WebPOS
+
+### Version 1.1.2 (updated on Mar 20th 2017)
+
+Do not show disabled products in Webpos
+
+Get product price by customer group
+
+Support multiple tax rules
+
+Allow to hold product when hold Order
+
+### Version 1.1.1 (updated on Feb 10th 2017)
+
+Integrate with Customer Pole Display device
+
+Support PayPal (Pay by credit card, PayPal account & sending PayPal invoice via email)
+
+### Version 1.1.0 (updated on Oct 14th 2016)
+
+Optimize loading speed, js, API
+
+Integrate with Gift Card
+
+Integrate with Store Credit
+
+Integrate with Reward Point
+
+Allow color swatch for products
+
+Enable/disable displaying invisible product on Web POS screen
+
+---------
+
+**_Confidential Information Notice_**
+
+Copyright 2016. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
