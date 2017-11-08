@@ -17,6 +17,7 @@ If you are looking for a simple solution to manage a warehouse and all stocks wi
 ### Stock Control Configuration
 
 - *Path*: **Stock Management > Settings** section > **Configuration** 
+<a name="p1"> </a>
 
 ![Stock Control Configuration](./instockimages/image001.png?raw=true)
 
@@ -40,6 +41,7 @@ If you are looking for a simple solution to manage a warehouse and all stocks wi
 Admin can have overview of Stock in the Warehouse and view stock details within the warehouse.
 These details include **Available Qty, Qty to Ship** and **Total Qty** and **Shelf Location** of each product in the warehouse.
 
+<a name="p2"> </a>
 
 ![Stock in Warehouse](./instockimages/image005.png?raw=true)
 
@@ -56,6 +58,7 @@ You can easily edit Qty of products in-line within a few steps:
 #### Non-warehouse product
 
 When a product is newly created and not assigned to any warehouse yet, it will be automatically allocated in Non-warehouse. 
+<a name="p3"> </a>
 
 ![Non-warehouse product](./instockimages/image006.png?raw=true)
 
@@ -76,6 +79,7 @@ The **Warehouse** menu allows you to control your warehouse with 6 tabs:
 ![View Warehouse's detail information](./instockimages/image007.png?raw=true)
 
 On the right side of each master data tab, click on the **Arrow button** to access the data:
+<a name="p7"> </a>
 
 (1) **General Information** about the Warehouse
 
@@ -128,6 +132,7 @@ Select Staff users to assign permission
 **-	Link stocks in Warehouse to Front Store View:**
 
 As mentioned in section **Stock Control Configuration**, you can link products and stock data by choosing **Yes** on the **Link stocks in Warehouse to Front Store View** section
+<a name="p5"> </a>
 
 ![Link stocks in Warehouse to Front Store View](./instockimages/image013.png?raw=true)
 
@@ -223,6 +228,7 @@ There are 5 steps in Stock taking using Instock Management module:
 (2)	Either click **Complete Data Entry** to proceed to Stage 4 and have a review of the changes; click **Complete Stocktake** to finish the process; or **Save** to continue editing.
 
 - **Step 4:	Complete data entry:** Save the data that has been stock taken and waiting for admin’s approval.
+<a name="p4"> </a>
 
  ![Stocktaking process](./instockimages/image024.png?raw=true)
 
@@ -266,6 +272,7 @@ The module records all the movements of stocks in warehouse. These movements are
 (3)	Admin can also easily exports Stock Movement details into CSV or Excel XML.
 
 ### Prediction
+<a name="p6"> </a>
 
 #### Supply Needs
 This feature predicts how many inventory items your warehouse needs for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past. 
@@ -405,9 +412,9 @@ Remove stock-data after delete warehouse
 
 Validate receive qty & delivery qty when transfer stock
 
-Allow to add product to more warehouses in product edit page
+<a href="#p3">Allow to add product to more warehouses in product edit page</a>
 
-Allow to view stock movement in product edit page
+<a href="#p7">Allow to view stock movement in product edit page</a>
 
 Integrate with Magmi
 
@@ -419,21 +426,21 @@ Do not allow to mass update product qty
 
 ### Version 1.1.2 (updated on Apr 17th 2017)
 
-Allow to show supplyneeds of products if it is zero
+<a href="#p6">Allow to show supplyneeds of products if it is zero</a>
 
 ### Version 1.1.1 (updated on Mar 27th 2017)
 
-Allow to link multiple Magento stores to a Warehouse
+<a href="#p5">Allow to link multiple Magento stores to a Warehouse</a>
 
 ### Version 1.1.0 (updated on Mar 24th 2017)
 
-Validate data before submitting send/request stock
+<a href="#p4">Validate data before submitting send/request stock</a>
 
-Allow to add product to more warehouse in product edit page
+<a href="#p3">Allow to add product to more warehouse in product edit page</a>
 
-Force edit product qty feature
+<a href="#p2">Force edit product qty feature</a>
 
-Allow to link Warehouse to Front Magento Store (link products & stock data)
+<a href="#p1">Allow to link Warehouse to Front Magento Store (link products & stock data)</a>
 
 
 
