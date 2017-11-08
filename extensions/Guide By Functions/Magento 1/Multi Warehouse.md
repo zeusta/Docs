@@ -1,10 +1,7 @@
-# MULTI WAREHOUSE INVENTORY MANAGEMENT - MAGENTO 1
+# MULTI WAREHOUSE INVENTORY MANAGEMENT - USER GUDIE FOR MAGENTO 1
 
 **Version 2.1.0**
 
-Confidential Information Notice. Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
-
--------------
 
 ## Introduction
 
@@ -14,6 +11,7 @@ Inventory cost is generally between 20% and 30% of the cost to purchase inventor
 
 Together with other features in our solution: Barcode Management, Purchase Management, Order Fulfillment, Dropship & Reports, our Inventory Management function is the critical element in creating Order-Fulfillment-Success combo. Everything in stock is under control, plus, all operations such as add, adjust, transfer stocks are simplified to be completed within the shortest of time! 
 
+Magento [Multi-warehouse Management](https://www.magestore.com/multi-warehouse) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 -----------
 
 ## Terminologies and principles
@@ -456,3 +454,11 @@ All transfer relating to external location are recorded in **History of Stock Tr
 The record of stock transfer is separated into 4 lists corresponding to 4 operations of stock transfer as mentioned above. For example, **Stock Request History** will show you a list of all stock requests created in the system.
 
 ![Stock Request History page](./image_IM%20Rebuilt/image057.png)
+-----------
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved.
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
+-------------
