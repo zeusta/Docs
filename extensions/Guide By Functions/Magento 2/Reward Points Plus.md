@@ -1,12 +1,9 @@
-# REWARD POINTS - MAGENTO 2
+# REWARD POINTS -  USER GUIDE FOR MAGENTO 2
 
-**Version 1.0.3**
+**Version 1.1.0**
 
 
-*Confidential Information Notice*<br/> 
-
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
-
+[Magento Reward Points](https://www.magestore.com/reward-points) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ----------------
 
@@ -372,4 +369,24 @@ No.| Field| If you choose…| Result will be…
 5| Send  reminder  email before  a transaction expires| 7| Notification email will be automatically sent to remind Customers 7 days before the transaction expires.|
 
 Remember to click on **Save** or **Save and Continue Edit** button to save your configuration.
+
+
+----------------
+## Release Note 
+### Version 1.0.3 (released on Aug 31, 2017)
+
+### Version 1.0.2 (released on Mar 27, 2017)
+
+### Version 1.0.0 (released on March 29th, 2016)
+
+Release the stable version for Magento 2.0
+---------
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+
+
+
 
