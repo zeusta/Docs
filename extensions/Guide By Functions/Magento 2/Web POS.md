@@ -1,7 +1,7 @@
 # WEB POS - USER GUIDE FOR MAGENTO 2
 **(Version 2.0.0)**
 
-[[Magento Web-based Point-of-Sale](https://www.magestore.com/webpos)  is one module in our [[Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
+[[Magento Web-based Point-of-Sale](https://www.magestore.com/webpos)  is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 ## Introduction
 Running a quick service, retail store or restaurant? Then you know how important it is to have an effective POS to cut the long queue of customers waiting to check out. For most of the time, your shop assistants have to carry out the checkout procedures for Customers, either in physical stores or when receiving orders through phone or email. So, wouldn't it be great if this process could be hastened, helping save time for more profitable actions! With Magestore’s **Magento 2 POS** integration module, you will be able to create orders quickly and conveniently from an admin panel on just a single one page! Try now and you   will   be   fascinated   by   its   convenience   and   the   amount   of   time   saved.
 We would love to discuss your specific needs but we think you might like some of our customer favorite features below.
