@@ -1,28 +1,15 @@
 # MULTI-WAREHOUSE INVENTORY MANAGEMENT- MAGENTO 2
 
 
-*Confidential Information Notice*
-*Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
 
 ------
 
 ## INTRODUCTION
 
 
-If your inventory is not enough to supply, you may lose customer. But if the inventory you keep is more than needed, it will cost you lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification…in your warehouses in the most efficient way. With our newest version, you can:
+If your inventory is not enough to supply, you may lose customer. But if the inventory you keep is more than needed, it will cost you lots of money to manage. Thus, it is vital to equip your business with an effective inventory system to always keep your warehouses at an ideal stock level. Magestore team has been working hard to offer you a friendly & affordable stock management solution for Magento 2 with smart design, clean and simple workflow to handle every activity about stock management, stock transfer, stock taking and low stock notification…in your warehouses in the most efficient way. 
 
-•	Validate data before submitting send/request stock
-
-•	Allow to add product to multiple warehouses in product edit page
-
-•	Force edit product Qty features
-
-•	Allow to link warehouse to Front Magento Store (link products and stock data)
-
-•	Allow to link multiple Magento stores to a warehouse
-
-Hope that you will have a great time using our module and free your mind from messy stock management.
+[Magento Multi-warehouse Management](https://www.magestore.com/multi-warehouse) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 ---
 
@@ -266,3 +253,11 @@ The table shows SKU of the products added or subtracted from warehouse, the chan
 Admin can also filter the data basing on the variables in the table
 
 ![filter function for Stock Movement](./inventoryimages/im18.png)
+
+-------
+**_Confidential Information Notice_**
+
+Copyright 2017. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited.
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
