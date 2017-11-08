@@ -1,4 +1,4 @@
-# INVENTORY MANAGEMENT -  USSER GUIDE FOR MAGENTO 1
+# INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1
 
 **Version 2.1.1**
 
@@ -59,9 +59,10 @@ After enabling this setting, you can link the warehouse to one or multiple store
 
 ----------
 ## How To Use
+<a name="p7"> </a>
 
 ### Stock Listing
-<a name="p7"> </a>
+
 
 After installation, the system will automatically provide a Primary Warehouse. This Primary Warehouse cannot be deleted but can only be edited. All the existing products will be automatically synced from your website to this warehouse. 
 
