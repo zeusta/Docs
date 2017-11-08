@@ -46,7 +46,8 @@ Magento [Inventory Management](https://www.magestore.com/inventory-management) i
 Go to **Settings** and you are able to configure the Instock Management module as below:
 
 ![configure instock management module](./Image_Instock_Management/image001.png)
-
+<a name="p1"> </a>
+         
 1. **Link stocks in Warehouse to Front Store View**: The Instock Management module allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers.
 After enabling this setting, you can link the warehouse to one or multiple store view in **Warehouses > General Information > Magento Store View**
 
@@ -60,6 +61,7 @@ After enabling this setting, you can link the warehouse to one or multiple store
 ## How To Use
 
 ### Stock Listing
+<a name="p7"> </a>
 
 After installation, the system will automatically provide a Primary Warehouse. This Primary Warehouse cannot be deleted but can only be edited. All the existing products will be automatically synced from your website to this warehouse. 
 
@@ -69,7 +71,7 @@ This function consists of 3 tabs to help you manage your inventory successfully:
  - **Non-warehouse Products**: lists out a newly-created product which has not been assigned to the primary warehouse
  - **Warehouses**: allows you to view and edit details of your warehouses
  
- #### Stock in Warehouse
+#### Stock in Warehouse
 
 This tab provides an overview of stocks in all warehouses. Here you can view stock SKU, Name, Price, Qty in Warehouse(s), Qty to Ship, Available Qty, Products in Warehouse(s), Stock Movement and Product Status. 
 
@@ -78,6 +80,7 @@ The module provides an in-depth control over your **composite products** (config
 For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. 
 
 ![control configurable product with variable sizes](./Image_Instock_Management/image002.png)
+<a name="p6"> </a>
 
 Note that there are 3 types of quantity shown:
 
@@ -115,10 +118,12 @@ The **Warehouses** menu allows you to control your warehouse with 5 tabs:
 - **General Information**: records basic details of the warehouse such as Name, Code, Contact Email, Address, etc. If you enable the **Link warehouse to Magento front store view** setting above, this is where you can select the warehouse’s linked front store.
  
 ![enter warehouse's general information](./Image_Instock_Management/image011.png)
+<a name="p2"> </a>
 
  - **Stock On Hand**: lists out all existing products in the warehouse. Selecting product(s) will let you promptly revise its total Qty in the specific Warehouse and its Shelf Location. 
 
 On this section, if you click on any warehouses, there will have **Export** button along with CSV/Excel XML file.
+<a name="p3"> </a> 
 
 ![export warehouse's product info](./Image_Instock_Management/image012.png)
 
@@ -257,6 +262,7 @@ This page shows you all details of the stocktaking process including the product
 
 ##### Stocktaking History
 All Stocktaking details are listed here. Different status shows to which stage the stocktaking process is done:
+<a name="p4"> </a>
 
 ![stocktaking statuses recorded in History](./Image_Instock_Management/image031.png)
 
@@ -268,6 +274,7 @@ All Stocktaking details are listed here. Different status shows to which stage t
 Click on each stocktaking record to view all details of the process.
 
 #### Stock Movement History
+<a name="p5"> </a> 
 
 ![stock quantity changes recorded in History](./Image_Instock_Management/image032.png)
 
@@ -350,21 +357,21 @@ The Low Stock Notification will be sent to recipients’ email as well as be dis
 ### Version 2.1.1 (released on Oct 5, 2017)
 
 
-Do not allow to delete primary warehouse
+<a href="#p7">Do not allow to delete primary warehouse</a>
 
-Show list short fall items after completed stock transfer, allow to send back short fall item of delivery Warehouse
+Show list short fall items after completing stock transferring, allow to send back short fall item of delivery Warehouse
 
-Show list order items of qty-to-ship item
+<a href="#p6">Show list order items of qty-to-ship item</a>
 
-Add product status filter into the product list (transfer stock, adjust stock, etc)
+<a href="#p5">Add product status filter into the product list (transfer stock, adjust stock, etc)</a>
 
-Add status column into grid of request/send stock history
+<a href="#p4">Add status column into grid of request/send stock history</a>
 
 ### Version 2.1.0 (released on Jul 13, 2017)
 
-Check permission when create request & sending stocks
+<a href="#p3">Check permission when create request & sending stocks</a>
 
-Show stock movement in product edit page
+<a href="#p3">Show stock movement in product edit page</a>
 
 Integrate with Magmi
 
@@ -372,21 +379,20 @@ Integrate with Magmi
 
 Update inventory database schema (add warehouse_id to order_item, shipment_item & creditmemo_item)
 
-Upgrade version to compatible with extension on Magento Marketplace
-
 ### Version 1.1.0 (released on Mar 29, 2017)
 
-Release "force edit product qty" feature which allows to edit available qty of product in each Warehouse & global
+<a href="#p1">Release "force edit product qty" feature which allows to edit available qty of product in each Warehouse & global</a>
 
 ### Version 1.0.1 (released on Mar 25, 2017)
 
-Implement the export warehouse stocks feature
+<a href="#p2">Implement the export warehouse stocks feature</a>
 
-Allow to assign multiple Magento store views to one Warehouse
+<a href="#p1">Allow to assign multiple Magento store views to one Warehouse</a>
 
 ### Version 1.0.0 (released on Feb 13, 2017)
 
 Release stable rebuilt version of Inventory Management
+
 -----
 **_Confidential Information Notice_**
 
