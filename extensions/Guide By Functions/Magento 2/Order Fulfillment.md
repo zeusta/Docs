@@ -1,29 +1,13 @@
 # ORDER FULFILLMENT - MAGENTO 2
 **Version 1.0.0**
 
-
-*Confidential Information Notice*<br/>
-*Copyright2016. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
-
-
-
-
 ## Introduction
 
 Have high volume of sales orders & worry about messy shipments? You should have an effective order management strategy in order to save costs and gain profits. 
 
-Order Fulfillment is one module for Magento 2, which helps you easily keep track of order-fulfilling process in the backend. With default Order Fulfillment, tons of your orders can be managed easily. In addition, this Magento 2 module is:
+Order Fulfillment is one module for Magento 2, which helps you easily keep track of order-fulfilling process in the backend. With default Order Fulfillment, tons of your orders can be managed easily. 
 
-•	Compatible with Magento CE 2.1.0 - 2.1.1 - 2.1.2
-
-•	Open source 100%
-
-•	License Certificate valid for 1 live Magento installation and unlimited test Magento installations (No license key required)
-
-•	Easy to install and configure
-
-•	User-friendly interface
+[Magento Order Fulfillment](https://www.magestore.com/order-fulfillment-management) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 
 ## How to check order fulfillment
@@ -257,4 +241,12 @@ There are 4 types of reports which record how many orders have been picked and p
 -	Fulfillment by staff (daily)
 
 ![select type of report](./OF%20Images/of-img30.png)
+------------
+**_Confidential Information Notice_**
+
+Copyright2016. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited.
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.*
+
 
