@@ -393,6 +393,7 @@ Update inventory database schema (add warehouse_id to order_item, shipment_item 
 
 Release stable rebuilt version of Inventory Management
 
+
 -----
 **_Confidential Information Notice_**
 
