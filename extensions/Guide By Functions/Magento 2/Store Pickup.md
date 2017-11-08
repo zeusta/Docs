@@ -1,12 +1,8 @@
-# STORE PICKUP - MAGENTO 2
+# STORE PICKUP - USER GUIDE FOR MAGENTO 2
 
-**Version 1.1.0**
+**Version 1.2.0**
  
-Confidential Information Notice 
- 
-Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
-This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 --------------------------
 
@@ -14,6 +10,7 @@ This document and the information it contains constitute a trade secret of Mages
 
 According to ComScore, 61% of shoppers would rather use free in-store pickup than pay for shipping. Thus, 72% of retailers start allowing Customers to purchase online before coming to a store and receive purchased products. If there is a chain of stores available, undoubtedly Customers will choose the nearest one as well as an appropriate time to arrive. How can the store-owner make that happen? The answer is Magento 2 Store Pickup extension – the most professional Magento shipping extension, which allows setting up multiple Magento stores, showing addresses and opening time of each store for the Customers’ convenience.
 
+[Magento Store Pickup](https://www.magestore.com/store-locator-pickup) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 ![SP](./Store%20Pickup%20Image/image003.png)
 
 ## How to use
@@ -282,7 +279,25 @@ No.	|Field	|Sample	|Result
 2|	Default Radius for search|	100	|When searching for stores by distance, if Customers do not specify a radius, the system auto uses the default value and shows stores within the radius of 100 kilometers (or miles).
 3|	Distance unit|	Kilometers	|The unit to measure radius is Kilometer.
 
-*Now, if you are here, in the last line of our guide, you have completely finished studying our Store Pickup module with all of its striking features! Hope you find this manual useful.*
+----------
+## Release Note
+### Version 1.2.0 (released on Oct 9th, 2017)
+
+Compatible with Magento 2.2
+
+### Version 1.1.0 (released on Jul 24th, 2017)
+
+Send notification email to store owner & administrator when there is an order using store pickup
+
+### Version 1.0.0 (released on Feb 24th, 2016)
+
+Release the stable version for Magento 2.0
+----------
+**_Confidential Information Notice _**
+ 
+Copyright 2017. All Rights Reserved. 
+
+Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
 
 
