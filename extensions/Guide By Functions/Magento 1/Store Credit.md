@@ -26,6 +26,7 @@ In this second way, they will be navigated to the **My Credit** page on which th
 
 After that, the **Store Credit** page will be shown as follows:
 ![enter image description here](./image_Store%20Credit%20M1/image004.png?raw=true)
+<a name="p8"> </a>
 
 As you can see, this page lists all credit products of your website. There are three types of credit products for Customers to choose:
 
@@ -46,6 +47,7 @@ As you can see, this page lists all credit products of your website. There are t
 ![enter image description here](./image_Store%20Credit%20M1/image008.png?raw=true)
 
 When the order is complete, our module will auto-add that credit amount to the Customer’s credit balance.
+<a name="p7"> </a>
 
 Customers can also send Credits to their friends by ticking **Send credit to friend** checkbox and enter all the required fields:
 
@@ -163,6 +165,7 @@ After redeeming code, Customers can check their current balance and transaction 
 
 
 ### Checkout by Credit
+<a name="p5"> </a>
 
 Customers can use credit to checkout on both **Shopping Cart** and **Checkout page**.
 
@@ -206,6 +209,7 @@ Then you will be navigated to the **Store Credit** tab on the **Customer Manage*
 ![enter image description here](./image_Store%20Credit%20M1/image032.png?raw=true)
 
 Besides, you can change the Customer’s credit balance by entering an integer (a positive or negative number) and a comment in text fields as below:
+<a name="p4"> </a>
 
 ![enter image description here](./image_Store%20Credit%20M1/image033.png?raw=true)
 
@@ -233,7 +237,7 @@ This page shows you all credit **products with a lot of information such as prod
 In order to add a new credit product, you can click on the **Add Credit Product** button on the right top of the page.
 
 You can add a credit product just in a similar way to adding a normal product. You should pay attention to these following tabs: 
-
+<a name="p1"> </a>
 
  - **Prices** Tab:
  
@@ -299,6 +303,7 @@ This page can be divided into two main sections including **Life-time Reports** 
    month,** etc.
 
 ### Using Credit to checkout in backend:
+<a name="p6"> </a>
 
 On the **Create Order** page on backend, our module allows you to use credit when creating orders for Customers.
 
@@ -343,6 +348,8 @@ Go to **Store Credit > Settings**
 |Verify before sending credit|Yes| Your Customers are required to verify before sending credit to friends.| 
 |Groups can use credit| General| Only General Customers can use credit.| 
 
+<a name="p2"> </a>
+
  - **Spend Credit On** Tab
  
  ![enter image description here](./image_Store%20Credit%20M1/image053.png?raw=true) 
@@ -362,42 +369,44 @@ Go to **Store Credit > Settings**
 
 ![enter image description here](./image_Store%20Credit%20M1/image055.png?raw=true)
 
+<a name="p3"> </a>
 
  - **Style Configuration** tab: on this tab, you will be able to change background and color of Title
 
 ![enter image description here](./image_Store%20Credit%20M1/image056.png?raw=true)
 
-This is the end of Store Credit User Guide. We hope this manual is helpful for you to use the function effectively. If you have any question, please contact us at support@magestore.com , we would be glad to assist you!
+
 -------
 ## Release Note
 
 ### Version 2.0 (updated on June 2, 2015)
-Enhance user experience by allowing customers to buy/choose the value of credits instead of price as in previous version.
+<a href="#p8">Enhance user experience by allowing customers to buy/choose the value of credits instead of price as in previous version.</a>
 
-Easily send credits to friends right on Store Credit Product Detail page.
+<a href="#p7">Easily send credits to friends right on Store Credit Product Detail page.</a>
 
-Allow adding Store Credit product to cart when admin creates order in backend.
+<a href="#p6">Allow adding Store Credit product to cart when admin creates order in backend.</a>
 
 ## Version 1.5 (updated on March 20 2015)
 
-Allow cancelling to use credit on Shopping Cart page and Checkout page.
+<a href="#p5">Allow cancelling to use credit on Shopping Cart page and Checkout page.</a>
 
-Auto send email when admin add/subtract customers' credit value.
+<a href="#p4">Auto send email when admin add/subtract customers' credit value.</a>
 
-Allow configuring Title color & background on My Credit page.
+<a href="#p3">Allow configuring Title color & background on My Credit page.</a>
 
 ### Version 1.1 (updated on August 1st 2014)
 
 Allow calculating customer credit for each item in an order.
 
-Allow using customer credit before or after tax.
+<a href="#p2">Allow using customer credit before or after tax.</a>
 
-Separate value and price of credit products: allow product discount by store credit.
+<a href="#p1">Separate value and price of credit products: allow product discount by store credit.</a>
 
 
 ### Version 1.0 (Sept 24th 2013)
 
 Release stable version.
+
 ---------------
 **_Confidential Information Notice_**
 
