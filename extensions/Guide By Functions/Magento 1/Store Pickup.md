@@ -27,6 +27,7 @@ Top-Link
 
 
 ![enter image description here]( https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image003.png?raw=true) 
+<a name="p1"> </a>
 Footer-Link
 
 The Store Listing page includes 4 sections: **Store list, Search form, Google Map** and **Tags list.**
@@ -433,7 +434,8 @@ Optimize the speed of loading stores in checkout page.
 
 ### Version 2.0 (upgraded on Apr 7th 2011)
 
-Show Google map on the store list page. Customers can view all searched stores on the map.
+<a href="#p1">Show Google map on the store list page. Customers can view all searched stores on the map.</a>
+
 Show Google map on the checkout page. Customers can select shipped store by clicking store on the map.
 
 ### Version 1.4 (upgraded Feb 25th 2011)
