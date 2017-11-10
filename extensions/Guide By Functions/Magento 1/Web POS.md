@@ -57,6 +57,7 @@ If you want to set Cash In to be the default payment method for instance, you fi
 Magestore WebPOS well integrates with Pay.nl payment gateway, allowing more flexible payment methods for customers.
 
 ### How to disable inactive categories
+<a name="p4"> </a> 
 
 To set up payment method for Web POS, go to **Web POS > Settings > Product Search**.Then, you will be able to see:
 
@@ -217,6 +218,7 @@ You can configure to search products by going to Settings > General
 
 **Note**: This function is available for online mode only.
 ![Enable Display out-of-stock products in search results (online mode) function](./Image_Web%20POS/image049.jpg)
+<a name="p3"> </a>
 
 **Product Search** section: You go **Web POS ->Setting** and choose tab **Product Search**.
 
@@ -492,7 +494,7 @@ And here is the email of order information:
 ![email sample of order info](./Image_Web%20POS/image120.jpg)
 
 ### How to review orders
-
+<a name="p2"> </a>
 In POS screen, you can review orders by choosing **Order History** tab. Here you can see the order list and order details:
 
 ![Order History tab](./Image_Web%20POS/image122.jpg)
@@ -581,6 +583,7 @@ After that, you will get the message informing that credit memo is created succe
 ### How to view reports
 
 Magento Web POS provides you 10 types of reports which help you get deeper into your business performance. To view reports, you choose tab Sales/ Report on Magento backend. There will display 10 types of report as on the image below:
+<a name="p1"> </a>
 
 ![Report panel](./Image_Web%20POS/image147.jpg)
 
@@ -664,8 +667,6 @@ Z-report shows the cash drawer balance in a certain time like a shift or a worki
 
 The Z-report will be refreshed to serve new shift/working day after you select Close Store. Particularly, your cash drawer will be reset to 0 or to the certain amount that you set up in Cash Left. Each Z-report is automatically saved in Magento backend so you can check it back (go to Sales > Web POS > Web POS Z-report)
 
-
-We hope that this manual is useful to help you master Magestore Web POS for Magento. If you have any concern, feel free to _send us your questions_, we would be glad to assist you. Enjoy making sales 10x times faster!
 ---------------
 ## Release Note 
 ### Version 3.1.0 (released on Oct 5th, 2017)
@@ -687,7 +688,7 @@ Provide more custom shipping method
 ### Version 3.0.3 (updated on Apr 28th, 2017)
 Hide Reward point, gift card discount field when checkout without using point or gift card
 
-Always show view product information icon in tablet
+<a href="#p3">Always show view product information icon in tablet</a>
 
 Reload order list & order detail after finished an action (cancel, ship, refund, invoice & take payment)
 
@@ -701,7 +702,7 @@ Add missing translation labels in .html file
 
 ### Version 3.0.1 (updated on Mar 20th, 2017)
 
-Do not show disabled categories in Webpos
+<a href="#p4">Do not show disabled categories in Webpos</a>
 
 Optimize product image size in Webpos
 
@@ -710,25 +711,25 @@ Save & store data in IndexedDB browser
 
 Being updated with new design & interface
 
-Quick view product description
+<a href="#p3">Quick view product description</a>
 
 Support partial payment - pay part of the order value & pay the due amount later
 
 Enable partial shipment - ship in 1, 2 or more consignments
 
-Being compatible with customer pole display (Hot)
+Being compatible with customer pole display 
 
-Show sales reports by staff, sales location or by payment method
+<a href="#p1">Show sales reports by staff, sales location or by payment method</a>
 
 ### Version 2.3.2 (updated on April 22, 2016)
 
 New API key to connect with Retailer POS app for iOS
 
-View customers’ order history
+<a href="#p2">View customers’ order history</a>
 
 Enable reload orders: add to cart items from an old order
 
-View sales report from Web POS screen
+<a href="#p1">View sales report from Web POS screen</a>
 
 ----------
 **_Confidential Information Notice_**
