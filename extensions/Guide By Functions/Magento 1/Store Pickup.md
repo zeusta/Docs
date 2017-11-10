@@ -333,6 +333,8 @@ The configuration is divided into 4 groups including **General**, **Store List**
 	-	**Unit of distance**: select unit to measure distance between store and customer as Kilometers or Miles
 
 - 	**Checkout:**
+<a name="p10"> </a>
+
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image046.png?raw=true)
 	-	**Carrier Title**: The title shown in Shipping Method stage at checkout.
 	-	**Method Title**: Method title is shown in Shipping Method stage at checkout
