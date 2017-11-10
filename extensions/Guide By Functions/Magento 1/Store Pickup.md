@@ -19,6 +19,7 @@ Magento [Store Pickup](https://www.magestore.com/store-locator-pickup) is one mo
 Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the **Store Pickup** module.
 
 ### View Store Information
+<a name="p6"> </a>
 
 Store Pickup module creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on **Our Stores** on Top-Link (the top right of the page) or Footer-Link (the bottom of the page).
 
@@ -60,11 +61,12 @@ The main function of Store Pickup module is allowing customers to select a prefe
 - In the **Shipping method** tab at checkout, customers can select ***Store Pickup*** as their shipping option. Then customers can select a store from the dropdown list: 
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image011.png?raw=true)
+<a name="p2"> </a>
 
 Or customers can select on Google map as bellow:
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image012.png?raw=true)
-
+<a name="p7"> </a>
 On the G-Map popup, customer needs to select a store on store list or search store that they want, after that click on the **Apply** button to apply or click on **Close** button to cancel.
 
 - After selecting a store, customers need to choose a specific shipping date and time for arrival, and then check out as usual by clicking on the **Continue** button.
@@ -146,6 +148,7 @@ In the back-end, go to **Store Pickup** → **Manage stores.** The **Store Manag
 #### Add Store
 
 Click on the **Add Store** button on the top right corner of the **Store Manager** page. You will be navigated to the **Add Store** page, which includes 3 tabs: ***General Information***, ***Time Schedule*** and ***Customer Messages***.
+<a name="p16"> </a>
 
 -	**General Information** tab: 
 This tab has 3 sessions: Store Information, Contact Information and Google Map. 
@@ -153,13 +156,15 @@ This tab has 3 sessions: Store Information, Contact Information and Google Map.
 ✓ Fill store’s name, shipping fee, address and description in **Store Information** session. You can select tags if you want your customers can search this store by tags.
 	
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image026.png?raw=true)
+<a name="p5"> </a>
 
 ***Tips:** You can input content for the **Description** field in HTML for better display in frontend, such as customized format, attached links.
 
 ✓ In **Contact Form** session, it allows you to enter information of store’s manager such as email address, phone number, etc. so customers will know how to contact if needed. You can configure to enable automatic emails sent to the store manager when pickup orders’ status is changed.
+<a name="p14"> </a>
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image027.png?raw=true)
-
+<a name="p9"> </a>
 You can also upload store images to show on the **Store Detailed** page. The image chosen as Base Image is used on the **Store Listing** page as well.
 
 ✓	**Google Map** session, you can fill in coordinates and set color of the store’s pin shown on Google map, which is very helpful as you can highlight any store from others just with a different pin color.
@@ -167,6 +172,7 @@ You can also upload store images to show on the **Store Detailed** page. The ima
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image028.png?raw=true)
 
 - **Time Schedule** tab: 
+<a name="p11"> </a>
 
 When customers want to pick up products at a specific store, they need to know the suitable time to arrive. This tab helps you set store’s opening time for that purpose. Let’s take Monday for example:
 
@@ -191,6 +197,7 @@ After entering all required information, click on the **Save Store** or **Save A
 #### Import Store
 
 Click on the **Import Store** button on the top right corner of the **Store Manager** page. You will be navigated to the **Import File** page.
+<a name="p12"> </a>
 
 - 	**CSV file structure**
 You can download the sample “stores.csv” file to view its structure. The columns are attribute values of the store and each row corresponds to one store. The title row (first row) contains the attribute name; you can note it (important!) because the system reads data from CSV files based on the name. If the attribute value of any stores is null, you don’t have to fill data in to it.
@@ -223,6 +230,7 @@ This tab shows you all pickup orders of this store.
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image033.png?raw=true)
 
 ### Manage Holidays
+<a name="p8"> </a>
 
 To set days off for your stores, go to **Store Pickup** → **Manage Holidays**. You will be navigated to the **Holiday Manager** page listing all holidays created. Click on **Add Holiday** button to create a new one.
 
@@ -239,7 +247,8 @@ Remember to click on the **Save Item** button after entering required fields to 
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image035.png?raw=true)
 
-###	Manage Special Days
+### Manage Special Days
+<a name="p13"> </a>
 
 To set days with special working time for your stores, go to **Store Pickup** → **Manage Special Days**. You will be navigated to the **Special Day Manager** page listing all special days created. Click on the **Add Special Day** button to create a new one.  
 
@@ -257,9 +266,10 @@ On the **Add Special Day** page:
 
 Remember to click on the **Save Item** button to save your work. 
 
-*** Note:** Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.
+**_Note_:** Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.
 
-###	Manage Tags
+### Manage Tags
+<a name="p15"> </a>
 
 This page shows the list of tags that you added. This tags list will be shown on the Store listing page to your customers can filter stores by them.
 
@@ -271,7 +281,7 @@ To add a new tag, please click on **Add Tag** button, the Add Tags page will be 
 
 After that, remember to save your work by clicking on **Save Tag** button or **Save And Continue Edit** button.
 
-###	View Pickup Orders
+### View Pickup Orders
 
 To view pickup orders in backend:
 
@@ -284,8 +294,8 @@ To view pickup orders in backend:
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image041.png?raw=true) 
 
-###	Receive Notification Emails about Pickup Orders
-
+### Receive Notification Emails about Pickup Orders
+<a name="p3"> </a>
 After customers place orders with the in-store pickup option, notification emails will be sent to the store manager and the web administrator.
 
 - Email sent to the store manager:
@@ -313,6 +323,8 @@ The configuration is divided into 4 groups including **General**, **Store List**
 
 
 - **Store List**: 
+<a name="p10"> </a>
+
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image045.png?raw=true)
 	- **Description**: enter description that will be shown on the Store Listing page
 	-	**Search Tab**: select types of search tabs that will be shown on the search form.
@@ -343,31 +355,31 @@ After configuring all fields, click on the **Save Config** button to save your w
 
 ### Version 4.1 (Updated on 8 July 2015)
 
-Updated responsive interface (Hot)
+Updated responsive interface 
 
-Allow adding shipping fee for each store
+<a href="#p16">Allow adding shipping fee for each store</a>
 
-Allow adding lunch break time for each store
+<a href="#p11">Allow adding lunch break time for each store</a>
 
-Allow adding store tags
+<a href="#p15">Allow adding store tags</a>
 
-Allow uploading preferred image for store pin icon shown on Google Map
+<a href="#p14">Allow uploading preferred image for store pin icon shown on Google Map</a>
 
 ### Version 4.0 (upgraded on Apr 29th 2014)
 
-Allow setting special days with special working time for selected stores
+<a href="#p13">Allow setting special days with special working time for selected stores</a>
 
-Allow setting holidays as a period of time
+<a href="#p8">Allow setting holidays as a period of time</a>
 
-Allow setting holidays for multiple stores at once
+<a href="#p8">Allow setting holidays for multiple stores at once</a>
 
-Allow adding Date and Time to CSV files when importing stores
+<a href="#p12">Allow adding Date and Time to CSV files when importing stores</a>
 
-Allow applying Monday time schedule to other days when creating/ editing stores
+<a href="#p11">Allow applying Monday time schedule to other days when creating/ editing stores</a>
 
-Allow calculating distance by miles or kilometers
+<a href="#p10">Allow calculating distance by miles or kilometers</a>
 
-Customize store’s pin color on Google Map
+<a href="#p9">Customize store’s pin color on Google Map</a>
 
 Rewrite stores’ URLs instead of using store ID to make them more friendly
 
@@ -379,9 +391,9 @@ Sort stores in selector by distance at checkout
 
 Allow Customers to choose pickup time only after choosing a store and a pickup date
 
-Disable store’s days off on calendar
+<a href="#p8">Disable store’s days off on calendar</a>
 
-Show pickup date and time in Shipping Method review (right column on checkout page)
+<a href="#p7">Show pickup date and time in Shipping Method review (right column on checkout page)</a>
 
 ### Version 3.9 (upgraded on Jul 16th 2013)
 
@@ -395,7 +407,7 @@ Work with the new version of Google Maps API.
 
 ### Version 3.5 (upgraded on Dec 17th 2012)
 
-Add multi-store features.
+<a href="#p6">Add multi-store features.</a>
 
 ### Version 3.4 (upgraded on Oct 12th 2012)
 
@@ -406,15 +418,15 @@ Add feature of paging for all store views page.
 ### Version 3.3 (upgraded on Oct 1st 2012)
 
 
-Add function of sending email to store owner when order status is changed.
+<a href="#p5">Add function of sending email to store owner when order status is changed.</a>
 
-Allow admin to choose default store when customer checks out by store pickup
+<a href="#p4">Allow admin to choose default store when customer checks out by store pickup</a>
 
 ### Version 3.2 (upgraded on Aug 23th 2012)
 
 Allow administrator to add image(s) to all store showrooms.
 
-Enable customers to contact both store owner and admin via email.
+<a href="#p3">Enable customers to contact both store owner and admin via email.</a>
 
 ### Version 3.1 (upgraded on Jul 2nd 2012)
 
@@ -436,7 +448,7 @@ Optimize the speed of loading stores in checkout page.
 
 <a href="#p1">Show Google map on the store list page. Customers can view all searched stores on the map.</a>
 
-Show Google map on the checkout page. Customers can select shipped store by clicking store on the map.
+<a href="#p2">Show Google map on the checkout page. Customers can select shipped store by clicking store on the map.</a>
 
 ### Version 1.4 (upgraded Feb 25th 2011)
 
