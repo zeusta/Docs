@@ -51,6 +51,7 @@ For more details of a store, customers can click on its **View more info** link 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image010.png?raw=true)
 
 As you can see, this page shows all details that customers want to know about a store before arriving, such as location, contact info, working time, description and store images. 
+
 They can also view list of special days & holidays in **Special day & Holiday information** tab.
 Conveniently, they can email store manager by filling in the contact form then clicking on **Submit**.
 
@@ -70,6 +71,7 @@ Or customers can select on Google map as bellow:
 On the G-Map popup, customer needs to select a store on store list or search store that they want, after that click on the **Apply** button to apply or click on **Close** button to cancel.
 
 - After selecting a store, customers need to choose a specific shipping date and time for arrival, and then check out as usual by clicking on the **Continue** button.
+
 If the shipping date is one of store’s holidays, customers will get a message notifying them to choose another date. Thus, they can avoid arriving on the store’s days off. You can refer to section **"Manage Holidays"** to know how to set up these holidays.
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image013.png?raw=true)
@@ -286,6 +288,7 @@ After that, remember to save your work by clicking on **Save Tag** button or **S
 To view pickup orders in backend:
 
 - Go to **Sales** → **Orders** on the menu, choose the order in which the shipping name is the same as the pickup store’s name.
+
 - In the **Information** tab, you can see the information about shipping address changed to the address of pickup store and attached with a map location.
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image040.png?raw=true) 
@@ -326,11 +329,11 @@ The configuration is divided into 4 groups including **General**, **Store List**
 <a name="p10"> </a>
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image045.png?raw=true)
-	- **Description**: enter description that will be shown on the Store Listing page
-	-	**Search Tab**: select types of search tabs that will be shown on the search form.
-	-	**Store Search**: select the information customers can select when they search by area
-	-	**Maximum Radius**: enter the maximum radius that you allow your customer to search
-	-	**Unit of distance**: select unit to measure distance between store and customer as Kilometers or Miles
+	- **Description**: enter description that will be shown on the Store Listing page<br/>
+	-	**Search Tab**: select types of search tabs that will be shown on the search form.<br/>
+	-	**Store Search**: select the information customers can select when they search by area<br/>
+	-	**Maximum Radius**: enter the maximum radius that you allow your customer to search<br/>
+	-	**Unit of distance**: select unit to measure distance between store and customer as Kilometers or Miles<br/>
 
 - 	**Checkout:**
 <a name="de4"> </a>
