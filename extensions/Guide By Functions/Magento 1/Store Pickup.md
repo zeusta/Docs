@@ -333,7 +333,7 @@ The configuration is divided into 4 groups including **General**, **Store List**
 	-	**Unit of distance**: select unit to measure distance between store and customer as Kilometers or Miles
 
 - 	**Checkout:**
-<a name="p10"> </a>
+<a name="de4"> </a>
 
 ![enter image description here](https://github.com/Magestore/Docs/blob/master/extensions/Guide%20By%20Functions/Magento%201/image_Store%20Pickup/image046.png?raw=true)
 	-	**Carrier Title**: The title shown in Shipping Method stage at checkout.
@@ -422,7 +422,7 @@ Add feature of paging for all store views page.
 
 <a href="#p5">Add function of sending email to store owner when order status is changed.</a>
 
-<a href="#p4">Allow admin to choose default store when customer checks out by store pickup</a>
+<a href="#de4">Allow admin to choose default store when customer checks out by store pickup</a>
 
 ### Version 3.2 (upgraded on Aug 23th 2012)
 
