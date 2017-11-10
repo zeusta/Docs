@@ -44,6 +44,8 @@ After placing an order successfully, Customers can check their point balance rig
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image007.png?raw=true)
 
+<a name="p2"> </a>
+
 ###	How to spend points
 
 On **Shopping Cart** and **Checkout** pages, Customers can move the slide forwards or backwards to select the number of points they would like to spend. They can also just click on the **Minus** or **Plus** icons. Besides, they can enter this number in the empty box or tick the checkbox “**Maximize my discount with points**” to spend the maximum number of points. 
@@ -179,6 +181,7 @@ There are two ways to change point balances of customers.
 
 ![enter image description here](./image_Reward%20Point%20Plus%20Standard%20Edition/image028.png?raw=true)
 
+ <a name="p1"> </a>
  
  - Another way is that you can change point for many customers at the same time by importing points from csv file. Go to **Reward Points > Manage Point Balances**. On this page, the list of customers will be shown with **Point Balance** column. 
 
@@ -302,19 +305,20 @@ Insert reward field to soap api v2
 
 ### Version 2.5 (updated on Sept 24, 2015)
 
-Add point import/export function to Standard Edition (Hot)
+<a href="#p1">Add point import/export function to Standard Edition</a>
  
-Allow customers to set coupon code & url by themselves (Refer Friend plugin) (Hot)
+Allow customers to set coupon code & url by themselves (Refer Friend plugin) 
 
-Set specific products to be purchased by points only (Rule plugin) (Hot)
+Set specific products to be purchased by points only (Rule plugin) 
 
-Reward customers for their sharing on Pinterest (Behavior plugin) (Hot)
+Reward customers for their sharing on Pinterest (Behavior plugin) 
 
-Allow showing earning rules on Shopping Cart page (Rule plugin)
+<a href="#p2">Allow showing earning rules on Shopping Cart page (Rule plugin)</a>
 
 Allow customers to auto join different loyalty groups (Loyalty Level plugin)
 
 Optimize backend configuration for quick & easy-to-understand settings
+
 ----------------------------
 **_Confidential Information Notice_**
 
