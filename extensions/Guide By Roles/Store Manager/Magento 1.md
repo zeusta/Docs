@@ -78,7 +78,7 @@ In the “POS Report”:
 
 ![Guide by role](./M1/top%204.png?raw=true)  
 
-## FOR ECOMMERCE MANAGER ##
+## FOR ECOMMERCE MANAGER 
 This section is the separated guide for Store Manager only. 
 All the tasks which will be involved in the system by Store Manager will be included in this guide, so that you can approach all the role responsibilities and capabilities better and more insight. 
 
@@ -98,7 +98,7 @@ Here are the Store Manager authorities:
 
 NOTE: This function is now available on Magento M2 and will be updated for Magento M1 soon. 
  
-### POS Order ##
+### POS Order 
 
  - Manager can **search product** and search quantity on hands 
 Users can enter terms or scan barcode to search products
@@ -136,14 +136,14 @@ Tap the **human icon** > “**Create Customer**”
  ![Manager can checkout](./M1/anh%202%20m1%20.png?raw=true) 
 
 
-### POS Return Order ##
+### POS Return Order 
 
  - Manager can search old orders and check the Return Policy 
  
  ![POS Return Order](./M1/anh%2010%20m1%20.png?raw=true) 
  ![POS Return Order](./M1/anh%2011%20m1%20.png?raw=true) 
  
-#### Z- Report ##
+#### Z- Report
 Store Manager can also be able to view and manage the Z-report in the system: 
 
 [1] You can export all the data of shift ID, Staff, POS location and session information to a .CSV file and use it for further business analysis. 
@@ -152,7 +152,7 @@ Store Manager can also be able to view and manage the Z-report in the system:
 
 ![Z- Report](./M1/image041.png?raw=true)  
 
-## FOR SALES STAFF ##
+## FOR SALES STAFF 
 Those sections below will show readers detailed instruction for Sales Staff(s). 
 
 In brief, we will list out all the responsibilities for this role to help readers gain the main information easily. Those are including: 
@@ -169,7 +169,7 @@ In brief, we will list out all the responsibilities for this role to help reader
 	 - Search Old Order & Check Return Rule 
 	 - Create Return Order 
 	
-### POS Order ##
+### POS Order
 Sales staffs do not often have the permission to manage working session.  They will be able to make orders for customers at the point of sale. 
 The following will list out all the capabilities of sale staff at the point of sale: 
 
@@ -208,13 +208,12 @@ Here is the detailed instruction:
  
  ![Payment & Shipping Method](./M1/anh%208%20m1%20.png?raw=true) 
 
-### Return Order ##
-
+### Return Order 
  - Sales Staffs can search old orders and check the Return Policy 
  
 ![Return Policy](./M1/anh%2010%20m1%20.png?raw=true)
 
-## Cashier POS ##
+## Cashier POS 
 It is the only role who has authority as much as Store Manager.
 
 This position could access most of the activities in this system like Store Mangager except the right to reach Advanced Report. 
@@ -232,7 +231,7 @@ Those actions they can take is totally as same as Manager POS:
  - Take Money Out
  **NOTE:** This function is available on Magento M2 and will be updated for Magento M1 soon. 
 
-### POS Order ##
+### POS Order 
 It’s so obvious to see that Cashier is a position which directly connect and serve customers in store. 
 Most steps in customer purchasing process are accomplished by Cashier. 
 For instance:
