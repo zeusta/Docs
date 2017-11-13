@@ -107,6 +107,8 @@ In field Resource Access, you can choose **Custom or All**. Choose All if you wa
 
 
 When finishing editing, please click on **Save** or **Save And Continue Edit** button to save the change.
+<a name="p2"> </a>
+
 ### How to connect Web POS with peripheral devices
 Magestore Web POS module can connect with **Barcode readers, Card swiper, Receipt printer & Customer pole display**.<br/>
 - 	Barcode readers: any devices that connect with ipad/laptop/pc (no matter through usb port, wifi or bluetooth) - as long as the scanner can read barcodes & fill encoded information into Web POS search box.<br/>
@@ -170,6 +172,7 @@ To reload data, go to Setting > Synchronization then choose Reload (to reload ea
 - 	**Notes**:
 	
 For data storage, in case the user closes his browser or restarts the system, Web POS still keeps all previous data so he can continue working without any problem.
+<a name="p1"> </a>
 
 ### How to filter & search products quickly
 In POS screen, you can configure to search products by going to **Setting > General**<br/>
@@ -219,15 +222,16 @@ To remove products in cart one by one, click on **“x”** button of the corres
 ![WebPOS](./Web%20POS%20Image/image030.png)
 
 ### How to add a custom sale item to cart
-####	What is custom sale item & what it is for
+#### What is custom sale item & what it is for
 Custom sale item is the item that Web POS user creates when checkout. It is used when the product hasn’t been added to the system or Web POS user cannot find it in the product list.
 
-####	How to add Custom Sale to cart
+#### How to add Custom Sale to cart
 In frontend, click on **Custom Sale** button if you want to add the custom product to cart.
+<a name="p4"> </a>
 
 ![WebPOS](./Web%20POS%20Image/image031.png)
 
-A screen will be shown for you to configure this custom product
+A screen will be shown for you to configure this custom product<br/>
 -	**Name**: Enter the name of custom product<br/>
 -	**Price**: Enter the price of this product<br/>
 -	**None/ Taxable Goods**: Choose whether the product is subject to sales tax or not.<br/>
@@ -359,7 +363,7 @@ After choosing payment method, click on **Place Order** button to complete check
 
 ![WebPOS](./Web%20POS%20Image/image051.png)
 
-###	Split & Partial Payment with Web POS
+### Split & Partial Payment with Web POS
 
 **How to make payment via Web POS using multiple methods (split payment)** 
 You can use more than 1 payment method for split payments when checkout with Web POS. Let me give you an example.
@@ -407,9 +411,10 @@ The receipt will look like the screenshot below:
 
 And here is the email of order information:
 
-![WebPOS](./Web%20POS%20Image/image060.png)
 
-### 3.14. How to review orders
+![WebPOS](./Web%20POS%20Image/image060.jpg)
+
+### How to review orders
 In POS screen, you can review orders by choosing **Order History** tab. Here you can see the order list **and** order details: 
 
 ![WebPOS](./Web%20POS%20Image/image061.png)
@@ -542,6 +547,7 @@ The Sales by payment method for location displays the number of orders and sales
 
 ![WebPOS](./Web%20POS%20Image/image083.png)
 
+<a name="p3"> </a>
 
 ### How to manage working shift
 In version for Magento 2, Web POS dives deeper into working shift management with Z-report after each working shift.<br/>
@@ -579,7 +585,7 @@ Z-report shows the cash drawer balance in a certain time like a shift or a worki
 ## Release Note 
 ### Version 2.0.0 (released on Oct 10th, 2017)
 
-Working session management feature (open session, close session)
+<a href="#p3">Working session management feature (open session, close session)</a>
 
 Open cash drawer without print receipt
 
@@ -595,7 +601,7 @@ Allow auto print receipt in offline mode
 
 Allow to enable/ disable custom order number format
 
-Allow to config default tax of custom sale item
+<a href="#p4">Allow to config default tax of custom sale item</a>
 
 Allow to clear offline data of WebPOS by clicking on Reset-Local-Database button
 
@@ -604,8 +610,6 @@ Allow to clear offline data of WebPOS by clicking on Reset-Local-Database button
 Support online mode (real-time sync data)
 
 Integrate with Paypal Pro
-
-Remove 'pub' folder in extension package
 
 ### Version 1.1.3 (updated on Apr 15th 2017)
 
@@ -625,7 +629,7 @@ Allow to hold product when hold Order
 
 ### Version 1.1.1 (updated on Feb 10th 2017)
 
-Integrate with Customer Pole Display device
+<a href="#p2">Integrate with Customer Pole Display device</a>
 
 Support PayPal (Pay by credit card, PayPal account & sending PayPal invoice via email)
 
@@ -641,13 +645,13 @@ Integrate with Reward Point
 
 Allow color swatch for products
 
-Enable/disable displaying invisible product on Web POS screen
+<a href="#p1">Enable/disable displaying invisible product on Web POS screen</a>
 
 ---------
 
 **_Confidential Information Notice_**
 
-Copyright 2016. All Rights Reserved. 
+Copyright 2016. All Rights Reserved.Any unauthorized reproduction of this document is prohibited. 
 
-Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
 
