@@ -29,13 +29,14 @@ To change logo of Web POS, go to **Sales > Web POS > Settings > General Configur
 After finishing, click on **Save or Save And Continue Edit** button to save your work.
 
 ### How to set up a shipping method for Web POS
+<a name="p5"> </a>
 
 To set up Shipping Methods for Web POS, go to **System > Configuration > Shipping for POS**, the following page will be shown as below:
 ![Shipping for POS panel](./Image_Web%20POS/image009.jpg)
 
 -	**Offline Shipping Methods**: Hold Shift + Click to choose the payment methods used for POS.
 
--	**Default Shipping Methods**: Choose the payment methods you want to set as default for POS.
+-	**Default Shipping Methods**: Choose the shipping methods you want to set as default for POS.
 
 ### How to enable a payment method for Web POS
 
@@ -194,6 +195,7 @@ Then, click on **My Account** link and the user can see his information. He can 
 ![My Account panel](./Image_Web%20POS/image045.jpg)
 
 ### How a Web POS user deletes/ reloads data in local manually
+<a name="p7"> </a>
 
 -	**When to use:**
 
@@ -441,6 +443,7 @@ You can use more than 1 payment method for split payments when checkout with Web
 ![Cash in & Remain money fields](./Image_Web%20POS/image102.jpg)
 
 -	For the remaining ($206.04), your customer wants to pay by Custom payment 1. So, at this time, you click on the **Add Payment** button and choose **Custom payment 1**. The remaining amount ($206.04) will be automatically filled in the box.
+<a name="p6"> </a>
 
 ![Add another payment](./Image_Web%20POS/image104.jpg)
 
@@ -674,16 +677,15 @@ The Z-report will be refreshed to serve new shift/working day after you select C
 ### Version 3.0.5 (released on Jun 20th, 2017)
 Integrate with Pay.nl payment
 
-Allow to sync orders from Webpos by manual
+<a href="#p7">Allow to sync orders from Webpos by manual</a>
 
 Add more labels to translation file
 
 ### Version 3.0.4 (updated on May 23th, 2017)
-Integrate with Magestore PDF Invoice extension
 
-Save payment method code to Order when do not use split payment
+<a href="#p6">Save payment method code to Order when do not use split payment</a>
 
-Provide more custom shipping method
+<a href="#p5">Provide more custom shipping method</a>
 
 ### Version 3.0.3 (updated on Apr 28th, 2017)
 Hide Reward point, gift card discount field when checkout without using point or gift card
