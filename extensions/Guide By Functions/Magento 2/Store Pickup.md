@@ -237,6 +237,8 @@ And to apply this schedule to various stores, navigate to **Stores of Schedule**
 ![SP](./Store%20Pickup%20Image/image036.png)
 
 ### View Pickup Orders
+<a name="p1"> </a> 
+
 To view pickup orders in backend:<br/>
 •	Go to **Sales > Orders** on the menu, choose the order in which the shipping name is the same as the pickup store’s name.<br/>
 •	In the **Information tab**, you can see the information about shipping address changed to the address of pickup store and attached with a map location.<br/>
@@ -287,7 +289,7 @@ Compatible with Magento 2.2
 
 ### Version 1.1.0 (released on Jul 24th, 2017)
 
-Send notification email to store owner & administrator when there is an order using store pickup
+<a href="#p1">Send notification email to store owner & administrator when there is an order using store pickup</a>
 
 ### Version 1.0.0 (released on Feb 24th, 2016)
 
