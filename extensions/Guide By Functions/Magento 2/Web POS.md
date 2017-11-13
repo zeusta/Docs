@@ -137,7 +137,7 @@ Then follow these steps:
     + Run CDM21224_Setup.exe and install it to your computer<br/>
 - **Step** 3: Run the Pole Integration.exe file:<br/>
 
-![WebPOS](./Web%20POS%20Image/image019.png)
+![WebPOS](./Web%20POS%20Image/image018.png)
 
 
 You need to open this program when using Web POS to use customer pole display.
