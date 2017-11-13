@@ -14,7 +14,7 @@ Magestore Team
 
 
 ----------
-## Permission Metrix  ##
+## Permission Metrix  
 
 The working process of POS System from Magestore is devided into 3 sections:
 
@@ -25,7 +25,7 @@ The working process of POS System from Magestore is devided into 3 sections:
 In each part, the responsibility for each position in your store is different. 
 Here is the detailed assignment: 
 
-### Store Manager  ##
+### Store Manager  
 
 This position takes part in almost actions on this POS System throughout 4 steps: 
 In the step of “Session Management”: involved in all the actions 
@@ -37,7 +37,7 @@ In the step “POS Return Order”: involved in all the actions of this step exc
 
 In the “POS Order”: Involved in all the actions. 
 
-### Sales Staff ##
+### Sales Staff 
 
 This position will undertake those tasks: 
 In the step of “Session Management”: not involved 
@@ -59,7 +59,7 @@ In the Step of “POS Return Order”
 
 In the step of “POS Report”: not involved 
 
-### Store Cashier###
+### Store Cashier
 Store Cashier will take those tasks: 
 In the step of “Session Management”: involved in all the actions. 
 
@@ -79,7 +79,7 @@ In the “POS Report”:
 
 ![Guide by role](./IM/image001.png?raw=true)
 
-## FOR STORE MANAGER ##
+## FOR STORE MANAGER 
 This section is the separated guide for Store Manager only. 
 All the tasks which will be involved in the system by Store Manager will be included in this guide, so that you can approach all the role responsibilities and capabilities better and more insight. 
 
@@ -119,7 +119,7 @@ Once again, the window will be popped-up to help you make sure about all the dat
 
 Click “**Confirm**” to close the Session successfully. 
  
-### POS Order ##
+### POS Order 
 
  - Manager can **search product** and search quantity on hands 
 Users can enter terms or scan barcode to search products
@@ -155,20 +155,20 @@ Tap the **human icon** > “**Create Customer**”
  ![ Manager can checkout ](./IM/R15.png?raw=true)
 
 
-### POS Return Order ##
+### POS Return Order 
 
  - Manager can search old orders and check the Return Policy 
  ![search old orders and check the Return Policy ](./IM/R25.png?raw=true)
  ![search old orders and check the Return Policy ](./IM/R26.png?raw=true)
  
-###Z- Report ##
+###Z- Report
 Store Manager can also be able to view and manage the Z-report in the system: 
 
 [1] You can export all the data of shift ID, Staff, POS location and session information to a .CSV file and use it for further business analysis. 
 [2] The data of working session will be recorded and automatically sent to this Z-report in the backend system of WebPOS. 
 ![Z- Report](./anh/image041.png?raw=true)
 
-## FOR SALES STAFF ##
+## FOR SALES STAFF
 Those sections below will show readers detailed instruction for Sale Staff(s). 
 
 In brief, we will list out all the responsibilities for this role to help readers gain the main information easily. Those are including: 
@@ -185,7 +185,7 @@ In brief, we will list out all the responsibilities for this role to help reader
 	 - Search Old Order & Check Return Rule 
 	 -	Create Return Order 
 	
-### POS Order ##
+### POS Order 
 Sales staffs do not often have the permission to manage working session.  They will be able to make orders for customers at the point of sale. 
 The following will list out all the capabilities of sale staff at the point of sale: 
 
@@ -216,13 +216,13 @@ Here is the detailed instruction:
  - They can choose Payment & Shipping Method
  ![Payment & Shipping Method](./IM/R21.png?raw=true)
 
-### Return Order ##
+### Return Order 
 
  - They can search old orders and check the Return Policy 
 
 ![search old orders and check the Return Policy](./IM/R25.png?raw=true)
 
-## Cashier POS ##
+## Cashier POS 
 It is the only role who has authority as much as Store Manager.
 
 This position could access most of the activities in this system like Store Mangager except the right to reach Advanced Report. 
@@ -248,7 +248,7 @@ Those actions they can take is totally as same as Manager POS:
 
 *(All the pictures demonstrate for those actions is similar to the section for Ecommerce Manager)* 
 
-### POS Order ##
+### POS Order 
 It’s so obvious to see that Cashier is a position which directly connect and serve customers in store. 
 Most steps in customer purchasing process are accomplished by Cashier. 
 For instance:
