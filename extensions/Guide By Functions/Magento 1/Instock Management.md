@@ -398,6 +398,6 @@ Release stable rebuilt version of Inventory Management
 -----
 **_Confidential Information Notice_**
 
-Copyright 2017. All Rights Reserved. 
+Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
-Any unauthorized reproduction of this document is prohibited. This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
+This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.
