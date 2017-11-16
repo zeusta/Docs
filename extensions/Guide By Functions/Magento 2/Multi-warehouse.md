@@ -20,7 +20,7 @@ If your inventory is not enough to supply, you may lose customer. But if the inv
 
 #### Stocks in Warehouse
 
-Path: **Inventory Management > Stock Listing > Stocks in Warehouse**
+Path: **Inventory Management > Stock Listing** section **> Stocks in Warehouse**
 
 ![stock in warehouse page](./inventoryimages/im5.png)
 
@@ -39,7 +39,7 @@ Admin can easily update stock and shelf location right on the Inventory grid jus
 
 #### Non-warehouse product
 
-Path: **Inventory Management > Stock Listing > Non-warehouse Products**
+Path: **Inventory Management > Stock Listing** section **> Non-warehouse Products**
 
 When a product is newly created and not assigned to any warehouse yet, it will be automatically allocated in Non-warehouse. From here admin can select the product and add it into a specific warehouse.
 
@@ -65,7 +65,7 @@ Admin can **Add New Warehouse** then fill all information including warehouse na
 
 #### Supply Needs
 
-Path: **Inventory Management > Prediction > Supply Needs**
+Path: **Inventory Management > Prediction** section **> Supply Needs**
 
 ![Add product to multiple warehouses](./inventoryimages/im8.png)
 
@@ -89,21 +89,21 @@ The Supply Need Forecast can be exported to CSV or XML file and printed into PDF
 
 #### Low Stock Notifications
 
-Path: **Inventory Management > Prediction > Low Stock Notifications**
+Path: **Inventory Management > Prediction** section **> Low Stock Notifications**
 
 Low Stock notifications listing displays warning messages about the products which are nearly out of stock in warehouses. It shows all notification with information including Sent at, Update Type, Email received, Recipients and Action. Each notification log can show details of all products that have been low stock including Name, SKU, Image, Qty Notified and Time Notified.
 
 #### Low Stock Rules
 
-Path: **Inventory Management > Prediction > Low Stock Rules**
+Path: **Inventory Management > Prediction** section **> Low Stock Rules**
 
 Admin can create unlimited rules to notify low stock. One rule contains: **Rule information**, **Condition** and **Action**.
 
 ![control low stock rule](./inventoryimages/im8-2.png)
 
-1.	**Rule information:** You can fill in Rule name, description, status, validation date, time that you want to get notification.
+(1)	**Rule information:** You can fill in Rule name, description, status, validation date, time that you want to get notification.
 
-2.	**Condition:** There are 2 rule types for you to select: Available Days and Available Qty.
+(2)	**Condition:** There are 2 rule types for you to select: Available Days and Available Qty.
 
 With Available Days selection, the system will base on sales history of an item to predict how many days left till it will be out of stock. You can configure Sales period (history time to base on and get sale data) and Threshold day (the days before the product runs out of stock). So if you configure Threshold day as 5, system will send notification to you 5 days before this item is predicted to be out of stock so that you can prepare to purchase more stocks.
 
@@ -111,7 +111,7 @@ With Available Days selection, the system will base on sales history of an item 
 
 Besides, you can add more conditions about Product attribute for example product SKU, color, category…
 
-3.	**Action:** You can fill in the emails that you want to send the low stock notification to and warning message.
+(3)	**Action:** You can fill in the emails that you want to send the low stock notification to and warning message.
 
 ### Transfer Stock
 
@@ -119,14 +119,14 @@ Besides, you can add more conditions about Product attribute for example product
 
 ##### **Send stock:** 
 
-Path: **Inventory Management > Transfer Stock > Send Stock**
+Path: **Inventory Management > Transfer Stock** section **> Send Stock**
 
 If admin want to send stock from his warehouse to another warehouse, he can use this feature to record stock sending. The process to Send stock is: *Add new send stock > Prepare Product list > Select Products > Start Send Stock > Save Receive Stock > Mark as Completed*
 
 
 -	**Add new send stock:** Select the Source warehouse and Destination warehouse. Fill in the reason.
 
--	**Prepare the product list:** From here admin can import list of product to send or import via CSV file. Then update the qty to send. Click Start send stock to activate sending. You can see stock sending summary and download the summary.
+-	**Prepare the product list:** From here admin can import list of product to send or import via CSV file. Then update the qty to send. Click **Start Send Stock** to activate sending. You can see stock sending summary and download the summary.
 
 -	**Receive stock:** Destination warehouse can create receives by importing or selecting product then update received qty. Then click Save receive.
 
@@ -134,14 +134,14 @@ Now you can download Shortfall list – the list containing the products that th
 
 ##### **Request Stock:** 
 
-Path: **Inventory Management > Transfer Stock > Request Stock**
+Path: **Inventory Management > Transfer Stock** section **> Request Stock**
 
 If a warehouse lacks of stock, admin can create a Stock request to get stock from other warehouse. The process to request stock is: *Add new request stock > Prepare Product list > Select Products> Start Request Stock > Save Delivery Stock > Save Receive Stock > Mark as Completed*
 
 
 -	**Add new request stock:** Select the Source warehouse and Destination warehouse. Fill in the reason.
 
--	**Prepare the product list:** From here admin can import list of product to send or import via CSV file. Then update the qty to send. Click Start send stock to activate sending. You can see stock sending summary and download the summary.
+-	**Prepare the product list:** From here admin can import list of product to request or import via CSV file. Then update the qty to request. Click **Start Request Stock** to activate requesting. You can see stock requesting summary and download the summary.
 
 -	**Delivery History:** Source warehouse when receive the stock request can create a stock delivery. When a stock delivery is created, stock will be subtracted immediately from the source warehouse.
 
@@ -158,13 +158,13 @@ Moreover, if the number of **Qty** you choose is bigger than the **Qty in Wareho
 
 - **Transfer to External**
 
-Path: **Inventory Management > Transfer Stock > Transfer to External**
+Path: **Inventory Management > Transfer Stock** section **> Transfer to External**
 
 This feature allows you to handle the product which is damaged, loss or sent as free gift…You can fill in the External location, select product & Qty to send.
 
 -	**Transfer from External**
 
-Path: **Inventory Management > Transfer Stock > Transfer from External**
+Path: **Inventory Management > Transfer Stock** section **> Transfer from External**
 
 This feature allows you to accept the stocks from outside of the system. Not from another warehouse but can be from any other source. You can fill in the External location, select product & qty to receive.
 
@@ -242,7 +242,7 @@ Or you can directly adjust stock by choosing **New Stock Adjustment** on Stock C
 
 #### Stock Movement History
 
-Path: **Inventory Management > Stock Control > Stock Movement History**
+Path: **Inventory Management > Stock Control** section **> Stock Movement History**
 
 The module records all the movements of stocks in warehouse. These movements are reflected in Stock Movement report under Stock Control submenu.
 
