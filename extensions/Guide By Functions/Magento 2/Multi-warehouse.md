@@ -31,10 +31,15 @@ It can show **Available Qty**, **Qty to Ship** and **Total Qty** in each warehou
 ![update stock quantity in warehouse](./inventoryimages/im6.png)
 
 Admin can easily update stock and shelf location right on the Inventory grid just by:
+
 1. Selecting a specific warehouse;
+
 2. Selecting the products;
+
 3. Filling the updated Total Qty
+
 4. Inputing the product's Shelf location (optional) 
+
 5. Clicking **Update Stock**.
 
 #### Non-warehouse product
@@ -70,9 +75,13 @@ Path: **Inventory Management > Prediction** section **> Supply Needs**
 ![Add product to multiple warehouses](./inventoryimages/im8.png)
 
 This feature predicts how many inventory items a warehouse need for each product within a future period. 
+
 1. Select the warehouse to forecast supply needs;
+
 2. Select the sales period so that the system will calculate this number based on this sales history. 
+
 3. Select the future date so that the system will calculate if your product quantity is enough until this date.
+
 4. When your product quantity is zero, it will be automatically shown on the section **Supply Needs**. Or else, you can click on **Show Supply Needs** button. Admin can select Base On Sales to use to calculate data for supply need, fill in **Forecast Supply Needs** to the date that you want to get supply needs then it will give a product list with following information:
 
 - Qty Sold/day: average Qty of product sold per day 
