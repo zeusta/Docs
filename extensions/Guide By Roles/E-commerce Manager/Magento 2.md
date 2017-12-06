@@ -622,7 +622,7 @@ Once the refund is finished, you can check the transaction on the **Manage Trans
 
 ✓ **Path: Marketing > Gift Card > Settings**
 
-To configure default configurations and settings of the extension, please log in to backend screen, and then do the following stages as below: 
+To configure default configurations and settings of the module, please log in to backend screen, and then do the following stages as below: 
 
 ![settings in gift card](./Image_EcommerceManager/image176.png)
 
