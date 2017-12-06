@@ -22,7 +22,7 @@ This guide is specially written according to business flow which happens reguarl
 
 ![view store information](./Image_EcommerceManagement/image004.png)
 
-Store Pickup extension creates a separated page to list all of your stores in the front-end. 
+Store Pickup module creates a separated page to list all of your stores in the front-end. 
 
 1.	Click on **arrow button** on Top-Link (the top right of the page)
 
@@ -54,7 +54,7 @@ They can also view list of special days & holidays in **Special day & Holiday in
 
 #### Use Store Pickup at Checkout
 
-The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the extension works for customers.
+The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the module works for customers.
 
 ##### Choose shipping method: Delivery in Store
 
@@ -991,7 +991,7 @@ After order has been placed, customers’ credit balances will be updated immedi
 
 ✓ **Path: Marketing > Gift Card > Settings**
 	
-To configure default configurations and settings of the extension, please log in to backend screen, and then do the following stages as below.
+To configure default configurations and settings of the module, please log in to backend screen, and then do the following stages as below.
 
 ![settings in gift cards](./Image_EcommerceManagement/image270.png)
 
