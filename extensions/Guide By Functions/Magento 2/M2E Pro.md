@@ -103,7 +103,7 @@ iii.	**Return** tab
 
 •	**Return Policy** section allows you to enable return policy, and set its conditions such as the type of refund buyers will receive, the duration of which items will be returned, the fee of restocking, and so on. 
 
-Click **Save as New Policy** to complete. 
+Click **Save as New Policy** to complete this settings.
 
 ### **Step 3: Selling Settings**
 
@@ -171,7 +171,9 @@ There are several different types of Synchronization Rules that you can set on t
 •	**List Rules** define which new products should be listed on eBay.
 •	**Revise Rules** define when products currently listed on eBay should be revised.
 •	**Relist Rules** define when products that have previously been listed on eBay but aren’t currently should be relisted on eBay.
+
 -------------------------------------
+
 ##  **Assign warehouse to all M2E product listings on the marketplace**
 
 Path: **Stores > Configuration > Magestore Extension > M2esuccess Configuration**
@@ -181,18 +183,21 @@ In **M2E Pro Integration** section:
 ![m2e pro](./M2Epro_Image/image047.png)
 
 (1)	**eBay store is associated with**:  
-Select **Specify Warehouse** to allow a specific warehouse to link with your eBay store. 
 
-Select **Global Website** to link Ebay store with the primary warehouse. 
++ Select **Specify Warehouse** to allow a specific warehouse to link with your eBay store. 
+
++ Select **Global Website** to link Ebay store with the primary warehouse. 
 
 (2)	**[Ebay] Warehouse** (only available if you choose **Specify Warehouse**): choose a specific warehouse to link with your eBay store.
 
 (3)	**Amazon store is associated with**: 
-Select **Specify Warehouse** to allow a specific warehouse to link with your Amazon store. 
 
-Select **Global Website** to set Amazon store linking with primary  warehouse.
 
-** [Amazon] Warehouse** (only available if you choose Specify Warehouse): choose a specified warehouse to link with your Amazon store
++ Select **Specify Warehouse** to allow a specific warehouse to link with your Amazon store. 
+
++ Select **Global Website** to set Amazon store linking with primary  warehouse.
+
+**[Amazon] Warehouse** (only available if you choose Specify Warehouse): choose a specified warehouse to link with your Amazon store
 
 **Note**: You have two ways to assign the warehouse to your product listing:
 
@@ -229,7 +234,7 @@ The Magento Order Details will appear on another page as below:
 
 (1)	Click on the corresponding row of an eBay Order that has not been created in Magento.
 
-![m2e pro](./M2Epro_Image/image0519.png)
+![m2e pro](./M2Epro_Image/image059.png)
 
 (2)	To create order in Magento backend, click on **Create Magento Order** button on the top right of the page.
 
@@ -265,9 +270,8 @@ Search for the corresponding product title or SKU and click on **Map to This Pro
 Click **Unmap** to break the link between the eBay item and a Magento product before mapping again. 
 Every change you made to the eBay order in this eBay View Order Details page will be automatically synchronized with the Magento View Order Details page.
 
------------------------------------------The End-----------------------------------------
 
-**_Confidential Information Notice _**
+_**Confidential Information Notice **_
  
 Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. 
 
