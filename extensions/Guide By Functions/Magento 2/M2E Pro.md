@@ -15,7 +15,7 @@ It will be much better if you synchronize your Magento warehouses to your Amazon
 
 Let’s open more doors for your business by expanding your presence to these marketplaces with this M2E Pro solution now!
 
-[M2E Pro](https://www.magestore.com/magento-ebay-amazon-integration) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
+[M2E Pro - Magento Ebay/Amazon Marketplace Integration](https://www.magestore.com/magento-ebay-amazon-integration) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 -------------------------------------
 
@@ -268,8 +268,10 @@ Search for the corresponding product title or SKU and click on **Map to This Pro
 ![m2e pro](./M2Epro_Image/image071.png)
 
 Click **Unmap** to break the link between the eBay item and a Magento product before mapping again. 
+
 Every change you made to the eBay order in this eBay View Order Details page will be automatically synchronized with the Magento View Order Details page.
 
+--------------------
 
 _**Confidential Information Notice **_
  
