@@ -204,8 +204,9 @@ In **M2E Pro Integration** section:
 
 **Note**: You have two ways to assign the warehouse to your product listing:
 
--	The first way: Assign the warehouse to the product listing when creating a new product listing. Refer to **Create a new product listing** part for more details.
--	The second one: Assign the warehouse to the product listing in **Configuration**. However, this setting is only applied to the product listings which are not assigned to any warehouse. That means if you assigned the warehouse when creating a new product listing, it will overwrite options in **Configuration**.
+• The first way: Assign the warehouse to the product listing when creating a new product listing. Refer to **Create a new product listing** part for more details.
+
+• The second one: Assign the warehouse to the product listing in **Configuration**. However, this setting is only applied to the product listings which are not assigned to any warehouse. That means if you assigned the warehouse when creating a new product listing, it will overwrite options in **Configuration**.
 
 -------------------------------------
 
@@ -214,6 +215,7 @@ In **M2E Pro Integration** section:
 Path: **eBay Integration > Sales** section > **Orders**
 
 #### **View orders synchronization between eBay and Magento backend**. 
+
 If you enable the synchronization between Magento Backend and your marketplaces, you can see the order list as below when you follow the path (**eBay Integration > Sales** section > **Orders**) 
 
 ![m2e pro](./M2Epro_Image/image049.png)
