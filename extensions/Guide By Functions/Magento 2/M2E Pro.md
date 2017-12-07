@@ -15,7 +15,7 @@ It will be much better if you synchronize your Magento warehouses to your Amazon
 
 Let’s open more doors for your business by expanding your presence to these marketplaces with this M2E Pro solution now!
 
-[M2E Pro - Magento Ebay/Amazon Marketplace Integration](https://www.magestore.com/magento-ebay-amazon-integration) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
+[M2E Pro](https://www.magestore.com/magento-ebay-amazon-integration) is one module in our [Omnichannel solution](https://www.magestore.com/omnichannel-retail) for Magento retailers.
 
 -------------------------------------
 
@@ -169,7 +169,10 @@ After completing all these above fields in step 3, click on **Save as New Policy
 There are several different types of Synchronization Rules that you can set on this screen:
 
 •	**List Rules** define which new products should be listed on eBay.
+
 •	**Revise Rules** define when products currently listed on eBay should be revised.
+
+
 •	**Relist Rules** define when products that have previously been listed on eBay but aren’t currently should be relisted on eBay.
 
 -------------------------------------
@@ -226,6 +229,7 @@ When an order is placed on eBay and the corresponding Magento order is created m
 ![m2e pro](./M2Epro_Image/image053.png)
 
 The Magento Order Details will appear on another page as below:
+
 ![m2e pro](./M2Epro_Image/image055.png)
 
 #### **Process eBay orders in Magento backend**. 
