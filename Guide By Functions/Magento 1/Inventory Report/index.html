@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Magestore Documents"> 
+    <meta name="author" content="mrthinlt@gmail.com"> 
+    <link rel="canonical" href="https://docs.magestore.com/Guide By Functions/Magento 1/Inventory Report/">
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+
+    <title>INVENTORY REPORT - MAGENTO 1 - MagestoreDocs</title>
+
+    <!--<link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
+
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link href="../../../css/psinder.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+
+
+    <link href="../../../css/extra.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+</head>
+
+<body>
+    
+        <header class="site-header">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+        <div class="wap-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="wrap-nav">
+                        <div class="navbar-brand">
+                            <a class="navbar-logo" href="https://docs.magestore.com"><img src="../../../img/logo.png" alt="Magestore"></a>           
+                        </div>
+                     <div class="hidden-lg-up mobile-search-btn">
+                        <span>
+                            <i class="fa fa-search"></i>
+                            <!--<i class="fa fa-search-close">x</i>-->
+                        </span>
+                    </div>
+                    
+
+                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                            data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    
+
+        <div class="col-sm-9 col-md-9 search-box">
+                <div class="nav-item item-search">
+                    <form class="form-inline w-100" id="form-search" role="form">
+                        <input class="w-100" type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        <i class="mobile-search-close-btn">x</i>
+                    </form>
+                    <div id="mkdocs-search-results"><p>No results found</p></div>
+                </div>
+            </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav">            
+            
+            <ul class="navbar-nav navbar-left">
+                
+                
+
+                <li class="nav-item ">
+                    <a class="nav-link" href="../../..">Home</a>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Business Flow</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Ecommerce Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 1/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 2/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT   Configuration</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 1/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 2/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Inventory Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 1/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 2/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Point of Sale  POS</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 1/">POINT OF SALE - WEB POS - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 2/">WEB-BASED POINT-OF-SALE (WEBPOS) - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchase Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 2/">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu active">
+                    <a href="#">Guide By Functions</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 1</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../Barcode Management/">BARCODE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Gift Card/">GIFT CARD - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Instock Management/">INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="active">
+        <a href="./">INVENTORY REPORT - MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Multi Warehouse/">Multi Warehouse</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Purchase Management/">Purchase Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Reward Point Plus/">Reward Point Plus</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Store Credit/">Store Credit</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Store Pickup/">Store Pickup</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Web POS/">Web POS</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../quickbooks_integration/">Quickbooks integration</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 2</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Barcode Management/">Barcode Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Dropship/">Dropship</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Gift Card/">Gift Card</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Instock Management/">Instock Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/M2E Pro/">M2E Pro</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Multi-warehouse/">Multi warehouse</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Order Fulfillment/">Order Fulfillment</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Purchase Management/">Purchase Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Retailer POS/">Retailer POS</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Reward Points Plus/">Reward Points Plus</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Store Credit/">Store Credit</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Store Pickup/">Store Pickup</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Web POS/">Web POS</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Roles</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">E commerce Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchasing Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Store Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Warehouse Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+
+            </ul>
+            
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <span class="search-btn">
+                        <i class="fa fa-search"></i><!--<span>Search</span>-->
+                        <i class="fa fa-search-close">x</i>
+                    </span>
+                </li>
+
+                
+                <!--<li>
+                    <li >
+                        <a rel="next" href="../Instock Management/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../Multi Warehouse/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>-->
+                    
+                    
+                    <!--<li>
+                        <a href="https://github.com/Magestore/Docs/">
+                            
+                                <i class="fa fa-github"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                </li>-->
+                
+
+
+            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    </nav>
+</header>
+    
+    <div class="main-content">
+        
+            
+            
+        <div class="container"><div class="row">
+            <div class="col col-md-3">
+                
+                <div class="bs-sidebar nav-menu" id="sideNav">
+    <div class="sidenav-toggle"></div>
+    <ul class="nav bs-sidenav">
+        
+        <li class="toc-level-0">
+            <div data-toggle="collapse" data-target="#collapse-level-1-1">
+                <a href="#inventory-report-magento-1">INVENTORY REPORT - MAGENTO 1</a>
+            </div>
+            
+            <ul id="collapse-level-1-1" class="collapse show">
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-1">
+                        <a href="#introduction">Introduction</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-2">
+                        <a href="#sales-reports">Sales Reports</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-2" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#product-report">Product Report</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#warehouse-report">Warehouse Report</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#shipping-method-report">Shipping method Report</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#payment-method-report">Payment method Report</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-5">
+                                <a href="#order-status">Order status</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-6">
+                                <a href="#customer">Customer</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-3">
+                        <a href="#inventory-report">Inventory Report</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-3" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#value-of-stock-on-hand">Value of Stock-on-hand</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#stock-quantity">Stock Quantity</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#compare-by-warehouse">Compare by warehouse</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#incoming-stock">Incoming Stock</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-5">
+                                <a href="#history">History</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-4">
+                        <a href="#settings">Settings</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-5">
+                        <a href="#list-of-inventory-metrics">List of inventory metrics</a>
+                    </div>
+                    
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+    </ul>
+</div>
+            </div>
+            <div class="col col-md-9" role="main">
+                
+
+<h1 id="inventory-report-magento-1">INVENTORY REPORT - MAGENTO 1</h1>
+<p><strong>Version 1.0</strong></p>
+<hr />
+<h2 id="introduction">Introduction</h2>
+<p>Magestore Inventory Report module for Magento provides you with a detailed overview of your sales, stock, warehouse, suppliers. You get access to 11 types of report which are divided into 2 categories of <strong>Sales</strong> and <strong>Inventory report</strong>. They help you easily keep track your inventory system as well as your business performance.</p>
+<p>Magento <a href="https://www.magestore.com/inventory-sales-report">Inventory Report</a> is one module in our <a href="https://www.magestore.com/omnichannel-retail">Omnichannel solution</a> for Magento retailers.</p>
+<p><strong>Note</strong>: Magestore Inventory Management module is required to make Inventory Report module work properly.</p>
+<p>To view Sales and Inventory report, you go to tab <strong>Retailer Report</strong>, then choose <strong>Manage Report</strong>. All 11 types of report can be exported as CSV file.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image004.jpg" /></p>
+<hr />
+<h2 id="sales-reports">Sales Reports</h2>
+<p>Sales Reports are shown with 6 types of report including: Product report, Warehouse report, Shipping method report, Payment method report, Order Status and Customer report.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image006.jpg" /></p>
+<p>Then click to open the report you want to show. To run report with real-time statistics, you need to pay attention to these 3 factors:</p>
+<ul>
+<li><strong>Factor 1: Real-time statistics</strong></li>
+</ul>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image008.jpg" /></p>
+<p>If you do not set Auto update for sales report (read 4. Settings), you need to refresh the latest data when running report. On the left side of each sales report, there is a notice about the last update and the latest statistics, click <strong>Here</strong> to refresh data.</p>
+<ul>
+<li><strong>Factor 2: Time period</strong></li>
+</ul>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image010.jpg" /></p>
+<p>You have different options for your tracking period. You can use custom range to set the specific time you want to view report. Then click on <strong>Apply</strong>.</p>
+<ul>
+<li><strong>Factor 3: Warehouse(s)</strong></li>
+</ul>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image012.jpg" /></p>
+<p>Choose one or all the warehouses then click on Show Report to run the report.</p>
+<h3 id="product-report">Product Report</h3>
+<p>The Product report helps Magento store owners answer these all questions:</p>
+<ul>
+<li>
+<p>Which product is the best-seller today/ yesterday/ last week/ last month?</p>
+</li>
+<li>
+<p>Which products is generating the largest benefit?</p>
+</li>
+<li>
+<p>View orders' information (ID, status, Actual Sold Quantity, Potential Sold Quantity, discount, tax, profit, Cost of Goods Sold, total sales).</p>
+</li>
+</ul>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image014.jpg" /></p>
+<p>When viewing each product SKU, you see orders’ details of that product SKU.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image016.jpg" /></p>
+<p><strong>Main metrics:</strong></p>
+<ul>
+<li>
+<p>Actual Sold Quantity: Quantity of products transferred to customers (the products that have been shipped).</p>
+</li>
+<li>
+<p>Potential Sold Quantity: Quantity of products sold to customers (the products that haven't been shipped).</p>
+</li>
+<li>
+<p>Cost of Goods Sold: The direct costs attributable to the production of the goods sold</p>
+</li>
+<li>
+<p>Tax: Total tax of the whole products</p>
+</li>
+<li>
+<p>Total Sales: The total value of actual and potential sold quantity.</p>
+</li>
+<li>
+<p>Profit: The total value of actual and potential profit.</p>
+</li>
+</ul>
+<p><strong>Note:</strong> Go to part 5. List of inventory metrics to better understand the meaning &amp; calculating format of each metrics.</p>
+<p><strong>Secondary metrics:</strong></p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image018.jpg" /></p>
+<p>Click on <strong>Select Columns</strong> to add more metrics to your product report.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image020.jpg" /></p>
+<p>For example, when you tick on Payment Method, the product report additionally shows the payment information.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image022.jpg" /></p>
+<p>You can add more dimension and metrics to get more details from the report. The secondary metrics is available for all 6 types of Sales report.</p>
+<h3 id="warehouse-report">Warehouse Report</h3>
+<p>This report answers these questions:</p>
+<ul>
+<li>
+<p>Which is my top warehouse/ sales location?</p>
+</li>
+<li>
+<p>Which warehouse sells more products? Create more sales</p>
+</li>
+<li>
+<p>View data of each warehouse (order ID, status, actual sold quantity, potential sold quantity, discount, tax, profit, cost of goods sold, sales)</p>
+</li>
+</ul>
+<p>Similar to Product report, you can use secondary dimensions/ metrics to get more details.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image024.jpg" /></p>
+<p><strong>Main metrics:</strong> Actual sold quantity; potential sold quantity; cost of goods sold; tax; total sales; profit.</p>
+<h3 id="shipping-method-report">Shipping method Report</h3>
+<p>This report provides a breakdown of your sales value by shipping method within a given period. It helps you answer the question: What is the most common shipping method that customers use? It also allows you to view details of each shipping methods.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image026.jpg" /></p>
+<p>Click on <strong>View</strong> to see order list of each shipping methods.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image028.jpg" /></p>
+<p><strong>Main metrics:</strong> Shipping method; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total sales; Profit.</p>
+<h3 id="payment-method-report">Payment method Report</h3>
+<p>This report shows you which the most used payment methods is and the details of each payment methods (order ID, order status, etc.)</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image030.jpg" /></p>
+<p>Click on <strong>View</strong> to see list of order using each payment methods in details.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image032.jpg" /></p>
+<p><strong>Main metrics:</strong> Payment method; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total Sales; Profit.</p>
+<h3 id="order-status">Order status</h3>
+<p>Store owner can view the structure of orders by status and view details of each status (Order ID, sold quantity,...) with the Order status report.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image034.jpg" /></p>
+<p><strong>Main metrics:</strong> Order status; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total sales; Profit.</p>
+<h3 id="customer">Customer</h3>
+<p>The Customer report shows you your loyal customers and allows to view details of each customers (orders' ID, status, etc.).</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image036.jpg" /></p>
+<p><strong>Main metrics:</strong> Customer; Customer group; Actual sold quantity; Potential sold quantity; Cost of goods sold; Tax; Total sales; Profit.</p>
+<hr />
+<h2 id="inventory-report">Inventory Report</h2>
+<p>To access Inventory Report, you go to tab <strong>Manage Report</strong>, there are 5 types of reports displayed. Click to view the report you want to access.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image038.jpg" /></p>
+<p><strong>Note:</strong> You need to choose the warehouse (one or all warehouses) before running report.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image040.jpg" /></p>
+<h3 id="value-of-stock-on-hand">Value of Stock-on-hand</h3>
+<p>This report identifies the value of stock-on-hand of each warehouse or the whole system. You will get an overview of your inventory (Manage the total quantity, the inventory value, retail value, &amp; profit value, etc.)</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image042.jpg" /></p>
+<p>You can choose to remove fields from report. Click on <strong>Select Columns</strong> then untick the fields that you don’t want to show on the report.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image044.jpg" /></p>
+<p><strong>Main metrics:</strong></p>
+<ul>
+<li>
+<p>Qty in Warehouse: the real quantity of a product in warehouse.</p>
+</li>
+<li>
+<p>MAC (Moving Average Cost): A moving average (unit) cost is an inventory costing method wherein after each goods acquisition, the average unit cost of the item is recomputed. This helps properly count the product quantity &amp; compute the new selling price.</p>
+</li>
+<li>
+<p>Selling price: The price at which product is currently sold. It does not include tax, discount, etc.</p>
+</li>
+<li>
+<p>Inventory value: The total value of product in warehouse (Quantity in Warehouse x MAC)</p>
+</li>
+<li>
+<p>Potential revenue: The total selling value (Quantity in Warehouse x Selling price)</p>
+</li>
+<li>
+<p>Potential profit: Potential revenue minus inventory value.</p>
+</li>
+<li>
+<p>Profit margin: Potential profit in percentage.</p>
+</li>
+</ul>
+<p><strong>Note:</strong> Go to part 5. List of inventory metrics to better understand the meaning &amp; calculating format of each metrics.</p>
+<h3 id="stock-quantity">Stock Quantity</h3>
+<p>The Stock Quantity report provides store owners details of each product quantities (quantity in warehouse, quantity to ship, quantity on purchase order, etc.) It helps you answer these questions: Which products are available to be kept selling? Which products need supply?</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image046.jpg" /></p>
+<p><strong>Main metrics:</strong> Quantity in warehouse; Supplier; Quantity to ship; Available quantity; Quantity on purchase order; Shelf location.</p>
+<h3 id="compare-by-warehouse">Compare by warehouse</h3>
+<p>This report allows you to compare stock metrics in multiple locations by each product. You need to choose the warehouse and the metric that you want to compare, then click on <strong>Show report.</strong></p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image048.jpg" /></p>
+<p>The report will be displayed as below:</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image050.jpg" /></p>
+<p><strong>Main metrics to compare:</strong> Available quantity; Quantity to ship; Quantity in warehouse; Incoming stock; Inventory value; Retail value; Profit value; Profit margin.</p>
+<h3 id="incoming-stock">Incoming Stock</h3>
+<p>This report provides store owners details of incoming stock by each product SKU.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image052.jpg" /></p>
+<p><strong>Main metrics:</strong> Supplier; Purchase Order; Quantity in warehouse; Incoming stock; Overdue incoming stock; Total cost of incoming stock.</p>
+<h3 id="history">History</h3>
+<p>You can view inventory statistics of each warehouse by day and keep the reports in a specific period of time (last 7 days, last 30 days or last 3 months as you set up in Settings). The inventory operating activities are recorded to daily generate a report which you can download as a CSV file.</p>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image054.jpg" /></p>
+<hr />
+<h2 id="settings">Settings</h2>
+<p>In Magento backend, you go to tab <strong>Retail Report</strong>, then choose <strong>Settings</strong> to configure settings of Inventory Report module.</p>
+<ul>
+<li><strong>Sales Report Configuration</strong></li>
+</ul>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image056.jpg" />
+      - Use cron to auto update: Choose <strong>Yes</strong> if you want to auto update data from Magento to Sales Report every minute. Otherwise, you need to go to <strong>System &gt;Index Management &gt; Report Success</strong> to generate and view report manually.</p>
+<p><strong>Note:</strong> It takes time when you synchronize data from Magento to Inventory Report the first time.</p>
+<ul>
+<li><strong>Inventory Report History Configuration</strong></li>
+</ul>
+<p><img alt="Magento Inventory Report" src="../Image_Inventoryreport/image058.jpg" />
+      -    Duration: The period in which your Inventory reports are recorded (last 7 days, last 30 days, last 3 months). To store the report, you should download it in zip file before the period times out as the report is deleted.
+      - Use Cron to auto update: Choose <strong>Yes</strong> if you want to auto update data from Magento to Inventory Report History every minute. Otherwise, you need to go to <strong>System &gt; Index Management &gt; Report Success</strong> to generate and view report manually.
+      - Auto Update Time: Set a specific time when the history report is auto generated.</p>
+<hr />
+<h2 id="list-of-inventory-metrics">List of inventory metrics</h2>
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Metrics</th>
+<th>Sign</th>
+<th>Equation</th>
+<th>Explain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>O. Metric Units</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Actual Sold Quantity</td>
+<td>actual_sold_qty</td>
+<td>min (qty_shipped, (qty_ordered -qty_canceled -qty_refunded))</td>
+<td>Quantity of products transferred to customers (shipped orders).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Potential Sold Quantity</td>
+<td>potential_sold_qty</td>
+<td>Max (0, qty_ordered -qty_shipped -qty_canceled -qty_refunded)</td>
+<td>Quantity of products sold to customers (unshipped orders)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Purchase cost calculated by average MAC value</td>
+<td>unit_cost</td>
+<td>Get data from field <strong>base_cost</strong> in the table <strong>order_item</strong> (from Magento backend)</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Average price per unit product</td>
+<td>unit price</td>
+<td>base_price</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tax of a product unit</td>
+<td>unit_tax</td>
+<td>base_price x tax_percent</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Discount value discount_percent</td>
+<td>unit_discount</td>
+<td>base_price x discount_percent</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Profit value of a discount_percent</td>
+<td>unit_profit</td>
+<td>base_price - unit_cost - unit_tax - unit_discount</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>I. Sales Report</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Cost of goods sold</td>
+<td>COGS</td>
+<td>actual_cogs + potential_cogs</td>
+<td>COGS = cost of purchase x quantity of sold items</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Actual cost of goods sold</td>
+<td>actual_cogs</td>
+<td>unit_cost x actual_sold_qty</td>
+<td>Actual discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculated for items that are not invoiced yet.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Potential Cost of goods sold</td>
+<td>potential_cogs</td>
+<td>unit_cost x potential_sold_qty</td>
+<td>Potential discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculated for items that are not invoiced yet.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Purchasing cost calculated by the MAC (Moving average cost)</td>
+<td>unit_cost</td>
+<td>total cost after Purchase Order / total Qty after Purchase Order</td>
+<td>Cost of purchase is calculated in average cost method. MAC = total cost / quantity that have been transferred into warehouse (based on the current purchase order status)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Profit</td>
+<td>Profit</td>
+<td>actual_profit + potential_profit</td>
+<td>Profit = total revenue -total COGS</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Actual Profit</td>
+<td>actual_profit</td>
+<td>unit_profit x actual_sold_qty</td>
+<td>Actual discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculated for items that are already Invoiced</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Potential Profit</td>
+<td>potential_profit</td>
+<td>unit profit x potential_sold_qty</td>
+<td>Projected discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculated for items that are not invoiced yet</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tax</td>
+<td>Tax</td>
+<td>actual_tax + potential_tax</td>
+<td>Tax of an item on order</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Actual Tax</td>
+<td>actual_tax</td>
+<td>unit_tax x actual_sold_qty</td>
+<td>Actual discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculated for items that are already invoiced</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Potential Tax</td>
+<td>potential_tax</td>
+<td>unit_tax x potential_sold_qty</td>
+<td>Potential discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculatedfor items that are not invoiced yet</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Discount</td>
+<td>Discount</td>
+<td>actual_discount + potential_discount</td>
+<td>Discount value of an item on an order</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Actual Discount</td>
+<td>actual_discount</td>
+<td>unit_discount x actual_sold_qty</td>
+<td>Actual discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculated for items that are already invoiced</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Potential Discount</td>
+<td>potential_disco unit</td>
+<td>unit_discount x potential_sold_qty</td>
+<td>Potential discount value (based on the product's current order status) is shown in <strong>row_invoiced</strong>. This value is calculated for items that are not invoiced ye</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Total sales</td>
+<td>Total sales</td>
+<td>COGS + Profit</td>
+<td>Total sales = total COGS + total profit = (actualCOGS + potential COGS) + (actual profit + potential profit)</td>
+</tr>
+<tr>
+<td><strong>II. Inventory report</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Moving Average Cost</td>
+<td>MAC = unit_cost</td>
+<td>total cost after Purchase Order / total Qty after Purchase Order / total Qty after Purchase Order</td>
+<td>A = COGS of current unsold products (exclusive incoming stock in this Purchase Order) If COGS = 0, A = current cost on Purchase OrderB = total cost of products on the new Purchase Order (= cost x quantity of products on Purchase Order) MAC = A + B / (total product quantity of A &amp; B)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Inventory Value</td>
+<td>Inventory Value</td>
+<td>MAC x Qty</td>
+<td>Total potential costs of unsold products</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Selling Price</td>
+<td>Selling Price</td>
+<td>Product Price</td>
+<td>Product price which is set in Magento core (exclusive tax and discount)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Potential Revenue</td>
+<td>Potential Revenue</td>
+<td>price x Qty</td>
+<td>Total price of unsold products (the estimate - the actual amount depends on actual sales)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Potential Profit</td>
+<td>Potential Profit</td>
+<td>Potential Revenue - Inv Value = (price x Qty) -(MAC x Qty)</td>
+<td>Total potential profit ofunsold products</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Profit margin</td>
+<td>Profit margin</td>
+<td>Potential Profit / Potential Revenue x 100</td>
+<td>Potential Profit of unsold products in percentage</td>
+</tr>
+<tr>
+<td>7</td>
+<td>On Purchase Order (Incoming Stock)</td>
+<td>Incoming Stock</td>
+<td>qty_ordered - qty_refund - qty_tranfer</td>
+<td>The quantity of stock in pending/ processing Purchase Orders (i.e. excluding completed and canceled POs) that have not been transferred into warehouse.  <strong>Note:</strong> this value is the same in reports in all warehouses, since these stocks have not been assigned to any warehouse yet</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Overdue Incoming Stock</td>
+<td>Overdue Incoming Stock</td>
+<td>qty_ordered - qty_refund - qty_tranfer</td>
+<td>Quantity of stock in overdue Purchase Orders that have not been transferred to warehouse (the current date has passed the expected due date on Purchase Order)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Total cost of incoming stock</td>
+<td>Total cost of incoming stock</td>
+<td>(qty_ordered - qty_refund - qty_tranfer) x cost</td>
+<td>Total cost</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><strong><em>Confidential Information Notice</em></strong></p>
+<p>Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited.</p>
+<p>This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.</p>
+                
+            </div>
+            </div></div>
+            
+                    
+    </div>
+
+    <footer id="footer">
+        <div class="container-fluid">
+            <div class="col-md-12 text-center">
+                <div class="footer-wrap">
+                    <div class="copyright-date">&copy; 2017 Magestore.com. All rights reserved. Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!--<script src="../../../js/jquery-1.10.2.min.js"></script>-->
+    <!--<script src="../../../js/bootstrap-3.0.3.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="../../../js/tags.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+    var base_url = '../../..';
+    </script>
+    <script data-main="../../../search/search.js" src="../../../search/require.js"></script>
+    <script src="../../../js/base.js"></script>
+    <script src="../../../js/extra.js"></script>
+    <script src="../../../search/require.js"></script>
+    <script src="../../../search/search.js"></script>
+
+    <!--<div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                </div>
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <p>
+                        From here you can search these documents. Enter your search terms below.
+                    </p>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        </div>
+                    </form>
+                    <div id="mkdocs-search-results"></div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>-->
+
+
+    <div class="search-backdrop"></div>
+
+        <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+    </body>
+
+</html>

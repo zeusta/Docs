@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Magestore Documents"> 
+    <meta name="author" content="mrthinlt@gmail.com"> 
+    <link rel="canonical" href="https://docs.magestore.com/Guide By Functions/Magento 1/Instock Management/">
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+
+    <title>INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1 - MagestoreDocs</title>
+
+    <!--<link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
+
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link href="../../../css/psinder.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+
+
+    <link href="../../../css/extra.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+</head>
+
+<body>
+    
+        <header class="site-header">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+        <div class="wap-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="wrap-nav">
+                        <div class="navbar-brand">
+                            <a class="navbar-logo" href="https://docs.magestore.com"><img src="../../../img/logo.png" alt="Magestore"></a>           
+                        </div>
+                     <div class="hidden-lg-up mobile-search-btn">
+                        <span>
+                            <i class="fa fa-search"></i>
+                            <!--<i class="fa fa-search-close">x</i>-->
+                        </span>
+                    </div>
+                    
+
+                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                            data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    
+
+        <div class="col-sm-9 col-md-9 search-box">
+                <div class="nav-item item-search">
+                    <form class="form-inline w-100" id="form-search" role="form">
+                        <input class="w-100" type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        <i class="mobile-search-close-btn">x</i>
+                    </form>
+                    <div id="mkdocs-search-results"><p>No results found</p></div>
+                </div>
+            </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav">            
+            
+            <ul class="navbar-nav navbar-left">
+                
+                
+
+                <li class="nav-item ">
+                    <a class="nav-link" href="../../..">Home</a>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Business Flow</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Ecommerce Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 1/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 2/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT   Configuration</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 1/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 2/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Inventory Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 1/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 2/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Point of Sale  POS</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 1/">POINT OF SALE - WEB POS - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 2/">WEB-BASED POINT-OF-SALE (WEBPOS) - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchase Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 2/">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu active">
+                    <a href="#">Guide By Functions</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 1</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../Barcode Management/">BARCODE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Gift Card/">GIFT CARD - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="active">
+        <a href="./">INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Inventory Report/">Inventory Report</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Multi Warehouse/">Multi Warehouse</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Purchase Management/">Purchase Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Reward Point Plus/">Reward Point Plus</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Store Credit/">Store Credit</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Store Pickup/">Store Pickup</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Web POS/">Web POS</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../quickbooks_integration/">Quickbooks integration</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 2</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Barcode Management/">Barcode Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Dropship/">Dropship</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Gift Card/">Gift Card</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Instock Management/">Instock Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/M2E Pro/">M2E Pro</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Multi-warehouse/">Multi warehouse</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Order Fulfillment/">Order Fulfillment</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Purchase Management/">Purchase Management</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Retailer POS/">Retailer POS</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Reward Points Plus/">Reward Points Plus</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Store Credit/">Store Credit</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Store Pickup/">Store Pickup</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 2/Web POS/">Web POS</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Roles</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">E commerce Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchasing Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Store Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Warehouse Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+
+            </ul>
+            
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <span class="search-btn">
+                        <i class="fa fa-search"></i><!--<span>Search</span>-->
+                        <i class="fa fa-search-close">x</i>
+                    </span>
+                </li>
+
+                
+                <!--<li>
+                    <li >
+                        <a rel="next" href="../Gift Card/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../Inventory Report/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>-->
+                    
+                    
+                    <!--<li>
+                        <a href="https://github.com/Magestore/Docs/">
+                            
+                                <i class="fa fa-github"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                </li>-->
+                
+
+
+            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    </nav>
+</header>
+    
+    <div class="main-content">
+        
+            
+            
+        <div class="container"><div class="row">
+            <div class="col col-md-3">
+                
+                <div class="bs-sidebar nav-menu" id="sideNav">
+    <div class="sidenav-toggle"></div>
+    <ul class="nav bs-sidenav">
+        
+        <li class="toc-level-0">
+            <div data-toggle="collapse" data-target="#collapse-level-1-1">
+                <a href="#inventory-management-user-guide-for-magento-1">INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1</a>
+            </div>
+            
+            <ul id="collapse-level-1-1" class="collapse show">
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-1">
+                        <a href="#introduction">Introduction</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-2">
+                        <a href="#terminologies-and-principles">Terminologies and principles</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-3">
+                        <a href="#how-to-configure">How To Configure</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-4">
+                        <a href="#how-to-use">How To Use</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-4" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#stock-listing">Stock Listing</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-1" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#stock-in-warehouse">Stock in Warehouse</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#non-warehouse-products">Non-warehouse Products</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#warehouses">Warehouses</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#stock-control">Stock Control</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-2" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#new-stock-adjustment-and-stock-adjustment-history">New Stock Adjustment and Stock Adjustment History</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#new-stocktaking-and-stocktaking-history">New Stocktaking and Stocktaking History</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#stock-movement-history">Stock Movement History</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#prediction">Prediction</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-3" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#supply-needs">Supply Needs</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#low-stock-rules-low-stock-notification">Low Stock Rules &amp; Low Stock Notification</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-5">
+                        <a href="#release-note">Release Note</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-5" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#version-211-released-on-oct-5-2017">Version 2.1.1 (released on Oct 5, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#version-210-released-on-jul-13-2017">Version 2.1.0 (released on Jul 13, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#version-201-released-on-jun-23-2017">Version 2.0.1 (released on Jun 23, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#version-110-released-on-mar-29-2017">Version 1.1.0 (released on Mar 29, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-5">
+                                <a href="#version-101-released-on-mar-25-2017">Version 1.0.1 (released on Mar 25, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-6">
+                                <a href="#version-100-released-on-feb-13-2017">Version 1.0.0 (released on Feb 13, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+    </ul>
+</div>
+            </div>
+            <div class="col col-md-9" role="main">
+                
+
+<h1 id="inventory-management-user-guide-for-magento-1">INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1</h1>
+<p><strong>Version 2.1.1</strong></p>
+<h2 id="introduction">Introduction</h2>
+<p>Having trouble with managing hundreds of items that you sold every minute, from day to day? And how to keep track of each item's quantity change? Magestore's Instock Management module is here to help. With this inventory management module, you are able to:</p>
+<ul>
+<li>Save time in stock control by in-line mass adjustment;</li>
+<li>Reduce cost by low stock notifications and supply need forecast in time;</li>
+<li>Avoid stock loss with convenient 5-step stock taking process.</li>
+</ul>
+<p>Magento <a href="https://www.magestore.com/inventory-management">Inventory Management</a> is one module in our <a href="https://www.magestore.com/omnichannel-retail">Omnichannel solution</a> for Magento retailers.</p>
+<h2 id="terminologies-and-principles">Terminologies and principles</h2>
+<table>
+<thead>
+<tr>
+<th>Terminology</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantity in warehouse(s)</td>
+<td>The real quantity of a product in the physical warehouse. It equals the sum of Available Qty and Qty to Ship</td>
+</tr>
+<tr>
+<td>Available Quantity</td>
+<td>The quantity of each product which shows up in Virtual Catalog (front store). It’s also the quantity remaining that are available to be sold</td>
+</tr>
+<tr>
+<td>Quantity to ship</td>
+<td>The number of items has been ordered but not been shipped yet. This number will be returned to Avail Qty &amp; Qty in Warehouse(s) if the shipment is cancelled</td>
+</tr>
+<tr>
+<td>Shelf Location</td>
+<td>Insert the detailed area in the shelf where the product is located. This is how you can support your staff in finding the product efficiently in the physical warehouse</td>
+</tr>
+<tr>
+<td>Warehouse</td>
+<td>A “warehouse” in Inventory Management represents for a physical place where you keep your stock. Stocks can be moved between warehouses, purchased for a Warehouse and shipped from a Warehouse. Employees (with different admin accounts) can be restricted to handling only warehouse(s) with which they work</td>
+</tr>
+<tr>
+<td>Primary Warehouse</td>
+<td>Primary Warehouse is automatically created after the module is installed which contains all products in your catalog. This warehouse cannot be deleted to make sure that there is always at least one warehouse consisting of your inventory</td>
+</tr>
+<tr>
+<td>Warehouse Pemission</td>
+<td>Assign and manage a staff account permission level in controlling a specific warehouse. Base on Roles Assigned, an user who has full authorities will have permission to create new role &amp; set up new user with specific permissions</td>
+</tr>
+<tr>
+<td>Stock Adjustment</td>
+<td>Adjust Stock action is used to correct/ update inventory levels of your products and records them in Stock Adjustment History. This will change the product's Qty. in the Stock in Warehouse grid. After that, the system will update Available Qty. accordingly (or the quantity in default Catalog Products) after subtracting Qty allocated in sales orders from the new Qty in Warehouse</td>
+</tr>
+<tr>
+<td>Stock Adjustment History</td>
+<td>Stock Adjustment History records all inventory corrections/ updates when there are some differences between stock levels of physical and virtual warehouses</td>
+</tr>
+<tr>
+<td>Stocktaking</td>
+<td>Stocktaking is performed to double-check and prevent any mismatch between the recorded product quantities and the actual inventory in your physical warehouses. The process includes 5 stages containing stock counting and admin’s approval before actually updating the Qty in the system</td>
+</tr>
+<tr>
+<td>Stocktaking History</td>
+<td>Stocktaking History records all stocktaking acts and their process status</td>
+</tr>
+<tr>
+<td>Stock Movement History</td>
+<td>Stock Movements are records of inward &amp;outward stock transfers of your primary warehouse</td>
+</tr>
+<tr>
+<td>Supply Needs</td>
+<td>Supply Need is the system’s prediction about how many inventory items you need for each product within a future period. The system will calculate this number based on your sales history in the corresponding period in the past</td>
+</tr>
+<tr>
+<td>Available Date</td>
+<td>Based on the sales history in the chosen sales period, the system will estimate the day which a product is sold out and need to be restocked</td>
+</tr>
+<tr>
+<td>Low-stock Threshold Type</td>
+<td>To get notification about the out-of-stock product, you will have to define how the system process. There are 2 methods: by Available Days or by Available Quantity</td>
+</tr>
+<tr>
+<td>Threshold (days)</td>
+<td>If you insert 3 in this field, the low stock notification will appear 3 days before the product is out of stock. The  sold out day is estimated based on sales history of the chosen sales period</td>
+</tr>
+<tr>
+<td>Sales Period (days)</td>
+<td>If you insert 30 in this field, the threshold days will be estimated based on sales history in 30 days up to now</td>
+</tr>
+<tr>
+<td>Threshold (quantity)</td>
+<td>If you insert 5 in this field, the low stock notification will appear when there are only 5 items of the product in stock</td>
+</tr>
+<tr>
+<td>Low Stock Notifications</td>
+<td>Low Stock Notification shows all notifications following Low Stock Rules set up in the system. You can track the detail of a notification such as Warning Message, Low Stock Threshold Type, Notification Recipients here</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="how-to-configure">How To Configure</h2>
+<p>Go to <strong>Settings</strong> and you are able to configure the Instock Management module as below:</p>
+<p><img alt="configure instock management module" src="../Image_Instock_Management/image001.png" />
+<a name="p1"> </a></p>
+<ol>
+<li><strong>Link stocks in Warehouse to Front Store View</strong>: The Instock Management module allows synchronization between the warehouse and its Magento front store. This means when you edit information or product quantity of a warehouse, this information will automatically be updated in that warehouse’s front store and visible to customers.
+After enabling this setting, you can link the warehouse to one or multiple store view in <strong>Warehouses &gt; General Information &gt; Magento Store View</strong></li>
+</ol>
+<p><img alt="choose front store view to link warehouse to" src="../Image_Instock_Management/image001-1.png" /></p>
+<ol>
+<li><strong>Adjust Stock by entering the change qty</strong>: </li>
+<li>If this feature is enabled, when adjusting stock, you can enter the difference quantity and the system will calculate the final balance in warehouse.</li>
+<li>If this feature is disabled, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product. </li>
+</ol>
+<hr />
+<h2 id="how-to-use">How To Use</h2>
+<p><a name="p7"> </a></p>
+<h3 id="stock-listing">Stock Listing</h3>
+<p>After installation, the system will automatically provide a Primary Warehouse. This Primary Warehouse cannot be deleted but can only be edited. All the existing products will be automatically synced from your website to this warehouse. </p>
+<p>This function consists of 3 tabs to help you manage your inventory successfully:</p>
+<ul>
+<li><strong>Stock in Warehouse</strong>: provides an overview of stocks in your primary warehouse</li>
+<li><strong>Non-warehouse Products</strong>: lists out a newly-created product which has not been assigned to the primary warehouse</li>
+<li><strong>Warehouses</strong>: allows you to view and edit details of your warehouses</li>
+</ul>
+<h4 id="stock-in-warehouse">Stock in Warehouse</h4>
+<p>This tab provides an overview of stocks in all warehouses. Here you can view stock SKU, Name, Price, Qty in Warehouse(s), Qty to Ship, Available Qty, Products in Warehouse(s), Stock Movement and Product Status. </p>
+<p>The module provides an in-depth control over your <strong>composite products</strong> (configurable, bundle and grouped products).  You can see 3 quantity types of each variation or component of the composite product in the warehouse. </p>
+<p>For example, if you have a configurable product whose root SKU is Pwt007, you can see the quantities of each available size. If you sell products which often have different sizes and colors like clothing, this is an efficient way to control your inventory. </p>
+<p><img alt="control configurable product with variable sizes" src="../Image_Instock_Management/image002.png" />
+<a name="p6"> </a></p>
+<p>Note that there are 3 types of quantity shown:</p>
+<ul>
+<li><strong>Qty in Warehouse(s)</strong>: total amount of products in physical warehouses;</li>
+<li><strong>Qty to ship</strong>: the number of products which has been ordered and is ready to be shipped;</li>
+<li><strong>Available Qty</strong>: the amount of products left in the virtual catalog which is available to sell.</li>
+</ul>
+<p>Note that <strong>Qty in Warehouse(s) = Qty to Ship + Available Qty</strong></p>
+<p><img alt="change stock quantity" src="../Image_Instock_Management/image004.png" /></p>
+<p>Update the total quantity and Shelf Location easily on the Inventory grid in only 3 steps:</p>
+<ol>
+<li>Select the product(s);</li>
+<li>Input the new Qty in Warehouse;</li>
+<li>Input location of the shelf on which the product is placed (optional);</li>
+<li>Click <strong>Update Stock</strong>.</li>
+</ol>
+<p><strong>Shelf Allocation</strong> is a useful information to find the product in the physical stock quickly, especially in fulfilling customer’s order.</p>
+<h4 id="non-warehouse-products">Non-warehouse Products</h4>
+<p>When a product is newly-created and has not been assigned to warehouse yet, it will automatically be allocated in this Non-warehouse list. From here, you can select a product and add it into your warehouse. This prevents you from accidentally including disqualified products into your warehouse and wasting time searching for it later.</p>
+<p><img alt="transfer non-warehouse product to warehouse" src="../Image_Instock_Management/image007.png" /></p>
+<ol>
+<li>Select the product(s);</li>
+<li>In <strong>Actions</strong> menu, choose "Add to Warehouse" from the drop-down list;</li>
+<li>Click <strong>Submit</strong></li>
+</ol>
+<h4 id="warehouses">Warehouses</h4>
+<p>The <strong>Warehouses</strong> menu allows you to control your warehouse with 5 tabs:</p>
+<ul>
+<li><strong>General Information</strong>: records basic details of the warehouse such as Name, Code, Contact Email, Address, etc. If you enable the <strong>Link warehouse to Magento front store view</strong> setting above, this is where you can select the warehouse’s linked front store.</li>
+</ul>
+<p><img alt="enter warehouse's general information" src="../Image_Instock_Management/image011.png" />
+<a name="p2"> </a></p>
+<ul>
+<li><strong>Stock On Hand</strong>: lists out all existing products in the warehouse. Selecting product(s) will let you promptly revise its total Qty in the specific Warehouse and its Shelf Location. </li>
+</ul>
+<p>On this section, if you click on any warehouses, there will have <strong>Export</strong> button along with CSV/Excel XML file.
+<a name="p3"> </a> </p>
+<p><img alt="export warehouse's product info" src="../Image_Instock_Management/image012.png" /></p>
+<ul>
+<li>
+<p><strong>Stock Movement</strong>: provides stock changing record of the warehouse. Information includes added/ subtracted quantity, product SKU, movement type, movement date and reference number to access further details by a click.</p>
+</li>
+<li>
+<p><strong>Warehouse Permission</strong>: lets you assign and manage staff account permission. Here you can set staff permission by clicking at the <strong>Assign Staffs</strong> button at the right of the page. </p>
+</li>
+</ul>
+<p><img alt="Assign Staff button" src="../Image_Instock_Management/image013.png" /></p>
+<p>An <strong>Assign Staff</strong> window will appear as in the screenshot below. All you need to do is:
+1. Select staff 
+2. Choose his/her role from the drop-down list (you can create more roles in Magento core backend). You can assign role to multiple staff at once.
+3. Click <strong>Add Selected Staff</strong> button and you are done!</p>
+<p><img alt="Assign staff window" src="../Image_Instock_Management/image014.png" /></p>
+<p>You can also select to edit/delete staff permission directly on the <strong>Warehouse Permission</strong> menu.
+Finally, do not forget to save your recent changes.</p>
+<p><img alt="save permission assignment" src="../Image_Instock_Management/image015.png" /></p>
+<p><strong>ADDITIONAL GUIDE</strong>: Manage User/ Staff Roles and Permissions
+If you want to create and/or edit user roles and permissions in different sections in the Instock Management module, go to Magento core backend, <strong>System &gt; Permission</strong></p>
+<p><img alt="Permission menu in backend" src="../Image_Instock_Management/image017.png" /></p>
+<p>The <strong>User</strong> tab lists out all users with details like ID, Username, First name, Last name, Email and Status of the account. Create a new user by clicking a button at the top right of the page.</p>
+<p><img alt="Add New User button" src="../Image_Instock_Management/image018.png" /></p>
+<p>Admin can view, edit and remove staff permission by clicking on each user. Admin can also assign a warehouse to a user here.</p>
+<p><img alt="assign warehouse to user in 4 steps" src="../Image_Instock_Management/image019.png" /></p>
+<p>Also in Magento core backend, in <strong>System &gt; Permission &gt; Roles</strong>, View a  list  of  role  and  create  a  new  role  for  users. </p>
+<p><img alt="Roles page" src="../Image_Instock_Management/image020.png" /></p>
+<p>In <strong>Role Info</strong> tab, you need to input the role name, verify the admin’s password. Then in <strong>Roles Resources* tab, select the checkbox of the role’s permissions in the drop-down list, or select </strong>All<strong> in the </strong>Resource Access<strong> option to grant full permission to the role. When done, hit </strong>Save Role** to finish.</p>
+<p><img alt="assign access to a new role" src="../Image_Instock_Management/image021.png" /></p>
+<ul>
+<li><strong>Dashboard</strong>: demonstrates summarized <strong>sales data</strong> of the warehouse in the last 30 days. You can view data of the warehouse’s sales, best sellers and stock on hand. </li>
+</ul>
+<p><img alt="view sales charts in dashboard" src="../Image_Instock_Management/image022.png" /></p>
+<p>Manage sales status at a glance with visual charts. You can also print these charts or download with 4 different options of either PNG, JPEG, PDF or SVG vector by opening a menu next to each chart.</p>
+<hr />
+<h3 id="stock-control">Stock Control</h3>
+<p>This module is a powerful assistance to help you keep track of any changes in the existing stock. It combines 5 functions in 1:</p>
+<ol>
+<li><strong>New Stock Adjustment</strong>: manually adjusts stock quantity;</li>
+<li><strong>New Stocktaking</strong>: assists in a complete stocktaking process;</li>
+<li><strong>Stock Adjustment History</strong>: records details of all stock adjustments;</li>
+<li><strong>Stocktaking History</strong>: records details of all stocktaking;</li>
+<li><strong>Stock Movement History</strong>: records all movements of stock in the warehouses</li>
+</ol>
+<h4 id="new-stock-adjustment-and-stock-adjustment-history">New Stock Adjustment and Stock Adjustment History</h4>
+<h5 id="new-stock-adjustment">New Stock Adjustment</h5>
+<p>Sometimes your recorded product quantity does not match the actual physical number. Then, this function is exactly what you need to make changes quickly. </p>
+<p><img alt="enter image description here" src="../image_IM%20Rebuilt/image023.png" /></p>
+<p>To make a new stock adjustment, you need to:
+1. Follow path: <strong>Stock Control &gt; New Stock Adjustment</strong>
+2. Fill in the reason for the adjustment 
+3. Click <strong>Start to Adjust</strong> at the top right of the page.</p>
+<p>The next window allows you to select whatever product you want to adjust its quantity and type in the new figure. Alternatively, you can import product quantities via a CSV file with a provided sample. This means you can adjust quantities of several products at once.</p>
+<p><img alt="enter image description here" src="../image_IM%20Rebuilt/image024.png" /></p>
+<ol>
+<li>You can import product quantities via a CSV file with a provided sample. </li>
+<li>Alternatively, you can select products and input the quantity in line. Note: as mentioned in <em>How to Configure</em> section above, if you enable <strong>Adjust Stock by entering the change qty</strong> setting, you can enter the difference quantity and the system will calculate the final balance in warehouse. Otherwise, you need to enter the exact quantity of stock in warehouse and the system will recognize this figure as the latest available quantity of product.</li>
+<li>Then you have 3 options to enable your changes:</li>
+<li><strong>Save</strong>: temporarily save the adjustment in Pending status. You will automatically transferred to the Stock Adjustment History page. </li>
+<li><strong>Save and continue to edit</strong>: temporarily save the adjustment in Pending status. You continue to stay on a page with your products to continue any further edits. </li>
+<li><strong>Adjust</strong>: immediately activate the quantity changes. Once you hit this button, there is no way to undo it unless you carry out another stock adjustment. The adjustment is marked Completed on the History page.</li>
+</ol>
+<h5 id="stock-adjustment-history">Stock Adjustment History</h5>
+<p>The <strong>Stock Adjustment History</strong> page shows details of each adjustment including date of the adjustment, staff who made the adjustment, warehouse name and status (whether Pending or Completed).</p>
+<p><img alt="Stock Adjustment History page" src="../Image_Instock_Management/image025.png" /></p>
+<p>Clicking on each adjustment will transfer you to a page where you can see more information of an adjustment including adjusted product ID, Name, SKU, old Qty and Adjusted Qty. For an adjustment with Pending status, this is the page where you have left the unfinished adjustment. Complete it by clicking <strong>Adjust</strong> at the top right of the page. </p>
+<h4 id="new-stocktaking-and-stocktaking-history">New Stocktaking and Stocktaking History</h4>
+<h5 id="new-stocktaking">New Stocktaking</h5>
+<p>This Instock Management module will help you carry out a stocktaking successfully to prevent any mismatch between the recorded product quantities and the actual inventory in your physical warehouses. </p>
+<p>This process consists of 5 easy-to-follow stages:</p>
+<ul>
+<li>Stage 1: <strong>General Information</strong></li>
+</ul>
+<p><img alt="input stocktaking general info" src="../Image_Instock_Management/image026.png" /></p>
+<ol>
+<li>Select the warehouse, the reason for stocktaking. You can also fill in the participants and the time of the action but it is optional.</li>
+<li>
+<p>Choose the products to be stock taken by clicking the <strong>Prepare Product List</strong> button (Stage 2) at the top right of the page. Alternatively, you can skip it to go straight to Stage 3 by clicking the <strong>Start Stocktaking</strong> button.</p>
+</li>
+<li>
+<p>Stage 2: <strong>Prepare Products</strong></p>
+</li>
+</ol>
+<p><img alt="prepare product list to start stocktaking" src="../Image_Instock_Management/image027.png" /></p>
+<ol>
+<li>You can select the products you want to stock take from the product grid;</li>
+<li>Alternatively, you can import products using a CSV file (template provided);</li>
+<li>
+<p>Click <strong>Save</strong> to stay with your selected products for further edits, or click “<strong>Start Stocktaking</strong>” to proceed Stage 3.</p>
+</li>
+<li>
+<p>Stage 3: <strong>Stock Counting</strong></p>
+</li>
+</ol>
+<p><img alt="input results of stock counting" src="../Image_Instock_Management/image028.png" /></p>
+<ol>
+<li>
+<p>Select and type in the product quantity that you have recently counted.</p>
+</li>
+<li>
+<p>Either click <strong>Complete Data Entry</strong> to proceed to Stage 4 and have a review of the changes; click <strong>Complete Stocktaking</strong> to finish the process; or <strong>Save</strong> to continue editing.</p>
+</li>
+<li>
+<p>Stage 4: <strong>Complete Data Entry</strong></p>
+</li>
+</ol>
+<p><img alt="review stocktaking" src="../Image_Instock_Management/image029.png" /></p>
+<p>This Stage allows you to have a final review of your recent quantity counts. Click either “<strong>Re-entry Data</strong>” or “<strong>Complete Stocktaking</strong>” to move to Stage 5. If you are not an admin, your counting results will be submitted to the admin/ manager for approval before the new quantity is officially updated and the process is marked Completed.</p>
+<ul>
+<li>Stage 5: <strong>Complete Stocktaking</strong></li>
+</ul>
+<p><img alt="complete stocktaking process" src="../Image_Instock_Management/image030.png" /></p>
+<p>This page shows you all details of the stocktaking process including the product quantity before and after the stocktaking process. Make a <strong>New Stock Adjustment</strong> by hitting the <strong>Adjust Stock</strong> button or download a CSV copy of the grid using the <strong>Download Difference List</strong>.</p>
+<h5 id="stocktaking-history">Stocktaking History</h5>
+<p>All Stocktaking details are listed here. Different status shows to which stage the stocktaking process is done:
+<a name="p4"> </a></p>
+<p><img alt="stocktaking statuses recorded in History" src="../Image_Instock_Management/image031.png" /></p>
+<ul>
+<li>Status <strong>Pending</strong> means Stage 1: <strong>General Information</strong> is done</li>
+<li>Status <strong>Processing</strong> means Stage 2: <strong>Prepare Products</strong> is done</li>
+<li>Status <strong>Verified</strong> means Stage 3: <strong>Stock Counting</strong> is done</li>
+<li>Status <strong>Completed</strong> means the whole stocktaking process is done</li>
+</ul>
+<p>Click on each stocktaking record to view all details of the process.</p>
+<h4 id="stock-movement-history">Stock Movement History</h4>
+<p><a name="p5"> </a> </p>
+<p><img alt="stock quantity changes recorded in History" src="../Image_Instock_Management/image032.png" /></p>
+<p>This menu records all changes of stock quantity in warehouse. The table shows the number of products added/subtracted from the warehouse, product SKU, product movement type, warehouse name, reference number, movement date. Filtering a SKU will help you track the product’s movements and changed quantity in each warehouse in no time.</p>
+<h3 id="prediction">Prediction</h3>
+<h4 id="supply-needs">Supply Needs</h4>
+<p>There’s no need an assistant to analyze and show you whether you should order additional items for a specific product in the next Order Purchasing or not. Our inventory management module allows you to get the prediction of supply needs until the certain time stamp.</p>
+<p><img alt="Supply Needs page" src="../Image_Instock_Management/image033.png" /></p>
+<ol>
+<li>To process a prediction, select the time range to collect sales data and then pick the date that you want to see forecast results. </li>
+<li>Click to <strong>Show Supply Needs</strong> button to finally view the prediction.</li>
+</ol>
+<p>The forecast data will be shown in the table as below:</p>
+<p><img alt="Forecast grid" src="../Image_Instock_Management/image034.png" /></p>
+<ul>
+<li>
+<p>Here, you can view the average quantity sold per day of the product during the chosen sales period. The prediction will show you <strong>Available Date</strong> which performs the forecast day of product’s running out of stock. The <strong>Supply Needs</strong> column demonstrates the quantity of product that expected to be sold until the time stamp you set. </p>
+</li>
+<li>
+<p>For instance, the product msj000 has been sold 6 items in total during the last 30 days. It is estimated that the remaining quantity will be enough to be sold until 9/7/2017. It also suggests you to add further 11 items if you want to meet the customers’ demand until 31/8/2017.</p>
+</li>
+<li>
+<p>To export the supply needs file, you can choose to export into CSV or XML file and click to Export. To start another prediction, you may edit criteria for supply forecasting and hit Show Supply Needs again to refresh the prediction result.</p>
+</li>
+</ul>
+<h4 id="low-stock-rules-low-stock-notification">Low Stock Rules &amp; Low Stock Notification</h4>
+<p><strong>Low Stock Notifications</strong> are as its name, system emails or notifications to inform admin, warehouse managers when some products are going to be out of stock. 
+To have Low Stock Notification, you need to set up rules in the <strong>Prediction &gt; Low Stock Rules</strong> section.</p>
+<h5 id="low-stock-rules">Low Stock Rules</h5>
+<p><img alt="Low Stock Rules page" src="../Image_Instock_Management/image035.png" /></p>
+<p>Select an existing rule to edit or click <strong>Add New Rule</strong> button at top right of the page. Admin can create unlimited rules to notify low stock status. One rule contains: Rule Information, Conditions &amp; Action. There is no limitation in the quantity of rules set. </p>
+<ul>
+<li><strong>Rule Information</strong>: includes general data such as Rule Name, Status, and Update Time. You can set up the period of time in which the Low Stock Notification is activated.</li>
+</ul>
+<p><img alt="Low Stock Rules page" src="../Image_Instock_Management/image036.png" /></p>
+<ul>
+<li><strong>Condition</strong>: allows you to set up Product Conditions &amp; Low Stock Condition. </li>
+</ul>
+<p><img alt="Set low stock conditions based on available days" src="../Image_Instock_Management/image037.png" /></p>
+<ol>
+<li>In the Product Conditions section, you can set the limitation for applying rules. For example, the Low Stock Rule is applied for category Decorative Accents or a specific product.</li>
+<li>As for Low Stock Condition, there are 2 rule types for you to select: Available Days and Available Quantity. With <strong>Available Days</strong> option, the system will estimate how many days the product is available for purchasing based on its sales history.</li>
+<li>For instant, if you set sales period equals to 30 and the threshold day is 3, the notification will appear 3 days before the product is out of stock which are predicted following the sales history in 30 days up to now.</li>
+</ol>
+<p><img alt="Set low stock conditions based on available quantity" src="../Image_Instock_Management/image038.png" /></p>
+<ol>
+<li>With <strong>Available Quantity</strong> option, it only request for threshold quantity that you would like to receive low stock notification. </li>
+<li>
+<p>If you set the threshold is 5, the system will notify you when the quantity of product(s) reach that number.</p>
+</li>
+<li>
+<p><strong>Action</strong>: confirms who will receive the low stock notification by:</p>
+</li>
+</ol>
+<p><img alt="set up notification email" src="../Image_Instock_Management/image039.png" /></p>
+<ol>
+<li>
+<p>Entering email address in Notification recipient list and the message to be sent.</p>
+</li>
+<li>
+<p>Selecting <strong>Save and Apply</strong> to start running the Low Stock Rule; <strong>Save Rule</strong> to save your work and come back to <strong>Low Stock Rules</strong> page; and click *<em>Save and Continue Edit</em> to save while continue staying on page for further edits.</p>
+</li>
+</ol>
+<h5 id="low-stock-notifications">Low Stock Notifications</h5>
+<p>The list displays all notifications following the low stock rules. </p>
+<p><img alt="listing page of low stock notifications" src="../Image_Instock_Management/image040.png" /></p>
+<p>Notifications are noted with Created Date, Warning Message, Notification recipients. Click to <strong>Action &gt; View</strong> to accessthe detail.</p>
+<p>Each notification allows you to track the low stock products’ information such as SKU, Name, and Current Qty.</p>
+<p><img alt="low stock notification is display on the panel" src="../Image_Instock_Management/image041.png" /></p>
+<p>The Low Stock Notification will be sent to recipients’ email as well as be displayed on the Instock Management panel.</p>
+<hr />
+<h2 id="release-note">Release Note</h2>
+<h3 id="version-211-released-on-oct-5-2017">Version 2.1.1 (released on Oct 5, 2017)</h3>
+<p><a href="#p7">Do not allow to delete primary warehouse</a></p>
+<p>Show list short fall items after completing stock transferring, allow to send back short fall item of delivery Warehouse</p>
+<p><a href="#p6">Show list order items of qty-to-ship item</a></p>
+<p><a href="#p5">Add product status filter into the product list (transfer stock, adjust stock, etc)</a></p>
+<p><a href="#p4">Add status column into grid of request/send stock history</a></p>
+<h3 id="version-210-released-on-jul-13-2017">Version 2.1.0 (released on Jul 13, 2017)</h3>
+<p><a href="#p3">Check permission when create request &amp; sending stocks</a></p>
+<p><a href="#p3">Show stock movement in product edit page</a></p>
+<p>Integrate with Magmi</p>
+<h3 id="version-201-released-on-jun-23-2017">Version 2.0.1 (released on Jun 23, 2017)</h3>
+<p>Update inventory database schema (add warehouse_id to order_item, shipment_item &amp; creditmemo_item)</p>
+<h3 id="version-110-released-on-mar-29-2017">Version 1.1.0 (released on Mar 29, 2017)</h3>
+<p><a href="#p1">Release "force edit product qty" feature which allows to edit available qty of product in each Warehouse &amp; global</a></p>
+<h3 id="version-101-released-on-mar-25-2017">Version 1.0.1 (released on Mar 25, 2017)</h3>
+<p><a href="#p2">Implement the export warehouse stocks feature</a></p>
+<p><a href="#p1">Allow to assign multiple Magento store views to one Warehouse</a></p>
+<h3 id="version-100-released-on-feb-13-2017">Version 1.0.0 (released on Feb 13, 2017)</h3>
+<p>Release stable rebuilt version of Inventory Management</p>
+<hr />
+<p><strong><em>Confidential Information Notice</em></strong></p>
+<p>Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. </p>
+<p>This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.</p>
+                
+            </div>
+            </div></div>
+            
+                    
+    </div>
+
+    <footer id="footer">
+        <div class="container-fluid">
+            <div class="col-md-12 text-center">
+                <div class="footer-wrap">
+                    <div class="copyright-date">&copy; 2017 Magestore.com. All rights reserved. Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!--<script src="../../../js/jquery-1.10.2.min.js"></script>-->
+    <!--<script src="../../../js/bootstrap-3.0.3.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="../../../js/tags.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+    var base_url = '../../..';
+    </script>
+    <script data-main="../../../search/search.js" src="../../../search/require.js"></script>
+    <script src="../../../js/base.js"></script>
+    <script src="../../../js/extra.js"></script>
+    <script src="../../../search/require.js"></script>
+    <script src="../../../search/search.js"></script>
+
+    <!--<div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                </div>
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <p>
+                        From here you can search these documents. Enter your search terms below.
+                    </p>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        </div>
+                    </form>
+                    <div id="mkdocs-search-results"></div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>-->
+
+
+    <div class="search-backdrop"></div>
+
+        <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+    </body>
+
+</html>

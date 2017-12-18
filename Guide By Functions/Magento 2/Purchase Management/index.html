@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Magestore Documents"> 
+    <meta name="author" content="mrthinlt@gmail.com"> 
+    <link rel="canonical" href="https://docs.magestore.com/Guide By Functions/Magento 2/Purchase Management/">
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+
+    <title>PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2 - MagestoreDocs</title>
+
+    <!--<link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
+
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link href="../../../css/psinder.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+
+
+    <link href="../../../css/extra.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+</head>
+
+<body>
+    
+        <header class="site-header">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+        <div class="wap-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="wrap-nav">
+                        <div class="navbar-brand">
+                            <a class="navbar-logo" href="https://docs.magestore.com"><img src="../../../img/logo.png" alt="Magestore"></a>           
+                        </div>
+                     <div class="hidden-lg-up mobile-search-btn">
+                        <span>
+                            <i class="fa fa-search"></i>
+                            <!--<i class="fa fa-search-close">x</i>-->
+                        </span>
+                    </div>
+                    
+
+                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                            data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    
+
+        <div class="col-sm-9 col-md-9 search-box">
+                <div class="nav-item item-search">
+                    <form class="form-inline w-100" id="form-search" role="form">
+                        <input class="w-100" type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        <i class="mobile-search-close-btn">x</i>
+                    </form>
+                    <div id="mkdocs-search-results"><p>No results found</p></div>
+                </div>
+            </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav">            
+            
+            <ul class="navbar-nav navbar-left">
+                
+                
+
+                <li class="nav-item ">
+                    <a class="nav-link" href="../../..">Home</a>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Business Flow</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Ecommerce Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 1/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 2/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT   Configuration</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 1/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 2/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Inventory Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 1/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 2/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Point of Sale  POS</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 1/">POINT OF SALE - WEB POS - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 2/">WEB-BASED POINT-OF-SALE (WEBPOS) - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchase Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 2/">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu active">
+                    <a href="#">Guide By Functions</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 1</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Barcode Management/">BARCODE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Gift Card/">GIFT CARD - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Instock Management/">INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Inventory Report/">INVENTORY REPORT - MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Multi Warehouse/">MULTI WAREHOUSE INVENTORY MANAGEMENT - USER GUDIE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Purchase Management/">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Reward Point Plus/">REWARD POINT PLUS - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Store Credit/">STORE CREDIT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Store Pickup/">STORE PICKUP - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Web POS/">WEB POS - MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/quickbooks_integration/">QUICKBOOKS INTEGRATION - MAGENTO 1</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 2</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../Barcode Management/">BARCODE MANAGEMENT - MAGENTO 2**</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Dropship/">DROPSHIP - MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Gift Card/">GIFT CARD - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Instock Management/">INSTOCK MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../M2E Pro/">M2E PRO – USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Multi-warehouse/">MULTI-WAREHOUSE INVENTORY MANAGEMENT- MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Order Fulfillment/">ORDER FULFILLMENT - MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="active">
+        <a href="./">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Retailer POS/">Retailer POS</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Reward Points Plus/">Reward Points Plus</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Store Credit/">Store Credit</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Store Pickup/">Store Pickup</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Web POS/">Web POS</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Roles</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">E commerce Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchasing Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Store Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Warehouse Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+
+            </ul>
+            
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <span class="search-btn">
+                        <i class="fa fa-search"></i><!--<span>Search</span>-->
+                        <i class="fa fa-search-close">x</i>
+                    </span>
+                </li>
+
+                
+                <!--<li>
+                    <li >
+                        <a rel="next" href="../Order Fulfillment/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../Retailer POS/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>-->
+                    
+                    
+                    <!--<li>
+                        <a href="https://github.com/Magestore/Docs/">
+                            
+                                <i class="fa fa-github"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                </li>-->
+                
+
+
+            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    </nav>
+</header>
+    
+    <div class="main-content">
+        
+            
+            
+        <div class="container"><div class="row">
+            <div class="col col-md-3">
+                
+                <div class="bs-sidebar nav-menu" id="sideNav">
+    <div class="sidenav-toggle"></div>
+    <ul class="nav bs-sidenav">
+        
+        <li class="toc-level-0">
+            <div data-toggle="collapse" data-target="#collapse-level-1-1">
+                <a href="#purchase-management-user-guide-for-magento-2">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+            </div>
+            
+            <ul id="collapse-level-1-1" class="collapse show">
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-1">
+                        <a href="#introduction">Introduction</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-2">
+                        <a href="#how-to-manage-suppliers">How to manage suppliers</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-2" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#add-a-new-supplier">Add a new supplier</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#manage-supplier">Manage supplier</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#manage-pricelist">Manage pricelist</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#supplier-settings">Supplier settings</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-3">
+                        <a href="#how-to-manage-quotation">How to manage quotation</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-3" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#create-a-new-quotation">Create a new quotation</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-1" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#fill-out-general-information-form">Fill out General Information Form</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#prepare-product-list">Prepare Product List</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#edit-shipping-and-payment-method">Edit Shipping and Payment method</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#manage-quotation">Manage Quotation</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-4">
+                        <a href="#how-to-submit-the-additional-data-to-the-place-order">How to submit the additional data to the place order</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-4" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#create-a-new-purchase-order-manually">Create a New Purchase Order Manually</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-1" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#general-information">General Information</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#add-products-to-the-purchase-order">Add products to the Purchase Order</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#setting-shipping-and-payment">Setting Shipping and Payment</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#receivingreturning-items">Receiving/Returning Items</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#summary-information">Summary Information</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#received-items">Received Items</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#returned-items">Returned Items</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#invoices">Invoices</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#transferred-items">Transferred items</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#shipping-and-payment">Shipping and Payment</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#general-information_1">General Information</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#complete-purchase-order">Complete Purchase Order</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#generate-purchase-order-from-quotation">Generate Purchase Order from Quotation</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#purchase-management-settings">Purchase Management Settings</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-4" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#shipping-method">Shipping Method</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#payment-method">Payment Method</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#payment-terms">Payment Terms</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#tax-shipping">Tax &amp; Shipping</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-5">
+                        <a href="#how-to-manage-return-order">How to Manage Return Order</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-5" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#create-return-order">Create Return Order</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#complete-return-order">Complete Return Order</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-6">
+                        <a href="#release-note">Release Note</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-6" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#version-110-released-on-oct-9-2017">Version 1.1.0 (released on Oct 9, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#version-101-released-on-jul-19-2017">Version 1.0.1 (released on Jul 19, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+    </ul>
+</div>
+            </div>
+            <div class="col col-md-9" role="main">
+                
+
+<h1 id="purchase-management-user-guide-for-magento-2">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</h1>
+<p><strong>Version 1.1.0</strong></p>
+<h2 id="introduction">Introduction</h2>
+<p><strong>Purchase Management</strong> is a Magento 2 module, which helps you manage purchasing and receiving stock from suppliers. All information about Purchase Order, Quotation and Suppliers are kept track and automatically updated in the system. </p>
+<p><a href="https://www.magestore.com/purchase-order-management">Purchase Management</a> is a module in our <a href="https://www.magestore.com/omnichannel-retail">Omnichannel Solution</a>.</p>
+<h2 id="how-to-manage-suppliers">How to manage suppliers</h2>
+<hr />
+<h3 id="add-a-new-supplier">Add a new supplier</h3>
+<p>To add a new supplier to the system, you should go to <strong>Purchase Management =&gt; Manage Supplier</strong> (in section Supplier) then click on <strong>Add New Supplier</strong> button. There are two types of information you have to enter in order to add a new supplier: Supplier Information &amp; Supplier Address</p>
+<p>•   Supplier Information: Supplier Code, Supplier Name, Contact Person and Email are required fields. You should add description for each supplier to differentiate between this supplier and the rest. Do not forget to enable the supplier.</p>
+<p><img alt="newsupplier" src="../purchaseimages/pm2.png" /></p>
+<p>•   Supplier Address: This field contains all address information of the supplier. Since fields here are optional, you do not have to fill all of them.</p>
+<p><img alt="newsupplier" src="../purchaseimages/pm3.png" /></p>
+<p>Choose <strong>Save</strong> to finish entering supplier information. Now you need to assign products to this supplier. After you click on <strong>Save</strong> button, your screen will appear as following:</p>
+<p><img alt="newsupplier" src="../purchaseimages/pm4.png" /></p>
+<p>There are two ways to assign products to the supplier: Add product manually and import products with a csv file. If you choose to upload products manually, remember to enter related information for each one: Supplier SKU, Cost and Tax. Otherwise, importing products in mass is recommended. A csv file sample is offered. In case you have a mistake on importing products, Delete Product button can help.</p>
+<h3 id="manage-supplier">Manage supplier</h3>
+<p>To have an overview of Supplier, go to <strong>Purchase Management =&gt; Manage Supplier</strong>. Each warehouse comes with Supplier Code, Total SKU,  Purchase Order Value, Status and Date for last purchase order. You can view or click to edit the detail of each one.</p>
+<p><img alt="managesupplier" src="../purchaseimages/pm5.png" /></p>
+<h3 id="manage-pricelist">Manage pricelist</h3>
+<p>“<strong>Pricelist</strong> is a list of prices for the goods offered by a supplier. It usually consists of Minimal Qty and Cost”
+Go to <strong>Purchase Management =&gt; Manage Pricelist</strong></p>
+<p><img alt="pricelist" src="../purchaseimages/pm6.png" /></p>
+<p>There are two ways to add pricelist into the system:</p>
+<p>•   Select <strong>Add Pricelist</strong> button manually. With this method, you need to select products and enter required information for each: Minimal Qty and Cost. If you have 2 Minimal Qty for a product, you must select this product and enter information twice.</p>
+<p>•   If you got the pricelist from suppliers, it is much easier to import them into Purchase Management with a csv file.</p>
+<h3 id="supplier-settings">Supplier settings</h3>
+<p>There is only one thing you need to configure for Supplier. Please go to <strong>Purchase Management =&gt; Supplier</strong> (in Settings 
+section):</p>
+<p><img alt="suppliersetting" src="../purchaseimages/pm7.png" /></p>
+<p>If you choose Yes the system will automatically use and update cost from pricelist to purchase order. </p>
+<h2 id="how-to-manage-quotation">How to manage quotation</h2>
+<hr />
+<h3 id="create-a-new-quotation">Create a new quotation</h3>
+<p>“A <strong>quotation</strong> (or a request for quotation) is the proposal of price and quantity of goods that store owners send to suppliers. The quotation will become purchase order when a seller sends confirmation of price and availability of products stated in the quotation.”</p>
+<p>To create a new quotation, please go to <strong>Purchase Management =&gt; Create Quotation</strong> and choose <strong>Create Quotation</strong> button</p>
+<h4 id="fill-out-general-information-form">Fill out General Information Form</h4>
+<p>After choose to create a new quotation, you will be navigated to this view: </p>
+<p><img alt="Generalinformation" src="../purchaseimages/pm8.png" /></p>
+<p>As can be seen, it is compulsory to choose Created Time and Supplier for the pricelist. Tick on the box next to Send Email to Supplier if you want an email to be automatically sent to supplier address (This email address can be changed in <strong>Manage Supplier</strong> section). Also, adding further comments is allowed here.</p>
+<p>After that, click on <strong>Prepare Product List</strong> for the next step</p>
+<h4 id="prepare-product-list">Prepare Product List</h4>
+<p>In this step, there are 5 ways for you to prepare product list:</p>
+<p>•   Import products via a CSV file</p>
+<p>•   Prepare product list based on supply need forecast</p>
+<p>•   Prepare back order products (Back orders products are ordered by customers but not available in stock now)</p>
+<p>•   Prepare low stock products</p>
+<p>•   Prepare product list manually with All Supplier Products button</p>
+<p><img alt="productlist" src="../purchaseimages/pm9.png" /></p>
+<p>Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After enter all required fields, click <strong>Save</strong> button and Order Totals is automatically calculated.</p>
+<p><img alt="productlist" src="../purchaseimages/pm10.png" /></p>
+<h4 id="edit-shipping-and-payment-method">Edit Shipping and Payment method</h4>
+<p>It is time to set up Shipping and Payment method for the quotation:</p>
+<p><img alt="shippingandpaymen" src="../purchaseimages/pm11.png" /></p>
+<p>•   Enter the address you want the stock to be shipped to</p>
+<p>•   Select a shipping method for the quotation</p>
+<p>•   Estimate and enter the shipping cost</p>
+<p>•   Set start shipping and expected delivery date</p>
+<p>•   Select the payment term</p>
+<p>•   Choose the way to place order: N/A, Email, Phone, Fax, Vendor website</p>
+<p>After filling out the form</p>
+<p>1) Click <strong>Save</strong> to save your work. Now you can <strong>Send Request</strong> to the suppliers or <strong>Print</strong> the quotation. </p>
+<p>2) To do more update about products information, click on <strong>Revert Quotation</strong> and you will be brought back to the previous step and enable to update products information. Later on, you will receive quotations from suppliers and compare their RFQ.</p>
+<p><img alt="shippingandpayment" src="../PM2images/image017.png" /></p>
+<h3 id="manage-quotation">Manage Quotation</h3>
+<p>To manage all created quotation, please go to <strong>Purchase Management =&gt; Quotation</strong>:</p>
+<p><img alt="managequotation" src="../purchaseimages/pm13.png" /></p>
+<p>There is a shortcut to create a new quotation. </p>
+<p>Each quotation is listed with some related information: Created Date, Supplier, Requested Qty, Subtotal and Status. Please notice that quotations, which are converted into PO will be removed from this list.</p>
+<h2 id="how-to-submit-the-additional-data-to-the-place-order">How to submit the additional data to the place order</h2>
+<hr />
+<p>“<strong>Purchase Order (PO)</strong> is a document sent to a specific supplier to purchase more inventories for your warehouses. It contains descriptions, quantities, prices, discounts, payment terms, date of performance or shipment, other associated terms and conditions.”</p>
+<p>To create/ edit purchase orders, manage deliveries from suppliers to warehouses and return items from warehouses to suppliers, go to <strong>Purchase Management =&gt; Purchase Order</strong>. Then you will see the <strong>Manage Purchase Orders</strong> page as follows:</p>
+<p><img alt="PO" src="../purchaseimages/pm14.png" /></p>
+<h3 id="create-a-new-purchase-order-manually">Create a New Purchase Order Manually</h3>
+<p>In order to create a new purchase order manually, click on the <strong>Create Purchase Order</strong> button on the top-right of the page or choose the <strong>Create Purchase Order</strong> tab. </p>
+<p>When creating Purchase Order, you will see a tab showing steps at which Purchase Order is. They are <strong>New, Pending, Processing,</strong> and <strong>Completed.</strong></p>
+<h4 id="general-information">General Information</h4>
+<p>In this tab, you should configure all the required fields marked with a red star, such as Created Time and Supplier.</p>
+<p><img alt="Generalinformation" src="../purchaseimages/pm15.png" /></p>
+<p>There are several optional fields to help you add extra information to your purchase order:</p>
+<p>•   Send Email to Supplier: By ticking the checkbox, the module will automatically send information to the supplier via email right after creating the purchase order.</p>
+<p>•   Comment: Add extra information for the purchase order. Suppliers will be notified about it.
+After that, click on <strong>Prepare Product List</strong> button to continue.</p>
+<h4 id="add-products-to-the-purchase-order">Add products to the Purchase Order</h4>
+<p>In this step, there are 5 ways for you to prepare product list:</p>
+<p>•   Import products via a CSV file</p>
+<p>•   Prepare product list based on supply need forecast</p>
+<p>•   Prepare back order products (Back orders products are ordered by customers but not available in stock now)</p>
+<p>•   Prepare low stock products</p>
+<p>•   Prepare product list manually with <strong>All Supplier Products</strong> button</p>
+<p><img alt="productlist" src="../purchaseimages/pm16.png" /></p>
+<p>Apart from importing products via a CSV file, you need to enter Purchase Cost, Tax, Discount and Qty Ordering for each product. Editing in line is allowed here. After enter all required fields, click <strong>Save</strong> button and Order Totals is automatically calculated.</p>
+<p><img alt="productlist" src="../purchaseimages/pm17.png" /></p>
+<h4 id="setting-shipping-and-payment">Setting Shipping and Payment</h4>
+<p>It is time to set up Shipping and Payment method for the purchase order:</p>
+<p><img alt="shippingandpayment" src="../purchaseimages/pm18.png" /></p>
+<p>•   Enter the address you want the stock to be shipped to</p>
+<p>•   Select a shipping method for the purchase order</p>
+<p>•   Estimate and enter the shipping cost</p>
+<p>•   Set start shipping and expected delivery date</p>
+<p>•   Select the payment term</p>
+<p>•   Choose the way to place order: N/A, Email, Phone, Fax, Vendor website</p>
+<p>After this step, choose <strong>Save</strong> and the purchase order status will be changed to <strong>Pending</strong>. At this time, you can choose to Send Request to the supplier (Request will be sent to suppliers’ email address), Print the purchase order, Cancel or Confirm Purchase Order. </p>
+<p>You should double-check all information before confirming purchase order. After being confirmed, the purchase order status will be changed to <strong>Processing.</strong></p>
+<h4 id="receivingreturning-items">Receiving/Returning Items</h4>
+<p>When the purchase order is processing, you can be navigated to the following view and receive or return items:</p>
+<p><img alt="receiveditems" src="../purchaseimages/pm19.png" /></p>
+<p>There are five tabs on this view:</p>
+<h4 id="summary-information">Summary Information</h4>
+<p>All information you entered in the previous steps will be summarized here: Created Time, Supplier, Payment Method, Shipping Method and Selected Products.</p>
+<p><img alt="information" src="../purchaseimages/pm20.png" /></p>
+<h4 id="received-items">Received Items</h4>
+<p>This tab shows all items in the purchase order you received. Each product goes with detail information: Receive Date, SKU, Product Name, Received Qty and Created By.</p>
+<p><img alt="receiveditems" src="../purchaseimages/pm21.png" /></p>
+<p>There are two ways to receive items: <strong>Receive Items</strong> (This method is most suitable when you use partial shipment. You need to enter the receive date, select received products and fill Received Qty for each product) and <strong>Receive All Items</strong> (All products will be noted as received).</p>
+<h4 id="returned-items">Returned Items</h4>
+<p><strong>Return Items</strong> are records of items &amp; Qty. returned against a purchase order. They are similar to Credit Memos of Sales Orders but these items are returns from your </p>
+<p>If you only want to return some items in the purchase order, you can create a partial return by clicking on the <strong>Return Order</strong> button. The <strong>Returned Product</strong> page is as below:</p>
+<p><img alt="returneditems" src="../purchaseimages/pm22.png" /></p>
+<p>You need to enter the return date, select returned products and fill Returned Qty for each product. After that, you click on the Save button to save your work. The system will automatically subtracted the returned Qty. that you entered from the corresponding warehouse’s inventory. Now, you can see the records of all returned items shown in the <strong>Return Orders</strong> tab.</p>
+<h4 id="invoices">Invoices</h4>
+<p>Multiple invoices can be created by products for one purchase order. When you click on <strong>Create an Invoice</strong> button, the <strong>Create Invoice</strong> page will be shown like below:</p>
+<p><img alt="invoices" src="../purchaseimages/pm23.png" /></p>
+<p>You need to enter the billed date, select products and fill billed Qty, unit price, tax and discount for each product you want to create invoice for. After that, you click on the <strong>Save</strong> button to save your work. Now, you can see the records of all invoices shown in the <strong>Invoices</strong> tab.</p>
+<p><img alt="invoices" src="../purchaseimages/pm24.png" /></p>
+<h4 id="transferred-items">Transferred items</h4>
+<p>After receiving products, you can transfer them to warehouses. Here is what we got in <strong>Transferred Items</strong> tab:</p>
+<p><img alt="transferreditems" src="../purchaseimages/pm25.png" /></p>
+<p>After clicking on <strong>Transfer Product to Warehouse</strong> button, you need to enter the transferred date, warehouse, select products and fill transferred Qty for each product you want to transfer. After that, you click on the <strong>Save</strong> button to save your work. Now, you can see the records of all transferred products in the <strong>Transferred</strong> Items tab.</p>
+<p><img alt="transferreditems" src="../purchaseimages/pm26.png" /></p>
+<h4 id="shipping-and-payment">Shipping and Payment</h4>
+<p>From this tab, you can view and edit shipping and payment information for the purchase order. </p>
+<h4 id="general-information_1">General Information</h4>
+<p>From this tab, you can view and edit general information for the purchase order.</p>
+<h3 id="complete-purchase-order">Complete Purchase Order</h3>
+<p>You can complete a purchase order by choosing <strong>Complete PO</strong> button. After completing PO, the status will be changed to <strong>Completed</strong></p>
+<p><img alt="createPO" src="../purchaseimages/pm27.png" /></p>
+<p>You can complete a purchase order even when you have not received all requested items. When the purchase order status is completed, you cannot receive items anymore but you still transfer received items into warehouses after that.</p>
+<h3 id="generate-purchase-order-from-quotation">Generate Purchase Order from Quotation</h3>
+<p>If you want to generate Purchase Order from Quotation, please go to <strong>Purchase Management =&gt; Quotations</strong>, click to choose a pending quotation. Then choose <strong>Convert Quotation to PO</strong> button.</p>
+<p><img alt="generalinformation" src="../PM2images/image017.png" /></p>
+<p>After that, a new purchase order is generated. Now you can:</p>
+<p>•   Setting Shipping and Payment</p>
+<p>•   Receiving/Returning items</p>
+<p>•   Complete Purchase Order</p>
+<h3 id="purchase-management-settings">Purchase Management Settings</h3>
+<p>There are 4 tabs to configure Purchase Management: Shipping method, Payment method, Payment term, Tax &amp; Shipping. Go to <strong>Purchase Management =&gt; Purchase Management</strong> (in Settings section) to do these settings.</p>
+<h4 id="shipping-method">Shipping Method</h4>
+<p>This tab allows you to add/edit or delete Shipping methods for purchase orders. Click on <strong>Add</strong>, enter name of the shipping method and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a shipping method. After all, do no forget to choose <strong>Save Config</strong> to save your work.</p>
+<p><img alt="shippingmethod" src="../purchaseimages/pm29.png" /></p>
+<h4 id="payment-method">Payment Method</h4>
+<p>This tab allows you to add/edit or delete Payment methods for purchase orders. Click on <strong>Add</strong>, enter name of the payment method and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a payment method. After all, do no forget to choose <strong>Save Config</strong> to save your work.</p>
+<p><img alt="paymentmethod" src="../purchaseimages/pm30.png" /></p>
+<h4 id="payment-terms">Payment Terms</h4>
+<p>This tab allows you to add/edit or delete Payment terms for purchase orders. Click on <strong>Add</strong>, enter name of the payment term and set status (Enable/Disable) for each on. Click on Trash bin icon in Action column to delete a payment term. After all, do no forget to choose <strong>Save Config</strong> to save your work.</p>
+<p><img alt="paymentterms" src="../purchaseimages/pm31.png" /></p>
+<h4 id="tax-shipping">Tax &amp; Shipping</h4>
+<p>This tab allows you to edit Tax &amp; Shipping for purchase orders. You need to uncheck all box next to <strong>Use system value</strong> before configure fields</p>
+<p><img alt="taxandshipping" src="../purchaseimages/pm32.png" /></p>
+<p>•   Default Shipping Cost: If you enter an shipping amount here, all purchase orders will automatically use this shipping cost as default. If you want to set different shipping cost for different purchase orders, leave this field blank</p>
+<p>•   Apply Customer Tax: Set customer tax applied before or after discount</p>
+<p>•   Default Tax (%): Enter default tax for purchase order items</p>
+<h2 id="how-to-manage-return-order">How to Manage Return Order</h2>
+<h3 id="create-return-order">Create Return Order</h3>
+<p>In order to request a product return, go to <strong>Purchase Management &gt;  Return Request Management &gt; Return Requests</strong></p>
+<p><img alt="createRO" src="../Returnorderimages/image001.png" /></p>
+<p>You will be led to the <strong>Create Return Request</strong> page</p>
+<p><img alt="createRO" src="../Returnorderimages/image003.png" />
+1) Return progress is controlled in 4 steps:<br/>
+    * New: input general information of the return process<br/> 
+    * Pending: create the list of products to return to supplier<br/>
+    * Processing: the product list has been submitted to the supplier. Products, once delivered, are waiting to be validated and transferred to warehouse<br/>
+    * Completed<br/>
+2) Input the date that you create the return request</p>
+<p>3) Choose the warehouse to take products out for return</p>
+<p>4) Choose supplier to return products to</p>
+<p>5) Input return reason (optional)</p>
+<p>6) Click <strong>Prepare Product List</strong> to move to the next step</p>
+<p><img alt="returnorder" src="../Returnorderimages/image005.png" /></p>
+<p>On <strong>Pending</strong> step:</p>
+<p>1) View general information of the return request that you have input in the previous step.</p>
+<p>2) There are 2 ways of preparing product list to return:<br/>
+    * Choose to either Import Products list via csv file (template provided)<br/>
+    * Or view and choose among all products of that supplier by clicking on All Supplier Products button.<br/>
+3) Cancel the return request</p>
+<p>4) Send an email to supplier to inform of the return</p>
+<p>5) Print the list of returned items</p>
+<p>6) Save your current process while stay on the page</p>
+<p>7) Confirm </p>
+<p>After adding products, you can edit product quantity to return:</p>
+<p><img alt="returnorder" src="../Returnorderimages/image007.png" /></p>
+<p>1) Select products to edit</p>
+<p>2) Input product quantity to return</p>
+<p>3) Click <strong>Save</strong> to save your current process and stay on page; or <strong>Confirm Order</strong> to continue.</p>
+<h3 id="complete-return-order">Complete Return Order</h3>
+<p>After validating the products, inventory staff can process with the product receipt:
+<img alt="completeRO" src="../Returnorderimages/image009.png" /></p>
+<p>1) Click <strong>Complete PO</strong> to finish the Return request.</p>
+<p>2) Click <strong>Transfer Items</strong> to transfer the received products to the warehouse that you have appointed before.</p>
+<p><img alt="completeRO" src="../Returnorderimages/image011.png" /></p>
+<p>In <strong>Transfer items</strong> page: </p>
+<p>1) Input the date of transfer</p>
+<p>2) Choose either to select products by scanning barcode; or select products from a list with 2 steps as below</p>
+<p><img alt="transferitems" src="../Returnorderimages/image013.png" /></p>
+<p>After selecting products or scanning barcode, you will be sent back to the <strong>Transfer Items</strong> page:</p>
+<p><img alt="transferitems" src="../Returnorderimages/image015.png" /></p>
+<p>1) Input the product quantity to transfer (you can transfer partially in multiple times)</p>
+<p>2) Click <strong>Save</strong> to continue</p>
+<p><img alt="returnorder" src="../Returnorderimages/image017.png" /></p>
+<p>1) Click <strong>Complete PO</strong> to finish the return request</p>
+<p>2) Click <strong>Transfer Items</strong> to continue transferring the rest of received products.</p>
+<p>3&amp;4) Select products and click button to <strong>Return to Supplier</strong>.</p>
+<hr />
+<h2 id="release-note">Release Note</h2>
+<h3 id="version-110-released-on-oct-9-2017">Version 1.1.0 (released on Oct 9, 2017)</h3>
+<h3 id="version-101-released-on-jul-19-2017">Version 1.0.1 (released on Jul 19, 2017)</h3>
+<p>Allow to assign product to suppliers when adding new product</p>
+<hr />
+<p><strong><em>Confidential Information Notice</em></strong></p>
+<p>Copyright2016</p>
+<p>All Rights Reserved. Any unauthorized reproduction of this document is prohibited.</p>
+<p>This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.</p>
+                
+            </div>
+            </div></div>
+            
+                    
+    </div>
+
+    <footer id="footer">
+        <div class="container-fluid">
+            <div class="col-md-12 text-center">
+                <div class="footer-wrap">
+                    <div class="copyright-date">&copy; 2017 Magestore.com. All rights reserved. Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!--<script src="../../../js/jquery-1.10.2.min.js"></script>-->
+    <!--<script src="../../../js/bootstrap-3.0.3.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="../../../js/tags.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+    var base_url = '../../..';
+    </script>
+    <script data-main="../../../search/search.js" src="../../../search/require.js"></script>
+    <script src="../../../js/base.js"></script>
+    <script src="../../../js/extra.js"></script>
+    <script src="../../../search/require.js"></script>
+    <script src="../../../search/search.js"></script>
+
+    <!--<div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                </div>
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <p>
+                        From here you can search these documents. Enter your search terms below.
+                    </p>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        </div>
+                    </form>
+                    <div id="mkdocs-search-results"></div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>-->
+
+
+    <div class="search-backdrop"></div>
+
+        <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+    </body>
+
+</html>

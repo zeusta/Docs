@@ -1,0 +1,1122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Magestore Documents"> 
+    <meta name="author" content="mrthinlt@gmail.com"> 
+    <link rel="canonical" href="https://docs.magestore.com/Guide By Functions/Magento 2/Store Pickup/">
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+
+    <title>STORE PICKUP - USER GUIDE FOR MAGENTO 2 - MagestoreDocs</title>
+
+    <!--<link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
+
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link href="../../../css/psinder.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+
+
+    <link href="../../../css/extra.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+</head>
+
+<body>
+    
+        <header class="site-header">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+        <div class="wap-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="wrap-nav">
+                        <div class="navbar-brand">
+                            <a class="navbar-logo" href="https://docs.magestore.com"><img src="../../../img/logo.png" alt="Magestore"></a>           
+                        </div>
+                     <div class="hidden-lg-up mobile-search-btn">
+                        <span>
+                            <i class="fa fa-search"></i>
+                            <!--<i class="fa fa-search-close">x</i>-->
+                        </span>
+                    </div>
+                    
+
+                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                            data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    
+
+        <div class="col-sm-9 col-md-9 search-box">
+                <div class="nav-item item-search">
+                    <form class="form-inline w-100" id="form-search" role="form">
+                        <input class="w-100" type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        <i class="mobile-search-close-btn">x</i>
+                    </form>
+                    <div id="mkdocs-search-results"><p>No results found</p></div>
+                </div>
+            </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav">            
+            
+            <ul class="navbar-nav navbar-left">
+                
+                
+
+                <li class="nav-item ">
+                    <a class="nav-link" href="../../..">Home</a>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Business Flow</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Ecommerce Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 1/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Ecommerce Management/Magento 2/">ECOMMERCE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT   Configuration</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 1/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/IT - Configuration/Magento 2/">IT CONFIGURATION - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Inventory Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 1/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Inventory Management/Magento 2/">INVENTORY MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Point of Sale  POS</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 1/">POINT OF SALE - WEB POS - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Point-of-Sale -POS/Magento 2/">WEB-BASED POINT-OF-SALE (WEBPOS) - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchase Management</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Business Flow/Purchase Management/Magento 2/">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu active">
+                    <a href="#">Guide By Functions</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 1</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Barcode Management/">BARCODE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Gift Card/">GIFT CARD - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Instock Management/">INVENTORY MANAGEMENT -  USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Inventory Report/">INVENTORY REPORT - MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Multi Warehouse/">MULTI WAREHOUSE INVENTORY MANAGEMENT - USER GUDIE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Purchase Management/">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Reward Point Plus/">REWARD POINT PLUS - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Store Credit/">STORE CREDIT - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Store Pickup/">STORE PICKUP - USER GUIDE FOR MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/Web POS/">WEB POS - MAGENTO 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../Magento 1/quickbooks_integration/">QUICKBOOKS INTEGRATION - MAGENTO 1</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Magento 2</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../Barcode Management/">BARCODE MANAGEMENT - MAGENTO 2**</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Dropship/">DROPSHIP - MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Gift Card/">GIFT CARD - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Instock Management/">INSTOCK MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../M2E Pro/">M2E PRO – USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Multi-warehouse/">MULTI-WAREHOUSE INVENTORY MANAGEMENT- MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Order Fulfillment/">ORDER FULFILLMENT - MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Purchase Management/">PURCHASE MANAGEMENT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Retailer POS/">RETAILER POS - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Reward Points Plus/">REWARD POINTS -  USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Store Credit/">STORE CREDIT - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="active">
+        <a href="./">STORE PICKUP - USER GUIDE FOR MAGENTO 2</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../Web POS/">Web POS</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+                
+                <li class="nav-item menu ">
+                    <a href="#">Guide By Roles</a>
+                    <ul class="">
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">E commerce Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/E-commerce Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">IT Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/IT Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Purchasing Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Purchasing Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Store Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Store Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    
+    
+    <li class="has-child">
+        <a href="#">Warehouse Manager</a>
+        <ul>
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 1/">Magento 1</a>
+    </li>
+    
+        
+        
+    
+    <li class="">
+        <a href="../../../Guide By Roles/Warehouse Manager/Magento 2/">Magento 2</a>
+    </li>
+    
+        
+        </ul>
+    </li>
+    
+                    
+                    </ul>
+                </li>
+
+                
+                
+
+            </ul>
+            
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <span class="search-btn">
+                        <i class="fa fa-search"></i><!--<span>Search</span>-->
+                        <i class="fa fa-search-close">x</i>
+                    </span>
+                </li>
+
+                
+                <!--<li>
+                    <li >
+                        <a rel="next" href="../Store Credit/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../Web POS/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>-->
+                    
+                    
+                    <!--<li>
+                        <a href="https://github.com/Magestore/Docs/">
+                            
+                                <i class="fa fa-github"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                </li>-->
+                
+
+
+            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    </nav>
+</header>
+    
+    <div class="main-content">
+        
+            
+            
+        <div class="container"><div class="row">
+            <div class="col col-md-3">
+                
+                <div class="bs-sidebar nav-menu" id="sideNav">
+    <div class="sidenav-toggle"></div>
+    <ul class="nav bs-sidenav">
+        
+        <li class="toc-level-0">
+            <div data-toggle="collapse" data-target="#collapse-level-1-1">
+                <a href="#store-pickup-user-guide-for-magento-2">STORE PICKUP - USER GUIDE FOR MAGENTO 2</a>
+            </div>
+            
+            <ul id="collapse-level-1-1" class="collapse show">
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-1">
+                        <a href="#introduction">Introduction</a>
+                    </div>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-2">
+                        <a href="#how-to-use">How to use</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-2" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#view-store-information">View Store Information</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#use-store-pickup-at-checkout">Use Store Pickup at Checkout</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#view-orders">View Orders</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-3">
+                        <a href="#how-to-configure">HOW TO CONFIGURE</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-3" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#manage-stores">Manage Stores</a>
+                            </div>
+                            
+                            <ul id="collapse-level-3-1" class="collapse">
+                                
+                                <li class="toc-level-3">
+                                    <a href="#add-store">Add Store</a>
+                                </li>
+                                
+                                <li class="toc-level-3">
+                                    <a href="#edit-store">Edit Store</a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#manage-tags">Manage Tags</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#manage-holidays">Manage Holidays</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-4">
+                                <a href="#manage-special-days">Manage Special Days</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-5">
+                                <a href="#manage-schedule">Manage Schedule</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-6">
+                                <a href="#view-pickup-orders">View Pickup Orders</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-7">
+                                <a href="#settings">Settings</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li class="toc-level-1" class="collapse">
+                    <div data-toggle="collapse" data-target="#collapse-level-2-4">
+                        <a href="#release-note">Release Note</a>
+                    </div>
+                    
+                    <ul id="collapse-level-2-4" class="collapse">
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-1">
+                                <a href="#version-120-released-on-oct-9th-2017">Version 1.2.0 (released on Oct 9th, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-2">
+                                <a href="#version-110-released-on-jul-24th-2017">Version 1.1.0 (released on Jul 24th, 2017)</a>
+                            </div>
+                            
+                        </li>
+                        
+                        <li class="toc-level-2">
+                            <div data-toggle="collapse" data-target="#collapse-level-3-3">
+                                <a href="#version-100-released-on-feb-24th-2016">Version 1.0.0 (released on Feb 24th, 2016)</a>
+                            </div>
+                            
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+    </ul>
+</div>
+            </div>
+            <div class="col col-md-9" role="main">
+                
+
+<h1 id="store-pickup-user-guide-for-magento-2">STORE PICKUP - USER GUIDE FOR MAGENTO 2</h1>
+<p><strong>Version 1.2.0</strong></p>
+<hr />
+<h2 id="introduction">Introduction</h2>
+<p>According to ComScore, 61% of shoppers would rather use free in-store pickup than pay for shipping. Thus, 72% of retailers start allowing Customers to purchase online before coming to a store and receive purchased products. If there is a chain of stores available, undoubtedly Customers will choose the nearest one as well as an appropriate time to arrive. How can the store-owner make that happen? The answer is Magento 2 Store Pickup extension – the most professional Magento shipping extension, which allows setting up multiple Magento stores, showing addresses and opening time of each store for the Customers’ convenience.</p>
+<p><a href="https://www.magestore.com/store-locator-pickup">Magento Store Pickup</a> is one module in our <a href="https://www.magestore.com/omnichannel-retail">Omnichannel solution</a> for Magento retailers.
+<img alt="SP" src="../Store%20Pickup%20Image/image003.png" /></p>
+<h2 id="how-to-use">How to use</h2>
+<p>Many times customers want to visit your physical store to pick up products ordered so they can test the quality as well as save the shipping fee. Below, let us introduce you how customers exploit all the usefulness when your store is integrated with the <strong>Store Pickup</strong> module.</p>
+<h3 id="view-store-information">View Store Information</h3>
+<p>Store Pickup module creates a separated page to list all of your stores in the front-end. Customers can access this page by clicking on <strong>arrow button</strong> on Top-Link (the top right of the page)</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image004.png" /></p>
+<p>The Store Listing page includes 4 sections: <strong>Store list</strong>, <strong>Search form</strong>, <strong>Google Map</strong> and <strong>Tags list</strong>.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image005.png" /></p>
+<p>•   The list of all stores is shown on the bottom of Google Map. Customers can view store names and base images on this list. </p>
+<p>•   Store locations are displayed on Google Map. Customers can zoom in/ zoom out and choose view mode as map/ satellite as preferred. Customers can also view store address or get direction by clicking on the pin icon of any store.</p>
+<p>•   Switch the tab to search stores by distance or area.</p>
+<p>•   Besides, customers can also filter by tags. Customers just have to click on tags they want to search. Then, list of stores which admin add these tags to will be shown.</p>
+<p>When customers click on a store on the map, they can instantly view the store location along with its name, address, phone number and store manager’s email address. Customers can also get direction on this box.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image006.png" /></p>
+<p>For more details of a store, customers can click on its name link to be navigated to the detailed page.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image007.png" /></p>
+<p>As you can see, this page shows all details that customers want to know about a store before arriving, such as location, contact info, working time, description and store images. 
+They can also view list of special days &amp; holidays in <strong>Special day</strong> &amp; <strong>Holiday information</strong> tab. They can conveniently give comment to stores by filling in the Facebook comment box:</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image008.png" /></p>
+<h3 id="use-store-pickup-at-checkout">Use Store Pickup at Checkout</h3>
+<p>The main function of Store Pickup module is allowing customers to select a preferred store at checkout to arrive and pick up their ordered products. This section will show you how the module works for customers. </p>
+<p>•   In the <strong>Shipping method</strong> tab at checkout, customers can select <strong>Store Pickup</strong> as their shipping option. Then customers can select a store from the dropdown list: </p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image009.png" /></p>
+<p>or select on Google map as bellow:</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image010.png" /></p>
+<p>On the G-Map popup, customer needs to select a store on store list or search store that they want, after that click on the Apply button to apply or click on Close button to cancel.</p>
+<p>•   After selecting a store, customers need to choose a specific shipping date and time for arrival, and then check out as usual by clicking on the Continue button.</p>
+<p>If the shipping date is one of store’s holidays, customers won’t be able to choose that on the calendar. Thus, they can avoid arriving on the store’s days off. You can refer to section 3.2 to know how to set up these holidays.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image011.png" /></p>
+<p>•   In the <strong>Payment Information</strong> tab, applicable payment methods for <strong>In-store Pickup</strong> are shown as your configuration.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image012.png" /></p>
+<p>•   Before placing order, customers can also review the store address, shipping date and time along with other order information.</p>
+<h3 id="view-orders">View Orders</h3>
+<p>To view their orders with store pickup information, customers can go to <strong>My Account</strong> on Top-Link &gt; <strong>My Orders</strong> tab &gt; <strong>View Order</strong>.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image013.png" /></p>
+<p>To print orders, customers can click on <strong>Print Order</strong> on the top right. The following page will be shown:</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image014.png" /></p>
+<h2 id="how-to-configure">HOW TO CONFIGURE</h2>
+<p>You have seen how Store Pickup works in front-end for customers. The following part will guide you through how to configure and manage the module in back-end.<br/> 
+<strong><em>Tips</em>*: For quick instructions on where to set up each function and how to get Google Map API Key, you can go to the </strong>Stores &gt; Settings &gt; Configuration &gt; Magestore &gt; Store Pickup<strong>. Under </strong>Service API** section, click on the link for Google Map API Key Registration Guide</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image015.png" />
+<img alt="SP" src="../Store%20Pickup%20Image/image016.png" />
+<br/>
+<strong><em>New release</em>*:One of the most important Google Maps APIs Standard Plan updates implemented on June 22, 2016 was that </strong>required future product updates are only available for <a href="https://developers.google.com/maps/faq#using-google-maps-apis">requests made with an API key</a>**.</p>
+<p>This means active domains created before June 22, 2016, continue to be able to access the Google Maps JavaScript API, Static Maps API, and Street View Image API without an API key. They are not affected by keyless access being unavailable for new domains.</p>
+<p>However, Google Maps APIs Standard Plan advises all developers to use a key in order to guarantee their quality of service. Applications that continue to make keyless requests may experience some periodic service degradation if other keyless applications' usage spikes and draws down the global unchanged quota.</p>
+<p>In order to get the API key, follow the steps listed <strong><a href="https://docs.google.com/viewer?url=https://www.magestore.com/media/productfile/g/o/google_map_api_creation_instruction.pdf">here</a></strong>. </p>
+<h3 id="manage-stores">Manage Stores</h3>
+<p>In the back-end, go to <strong>Store Pickup</strong> &gt; <strong>Manage Stores</strong>. The <strong>Store Manager</strong> grid shows all stores created in your system with their address and status. To add new stores, you can add them manually and import from CSV files.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image017.png" /></p>
+<h4 id="add-store">Add Store</h4>
+<p>Click on the <strong>Add Store</strong> button on the top right corner of the <strong>Store Manager</strong> page. You will be navigated to the <strong>Add Store</strong> page, which includes 7 tabs: <strong>General Information, Google Map Location, Image Gallery, Store’s Schedule, Store’s Tag, Store’s Holiday, Store’s Special Days</strong><br/>
+- <strong>General Information</strong> tab: </p>
+<p>This tab has 3 sessions: <strong>General Information, Contact Information</strong> and <strong>Meta Information</strong>.<br/>
+    - Fill store’s name, status, store link, sort order and description in <strong>General Information</strong> session.</p>
+<p>Besides important information such as Store name, Description, Status, here are some extra fields you should use to optimize user experience:<br/>
+→ Store’s link: enter a link to the store’s official website or social channel such as Facebook fan page.<br/>
+→ Sort order: Sort the display order of store on the store listing page. The store with higher sort order will be shown first. This value will be used as the Default option of “List Store by” in Settings.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image018.png" /></p>
+<p><strong>Tips</strong>: You can input content for the <strong>Description field</strong> in HTML for better display in frontend, such as customized format, attached links, etc.<br/>
+    - In <strong>Contact Information</strong> session, it allows you to enter information of store’s manager such as email address, phone number, etc. so customers will know how to contact if needed. You can configure to enable automatic emails sent to the store manager when pickup orders’ status is changed.<br/>
+    - <strong>Meta Information</strong> session, you can fill in URL key, meta title, meta keywords, meta description for better SEO<br/>
+- <strong>Google Map Location</strong> tab: </p>
+<p>Fill your store’s address in this field or pin from the map, remember to click on the <strong>Save Store</strong> or <strong>Save And Continue Edit</strong> button to save your work. After that, store’s location will be updated automatically on Google Map.</p>
+<p>There are 4 fields in this tab including <strong>Zoom Level, Store Latitude, Longitude</strong> and <strong>Store Icon</strong>. <br/>
+    - <strong>Zoom Level</strong>: It is used when previewing the store’s location on Google Map in backend and on the Store Listing page in frontend. The higher number you set, the higher zoom-in level is.<br/>
+    - <strong>Store Latitude</strong> and <strong>Store Longitude</strong>: You do not need to fill them out if you do not remember your store’s coordinates. If you pin a store directly from G-map, these fields will be filled automatically.<br/>
+    - <strong>Store Icon</strong>: You can upload an icon to use as store’s marker on G-map instead of the default pin icon. </p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image019.png" /></p>
+<ul>
+<li><strong>Image Gallery</strong> Tab: </li>
+</ul>
+<p>Upload as many store images as you want. The base image will be shown in the store list. </p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image020.png" /></p>
+<ul>
+<li><strong>Store’s Schedule</strong> Tab: </li>
+</ul>
+<p>This tab allows you to choose a Schedule from a list to apply for this store. Let us take Monday for example:<br/>
+    - If your store opens on Monday, choose Yes for Open.<br/>
+    - If your store opens from 8 am to 10 pm, set Open Time as 8:00 and Close Time as 22:00.<br/>
+    - The module also allows you to set break time for each store if you want. <br/>
+Similarly, you can set opening hours for each remaining day of the week. To quickly set up, click on the Apply to other days button on the top right corner of the Monday section. Other days will have the same working time as Monday.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image021.png" /></p>
+<p>After entering all the necessary data, remember to click on the Save or Save and Continue Edit button to save your work.<br/>
+- <strong>Store’s Tags</strong> Tab: </p>
+<p>For easier search, you can tag each store in multiple categories. Choose tags for each in this tab by search for the tag and select suitable ones. Please note that one store can belongs to more than one tag.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image022.png" /></p>
+<ul>
+<li><strong>Store’s Holidays</strong> Tab: </li>
+</ul>
+<p>Select Holidays to be applied for this store by searching/filtering and select Holiday(s) that you set up before.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image023.png" /></p>
+<ul>
+<li><strong>Store’s Special Days</strong> Tab: 
+Select Special days to be applied for this store by searching/filtering and select Special day(s) that you set up before.</li>
+</ul>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image024.png" /></p>
+<h4 id="edit-store">Edit Store</h4>
+<p>To edit a specific store, go to <strong>Manage Store</strong> &gt; select <strong>Action (Edit)</strong>.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image025.png" /></p>
+<p><strong>Note</strong>: When a store is created manually, the system will automatically get the coordinates based on the store address by using Google API. However, in some cases, this way may be not completely accurate. Therefore, the <strong>Google Map Location</strong> tab allows you to edit store coordinates manually.</p>
+<p>You can see it at the left upper. Click on this tab, the Google map will be displayed. You can reset store position by clicking on specific point on the map, then select <strong>Save Store</strong>.</p>
+<p>By clicking <strong>Apply to Form</strong> before saving, the store coordinates &amp; the store address will be auto-updated regarding the address of the location you pinned on the map. You can also change the marker icon which presents the pinned location on the map.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image026.png" /></p>
+<h3 id="manage-tags">Manage Tags</h3>
+<p>Click on <strong>Store Pickup &gt; Manage Tags</strong> to access <strong>Tag Manager</strong>. This tab manages all tags that are used to filter stores. Click on the <strong>Add New Tag</strong> button to create new one.<br/>
+- <strong>General Information</strong></p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image027.png" /></p>
+<p>Choose a suitable Tag Name, write a description and upload Icon to make it pop out on store listing page.<br/>
+- <strong>Stores of Tag</strong></p>
+<p>Select stores from the list to be shown up when Customers clicking on “Coffee” tab. Then Save Tag.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image028.png" /></p>
+<h3 id="manage-holidays">Manage Holidays</h3>
+<p>To set days off for your stores, go to <strong>tore Pickup &gt; Manage Holidays</strong>. You will be navigated to the <strong>Holiday Manager</strong> page listing all holidays created. Click on <strong>Add Holiday</strong> button to create a new one.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image029.png" /></p>
+<p>On the <strong>General Information</strong> page:<br/>
+    - Set the Holiday Name<br/>
+    - Select the start date and end date of holiday<br/>
+    - Fill in the Comment field if needed<br/>
+Remember to click on the <strong>Save and continue edit</strong> button after entering required fields to save your work.
+On the <strong>Stores of Holiday</strong> page: tick all stores that you want this holiday to be applied, then Save Holiday</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image030.png" /></p>
+<h3 id="manage-special-days">Manage Special Days</h3>
+<p>To set days with special working time for your stores, go to <strong>Store Pickup</strong> &gt; <strong>Manage Special Days</strong>. You will be navigated to the <strong>Special Day Manager</strong> page listing all special days created. Click on the Add Special Day button to create a new one.  </p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image031.png" /></p>
+<p>On the <strong>Add Special Day</strong> page:<br/>
+•   Enter special day name.<br/>
+•   Select store(s) to apply special working days from the list<br/>
+•   Select the start date and end date of special days<br/>
+•   Set interval between shipping time options shown to customers at checkout, such as 15 minutes.<br/>
+•   Choose opening and closing time applied to these special days.<br/></p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image032.png" /></p>
+<p>Remember to click on the <strong>Save Item</strong> button to save your work.<br/>
+<strong>Note</strong>: Special days have the highest priority compared with holidays and other days. If a specific date is assigned as both store’s special day and holiday, it will be counted as special working day. The store still opens for pickup on that date but with special opening hours as you configured.</p>
+<p>On the <strong>Stores of Holiday</strong> page: tick all stores that you want this special day to be applied, then Save Special Day</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image033.png" /></p>
+<h3 id="manage-schedule">Manage Schedule</h3>
+<p>Set up all store’s schedules in <strong>Store Pickup &gt; Manage Schedule</strong> tab.
+You can see a number of schedule that had been created in this tab and quickly edit some, or create a new one by hitting the button <strong>Add New Schedule</strong>.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image034.png" /></p>
+<p>Quickly set up open/close time, break time of each day from Mon to Sun.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image035.png" /></p>
+<p>And to apply this schedule to various stores, navigate to <strong>Stores of Schedule</strong> to check all stores that you want to add.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image036.png" /></p>
+<h3 id="view-pickup-orders">View Pickup Orders</h3>
+<p><a name="p1"> </a> </p>
+<p>To view pickup orders in backend:<br/>
+•   Go to <strong>Sales &gt; Orders</strong> on the menu, choose the order in which the shipping name is the same as the pickup store’s name.<br/>
+•   In the <strong>Information tab</strong>, you can see the information about shipping address changed to the address of pickup store and attached with a map location.<br/>
+When there is an order using store pickup, notification email will be sent to store owner &amp; administrator.</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image037.png" /></p>
+<h3 id="settings">Settings</h3>
+<p>To configure settings of the Store Pickup module, go to <strong>Store Pickup &gt; Settings</strong></p>
+<p>The configuration is divided into 3 groups including <strong>General, Service API, Store Search</strong><br/>
+- <strong>General</strong>:</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image038.png" /></p>
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Field</th>
+<th>Sample</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Enable Store Pickup</td>
+<td>Yes</td>
+<td>Enable this module on your site</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Display top link</td>
+<td>Yes</td>
+<td>Show Store Pickup link on the top link in frontend or not</td>
+</tr>
+<tr>
+<td>3</td>
+<td>List stores by</td>
+<td>Default</td>
+<td>Stores are listed based on Sort Order of each store</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Distance</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Alphabetical order</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Page Title</td>
+<td>Store Pickup</td>
+<td>Store listing page and store detailed are displayed as Store Pickup</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Display holidays and special days in the next</td>
+<td>10</td>
+<td>All holidays and special days in the next 10 days of stores will be shown.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>List store page size</td>
+<td>10</td>
+<td>The maximum number of stores that will be shown in store listing page is 10</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Image gallery</td>
+<td>3</td>
+<td>Each store can be uploaded with maximum of 3 images in gallery</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Service API</strong>: </li>
+</ul>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image039.png" /><br/>
+    - To integrate Google API in your site, fill your Google Map API key into this field. You can get this key by following the guide link or going to Store Pickup → Guide on the menu in backend. <br/>
+    - Choose Yes to enable Facebook comment for your stores. To integrate Facebook social plugin in your site, you must enter Facebook API key into this field. To register this key, please follow the guide link.<br/>
+- <strong>Store Search</strong>:</p>
+<p><img alt="SP" src="../Store%20Pickup%20Image/image040.png" /></p>
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Field</th>
+<th>Sample</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Search criteria</td>
+<td>Country, Zip Code</td>
+<td>Customers can search for stores by area using Country and Zip Code criteria.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Default Radius for search</td>
+<td>100</td>
+<td>When searching for stores by distance, if Customers do not specify a radius, the system auto uses the default value and shows stores within the radius of 100 kilometers (or miles).</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Distance unit</td>
+<td>Kilometers</td>
+<td>The unit to measure radius is Kilometer.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="release-note">Release Note</h2>
+<h3 id="version-120-released-on-oct-9th-2017">Version 1.2.0 (released on Oct 9th, 2017)</h3>
+<p>Compatible with Magento 2.2</p>
+<h3 id="version-110-released-on-jul-24th-2017">Version 1.1.0 (released on Jul 24th, 2017)</h3>
+<p><a href="#p1">Send notification email to store owner &amp; administrator when there is an order using store pickup</a></p>
+<h3 id="version-100-released-on-feb-24th-2016">Version 1.0.0 (released on Feb 24th, 2016)</h3>
+<p>Release the stable version for Magento 2.0</p>
+<hr />
+<p><strong><em>Confidential Information Notice </em></strong></p>
+<p>Copyright 2017. All Rights Reserved. Any unauthorized reproduction of this document is prohibited. </p>
+<p>This document and the information it contains constitute a trade secret of Magestore and may not be reproduced or disclosed to non-authorized users without the prior written permission from Magestore. Permitted reproductions, in whole or in part, shall bear this notice.</p>
+                
+            </div>
+            </div></div>
+            
+                    
+    </div>
+
+    <footer id="footer">
+        <div class="container-fluid">
+            <div class="col-md-12 text-center">
+                <div class="footer-wrap">
+                    <div class="copyright-date">&copy; 2017 Magestore.com. All rights reserved. Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!--<script src="../../../js/jquery-1.10.2.min.js"></script>-->
+    <!--<script src="../../../js/bootstrap-3.0.3.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="../../../js/tags.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+    var base_url = '../../..';
+    </script>
+    <script data-main="../../../search/search.js" src="../../../search/require.js"></script>
+    <script src="../../../js/base.js"></script>
+    <script src="../../../js/extra.js"></script>
+    <script src="../../../search/require.js"></script>
+    <script src="../../../search/search.js"></script>
+
+    <!--<div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                </div>
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <p>
+                        From here you can search these documents. Enter your search terms below.
+                    </p>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        </div>
+                    </form>
+                    <div id="mkdocs-search-results"></div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>-->
+
+
+    <div class="search-backdrop"></div>
+
+        <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+    </body>
+
+</html>
